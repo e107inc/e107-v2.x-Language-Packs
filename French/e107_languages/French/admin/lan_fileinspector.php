@@ -1,0 +1,71 @@
+<?php
+
+// Bing-Translated Language file 
+// Generated for e107 v2.x by the Multi-Language Plugin
+// https://github.com/e107inc/multilan
+
+define("FC_LAN_1", "Inspecteur de fichier");
+define("FC_LAN_2", "Options d'analyse");
+define("FC_LAN_3", "Voir l'établissement");
+define("FC_LAN_4", "Tous les");
+define("FC_LAN_5", "Fichiers Core");
+define("FC_LAN_6", "En cas d'échec l'intégrité uniquement");
+define("FC_LAN_7", "Fichiers non essentiels");
+define("FC_LAN_8", "Vérifier l'intégrité des fichiers de base");
+define("FC_LAN_9", "Sur");
+define("FC_LAN_10", "Hors");
+define("FC_LAN_11", "Scannez maintenant");
+define("FC_LAN_12", "Aucun");
+define("FC_LAN_13", "Fichiers Core manquants");
+define("FC_LAN_14", "Affichage des résultats comme");
+define("FC_LAN_15", "Arborescence de répertoires");
+define("FC_LAN_16", "Liste");
+define("FC_LAN_17", "Correspondant de la chaîne");
+define("FC_LAN_18", "Expression régulière");
+define("FC_LAN_19", "Afficher les numéros de ligne");
+define("FC_LAN_20", "Afficher les lignes correspondants");
+define("FC_LAN_21", "Anciens fichiers Core");
+define("FC_LAN_22", "Mettez en surbrillance le texte correspondant");
+define("FR_LAN_1", "Balayage");
+define("FR_LAN_2", "Résultats d'analyse");
+define("FR_LAN_3", "Vue d'ensemble");
+define("FR_LAN_4", "Fichiers Core");
+define("FR_LAN_5", "Fichiers non essentiels");
+define("FR_LAN_6", "Total des fichiers");
+define("FR_LAN_7", "Vérification de l'intégrité");
+define("FR_LAN_8", "Fichiers de noyau passés");
+define("FR_LAN_9", "Fichiers de base n'a pas");
+define("FR_LAN_10", "Raisons possibles pour les fichiers à l'échec");
+define("FR_LAN_11", "Le fichier est corrompu");
+define("FR_LAN_12", "Cela pourrait être un certain nombre de raisons, telles que le fichier soit corrompu dans le zip, a été corrompu lors de l'extraction ou a été corrompu pendant le téléchargement de fichiers via FTP. Vous devriez essayer de re-télécharger le fichier sur votre serveur et re-lancez le scan pour voir si cela résout l'erreur.");
+define("FR_LAN_13", "Le fichier est obsolète");
+define("FR_LAN_14", "Si le fichier provient d'une ancienne version d'e107 à la version que vous utilisez ensuite il échouera la vérification d'intégrité. Assurez-vous que vous avez téléchargé la version la plus récente de ce fichier.");
+define("FR_LAN_15", "Le fichier a été modifié");
+define("FR_LAN_16", "Si vous avez modifié ce fichier en aucune façon il ne passera pas la vérification d'intégrité. Si vous avez intentionnellement modifié ce fichier puis vous inquiétez pas et ne pouvez ignorer cette intégrité cocher échec. Si toutefois, le fichier a été modifié par quelqu'un d'autre sans autorisation, vous pouvez re-télécharger la version appropriée de ce fichier à partir du zip d'e107.");
+define("FR_LAN_17", "Si vous êtes un utilisateur SVN");
+define("FR_LAN_18", "Si vous exécutez des extractions de l'e107 SVN sur votre site au lieu de l'officiel e107 stable libère, puis vous découvrirez les fichiers n'ont pas vérifier l'intégrité des parce qu'ils ont été édités par un dev après que le dernier core image instantané a été créé.");
+define("FR_LAN_19", "fichiers a échoué");
+define("FR_LAN_20", "Tous les fichiers passés");
+define("FR_LAN_21", "aucun");
+define("FR_LAN_22", "Fichiers de base manquant");
+define("FR_LAN_23", "Aucune correspondance trouvée.");
+define("FR_LAN_24", "Anciens fichiers core");
+define("FR_LAN_25", "Intégrité incalculable");
+define("FR_LAN_26", "Mise en garde ! Insécurité connue détectée !");
+define("FR_LAN_27", "Il y a des fichiers sur votre serveur qui sont connus pour être exploitable et doivent être enlevés immédiatement.");
+define("FR_LAN_28", "Fichiers non sécurisés connus");
+define("FR_LAN_29", "Total des fichiers mis en correspondance");
+define("FR_LAN_30", "Total des lignes correspondant");
+define("FR_LAN_31", "Dossier de plugin complet manquant");
+define("FS_LAN_1", "Créer la capture instantanée");
+define("FS_LAN_2", "Chemin d'accès absolu du répertoire racine pour créer l'image de");
+define("FS_LAN_3", "Créer la capture instantanée pour le plugin: (votre plugin apparaît lorsqu'un fichier accessible en écriture de e_inspect.php existant dans votre répertoire de plugins racine.)");
+define("FS_LAN_4", "Sélectionnez...");
+define("FS_LAN_5", "Créer instantané des fichiers actuels ou obsolètes");
+define("FS_LAN_6", "Courant");
+define("FS_LAN_7", "Déconseillée");
+define("FS_LAN_8", "Créer la capture instantanée");
+define("FS_LAN_9", "Capture instantanée");
+define("FS_LAN_10", "Capture instantanée créée");
+define("FS_LAN_11", "La capture instantanée a été créée avec succès.");
+define("FS_LAN_12", "Retour à Main Page");

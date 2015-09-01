@@ -1,0 +1,71 @@
+<?php
+
+// Bing-Translated Language file 
+// Generated for e107 v2.x by the Multi-Language Plugin
+// https://github.com/e107inc/multilan
+
+define("ADLAN_PM_1", "Pour activer s'il vous plaît aller à votre écran de menus et sélectionnez le private_msg dans une de vos zones de menu.<br><br>Si vous avez besoin de convertir les messages d'une version antérieure, s'il vous plaît aller à la page de configuration principaux pour ce plugin et cliquez sur le lien « convertir ».");
+define("ADLAN_PM_3", "Paramètres de PM introuvables, ensemble de valeurs par défaut");
+define("ADLAN_PM_4", "Options de mise à jour");
+define("ADLAN_PM_5", "Limite pour userclass sélectionné existe déjà");
+define("ADLAN_PM_6", "Limit ajouté avec succès");
+define("ADLAN_PM_7", "Limite ne pas ajouté/mise à jour - erreur inconnue");
+define("ADLAN_PM_8", "Mise à jour de statut de limite");
+define("ADLAN_PM_9", "-Limite supprimée avec succès");
+define("ADLAN_PM_10", "-Limite ne pas supprimé - erreur inconnue");
+define("ADLAN_PM_11", "-Limite mis à jour");
+define("ADLAN_PM_12", "Options de PM");
+define("ADLAN_PM_13", "Conversion de PM");
+define("ADLAN_PM_14", "Limites de PM");
+define("ADLAN_PM_15", "Ajout d'une limite de PM");
+define("ADLAN_PM_16", "Titre de plugin");
+define("ADLAN_PM_17", "Voir la nouvelle animation PM");
+define("ADLAN_PM_18", "Afficher la liste déroulante utilisateur");
+define("ADLAN_PM_19", "Délai d'attente de message lu (jours)");
+define("ADLAN_PM_20", "Délai d'attente de messages non lus (jours)");
+define("ADLAN_PM_21", "Notification de Popup sur nouveau PM");
+define("ADLAN_PM_22", "Temporisation de retard Popup");
+define("ADLAN_PM_23", "Restreindre l'utilisation de PM à");
+define("ADLAN_PM_24", "Nombre de mesures de prévention à afficher par page");
+define("ADLAN_PM_25", "Activer les notifications par courrier électronique PM");
+define("ADLAN_PM_26", "Permettre aux utilisateurs de demander des notifications par courrier électronique de confirmation de lecture");
+define("ADLAN_PM_27", "Autoriser la publication des pièces jointes");
+define("ADLAN_PM_28", "Taille maximale des pièces jointes");
+define("ADLAN_PM_29", "Permettent d'envoyer à tous les membres");
+define("ADLAN_PM_30", "Envoi à plusieurs destinataires");
+define("ADLAN_PM_31", "Userclass autorisés à envoyer à userclass");
+define("ADLAN_PM_33", "Inactif (sans limites)");
+define("ADLAN_PM_34", "Comtes de PM");
+define("ADLAN_PM_35", "Dimensions de la boite de PM");
+define("ADLAN_PM_36", "Userclass");
+define("ADLAN_PM_37", "Limites de comte");
+define("ADLAN_PM_38", "Limites de taille (en Ko)");
+define("ADLAN_PM_39", "Boîte de réception");
+define("ADLAN_PM_40", "Boîte d'envoi");
+define("ADLAN_PM_41", "Il n'y a actuellement aucune limites fixées.");
+define("ADLAN_PM_44", "secondes");
+define("ADLAN_PM_45", "Limite de PM par :");
+define("ADLAN_PM_54", "Paramètres principaux");
+define("ADLAN_PM_55", "Limites");
+define("ADLAN_PM_59", "Entretien");
+define("ADLAN_PM_60", "Entretien de PM");
+define("ADLAN_PM_62", "Ces options supprimer les opérations concernées avec les utilisateurs supprimés dans les tables de base de données de PM");
+define("ADLAN_PM_63", "Messages envoyés");
+define("ADLAN_PM_64", "Messages reçus");
+define("ADLAN_PM_65", "Blocs de l'utilisateur");
+define("ADLAN_PM_66", "Aucune tâche de maintenance spécifié");
+define("ADLAN_PM_67", "Entretien de PM DB a commencé");
+define("ADLAN_PM_68", "--COUNT--blocs à des utilisateurs supprimés supprimés");
+define("ADLAN_PM_69", "--COUNT--blocs d'utilisateurs supprimés supprimés");
+define("ADLAN_PM_70", "Erreur de la base de données--NUM--: blocs de--texte--suppression utilisateur");
+define("ADLAN_PM_71", "Messages expirés fois");
+define("ADLAN_PM_72", "Aucun ensemble de délais d'attente PM");
+define("ADLAN_PM_73", "--PMs expiration du temps COUNT--supprimés");
+define("ADLAN_PM_74", "Retiré--COUNT--messages envoyés par les utilisateurs supprimés");
+define("ADLAN_PM_75", "Supprimés--COUNT--messages reçus par les utilisateurs supprimés");
+define("ADLAN_PM_77", "(Vider tous les champs et mise à jour pour supprimer une limite)");
+define("ADLAN_PM_78", "Vérifier les pièces jointes");
+define("ADLAN_PM_79", "--ORPHELINS--inutilisés pièces jointes supprimées. --DISPARUS--accessoires manquants a noté");
+define("ADLAN_PM_80", "Formats de préférence mis à jour");
+define("ADLAN_PM_81", "Nombre maximal de PMs d'envoyer immédiatement");
+define("ADLAN_PM_82", "Si envoi plus que cela, ils sont ajoutés à queue et envoyés à l'aide de la tâche cron");
