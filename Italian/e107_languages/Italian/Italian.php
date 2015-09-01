@@ -4,7 +4,7 @@
 // Generated for e107 v2.x by the Multi-Language Plugin
 // https://github.com/e107inc/multilan
 
-setlocale(LC_ALL,  'it_IT.UTF-8', 'it_IT.utf8', 'itg_itg.utf8', 'it');
+setlocale(LC_ALL,  'it_IT.UTF-8', 'it_IT.utf8', 'it');
 define("CORE_LC", "it");
 define("CORE_LC2", "it");
 define("CORE_LAN1", "Errore: il tema è missing.\\n\\nChange i temi usati nel tuo preferenze (area admin) o caricare i file per il tema corrente al server.");

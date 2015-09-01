@@ -1,0 +1,71 @@
+<?php
+
+// Bing-Translated Language file 
+// Generated for e107 v2.x by the Multi-Language Plugin
+// https://github.com/e107inc/multilan
+
+define("ADLAN_PM_1", "Aktivere Vennligst gå til menyer skjermen og velg private_msg i en av menyen områdene.<br><br>Hvis du vil konvertere meldinger fra en tidligere versjon, vennligst gå til siden viktigste config for denne plugin og klikk 'Konverter'-koblingen.");
+define("ADLAN_PM_3", "PM innstillinger ikke blir funnet, standard verdier sett");
+define("ADLAN_PM_4", "Alternativer for oppdatert");
+define("ADLAN_PM_5", "Grensen for valgte userclass finnes allerede");
+define("ADLAN_PM_6", "Grense lagt");
+define("ADLAN_PM_7", "Grensen ikke legges/oppdatert - ukjent feil");
+define("ADLAN_PM_8", "Grense status oppdateres");
+define("ADLAN_PM_9", "-Limit fjernet");
+define("ADLAN_PM_10", "-Limit ikke fjernet - ukjent feil");
+define("ADLAN_PM_11", "-Limit oppdatert");
+define("ADLAN_PM_12", "PM alternativer");
+define("ADLAN_PM_13", "PM konvertering");
+define("ADLAN_PM_14", "PM grenser");
+define("ADLAN_PM_15", "Legge til PM grense");
+define("ADLAN_PM_16", "Plugin tittel");
+define("ADLAN_PM_17", "Vis ny PM animasjon");
+define("ADLAN_PM_18", "Vis bruker dropdown");
+define("ADLAN_PM_19", "Les melding tidsavbrudd (dager)");
+define("ADLAN_PM_20", "ULEST melding tidsavbrudd (dager)");
+define("ADLAN_PM_21", "Popup-melding på nye PM");
+define("ADLAN_PM_22", "Popup forsinkelse tidsavbrudd");
+define("ADLAN_PM_23", "Begrense PM bruk");
+define("ADLAN_PM_24", "Antall PMs vise per side");
+define("ADLAN_PM_25", "Aktiver PM beskjeder");
+define("ADLAN_PM_26", "Tillat brukeren å be om lesebekreftelse beskjeder");
+define("ADLAN_PM_27", "Tillate postering av vedlegg");
+define("ADLAN_PM_28", "Maksimal vedleggsstørrelse");
+define("ADLAN_PM_29", "Tillatt å sende til alle medlemmer");
+define("ADLAN_PM_30", "Tillat sending til flere mottakere");
+define("ADLAN_PM_31", "Brukerklasse kan sende til userclass");
+define("ADLAN_PM_33", "Inaktiv (ingen grenser)");
+define("ADLAN_PM_34", "PM teller");
+define("ADLAN_PM_35", "PM boksen størrelser");
+define("ADLAN_PM_36", "Brukerklasse");
+define("ADLAN_PM_37", "Antall rammer");
+define("ADLAN_PM_38", "Begrensninger for filstørrelse (i KB)");
+define("ADLAN_PM_39", "Innboksen");
+define("ADLAN_PM_40", "Utboksen");
+define("ADLAN_PM_41", "Det finnes ingen grenser sett.");
+define("ADLAN_PM_44", "sekunder");
+define("ADLAN_PM_45", "Grense PM av:");
+define("ADLAN_PM_54", "Hovedinnstillingene");
+define("ADLAN_PM_55", "Grenser");
+define("ADLAN_PM_59", "Vedlikehold");
+define("ADLAN_PM_60", "PM vedlikehold");
+define("ADLAN_PM_62", "Disse alternativene Fjern transaksjoner bekymret med Slettede brukere fra databasetabellene PM");
+define("ADLAN_PM_63", "Meldinger");
+define("ADLAN_PM_64", "Meldinger mottatt");
+define("ADLAN_PM_65", "Bruker blokker");
+define("ADLAN_PM_66", "Ingen vedlikeholdsoppgaver angitt");
+define("ADLAN_PM_67", "PM DB vedlikehold startet");
+define("ADLAN_PM_68", "-COUNT - blokker til Slettede brukere fjernet");
+define("ADLAN_PM_69", "-COUNT - kvartaler fra Slettede brukere fjernet");
+define("ADLAN_PM_70", "Database feil - NUM-: - tekst - fjerne brukeren blokker");
+define("ADLAN_PM_71", "Tid utløpt meldinger");
+define("ADLAN_PM_72", "Ingen PM tidsavbrudd sett");
+define("ADLAN_PM_73", "-COUNT - tid utløpt PMs slettet");
+define("ADLAN_PM_74", "Fjernet - COUNT - meldinger sendt av slettede brukere");
+define("ADLAN_PM_75", "Fjernet - COUNT - meldinger mottatt av slettede brukere");
+define("ADLAN_PM_77", "(Tom alle felt og oppdatere slette en grense)");
+define("ADLAN_PM_78", "Se vedlegg");
+define("ADLAN_PM_79", "--FORELDRELØSE--ubrukte vedlegg slettes. -MANGLENDE - mangler vedlegg bemerket");
+define("ADLAN_PM_80", "Preferanse formater oppdatert");
+define("ADLAN_PM_81", "Maksimalt antall PMs sende umiddelbart");
+define("ADLAN_PM_82", "Hvis sender mer enn dette, er de lagt til en kø, og sendt ut med cron oppgaven");
