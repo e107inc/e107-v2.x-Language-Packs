@@ -1,0 +1,71 @@
+<?php
+
+// Bing-Translated Language file 
+// Generated for e107 v2.x by the Multi-Language Plugin
+// https://github.com/e107inc/multilan
+
+define("ADLAN_PM_1", "Aktivujte prosím přejděte na obrazovku menu a vybrat private_msg do jedné z oblastí menu.<br><br>Pokud potřebujete převést zprávy z předchozí verze, prosím přejděte na stránku hlavní config pro tento plugin a vyberte 'convert' odkaz.");
+define("ADLAN_PM_3", "PM nastavení nebyl nalezen, nastavit výchozí hodnoty");
+define("ADLAN_PM_4", "Možnosti aktualizace");
+define("ADLAN_PM_5", "Limit pro vybrané userclass již existuje");
+define("ADLAN_PM_6", "Omezení byla úspěšně přidána.");
+define("ADLAN_PM_7", "Limit není přidáno/aktualizováno - neznámá chyba");
+define("ADLAN_PM_8", "Mezní stav byl aktualizován");
+define("ADLAN_PM_9", "-Limit úspěšně odebráno");
+define("ADLAN_PM_10", "-Limit nelze odstranit - došlo k neznámé chybě");
+define("ADLAN_PM_11", "-Limit byl úspěšně aktualizován");
+define("ADLAN_PM_12", "PM možnosti");
+define("ADLAN_PM_13", "PM konverze");
+define("ADLAN_PM_14", "PM limity");
+define("ADLAN_PM_15", "Přidat omezení PM");
+define("ADLAN_PM_16", "Název plugin");
+define("ADLAN_PM_17", "Zobrazit nové animace PM");
+define("ADLAN_PM_18", "Zobrazit rozevírací seznam uživatelů");
+define("ADLAN_PM_19", "Časový limit pro čtení zpráv (dny)");
+define("ADLAN_PM_20", "Časový NEPŘEČTENÁ zpráv (dny)");
+define("ADLAN_PM_21", "Místní oznámení o nových PM");
+define("ADLAN_PM_22", "Časový limit popup zpoždění");
+define("ADLAN_PM_23", "Omezit použití PM");
+define("ADLAN_PM_24", "Počet PMs zobrazíte na stránce");
+define("ADLAN_PM_25", "Povolit oznámení e-mailem PM");
+define("ADLAN_PM_26", "Povolit uživatelům zadat dotaz přečtení e-mailových oznámení");
+define("ADLAN_PM_27", "Povolit zaúčtování příloh");
+define("ADLAN_PM_28", "Maximální velikost přílohy");
+define("ADLAN_PM_29", "Povolit odesílání všem členům");
+define("ADLAN_PM_30", "Povolit odesílání více příjemcům");
+define("ADLAN_PM_31", "Userclass povoleno posílat userclass");
+define("ADLAN_PM_33", "Neaktivní (bez omezení)");
+define("ADLAN_PM_34", "Počty hodin");
+define("ADLAN_PM_35", "Velikosti pole PM");
+define("ADLAN_PM_36", "Userclass");
+define("ADLAN_PM_37", "Hrabě limity");
+define("ADLAN_PM_38", "Omezení velikosti souboru (v KB)");
+define("ADLAN_PM_39", "Doručená pošta");
+define("ADLAN_PM_40", "K odeslání");
+define("ADLAN_PM_41", "Momentálně zde nejsou stanoveny žádné limity.");
+define("ADLAN_PM_44", "sekundy");
+define("ADLAN_PM_45", "Mez PM:");
+define("ADLAN_PM_54", "Hlavní nastavení");
+define("ADLAN_PM_55", "Limity");
+define("ADLAN_PM_59", "Údržba");
+define("ADLAN_PM_60", "PM údržba");
+define("ADLAN_PM_62", "Tyto možnosti Odstranit transakce s odstraněné uživatelů z databázových tabulek PM");
+define("ADLAN_PM_63", "Zprávy odeslané");
+define("ADLAN_PM_64", "Přijaté zprávy");
+define("ADLAN_PM_65", "Uživatelské bloky");
+define("ADLAN_PM_66", "Žádné úkoly údržby zadané");
+define("ADLAN_PM_67", "PM DB údržba začala");
+define("ADLAN_PM_68", "– POČET – bloky odstraněné uživatelům odstranit");
+define("ADLAN_PM_69", "– POČET – bloky od odstraněné uživatelů odstraněny");
+define("ADLAN_PM_70", "Databáze chyba – NUM –: – TEXT – odstranění uživatelské bloky");
+define("ADLAN_PM_71", "Vypršel časový limit zprávy");
+define("ADLAN_PM_72", "Žádné časové limity PM sada");
+define("ADLAN_PM_73", "– POČET – vypršel časový limit PMs odstraněna");
+define("ADLAN_PM_74", "Odstranit – hrabě – zprávy odeslané odstraněné uživatelů");
+define("ADLAN_PM_75", "Odstranit – hrabě – přijaté zprávy odstraněné uživatelů");
+define("ADLAN_PM_77", "(Prázdné pole a aktualizaci odstranit omezení)");
+define("ADLAN_PM_78", "Kontrola příloh");
+define("ADLAN_PM_79", "– SIROTCI – nepoužité přílohy odstraněn. – CHYBĚJÍCÍ – chybějící přílohy uvedeno");
+define("ADLAN_PM_80", "Preference formátů aktualizován");
+define("ADLAN_PM_81", "Maximální počet PMs vyslat okamžitě");
+define("ADLAN_PM_82", "Pokud odesílání víc, jsou přidány do fronty a vyslal pomocí úloh cron");
