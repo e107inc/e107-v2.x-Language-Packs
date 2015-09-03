@@ -1,0 +1,71 @@
+<?php
+
+// Bing-Translated Language file 
+// Generated for e107 v2.x by the Multi-Language Plugin
+// https://github.com/e107inc/multilan
+
+define("RSS_LAN05", "Número de itens (0 = inativo)");
+define("RSS_MENU_L1", "pode ser distribuído usando estes feeds rss.");
+define("RSS_MENU_L2", "RSS Feeds");
+define("RSS_MENU_L3", "Nossas notícias");
+define("RSS_MENU_L4", "Nossos comentários");
+define("RSS_MENU_L5", "Nossos tópicos do fórum");
+define("RSS_MENU_L6", "Nossos posts do fórum");
+define("RSS_MENU_L7", "Nossos posts chatbox");
+define("RSS_MENU_L8", "Nossos relatórios bugtracker");
+define("RSS_MENU_L9", "Nossos downloads");
+define("RSS_NEWS", "Notícias");
+define("RSS_COM", "Comentários");
+define("RSS_ART", "Artigos");
+define("RSS_REV", "Comentários");
+define("RSS_FT", "Tópicos do fórum");
+define("RSS_FP", "Posts do fórum");
+define("RSS_FSP", "Post no fórum específico");
+define("RSS_BUG", "Bugtracker");
+define("RSS_FOR", "Fórum");
+define("RSS_DL", "Downloads");
+define("RSS_PLUGIN_LAN_6", "Links feed");
+define("RSS_PLUGIN_LAN_7", "O feed rss de notícias");
+define("RSS_PLUGIN_LAN_8", "O feed rss dos downloads");
+define("RSS_PLUGIN_LAN_9", "O feed rss dos comentários");
+define("RSS_PLUGIN_LAN_10", "Do rss feed de notícias Categoria:");
+define("RSS_PLUGIN_LAN_11", "O feed rss da categoria de download:");
+define("RSS_LAN_ADMINMENU_1", "Opções de RSS");
+define("RSS_LAN_ADMINMENU_2", "Listagem");
+define("RSS_LAN_ADMINMENU_4", "Importação");
+define("RSS_LAN_ERROR_1", "Isto não é um válido rss feed<br><br><a href=''.e_SELF.''>< return='' to='' rss='' feed=''></a>");
+define("RSS_LAN_ERROR_2", "Seu arquivo e107_config.php ou seus arquivos de linguagem contenham espaços ou ï» ¿personagens antes o <? personagens. Você deve remover isso com um editor de texto não-utf8, se você deseja ter um feed de RSS válido.");
+define("RSS_LAN_ERROR_3", "Sem feeds rss estão presentes ainda<br>por favor, use o recurso de importação para importar feeds rss disponíveis ou criar um rss feed manualmente.");
+define("RSS_LAN_ERROR_4", "Ainda não há feeds rss estão disponíveis");
+define("RSS_LAN_ERROR_5", "Não existe esta entrada rss");
+define("RSS_LAN_ERROR_6", "Não há nenhum rss feeds para importar");
+define("RSS_LAN_ERROR_7", "Alguns necessários campos estão faltando.");
+define("RSS_LAN_ADMIN_1", "Feeds RSS existentes");
+define("RSS_LAN_ADMIN_2", "Identificação");
+define("RSS_LAN_ADMIN_3", "Caminho");
+define("RSS_LAN_ADMIN_5", "URL");
+define("RSS_LAN_ADMIN_6", "Texto");
+define("RSS_LAN_ADMIN_7", "Limite");
+define("RSS_LAN_ADMIN_8", "Visibilidade");
+define("RSS_LAN_ADMIN_10", "feed RSS criar entrada");
+define("RSS_LAN_ADMIN_11", "feed RSS feeds de importação");
+define("RSS_LAN_ADMIN_12", "Id do tópico");
+define("RSS_LAN_ADMIN_13", "Incluir itens de outras notícias no Feed de notícias?");
+define("RSS_LAN_ADMIN_14", "Enable");
+define("RSS_LAN_ADMIN_15", "Carrapato links para marcá-los para importação...");
+define("RSS_LAN_ADMIN_16", "importação?");
+define("RSS_LAN_ADMIN_17", "importar ligações assinaladas");
+define("RSS_LAN_ADMIN_18", "RSS feed (s) importados.");
+define("RSS_LAN_ADMIN_19", "Usar o resumo de notícias como descrição no Feed de notícias?");
+define("RSS_LAN_ADMIN_21", "ativa e visível na lista de feeds rss");
+define("RSS_LAN_ADMIN_22", "ativo e não visíveis na lista de feeds rss");
+define("RSS_LAN_ADMIN_23", "inativo");
+define("RSS_LAN_ADMIN_26", "Verificar todos os");
+define("RSS_LAN_ADMIN_27", "Desmarcar tudo");
+define("RSS_LAN_ADMIN_28", "Nada mudou - não salvo");
+define("RSS_LAN_ADMIN_31", "limites de entradas RSS atualizado");
+define("RSS_LAN_ADMIN_32", "");
+define("RSS_LAN_ADMIN_33", "Mostrar imagem no Feed de notícias?");
+define("RSS_LAN_0", "RSS");
+define("RSS_LAN_2", "@nospam.com");
+define("RSS_LAN_3", "noauthor@NOSPAM.com");
