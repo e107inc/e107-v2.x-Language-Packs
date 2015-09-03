@@ -1,0 +1,71 @@
+<?php
+
+// Bing-Translated Language file 
+// Generated for e107 v2.x by the Multi-Language Plugin
+// https://github.com/e107inc/multilan
+
+define("ADLAN_PM_1", "Aktiválásához kérjük megy a menü képernyőn, és válassza ki a private_msg, az egyik a menü területen.<br><br>Ha kell konvertálni üzenetek egy korábbi verziójáról, legyen szíves megy ez a plugin a fő config oldalt, és válassza a 'Konvertálás' linkre.");
+define("ADLAN_PM_3", "PM beállítása nem található alapértelmezett értékeinek beállítása");
+define("ADLAN_PM_4", "Beállítások frissítése");
+define("ADLAN_PM_5", "Korlátozása a kijelölt userclass már létezik");
+define("ADLAN_PM_6", "Limit sikeresen hozzßadva");
+define("ADLAN_PM_7", "Limit nem hozzá/frissítése - ismeretlen hiba");
+define("ADLAN_PM_8", "Limit állapotának frissítése");
+define("ADLAN_PM_9", "-Limit sikeresen eltávolította");
+define("ADLAN_PM_10", "-Limit nem távolítja - ismeretlen hiba");
+define("ADLAN_PM_11", "-Limit sikeresen frissítve");
+define("ADLAN_PM_12", "PM-beállítások");
+define("ADLAN_PM_13", "PM-átalakítás");
+define("ADLAN_PM_14", "PM korlátok");
+define("ADLAN_PM_15", "Add hozzá a miniszterelnök korlátoz");
+define("ADLAN_PM_16", "Cím Dugó");
+define("ADLAN_PM_17", "Új PM animáció megjelenítése");
+define("ADLAN_PM_18", "Felhasználó legördülő megjelenítése");
+define("ADLAN_PM_19", "Üzenet időkorlátja (nap)");
+define("ADLAN_PM_20", "OLVASATLAN üzenetet időkorlátja (nap)");
+define("ADLAN_PM_21", "Előugró értesítést új PM");
+define("ADLAN_PM_22", "Felbukkanó késedelem időtúllépés");
+define("ADLAN_PM_23", "PM használat korlátozása");
+define("ADLAN_PM_24", "PMs megjelenítése oldalanként száma");
+define("ADLAN_PM_25", "Engedélyezi a PM-mail értesítést");
+define("ADLAN_PM_26", "Lehetővé teszi a felhasználó kérésére a visszaigazolási e-mailben értesítést");
+define("ADLAN_PM_27", "A mellékletek közzététel engedélyezése");
+define("ADLAN_PM_28", "Legfelső határ egybefűzés méret");
+define("ADLAN_PM_29", "Küldeni minden tagnak");
+define("ADLAN_PM_30", "Lehetővé teszi, hogy a több címzettnek küldött");
+define("ADLAN_PM_31", "Felhasználóiosztály userclass küldhetnek");
+define("ADLAN_PM_33", "Inaktív (határok nélkül)");
+define("ADLAN_PM_34", "PM számít");
+define("ADLAN_PM_35", "PM tokméret");
+define("ADLAN_PM_36", "FelhasználóiOsztály");
+define("ADLAN_PM_37", "Count határértékek");
+define("ADLAN_PM_38", "Méretkorlát (KB)");
+define("ADLAN_PM_39", "Beérkezett üzenetek");
+define("ADLAN_PM_40", "Kimenõ");
+define("ADLAN_PM_41", "Jelenleg nincs meghatározott korlátozásokat.");
+define("ADLAN_PM_44", "másodperc");
+define("ADLAN_PM_45", "Korlát PM By:");
+define("ADLAN_PM_54", "Fő beállítások");
+define("ADLAN_PM_55", "Határértékek");
+define("ADLAN_PM_59", "Karbantartás");
+define("ADLAN_PM_60", "PM-karbantartás");
+define("ADLAN_PM_62", "Ezek a beállítások a törölt felhasználó az érintett ügyletek eltávolítása a PM adatbázis táblák");
+define("ADLAN_PM_63", "Küldött üzenetek");
+define("ADLAN_PM_64", "A Beérkezett üzenetek");
+define("ADLAN_PM_65", "Felhasználó blokkolja");
+define("ADLAN_PM_66", "Nincs meghatározott karbantartási feladatok");
+define("ADLAN_PM_67", "PM DB karbantartási kezdett");
+define("ADLAN_PM_68", "--COUNT--törölt felhasználó eltávolítani blokkok");
+define("ADLAN_PM_69", "--COUNT--törölt felhasználó eltávolítani blokkok");
+define("ADLAN_PM_70", "Adatbázis hiba--NUM--:----eltávolítása felhasználói szövegblokkok");
+define("ADLAN_PM_71", "Határidő lejárt üzenetek");
+define("ADLAN_PM_72", "Nincs PM időtúllépések beállítása");
+define("ADLAN_PM_73", "--COUNT--ideje lejárt PMs törölve");
+define("ADLAN_PM_74", "Távoli--COUNT--üzeneteket a törölt felhasználó");
+define("ADLAN_PM_75", "El--COUNT - törölt felhasználótól érkezett üzenetek");
+define("ADLAN_PM_77", "(Üres a mezők és a korszerűsíteni-hoz töröl a határ)");
+define("ADLAN_PM_78", "Ellenőrizze a mellékletek");
+define("ADLAN_PM_79", "--ÁRVÁK--nem használt mellékleteket el kell hagyni. --HIÁNYZIK--hiányzó egybefűzés megjegyezte");
+define("ADLAN_PM_80", "Frissített preferencia-formátumok");
+define("ADLAN_PM_81", "PMs azonnali maximális száma");
+define("ADLAN_PM_82", "Ha küld több, mint ez, ezek hozzáadni egy várólista és küldött ki a cron feladat segítségével");
