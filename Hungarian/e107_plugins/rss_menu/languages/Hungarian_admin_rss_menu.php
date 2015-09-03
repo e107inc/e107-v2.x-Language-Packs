@@ -1,0 +1,71 @@
+<?php
+
+// Bing-Translated Language file 
+// Generated for e107 v2.x by the Multi-Language Plugin
+// https://github.com/e107inc/multilan
+
+define("RSS_LAN05", "Tételek száma (0 = inaktív)");
+define("RSS_MENU_L1", "Ezek az rss hírcsatornák segítségével a tárhelytartalom szindikálásának.");
+define("RSS_MENU_L2", "RSS-hírcsatornák");
+define("RSS_MENU_L3", "Híreink");
+define("RSS_MENU_L4", "A hozzászólások");
+define("RSS_MENU_L5", "A fórum témák");
+define("RSS_MENU_L6", "A fórum hozzászólás");
+define("RSS_MENU_L7", "Chatbox-álláshely");
+define("RSS_MENU_L8", "Mi bugtracker jelentések");
+define("RSS_MENU_L9", "A letöltések");
+define("RSS_NEWS", "Hírek");
+define("RSS_COM", "Megjegyzések");
+define("RSS_ART", "Cikkek");
+define("RSS_REV", "Vélemények");
+define("RSS_FT", "Fórum témák");
+define("RSS_FP", "Fórum hozzászólás");
+define("RSS_FSP", "Adott hozzászólásra");
+define("RSS_BUG", "Hibakövetőben");
+define("RSS_FOR", "Fórum");
+define("RSS_DL", "Letöltések");
+define("RSS_PLUGIN_LAN_6", "Takarmány linkek");
+define("RSS_PLUGIN_LAN_7", "A híreket rss-hírcsatorna");
+define("RSS_PLUGIN_LAN_8", "Az rss feed a letöltés");
+define("RSS_PLUGIN_LAN_9", "Az rss feed, a megjegyzések");
+define("RSS_PLUGIN_LAN_10", "Az rss feed a hírek kategória:");
+define("RSS_PLUGIN_LAN_11", "Az rss feed a letöltés Kategória:");
+define("RSS_LAN_ADMINMENU_1", "RSS-beállítások");
+define("RSS_LAN_ADMINMENU_2", "Tőzsdei");
+define("RSS_LAN_ADMINMENU_4", "Import");
+define("RSS_LAN_ERROR_1", "Ez nem egy érvényes rss-hírcsatorna<br><br><a href=''.e_SELF.''>< return='' to='' rss='' feed=''></a>");
+define("RSS_LAN_ERROR_2", "A e107_config.php fájl, vagy a nyelv fájlokat tartalmazhat szóközöket, valamint ï» ¿karakter, mielőtt a <? karakterek. Önnek kellene eltávolít ez egy nem-utf8 szövegszerkesztővel ha Ön kívánság-hoz volna egy érvényes RSS-hírcsatorna.");
+define("RSS_LAN_ERROR_3", "Nem rss-hírcsatornák jelen még<br>az import funkció segítségével elérhető rss-hírcsatornák importálása, vagy hozzon létre egy rss feed kézi.");
+define("RSS_LAN_ERROR_4", "Nincs rss feedek még rendelkezésre álló");
+define("RSS_LAN_ERROR_5", "Ez rss belépés nem létezik.");
+define("RSS_LAN_ERROR_6", "Vannak nem rss-hírcsatornák importálása");
+define("RSS_LAN_ERROR_7", "Egyes mezők hiányoznak szükséges.");
+define("RSS_LAN_ADMIN_1", "Meglévő RSS-hírcsatornák");
+define("RSS_LAN_ADMIN_2", "ID");
+define("RSS_LAN_ADMIN_3", "Elérési út");
+define("RSS_LAN_ADMIN_5", "URL-cím");
+define("RSS_LAN_ADMIN_6", "Szöveg");
+define("RSS_LAN_ADMIN_7", "Határérték");
+define("RSS_LAN_ADMIN_8", "Láthatóság");
+define("RSS_LAN_ADMIN_10", "RSS-hírcsatorna bejegyzés létrehozása");
+define("RSS_LAN_ADMIN_11", "RSS feed hírcsatornák importálása");
+define("RSS_LAN_ADMIN_12", "Témakör-azonosító");
+define("RSS_LAN_ADMIN_13", "Egyéb-hírek-elemek felvétele a News Feed?");
+define("RSS_LAN_ADMIN_14", "Engedélyezi a");
+define("RSS_LAN_ADMIN_15", "Kullancs linkeket való importáláshoz...");
+define("RSS_LAN_ADMIN_16", "importálni?");
+define("RSS_LAN_ADMIN_17", "óra kapcsolatok importálása");
+define("RSS_LAN_ADMIN_18", "RSS feed(a) importált.");
+define("RSS_LAN_ADMIN_19", "Hírek összefoglaló leírása a News Feed használni?");
+define("RSS_LAN_ADMIN_21", "aktív és jól látható módon rss feed listája");
+define("RSS_LAN_ADMIN_22", "aktív és nem látható, az rss feed-lista");
+define("RSS_LAN_ADMIN_23", "inaktív");
+define("RSS_LAN_ADMIN_26", "Ellenőrizze az összes");
+define("RSS_LAN_ADMIN_27", "Törölje az összes");
+define("RSS_LAN_ADMIN_28", "Semmi sem változott - nem mentett");
+define("RSS_LAN_ADMIN_31", "RSS bejegyzések korlátok frissítve");
+define("RSS_LAN_ADMIN_32", "");
+define("RSS_LAN_ADMIN_33", "Kép megjelenítése a hírcsatorna?");
+define("RSS_LAN_0", "RSS");
+define("RSS_LAN_2", "@nospam.com");
+define("RSS_LAN_3", "noauthor@NOSPAM.com");
