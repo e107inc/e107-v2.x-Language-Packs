@@ -1,0 +1,71 @@
+<?php
+
+// Bing-Translated Language file 
+// Generated for e107 v2.x by the Multi-Language Plugin
+// https://github.com/e107inc/multilan
+
+define("FC_LAN_1", "Fişier Inspector");
+define("FC_LAN_2", "Opţiuni de scanare");
+define("FC_LAN_3", "Arată");
+define("FC_LAN_4", "Toate");
+define("FC_LAN_5", "Fişierele principale");
+define("FC_LAN_6", "Integritatea Fail numai");
+define("FC_LAN_7", "Fişiere non Core");
+define("FC_LAN_8", "Verificaţi integritatea fişierelor de bază");
+define("FC_LAN_9", "Pe");
+define("FC_LAN_10", "De pe");
+define("FC_LAN_11", "Scanare acum");
+define("FC_LAN_12", "Nici unul");
+define("FC_LAN_13", "Fişiere lipsă de bază");
+define("FC_LAN_14", "Afişează rezultatele ca");
+define("FC_LAN_15", "Director copac");
+define("FC_LAN_16", "Lista");
+define("FC_LAN_17", "Şir de potrivire");
+define("FC_LAN_18", "Expresie regulată");
+define("FC_LAN_19", "Arată numerele de linie");
+define("FC_LAN_20", "Afișare linii de potrivire");
+define("FC_LAN_21", "Fişierele de bază vechi");
+define("FC_LAN_22", "Evidenţiaţi textul de potrivire");
+define("FR_LAN_1", "Scanare");
+define("FR_LAN_2", "Scanare rezultate");
+define("FR_LAN_3", "Privire de ansamblu");
+define("FR_LAN_4", "Fişierele principale");
+define("FR_LAN_5", "Fişierele principale non");
+define("FR_LAN_6", "Totală fișiere");
+define("FR_LAN_7", "Verifica integritatea");
+define("FR_LAN_8", "Fişierele principale a trecut");
+define("FR_LAN_9", "Fişierele principale nu a reușit");
+define("FR_LAN_10", "Motive posibile pentru fişiere pentru a nu");
+define("FR_LAN_11", "Fişierul este corupt");
+define("FR_LAN_12", "Acest lucru ar putea fi pentru o serie de motive cum ar fi fişier fiind corupt în zip, am corupt în timpul extracţiei sau am corupt în timpul de încărcare fişier prin FTP. Ar trebui să încercaţi să re-încărcarea fişierul pe server-ul şi re-rula de scanare pentru a vedea dacă aceasta rezolvă eroarea.");
+define("FR_LAN_13", "Fişierul este de data");
+define("FR_LAN_14", "Dacă fişierul este de la o versiune mai veche a e107 la versiunea se execută apoi aceasta va eşua integrity a verifica. Asiguraţi-vă că aţi încărcat cea mai noua versiune a acestui fişier.");
+define("FR_LAN_15", "Fişierul a fost modificat");
+define("FR_LAN_16", "Dacă aţi editat acest fişier în orice mod nu va trece verifica integritatea. Dacă în mod intenţionat editat acest dosar apoi atunci tu nevoie nu vă faceţi griji şi poate ignora această integritate verifica eşua. Dacă totuşi fişierul a fost editat de către altcineva fără autorizație poate doriţi să re-încărcaţi versiunea corectă a acestui fișier la e107 zip.");
+define("FR_LAN_17", "Dacă sunteţi un utilizator de SVN");
+define("FR_LAN_18", "Dacă executaţi caselor de marcat de e107 comunicate de SVN pe site-ul dvs., în loc de e107 oficială stabilă, atunci veţi descoperi fişierele au eşuat integrity a verifica, deoarece acestea au fost editat de un dev după ultima bază imagine instantaneu a fost creat.");
+define("FR_LAN_19", "dosar nu a reușit");
+define("FR_LAN_20", "Toate fişierele trecut");
+define("FR_LAN_21", "nici unul");
+define("FR_LAN_22", "Fişiere lipsă de bază");
+define("FR_LAN_23", "Nicio potrivire găsite.");
+define("FR_LAN_24", "Fişierele de bază vechi");
+define("FR_LAN_25", "Integritatea incalculabil");
+define("FR_LAN_26", "Avertisment! Insecuritate cunoscut, detectat!");
+define("FR_LAN_27", "Sunt fişiere de pe server, care sunt cunoscute a fi exploatat şi trebuie îndepărtate imediat.");
+define("FR_LAN_28", "Cunoscute de fişiere nesigure");
+define("FR_LAN_29", "Totalul fişiere potrivite");
+define("FR_LAN_30", "Totalul liniilor potrivite");
+define("FR_LAN_31", "Lipsă completă dop pliant");
+define("FS_LAN_1", "Creaţi instantaneu");
+define("FS_LAN_2", "Calea absolută de directorul rădăcină pentru a crea imagini de la");
+define("FS_LAN_3", "Crea punctuale pentru plug-in: (plug-in-ul va fi listat atunci când există o scriere e_inspect.php fişierul în directorul rădăcină plugin-uri.)");
+define("FS_LAN_4", "Selectaţi...");
+define("FS_LAN_5", "Creaţi instantaneu de fişiere curent sau dezaprobate");
+define("FS_LAN_6", "Curent");
+define("FS_LAN_7", "Învechit");
+define("FS_LAN_8", "Creaţi instantaneu");
+define("FS_LAN_9", "Instantaneu");
+define("FS_LAN_10", "Instantaneu creat");
+define("FS_LAN_11", "Instantaneu a fost creat cu succes.");
+define("FS_LAN_12", "A reveni la pagina principală pagina");
