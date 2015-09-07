@@ -1,0 +1,8 @@
+<!-- for Classes $Id: Klassen 209 2015-09-07 tgtje $ -->
+Q>	Wat zijn Ledenklassen? Wat kun je er mee doen?
+A>	Met ledenklassen kun je de toegang tot bepaalde delen van je site afschermen. Als je eerst een klasse definieert en vervolgens leden lid maakt van zo'n klasse, kun je bijvoorbeeld de zichtbaarheid van verschillende functies beperken tot die klasse.
+Er is bij installatie al een standaardklasse PRIVATEFORUM aanwezig. Je kunt leden aan die klasse toevoegen, waarna je een forum voor die klasse kunt aanmaken. Daarna kunnen alleen de gebruikers binnen die klasse dat forum gebruiken. Je kunt verschillende andere gebieden en functies op deze wijze afschermen, bijvoorbeeld nieuwsberichten, links, downloads enz.
+A>	In v2.x, kun je een klaase hiëriarchie instellen, waardoor gebruikers in een bepaalde klasse ook de rechten hebben van de 'ouder'klasse. Wil je dit niet, stel dan de klasse in op 'iedereen'.
+Q>	Ik wil nieuwe gebruikers laten starten met een lidmaatschap van een bepaalde klasse.
+A>	Door gebruikmaking van het 'Gebruikersklasse' menu kun je de startklasse instellen. Je kunt ook aangeven of dit lidmaatschap direct geldt bij aanmelding, of wordt toegevoegd wanneer lidmaatschap is geverifieërd.
+
