@@ -5,4 +5,4 @@
 // https://github.com/e107inc/multilan
 
 define("LAN_PLUGIN_GALLERY_TITLE", "Galéria");
-define("LAN_PLUGIN_GALLERY_DIZ", "Egyszerű Képgaléria");
+define("LAN_PLUGIN_GALLERY_DIZ", "Egyszerű képgaléria kezelő plugin");
