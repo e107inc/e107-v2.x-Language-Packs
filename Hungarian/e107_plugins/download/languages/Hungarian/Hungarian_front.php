@@ -5,43 +5,52 @@
 // https://github.com/e107inc/multilan
 
 define("LAN_dl_1", "(Korlátozott)");
-define("LAN_dl_4", "Fájlok:");
-define("LAN_dl_5", "Fájlok teljes mérete:");
-define("LAN_dl_6", "Letöltött fájlokat:");
-define("LAN_dl_8", "Kap");
+define("LAN_dl_4", "Fájlok elérhetőek: ");
+define("LAN_dl_5", "Fájlok teljes mérete: ");
+define("LAN_dl_6", "Fájlok letöltve: ");
+define("LAN_dl_8", "Megszerez");
 define("LAN_dl_9", "Vissza a kategória listához");
 define("LAN_dl_13", "Nem értékelt");
-define("LAN_dl_14", "Ez a letöltés arány");
-define("LAN_dl_16", "Letöltés/összesen:");
-define("LAN_dl_29", "DL barátait");
-define("LAN_dl_30", "E-mail-cím");
-define("LAN_dl_31", "Szerző honlapján");
-define("LAN_dl_36", "Új letöltések");
-define("LAN_dl_40", "Kattintson ide a screenshot");
+define("LAN_dl_14", "Értékeld ezt a letöltést");
+define("LAN_dl_16", "letöltés(ek) tőle: ");
+define("LAN_dl_29", "DL");
+define("LAN_dl_30", "Szerző e-mail címe");
+define("LAN_dl_31", "Szerző weboldala");
+define("LAN_dl_36", "Legújabb letöltések");
+
+define("LAN_dl_40", "Képernyőkép megtekintése");
+
 define("LAN_dl_43", "szavazás");
-define("LAN_dl_44", "szavazat");
-define("LAN_dl_45", "Jelentés törött letölt");
-define("LAN_dl_46", "Kattintson ide a letöltéshez");
-define("LAN_dl_47", "Nem számoltak be a post");
-define("LAN_dl_48", "Letöltés rendszergazda számoltak.<br>köszönöm.");
-define("LAN_dl_49", "Kattints ide-hoz visszatér-hoz letölt");
-define("LAN_dl_50", "Jelentett törött letölt");
-define("LAN_dl_51", "Jelentés letölthető:");
-define("LAN_dl_53", "Ide kattintva megtekintheti a letöltés");
-define("LAN_dl_54", "Fel kell hívni a rendszergazda ezt a letöltés, kérjük hagyjon üzenetet, ha úgy érzi, hogy szükséges.");
-define("LAN_dl_55", "Használja ezt az űrlapot a kapcsolatot az admin, más okból.");
-define("LAN_dl_57", "által jelentett");
-define("LAN_dl_58", "A következő letölthető számoltak, törött webhelyről");
-define("LAN_dl_59", "Által jelentett:");
-define("LAN_dl_60", "Törött letölt jelentése");
-define("LAN_dl_62", "Ha megakadályozták, a letöltő ez reszelő; túllépte a letöltési kvótát");
-define("LAN_dl_63", "Nem volna a kijavít engedély-hoz letölt ez reszelő.");
-define("LAN_dl_66", "Kiválaszt letölt tükör");
-define("LAN_dl_67", "Válassza ki a tükör...");
-define("LAN_dl_68", "Tükör fogadó");
-define("LAN_dl_72", "Megkereső fájl:");
-define("LAN_dl_73", "Letölti ezt a tükröt:");
-define("LAN_dl_74", "Ez a tükör teljes letöltések:");
+define("LAN_dl_44", "szavazatok");
+define("LAN_dl_45", "Hibás letöltés jelentése");
+define("LAN_dl_46", "Kattints ide a letöltéshez");
+
+define("LAN_dl_47", "Letöltés jelentve lett");
+define("LAN_dl_48", "Letöltés jelentve lett az adminisztrátornak.<br>Köszönjük.");
+define("LAN_dl_49", "Kattints ide hogy visszatérj a letöltésekhez");
+define("LAN_dl_50", "Hibás letöltés jelentve lett");
+define("LAN_dl_51", "Letöltés jelentése: ");
+define("LAN_dl_53", "Letöltés megtekintése");
+define("LAN_dl_54", "Egy adminisztrátor értesítve lesz erről a letöltésről, kérlek hagyj egy üzenetet ha szükséges.");
+define("LAN_dl_55", "Csak a letöltéssel kapcsolatos célokra használd ezt az űrlapot.");
+define("LAN_dl_57", "jelentette");
+define("LAN_dl_58", "A következő letöltés jelentve lett, mint hibás letöltés");
+define("LAN_dl_59", "Jelentette: ");
+define("LAN_dl_60", "Hibás letöltés jelentése innen: ");
+
+define("LAN_dl_62", "A weboldal megakadályozta a fájl letöltését; elérted a letöltési kvótát");
+define("LAN_dl_63", "Nincs megfelelő jogosultságod a fájl letöltéséhez.");
+
+define("LAN_dl_66", "Tükör-kiszolgáló választása");
+
+define("LAN_dl_67", "Válassza ki egy tükör-kiszolgálót...");
+define("LAN_dl_68", "Tükör-kiszolgáló hoszt");
+
+define("LAN_dl_72", "Letöltendő fájl:");
+define("LAN_dl_73", "Letöltés erről a tükör-kiszolgálóról: ");
+define("LAN_dl_74", "Összes letöltés erről a tükör-kiszolgálóról: ");
+
 define("LAN_dl_75", "nincs elérhető kép");
 define("LAN_dl_77", "Letöltések");
-define("LAN_dl_78", "Amit letölt le van tiltva, vagy megszűnt. Kérjük, ellenőrizze területén [Letöltések] egy újabb keletű változat.");
+
+define("LAN_dl_78", "Ez a letöltés nem elérhető többé, vagy inaktív. Kérlek ellenőrizd az [admin oldalon].");
