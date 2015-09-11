@@ -4,92 +4,119 @@
 // Generated for e107 v2.x by the Multi-Language Plugin
 // https://github.com/e107inc/multilan
 
-define("LIST_PLUGIN_3", "Állítsa be a főmenübe");
-define("LIST_PLUGIN_4", "A List_new dugó most kész lenni használt.");
-define("LIST_PLUGIN_6", "Ez a plugin telepítése nem történik meg.");
-define("LIST_ADMIN_1", "Legutóbbi");
+define("LIST_PLUGIN_3", "Főmenü beállítása");
+define("LIST_PLUGIN_4", "A List_new plugin használatra kész.");
+
+define("LIST_PLUGIN_6", "Ez a plugin még nem lett telepítve.");
+
+define("LIST_ADMIN_1", "legutóbbi");
 define("LIST_ADMIN_2", "beállítások frissítése");
-define("LIST_ADMIN_3", "beállítások frissítése");
+define("LIST_ADMIN_3", "beállítások frissítve");
 define("LIST_ADMIN_4", "szakasz");
 define("LIST_ADMIN_5", "menü");
 define("LIST_ADMIN_6", "oldal");
 define("LIST_ADMIN_7", "engedélyezve");
-define("LIST_ADMIN_8", "le van tiltva");
-define("LIST_ADMIN_9", "Nyissa meg");
-define("LIST_ADMIN_10", "zárt");
+define("LIST_ADMIN_8", "kikapcsolva");
+define("LIST_ADMIN_9", "nyitva");
+define("LIST_ADMIN_10", "zárva");
 define("LIST_ADMIN_11", "frissítés");
-define("LIST_ADMIN_12", "Válassza a");
-define("LIST_ADMIN_13", "Üdvözöljük a legújabb lapja '. SITENAME.'! Ezen a lapon láthatók a leggyakrabban használt szakaszok ezen az oldalon egy listát a legutóbbi kiegészítéseit ezeket.");
-define("LIST_ADMIN_14", "Legutóbbi hozzáadások");
-define("LIST_ADMIN_15", "új, utolsó látogatása óta");
-define("LIST_ADMIN_16", "Üdvözöljük az új oldal a '. SITENAME.'! Ezen az oldalon azt mutatja, a leg--bb mindennapi szakaszok ezen az oldalon, egy listát a feltöltések ezeket az utolsó óta látogasson el.");
-define("LIST_ADMIN_17", "Semmi sem változott - nem frissül");
-define("LIST_ADMIN_SECT_1", "szakaszok");
-define("LIST_ADMIN_SECT_2", "Válassza ki, melyik megjelenítéséhez szakaszokat");
+define("LIST_ADMIN_12", "válassz");
+define("LIST_ADMIN_13", "Köszöntelek a ".SITENAME." újdonságai oldalán! Ezen az oldalon láthatod az oldalra feltöltött, általános részekhez tartozó legújabb híreket, hozzászólásokat, letöltéseket, chatbox üzeneteket ...stb. !");
+define("LIST_ADMIN_14", "Újdonságok");
+define("LIST_ADMIN_15", "Az utolsó látogatásod óta történt változások");
+define("LIST_ADMIN_16", "Köszöntelek a ".SITENAME." újdonságai oldalán! Ezen az oldalon láthatod az oldalra feltöltött, általános részekhez tartozó legújabb híreket, hozzászólásokat, letöltéseket, chatbox üzeneteket ...stb. !");
+define("LIST_ADMIN_17", "Semmi sem változott - nem frissült");
+
+define("LIST_ADMIN_SECT_1", "Terület");
+define("LIST_ADMIN_SECT_2", "válaszd ki, melyik terület jelenjen meg");
 define("LIST_ADMIN_SECT_3", "");
-define("LIST_ADMIN_SECT_4", "megjelenítési stílus");
-define("LIST_ADMIN_SECT_5", "Válassza ki, milyen szakaszok nyílnak meg az alapértelmezett");
+
+define("LIST_ADMIN_SECT_4", "Megjelenítési stílus");
+define("LIST_ADMIN_SECT_5", "Válaszd ki, melyik terület legyen nyitva alapértelmezésben");
 define("LIST_ADMIN_SECT_6", "");
+
 define("LIST_ADMIN_SECT_7", "Szerző");
-define("LIST_ADMIN_SECT_8", "Válassza ki, ha a szerző jelenjen meg");
+define("LIST_ADMIN_SECT_8", "Válaszd ki, hol jelenjen meg a szerző");
 define("LIST_ADMIN_SECT_9", "");
+
 define("LIST_ADMIN_SECT_10", "Kategória");
-define("LIST_ADMIN_SECT_11", "Válassza ki, ha a kategória megjelenik");
+define("LIST_ADMIN_SECT_11", "Válaszd ki, hol jelenjen meg a kategória");
 define("LIST_ADMIN_SECT_12", "");
-define("LIST_ADMIN_SECT_13", "dátum");
-define("LIST_ADMIN_SECT_14", "Válassza ki, ha a dátum jeleníthető meg kell");
+
+define("LIST_ADMIN_SECT_13", "Dátum");
+define("LIST_ADMIN_SECT_14", "Válaszd ki, hol jelenjen meg a dátum");
 define("LIST_ADMIN_SECT_15", "");
-define("LIST_ADMIN_SECT_16", "elemek összege");
-define("LIST_ADMIN_SECT_17", "Válassza ki, hogy hány elem jelenjen meg az egyes");
+
+define("LIST_ADMIN_SECT_16", "Újdonságok mennyisége");
+define("LIST_ADMIN_SECT_17", "Válaszd ki, hány újdonság jelenjen meg az adott területen");
 define("LIST_ADMIN_SECT_18", "");
-define("LIST_ADMIN_SECT_19", "cikkek");
-define("LIST_ADMIN_SECT_20", "Válasszon szakaszt kell megjelenési sorrendjét");
+
+define("LIST_ADMIN_SECT_19", "Sorrend");
+define("LIST_ADMIN_SECT_20", "Válaszd ki a területek sorrendjét");
 define("LIST_ADMIN_SECT_21", "");
-define("LIST_ADMIN_SECT_22", "ikon");
-define("LIST_ADMIN_SECT_23", "Válassz ki egy ikont az egyes");
+
+define("LIST_ADMIN_SECT_22", "Ikon");
+define("LIST_ADMIN_SECT_23", "Válassz ikont a területekhez");
 define("LIST_ADMIN_SECT_24", "");
-define("LIST_ADMIN_SECT_25", "felirat");
-define("LIST_ADMIN_SECT_26", "határozza meg minden egyes rész felirat");
+
+define("LIST_ADMIN_SECT_25", "Cím, fejléc");
+define("LIST_ADMIN_SECT_26", "Határozd meg a területek címét");
 define("LIST_ADMIN_SECT_27", "");
-define("LIST_ADMIN_OPT_1", "általános");
-define("LIST_ADMIN_OPT_2", "legújabb oldal");
-define("LIST_ADMIN_OPT_3", "Legutóbbi menü");
-define("LIST_ADMIN_OPT_4", "új oldal");
-define("LIST_ADMIN_OPT_5", "új menü");
-define("LIST_ADMIN_OPT_6", "beállítások");
-define("LIST_ADMIN_MENU_2", "ikon: alapértelmezett");
-define("LIST_ADMIN_MENU_3", "használja az alapértelmezett téma golyó, ha nincs ikon jelen, vagy ha ikon: használata le van tiltva");
-define("LIST_ADMIN_LAN_2", "felirat");
-define("LIST_ADMIN_LAN_3", "meghatározza a felirat");
-define("LIST_ADMIN_LAN_5", "ikon: használja");
-define("LIST_ADMIN_LAN_6", "használja az egyes");
-define("LIST_ADMIN_LAN_8", "karakterek");
-define("LIST_ADMIN_LAN_9", "Válassza ki, hogy hány karakter a cím megjelenik");
-define("LIST_ADMIN_LAN_10", "hagyja üresen, ha a teljes cím megjelenítése");
-define("LIST_ADMIN_LAN_11", "Postfix");
-define("LIST_ADMIN_LAN_12", "Válassza ki a postfix, ha a címsor nagyobb, akkor az adott mennyiségű karakterek");
-define("LIST_ADMIN_LAN_13", "hagyja üresen, ha nincs postfix Térkép");
-define("LIST_ADMIN_LAN_14", "dátum");
-define("LIST_ADMIN_LAN_15", "Válassza ki a dátum stílus");
-define("LIST_ADMIN_LAN_16", "További tudnivalók a dátum-és időformátumok: az <a href='http://www.php.net/manual/en/function.strftime.php' rel='external'>strftime függvény oldal php.net</a>");
-define("LIST_ADMIN_LAN_17", "mai dátum");
-define("LIST_ADMIN_LAN_18", "Válasszon egy dátum stílust, ha a dátum ma");
-define("LIST_ADMIN_LAN_19", "További tudnivalók a dátum-és időformátumok: az <a href='http://www.php.net/manual/en/function.strftime.php' rel='external'>strftime függvény oldal php.net</a>");
-define("LIST_ADMIN_LAN_20", "oszlopok");
-define("LIST_ADMIN_LAN_21", "Válassza ki az oszlopok");
-define("LIST_ADMIN_LAN_22", "határozza meg, hogy hány oszlopot szeretne használni. a megadott érték az oldal szétválasztható oszlopok azonos mennyiségű");
-define("LIST_ADMIN_LAN_23", "üdvözlő szöveget");
-define("LIST_ADMIN_LAN_24", "meghatározza egy üdvözlő szöveget, így a lap tetejére");
-define("LIST_ADMIN_LAN_26", "üres Térkép");
-define("LIST_ADMIN_LAN_27", "Ha egy üzenet van szüksége, ha szakaszok már nincs eredmény meghatározása");
+
+define("LIST_ADMIN_OPT_1", "Általános");
+define("LIST_ADMIN_OPT_2", "Újdonság oldal");
+define("LIST_ADMIN_OPT_3", "Újdonság menü");
+define("LIST_ADMIN_OPT_4", "Új oldal");
+define("LIST_ADMIN_OPT_5", "Új menü");
+define("LIST_ADMIN_OPT_6", "Beállítások");
+
+define("LIST_ADMIN_MENU_2", "ikon: Alapértelmezett");
+define("LIST_ADMIN_MENU_3", "alapértelmezett theme bullet használata, ha nincs ikon kiválasztva vagy ikon használata le van tiltva");
+
+define("LIST_ADMIN_LAN_2", "Cím, fejléc");
+define("LIST_ADMIN_LAN_3", "adj meg egy címet");
+
+define("LIST_ADMIN_LAN_5", "ikon : Felhasznált");
+define("LIST_ADMIN_LAN_6", "egy ikon használata bármelyik részből");
+
+define("LIST_ADMIN_LAN_8", "Karakterek");
+define("LIST_ADMIN_LAN_9", "határozd meg a címben megjelenítendő karakterek számát");
+define("LIST_ADMIN_LAN_10", "hagyd üresen a teljes cím megjelenítéséhez");
+
+define("LIST_ADMIN_LAN_11", "postfix");
+define("LIST_ADMIN_LAN_12", "válassz egy postfix-et, ha a cím hosszabb a megadott karakterszámnál");
+define("LIST_ADMIN_LAN_13", "hagyd üresen, ha ne legyen postfix");
+
+define("LIST_ADMIN_LAN_14", "Dátum");
+define("LIST_ADMIN_LAN_15", "válassz dátum stílust");
+define("LIST_ADMIN_LAN_16", "A dátumformátumokról további információkat kaphatsz a <a href='http://www.php.net/manual/en/function.strftime.php' rel='external'>php.net strftime funkció oldalán</a>");
+
+define("LIST_ADMIN_LAN_17", "Mai idő");
+define("LIST_ADMIN_LAN_18", "válassz egy idő stílust a mai naphoz");
+define("LIST_ADMIN_LAN_19", "A dátumformátumokról további információkat kaphatsz a <a href='http://www.php.net/manual/en/function.strftime.php' rel='external'>php.net strftime funkció oldalán</a>");
+
+define("LIST_ADMIN_LAN_20", "Oszlopok");
+define("LIST_ADMIN_LAN_21", "válassz egy oszlop mennyiséget");
+define("LIST_ADMIN_LAN_22", "Határozd meg a használni kívánt oszlopok számát. Az oldalon az oszlopok egyenlő arányban fognak elkülönülni");
+
+define("LIST_ADMIN_LAN_23", "Üdvözlő Üzenet");
+define("LIST_ADMIN_LAN_24", "egy üdvözlő üzenet meghatározása, amely megjelenik az oldal tetején");
+
+define("LIST_ADMIN_LAN_26", "Üres megjelenítése");
+define("LIST_ADMIN_LAN_27", "határozd meg, megjelenjen-e, ha nincs újdonság a területen ");
 define("LIST_ADMIN_LAN_28", "");
-define("LIST_ADMIN_LAN_29", "ikon: alapértelmezett");
-define("LIST_ADMIN_LAN_30", "használja az alapértelmezett téma golyó, ha nincs ikon jelen, vagy ha ikon: használata le van tiltva");
-define("LIST_ADMIN_LAN_32", "TimeLapse:Days");
-define("LIST_ADMIN_LAN_33", "napon a felhasználók legfeljebb tekinthet vissza");
+
+define("LIST_ADMIN_LAN_29", "ikon : Alapértelmezett");
+define("LIST_ADMIN_LAN_30", "alapértelmezett theme bullet használata, ha nincs ikon kiválasztva vagy ikon: használat letiltva");
+
+define("LIST_ADMIN_LAN_32", "Eltelt idő: napok");
+define("LIST_ADMIN_LAN_33", "a visszatekintés maximális napja");
 define("LIST_ADMIN_LAN_35", "nap");
-define("LIST_ADMIN_LAN_36", "TimeLapse");
-define("LIST_ADMIN_LAN_37", "szeretné megjeleníteni egy legördülő lista, és nézz vissza napok száma?");
-define("LIST_ADMIN_LAN_39", "Ha léteznek rekordok");
-define("LIST_ADMIN_LAN_40", "kell rekordokat tartalmazó szakaszok alapértelmezés szerint megnyitni?");
-define("LAN_AL_LISTNEW_01", "Lista új beállítások frissítve");
+
+define("LIST_ADMIN_LAN_36", "Eltelt idő");
+define("LIST_ADMIN_LAN_37", "Megjelenítsen egy kiválasztódobozt az előző napok számával?");
+
+define("LIST_ADMIN_LAN_39", "megnyitás, ha a rekord létezik");
+define("LIST_ADMIN_LAN_40", "a rekordok tartalma megnyíljon alapértelmezésben?");
+
+define("LAN_AL_LISTNEW_01", "Újdonság lista beállításai frissítve");
