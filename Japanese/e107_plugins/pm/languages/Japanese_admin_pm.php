@@ -1,0 +1,71 @@
+<?php
+
+// Bing-Translated Language file 
+// Generated for e107 v2.x by the Multi-Language Plugin
+// https://github.com/e107inc/multilan
+
+define("ADLAN_PM_1", "ください、メニュー画面に移動をアクティブにし、メニュー領域の 1 つに、private_msg を選択します。<br><br>メッセージを以前のバージョンから変換する場合は、このプラグインのメイン設定ページにアクセスしてくださいと '変換' のリンクを選択します。");
+define("ADLAN_PM_3", "午後の設定が見つかりません、既定値のセット");
+define("ADLAN_PM_4", "オプションを更新しました");
+define("ADLAN_PM_5", "選択されたユーザー クラスの制限が既に存在します。");
+define("ADLAN_PM_6", "正常に追加の制限");
+define("ADLAN_PM_7", "制限なく追加/更新 - 不明なエラー");
+define("ADLAN_PM_8", "限界状況を更新しました");
+define("ADLAN_PM_9", "-正常に削除の制限");
+define("ADLAN_PM_10", "-制限のない削除 - 不明なエラー");
+define("ADLAN_PM_11", "ミットは正常に更新");
+define("ADLAN_PM_12", "午後のオプション");
+define("ADLAN_PM_13", "PM 変換");
+define("ADLAN_PM_14", "午後の制限");
+define("ADLAN_PM_15", "午後制限を追加します。");
+define("ADLAN_PM_16", "プラグイン タイトル");
+define("ADLAN_PM_17", "新しい PM のアニメーションを表示します。");
+define("ADLAN_PM_18", "ユーザーのドロップダウンを表示します。");
+define("ADLAN_PM_19", "開封済みのメッセージのタイムアウト (日)");
+define("ADLAN_PM_20", "未読のメッセージのタイムアウト時間 (日)");
+define("ADLAN_PM_21", "新しい PM のポップアップ通知");
+define("ADLAN_PM_22", "ポップアップ遅延のタイムアウト");
+define("ADLAN_PM_23", "午後に使用を制限します。");
+define("ADLAN_PM_24", "1 ページあたり表示する PMs の数");
+define("ADLAN_PM_25", "午後メール通知を有効にします。");
+define("ADLAN_PM_26", "メールの開封通知を要求するユーザーを許可します。");
+define("ADLAN_PM_27", "添付ファイルの投稿を許可します。");
+define("ADLAN_PM_28", "添付ファイルの最大サイズ");
+define("ADLAN_PM_29", "すべてのメンバーに送信することを許可します。");
+define("ADLAN_PM_30", "複数の受信者に送信を許可します。");
+define("ADLAN_PM_31", "Userclass userclass へ送信を許可");
+define("ADLAN_PM_33", "非アクティブ (制限なし)");
+define("ADLAN_PM_34", "午後カウント");
+define("ADLAN_PM_35", "PM ボックスのサイズ");
+define("ADLAN_PM_36", "Userclass");
+define("ADLAN_PM_37", "行数の制限");
+define("ADLAN_PM_38", "(KB) のサイズの制限");
+define("ADLAN_PM_39", "受信トレイ");
+define("ADLAN_PM_40", "[送信トレイ] します。");
+define("ADLAN_PM_41", "現在、制限設定されていません。");
+define("ADLAN_PM_44", "秒");
+define("ADLAN_PM_45", "制限時:");
+define("ADLAN_PM_54", "主な設定");
+define("ADLAN_PM_55", "制限");
+define("ADLAN_PM_59", "メンテナンス");
+define("ADLAN_PM_60", "PM メンテナンス");
+define("ADLAN_PM_62", "これらのオプションは、午後のデータベース テーブルから削除されたユーザーとの取引関係を削除します。");
+define("ADLAN_PM_63", "送信されたメッセージ");
+define("ADLAN_PM_64", "受信したメッセージ");
+define("ADLAN_PM_65", "ユーザーのブロック");
+define("ADLAN_PM_66", "指定されたメンテナンス タスクはありません。");
+define("ADLAN_PM_67", "開始 PM DB メンテナンス");
+define("ADLAN_PM_68", "-数 - 削除削除したユーザがブロック");
+define("ADLAN_PM_69", "-数 - 削除削除されたユーザーからブロック");
+define("ADLAN_PM_70", "データベース エラー - NUM-:-- テキスト - 削除ユーザー ブロック");
+define("ADLAN_PM_71", "期限切れのメッセージ");
+define("ADLAN_PM_72", "午後のタイムアウトが設定されていません。");
+define("ADLAN_PM_73", "-数-期限切れ PMs 削除");
+define("ADLAN_PM_74", "削除されたユーザーによって送信された削除 - 数-メッセージ");
+define("ADLAN_PM_75", "削除されたユーザーが受信した削除 - 数-メッセージ");
+define("ADLAN_PM_77", "(空のすべてのフィールドと制限を削除するのに更新)");
+define("ADLAN_PM_78", "添付ファイルをチェックします。");
+define("ADLAN_PM_79", "-孤児 - 未使用の添付ファイルを削除します。-行方不明-不足している添付ファイルに注意");
+define("ADLAN_PM_80", "好みのフォーマット更新");
+define("ADLAN_PM_81", "すぐに送信する PMs の最大数");
+define("ADLAN_PM_82", "かどうか、これ以上の送信キューに追加、cron タスクを使用して送信");
