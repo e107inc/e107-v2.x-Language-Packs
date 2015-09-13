@@ -5,4 +5,4 @@
 // https://github.com/e107inc/multilan
 
 define("LAN_PLUGIN_TRACKBACK_NAME", "Trackback");
-define("LAN_PLUGIN_TRACKBACK_DESCRIPTION", "Ez a plugin lehetővé teszi, hogy a hír hozzászólás trackback.");
+define("LAN_PLUGIN_TRACKBACK_DESCRIPTION", "Ez a plugin engedélyezi a trackback használatát a hír üzenetekben.");

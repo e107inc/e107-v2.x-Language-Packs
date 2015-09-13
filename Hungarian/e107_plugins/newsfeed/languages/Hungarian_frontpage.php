@@ -5,4 +5,4 @@
 // https://github.com/e107inc/multilan
 
 define("NWSF_FP_1", "Hírforrások");
-define("NWSF_FP_2", "fő oldal");
+define("NWSF_FP_2", "Főoldal");

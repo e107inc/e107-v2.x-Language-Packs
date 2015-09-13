@@ -5,6 +5,6 @@
 // https://github.com/e107inc/multilan
 
 define("LAN_PLUGIN_RSS_NAME", "RSS");
-define("LAN_PLUGIN_RSS_DESCRIPTION", "RSS eszik-ból-a telek.");
+define("LAN_PLUGIN_RSS_DESCRIPTION", "RSS hírforrások");
 define("LAN_PLUGIN_RSS_SUBSCRIBE", "Feliratkozás");
-define("LAN_PLUGIN_RSS_SUBSCRIBE_TO", "Feliratkozás a [x]");
+define("LAN_PLUGIN_RSS_SUBSCRIBE_TO", "Feliratkozás erre: [x]");
