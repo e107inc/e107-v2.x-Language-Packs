@@ -4,10 +4,10 @@
 // Generated for e107 v2.x by the Multi-Language Plugin
 // https://github.com/e107inc/multilan
 
-define("CLOCK_MENU_L1", "Óra menü Beállítások mentése");
+define("CLOCK_MENU_L1", "Óra menü beállítása sikerült");
 define("CLOCK_MENU_L2", "Felirat");
 define("CLOCK_MENU_L3", "Menü-beállítások frissítése");
-define("CLOCK_MENU_L4", "Óra menü Config");
+define("CLOCK_MENU_L4", "Óra menü beállítása");
 define("CLOCK_MENU_L5", "Hétfő,");
 define("CLOCK_MENU_L6", "Kedd,");
 define("CLOCK_MENU_L7", "Szerda,");

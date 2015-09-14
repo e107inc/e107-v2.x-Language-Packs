@@ -6,8 +6,8 @@
 
 define("FBLAN_08", "Üzenet szövege");
 define("FBLAN_12", "Mód");
-define("FBLAN_13", "Véletlenszerűen forog üzenetek");
-define("FBLAN_14", "Ez az üzenet csak Térkép");
-define("FBLAN_22", "Render típusa");
-define("FBLAN_23", "A téma doboz");
+define("FBLAN_13", "Üzenetek véletlenszerű forgatása");
+define("FBLAN_14", "Mutasd csak ezt az üzenetet");
+define("FBLAN_22", "Renderelés típusa");
+define("FBLAN_23", "Dobozban");
 define("FBLAN_24", "Egyszerű");

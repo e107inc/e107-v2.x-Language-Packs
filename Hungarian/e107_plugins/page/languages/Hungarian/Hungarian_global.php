@@ -4,4 +4,4 @@
 // Generated for e107 v2.x by the Multi-Language Plugin
 // https://github.com/e107inc/multilan
 
-define("LAN_PLUGIN_PAGE_BOCHAP", "Keresés a könyv és a fejezet");
+define("LAN_PLUGIN_PAGE_BOCHAP", "Keresés a könyvlapok/fejezetek között");
