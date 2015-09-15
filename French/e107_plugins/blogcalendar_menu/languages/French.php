@@ -6,7 +6,7 @@
 
 define("BLOGCAL_L1", "Nouvelles par mois");
 define("BLOGCAL_L2", "Archives");
-define("BLOGCAL_1", "Actualités du");
+define("BLOGCAL_1", "Articles du");
 define("BLOGCAL_CONF1", "Mois/ligne");
 define("BLOGCAL_CONF2", "CellPadding");
 define("BLOGCAL_CONF4", "BlogCal Menu Configuration");
