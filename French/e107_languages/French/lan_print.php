@@ -7,7 +7,7 @@
 define("LAN_PRINT_86", "Catégorie :");
 define("LAN_PRINT_87", "par");
 define("LAN_PRINT_94", "Posté par");
-define("LAN_PRINT_135", "Actualité :");
+define("LAN_PRINT_135", "Article :");
 define("LAN_PRINT_303", "Cet article est de");
 define("LAN_PRINT_305", "Sous-position :");
 define("LAN_PRINT_306", "Il s'agit de :");

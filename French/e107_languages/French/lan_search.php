@@ -69,7 +69,7 @@ define("LAN_SEARCH_51", "Toutes les catégories");
 define("LAN_SEARCH_52", "Correspondre à");
 define("LAN_SEARCH_53", "Tout élément");
 define("LAN_SEARCH_54", "Titre uniquement");
-define("LAN_SEARCH_55", "Rechercher dans la catégorie Actualités");
+define("LAN_SEARCH_55", "Rechercher dans la catégorie Articles");
 define("LAN_SEARCH_56", "Toutes les catégories de nouvelles");
 define("LAN_SEARCH_57", "Commentaires postés à");
 define("LAN_SEARCH_58", "Tous les domaines");
