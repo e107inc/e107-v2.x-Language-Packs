@@ -53,9 +53,11 @@ define("COMLAN_334", "Nem hagyja jóvá a komment");
 define("COMLAN_335", "Jóváhagyott");
 define("COMLAN_336", "Kérem írjon valamit először.");
 define("COMLAN_337", "Sikeresen frissítve.");
+
 define("COMLAN_400", "jóváhagyott");
 define("COMLAN_401", "blokkolt");
 define("COMLAN_402", "függőben lévő");
+
 define("COMLAN_TYPE_1", "Hírek");
 define("COMLAN_TYPE_2", "Letöltés");
 define("COMLAN_TYPE_3", "gyakran feltett kérdések");
