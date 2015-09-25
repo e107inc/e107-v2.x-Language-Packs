@@ -4,7 +4,7 @@
 // Generated for e107 v2.x by the Multi-Language Plugin
 // https://github.com/e107inc/multilan
 
-define("TD_MENU_L1", "Autres Actualités");
-define("TD_MENU_L2", "Autres Actualités");
-define("LAN_NEWSCAT_MENU_TITLE", "Nouvelles catégories");
-define("LAN_NEWSLATEST_MENU_TITLE", "Dernières nouvelles");
+define("TD_MENU_L1", "Autres articles");
+define("TD_MENU_L2", "Autres articles");
+define("LAN_NEWSCAT_MENU_TITLE", "Catégories d'articles");
+define("LAN_NEWSLATEST_MENU_TITLE", "Derniers articles");

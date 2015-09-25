@@ -5,6 +5,6 @@
 // https://github.com/e107inc/multilan
 
 define("LAN_AL_GSMAP_01", "Importer des liens de site");
-define("LAN_AL_GSMAP_02", "Plan du site lien supprimé");
-define("LAN_AL_GSMAP_03", "Plan du site lien ajouté");
-define("LAN_AL_GSMAP_04", "Plan du site lien mis à jour");
+define("LAN_AL_GSMAP_02", "Lien du plan de site supprimé");
+define("LAN_AL_GSMAP_03", "Lien du plan de site ajouté");
+define("LAN_AL_GSMAP_04", "Lien du plan de site mis à jour");

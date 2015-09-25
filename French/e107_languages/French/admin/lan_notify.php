@@ -5,21 +5,21 @@
 // https://github.com/e107inc/multilan
 
 define("NT_LAN_1", "Notifier");
-define("NT_LAN_2", "Recevoir des avis par courriel sur");
+define("NT_LAN_2", "Recevoir un email d'alerte en cas de");
 define("NU_LAN_1", "Événements utilisateur");
-define("NU_LAN_2", "Inscription de l'utilisateur");
-define("NU_LAN_3", "Vérification des comptes utilisateur");
-define("NU_LAN_4", "Connexion de l'utilisateur");
-define("NU_LAN_5", "Déconnexion de l'utilisateur");
+define("NU_LAN_2", "Inscription d'un utilisateur");
+define("NU_LAN_3", "Vérification d'un compte utilisateur");
+define("NU_LAN_4", "Connexion d'un utilisateur");
+define("NU_LAN_5", "Déconnexion d'un utilisateur");
 define("NS_LAN_1", "Événements de sécurité");
-define("NS_LAN_2", "IP interdite pour site inondation");
-define("NN_LAN_1", "Actualités");
-define("NN_LAN_2", "News point soumis par l'utilisateur");
-define("NN_LAN_3", "Nouvelle question rédigée par admin");
-define("NN_LAN_4", "News item édités par admin");
-define("NN_LAN_5", "Actualités article supprimées par admin");
-define("NM_LAN_1", "Événements de courrier");
-define("NM_LAN_2", "En vrac email run complet");
-define("NF_LAN_1", "Fichier des événements");
-define("NF_LAN_2", "Fichier téléchargé par l'utilisateur");
+define("NS_LAN_2", "IP exclue pour cause de flood");
+define("NN_LAN_1", "Événements d'articles");
+define("NN_LAN_2", "Article soumis par un utilisateur");
+define("NN_LAN_3", "Article posté par un administrateur");
+define("NN_LAN_4", "Article modifié par un administrateur");
+define("NN_LAN_5", "Article supprimé par un administrateur");
+define("NM_LAN_1", "Événements de messagerie");
+define("NM_LAN_2", "Diffusion en masse d'emails terminée");
+define("NF_LAN_1", "Événements de fichiers");
+define("NF_LAN_2", "Fichier téléchargé par un utilisateur");
 define("LAN_NOTIFY_01", "Événements");
