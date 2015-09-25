@@ -27,7 +27,7 @@ define("ADLAN_PM_21", "Notification de popup sur nouveau message privé");
 define("ADLAN_PM_22", "Délai d'attente du popup");
 define("ADLAN_PM_23", "Restreindre l'utilisation des messages privés à");
 define("ADLAN_PM_24", "Nombre de messages privés à afficher par page");
-define("ADLAN_PM_25", "Activer les notifications par mail des messages privés);
+define("ADLAN_PM_25", "Activer les notifications par mail des messages privés");
 define("ADLAN_PM_26", "Permettre aux utilisateurs de demander des notifications par mail de confirmation de lecture");
 define("ADLAN_PM_27", "Autoriser la publication des pièces jointes");
 define("ADLAN_PM_28", "Taille maximale des pièces jointes");
