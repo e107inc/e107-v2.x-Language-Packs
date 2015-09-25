@@ -4,10 +4,10 @@
 // Generated for e107 v2.x by the Multi-Language Plugin
 // https://github.com/e107inc/multilan
 
-define("CLOCK_MENU_L1", "Configuration de menu horloge sauvegardée");
+define("CLOCK_MENU_L1", "Configuration du menu horloge sauvegardée");
 define("CLOCK_MENU_L2", "Légende");
-define("CLOCK_MENU_L3", "Mettre à jour les paramètres du Menu");
-define("CLOCK_MENU_L4", "Horloge Menu Config");
+define("CLOCK_MENU_L3", "Mettre à jour les paramètres du menu");
+define("CLOCK_MENU_L4", "Configuration du menu horloge");
 define("CLOCK_MENU_L5", "Lundi,");
 define("CLOCK_MENU_L6", "Mardi,");
 define("CLOCK_MENU_L7", "Mercredi,");

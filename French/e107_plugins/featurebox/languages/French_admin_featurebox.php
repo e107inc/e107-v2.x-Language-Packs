@@ -6,8 +6,8 @@
 
 define("FBLAN_08", "Texte du message");
 define("FBLAN_12", "Mode");
-define("FBLAN_13", "Tournent au hasard des messages");
-define("FBLAN_14", "Afficher ce message seulement");
-define("FBLAN_22", "Rendu type");
+define("FBLAN_13", "Portée aléatoire des messages");
+define("FBLAN_14", "Afficher seulement ce message");
+define("FBLAN_22", "Type de rendu");
 define("FBLAN_23", "Dans la boîte de thème");
-define("FBLAN_24", "Plain");
+define("FBLAN_24", "Plein");

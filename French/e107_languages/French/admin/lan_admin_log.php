@@ -59,7 +59,7 @@ define("RL_LAN_078", "Réinitialisation du mot de passe");
 define("RL_LAN_079", "Modification d'autres paramètres de l'utilisateur");
 define("RL_LAN_080", "Ajout rapide de membre");
 define("RL_LAN_081", "Rebonds de messagerie");
-define("RL_LAN_082", "Utilisateurs bannis");
+define("RL_LAN_082", "Utilisateurs exclus");
 define("RL_LAN_083", "Réinitialisations des rebonds de messagerie");
 define("RL_LAN_084", "Comptes temporaires");
 define("RL_LAN_090", "Télécharger ID");

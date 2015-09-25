@@ -44,7 +44,7 @@ switch ($action)
 	Afficher le profil de cet utilisateur (il est également possible de cliquer sur leur nom d'affichage)<br /><br />
     <b>Modifier</b><br />
     Modifier les paramètres pour cet utilisateur.<br /><br />
-    <b>Bannir/Débannir</b><br />
+    <b>Exclure/Ne plus exclure</b><br />
     Déterminer si l'utilisateur peut accéder au site.<br /><br />
 	<b>Activer</b><br />
 	Ceci active un utilisateur qui aurait dû normalement répondre à l'activation par mail.<br /><br />

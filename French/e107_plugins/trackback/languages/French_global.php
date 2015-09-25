@@ -4,5 +4,5 @@
 // Generated for e107 v2.x by the Multi-Language Plugin
 // https://github.com/e107inc/multilan
 
-define("LAN_PLUGIN_TRACKBACK_NAME", "Trackback");
-define("LAN_PLUGIN_TRACKBACK_DESCRIPTION", "Ce plugin vous permet d'utiliser trackback dans vos messages de news.");
+define("LAN_PLUGIN_TRACKBACK_NAME", "Rétrolien");
+define("LAN_PLUGIN_TRACKBACK_DESCRIPTION", "Cette extension vous permet d'utiliser les rétroliens dans vos publications d'articles.");
