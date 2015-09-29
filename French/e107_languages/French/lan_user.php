@@ -88,7 +88,7 @@ if (!defined("USER_ERR_08")) { define("USER_ERR_08","Entrée désactivée");  }
 if (!defined("USER_ERR_09")) { define("USER_ERR_09","Mot invalide");  }
 if (!defined("USER_ERR_10")) { define("USER_ERR_10","Champs mot de passe différents");  }
 if (!defined("USER_ERR_11")) { define("USER_ERR_11","Adresse mail exclue");  }
-if (!defined("USER_ERR_12")) { define("USER_ERR_12","Forma invalide pour l'adresse mail");  }
+if (!defined("USER_ERR_12")) { define("USER_ERR_12","Format invalide pour l'adresse mail");  }
 if (!defined("USER_ERR_13")) { define("USER_ERR_13","Erreur de donnée");  }
 if (!defined("USER_ERR_14")) { define("USER_ERR_14","Utilisateur exclu");  }
 if (!defined("USER_ERR_15")) { define("USER_ERR_15","Le nom d'utilisateur et le nom affiché ne peuvent être différents");  }

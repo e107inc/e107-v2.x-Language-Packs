@@ -65,7 +65,7 @@ define("RSS_LAN_ADMIN_27", "Décocher tous");
 define("RSS_LAN_ADMIN_28", "Aucun changement - non enregistré");
 define("RSS_LAN_ADMIN_31", "mise à jour des limites d'entrées RSS");
 define("RSS_LAN_ADMIN_32", "");
-define("RSS_LAN_ADMIN_33", "Afficher les images dans des flus RSS des articles ?");
+define("RSS_LAN_ADMIN_33", "Afficher les images dans les flux RSS des articles ?");
 define("RSS_LAN_0", "RSS");
 define("RSS_LAN_2", "@aucunspam.fr");
 define("RSS_LAN_3", "aucunauteur@aucunspam.fr");
