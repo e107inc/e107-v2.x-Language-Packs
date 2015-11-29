@@ -4,123 +4,150 @@
 // Generated for e107 v2.x by the Multi-Language Plugin
 // https://github.com/e107inc/multilan
 
-define("NWSLAN_4", "Hírek - meglévő Hírek");
+define("NWSLAN_4", "Hírek - Meglévő hírek");
 define("NWSLAN_6", "Kategória");
-define("NWSLAN_10", "Nincsenek Hírek kategóriák");
-define("NWSLAN_13", "Test");
-define("NWSLAN_14", "Kiterjesztett");
-define("NWSLAN_18", "Ezen hír könyvelendő lehetővé");
+
+define("NWSLAN_10", "Nincsennek Hír kategóriák");
+define("NWSLAN_13", "Törzs");
+define("NWSLAN_14", "Bõvített Hír");
+define("NWSLAN_18", "Hozzászólások engedélyezése ehhez a Hírhez");
 define("NWSLAN_19", "Aktiválás");
-define("NWSLAN_21", "Között aktiválása");
-define("NWSLAN_24", "Előnézet újra");
-define("NWSLAN_25", "Újdonságok az adatbázis frissítése");
-define("NWSLAN_26", "Post Hírek-adatbázishoz");
-define("NWSLAN_27", "Előnézet");
-define("NWSLAN_29", "Hírek - új elemet");
-define("NWSLAN_29a", "Hírek - frissítés a meglévő elem");
+
+define("NWSLAN_21", "Aktív idõszak");
+
+define("NWSLAN_24", "Ismételt elõnézet");
+define("NWSLAN_25", "Hír frissítése az adatbázisban");
+define("NWSLAN_26", "Hír küldése az adatbázisba");
+define("NWSLAN_27", "Elõnézet");
+
+define("NWSLAN_29", "Hírek - Új Hír hozzáadása");
+define("NWSLAN_29a", "Hírek - Meglévő Hír frissítése");
+
 define("NWSLAN_31", "Hír");
 define("NWSLAN_32", "törölve");
-define("NWSLAN_33", "Hírek kategória");
-define("NWSLAN_34", "Beküldött hír");
-define("NWSLAN_35", "Mentett hírek kategória");
-define("NWSLAN_36", "Frissített hírek kategória");
-define("NWSLAN_37", "Biztosan törli a kategóriát?");
-define("NWSLAN_38", "Biztosan törli ezen beküldött hír?");
-define("NWSLAN_39", "Biztosan törli ezen hír?");
-define("NWSLAN_43", "Nincsenek Hírek");
-define("NWSLAN_44", "Front Page hírek");
-define("NWSLAN_45", "Hírek-elem létrehozása");
+define("NWSLAN_33", "Hír Kategória");
+define("NWSLAN_34", "Beküldött Hír");
+define("NWSLAN_35", "Hír Kategória elmentve");
+define("NWSLAN_36", "Hír kategória frissítve");
+define("NWSLAN_37", "Biztosan törölni akarod ezt a kategóriát?");
+define("NWSLAN_38", "Biztosan törölni akarod ezt a beküldött Hírt?");
+define("NWSLAN_39", "Biztosan törölni akarod ezt a Hírt?");
+
+define("NWSLAN_43", "Nincsnnek Hírek");
+define("NWSLAN_44", "Hírek főoldal");
+define("NWSLAN_45", "Hír létrehozása");
 define("NWSLAN_46", "Kategóriák");
-define("NWSLAN_46a", "Hírek - kategória");
+define("NWSLAN_46a", "Hírek - Kategóriák");
 define("NWSLAN_47", "Beküldött Hírek");
-define("NWSLAN_48", "Hírek-beállítások");
-define("NWSLAN_49", "Által benyújtott");
-define("NWSLAN_51", "Meglévő hírkategóriák");
+define("NWSLAN_48", "Hír beállítások");
+define("NWSLAN_49", "Beküldte");
+
+define("NWSLAN_51", "Létező Hír kategóriák");
 define("NWSLAN_52", "Kategória neve");
-define("NWSLAN_53", "Kategória ikon");
+define("NWSLAN_53", "Kategória Ikon");
 define("NWSLAN_54", "Képek megtekintése");
-define("NWSLAN_55", "Frissítés hírek kategória");
-define("NWSLAN_56", "Hírek-kategória létrehozása");
-define("NWSLAN_57", "Cikk");
-define("NWSLAN_58", "Post");
-define("NWSLAN_59", "Nincs beküldött hír");
-define("NWSLAN_63", "Keresés newsposts");
+define("NWSLAN_55", "Hír kategória frissítése");
+define("NWSLAN_56", "Hír kategória létrehozása");
+define("NWSLAN_57", "Hír");
+define("NWSLAN_58", "Küldés");
+define("NWSLAN_59", "Nincs beküldött Hír");
+
+define("NWSLAN_63", "Hírek keresése");
+
 define("NWSLAN_66", "Feltöltés");
-define("NWSLAN_67", "Kép/videó");
-define("NWSLAN_69", "Feltölt egy képet, vagy a fájl használható a hírek elemet a");
-define("NWSLAN_72", "Csak azt mutatják, hírek cikk bizonyos dátumok között");
-define("NWSLAN_74", "Válassza ki, hogyan és hol hírek cikk van kifüggesztett");
-define("NWSLAN_75", "Alapértelmezett - post a címlapon");
-define("NWSLAN_76", "Csak - felad cím a címlapon");
-define("NWSLAN_77", "Postai úton, hogy más hírek menü");
-define("NWSLAN_83", "Kiterjesztett Hírek post");
-define("NWSLAN_84", "Válassza ki, melyik látogató látja a hír");
-define("NWSLAN_86", "Hírek-kategória alsó menü");
-define("NWSLAN_87", "Hírek-kategória oszlopok");
-define("NWSLAN_88", "Alapértelmezett nézet limit oldalanként");
-define("NWSLAN_90", "Hírek-beállítások");
-define("NWSLAN_100", "Engedélyezi a kép feltöltése be Hírek oldalon");
-define("NWSLAN_101", "Az automatikus átméretezés a benyújtott kép");
-define("NWSLAN_102", "szélessége pixelben, vagy ha üresen letiltása.");
-define("NWSLAN_103", "ré hang-felad");
-define("NWSLAN_104", "által");
-define("NWSLAN_105", "Aktuális idő dátum bélyegző hírek cikk frissítése jelölőnégyzetet");
-define("NWSLAN_106", "Be-Hírek lehet hozzáférni:");
-define("NWSLAN_107", "Engedélyezi a WYSIWYG szerkesztő, küldés-Hírek oldalon.");
-define("NWSLAN_108", "a");
-define("NWSLAN_111", "Új dátum fejléc megjelenítése");
-define("NWSLAN_112", "Ha ez doboz pipálni, egy doboz a dátum jelenik meg fent Hírek cikkek kifüggesztett egy új nap, hasznos hozzászólás megkülönböztető különböző napokon");
-define("NWSLAN_113", "Nem szabványos sablon alkalmazása az elrendezés Hírek");
-define("NWSLAN_114", "Ha a téma van egy Hírek elrendezés sablont használja ezt ahelyett, hogy az általános elrendezés");
-define("NWSLAN_115", "Archívum-limit");
-define("NWSLAN_116", "Először frissíteni a beállításokat a megváltozott megjelenítési beállítás /, majd a frissítés után ismét a Hírek Archívum preferencia beállítás. (0 a un-aktivált)");
-define("NWSLAN_117", "Állítsa be a címet a Hírek Archívum");
-define("NWSLAN_120", "A szöveg elejére nyújtson be hír megjelenítése");
-define("NWSLAN_121", "Semmi nem talált (% s)");
-define("NWSLAN_123", "Kategória");
-define("NWSLAN_127", "Alapértelmezett sablon");
-define("NWSLAN_128", "Használt hír oldalak URL-karakterlánc beállítása. Ez csak akkor működik, megfelelő .htaccess szabályok és <a href='%s'>eURL config</a><br>Megoldani a jelenlegi érték alapú URL-cím:");
-define("LAN_NEWS_23", "Válassza ki a képet vagy videót ezen hír");
-define("LAN_NEWS_27", "Összefoglaló");
-define("LAN_NEWS_28", "Öntapadó");
-define("LAN_NEWS_29", "Jelölje be, ha a hír lesz ragacsos");
-define("LAN_NEWS_30", "Ha a kiválasztott, hír jelenik meg mindenekelőtt mások");
-define("LAN_NEWS_32", "Dátum bélyegző");
-define("LAN_NEWS_33", "Állítsa be az aktuális hírek cikk a dátum bélyegző");
-define("LAN_NEWS_34", "Trackback");
-define("LAN_NEWS_35", "Trackback URL-címeinek hozzáadása");
-define("LAN_NEWS_37", "Egy URL által vonal)");
-define("LAN_NEWS_49", "Render-típus");
-define("LAN_NEWS_51", "Módosítás-ból hírek cikk szerzője lehet tenni:");
+define("NWSLAN_67", "Kép/Videó");
+define("NWSLAN_69", "Kép vagy fájl feltöltése a Hírhez");
+define("NWSLAN_72", "A hír megjelenítése csak a megadott dátumok között");
+define("NWSLAN_74", "Válaszd ki, hol és hogyan jelenlen meg a hír");
+define("NWSLAN_75", "Alapértelmezett - a főoldalon");
+define("NWSLAN_76", "Csak a cím - a főoldalon");
+define("NWSLAN_77", "Egyéb hírek menüben");
+
+define("NWSLAN_83","Hír folytatása");
+define("NWSLAN_84","Kik láthatják a Hírt");
+
+define("NWSLAN_86", "Hírkategóriák megjelenítése a láblécben");
+define("NWSLAN_87", "Hírkategória oszlopok száma");
+define("NWSLAN_88", "Oldalanként megjelenítendõ Hírek száma");
+define("NWSLAN_90", "Hír beállítások");
+define("NWSLAN_100", "Képek feltöltésének engedélyezése a beküldött Híreknél");
+define("NWSLAN_101", "Beküldött képek automatikus átméretezése");
+define("NWSLAN_102", "szélesség pixelben vagy hagyd üresen a letiltáshoz.");
+define("NWSLAN_103", "újraküldés");
+define("NWSLAN_104", "beküldte:");
+define("NWSLAN_105", "Jelöld be a dobozt a hír dátumbélyegének frissítéséhez");
+define("NWSLAN_106", "Hírt beküldhet:");
+define("NWSLAN_107", "WYSIWYG szerkesztõ engedélyezése a hír beküldõ oldalon.");
+define("NWSLAN_108", "-");
+
+define("NWSLAN_111", "Új dátum fejléc mutatása");
+define("NWSLAN_112", "Ha bejelölöd, lesz egy dátumot tartalmazó box az adott napon írt hírek fölött, a különbözõ napokon írt Hírek elválasztására használható");
+
+define("NWSLAN_113", "Nem alapértelmezett sablon használata a hírek elrendezéséhez");
+define("NWSLAN_114", "ha az általad használt theme tartalmaz sablont a hírek elrendezéséhez, használd azt az általános helyett");
+
+define("NWSLAN_115", "Megjelenített hírek száma az archívumban");
+define("NWSLAN_116", "Elõször az oldalanként megjelenített hírek számát frissítsd, utána állítsd be a hírarchívumot. (0 : kikapcsolva)");
+define("NWSLAN_117", "Hírarchívum címe");
+define("NWSLAN_120", "Szöveg megjelenítése a Hir beküldése elején");
+define("NWSLAN_121", "Nincs találat ehhez %s");
+
+define("NWSLAN_123", "Beküldve");
+
+define("NWSLAN_127", "Alapértelmezett samlon");
+define("NWSLAN_128", "Válassz ki egy Hírek oldalak URL-jében használni kívánt szöveget. Ez csak a .htaccess szabályokkal és a <a href='%s'>eURL config</a> működik helyesen.<br />A jelenlegi érték alapján javított URL: "); //FIXME HTML
+
+define("LAN_NEWS_23", "Válassz egy képet vagy videót ehhez a Hírhez");
+define("LAN_NEWS_27", "Összegzés");
+
+define("LAN_NEWS_28", "Kiemelt");
+define("LAN_NEWS_29", "Jelöld be, ha a hír kiemelt lesz");
+define("LAN_NEWS_30", "Ha bejelölt, a hír az összes többi fölött lesz látható");
+define("LAN_NEWS_32", "Idõbélyeg");
+define("LAN_NEWS_33", "Idõbélyeg beállítása e hírhez");
+
+define("LAN_NEWS_34", "Visszamutatás");
+define("LAN_NEWS_35", "Add meg a visszamutató URL-eket");
+define("LAN_NEWS_37", "Egy URL soronként)");
+
+define("LAN_NEWS_49", "Rendezés");
+
+define("LAN_NEWS_51", "Hír szerzőjének módosítása:");
+
 define("LAN_NEWS_52", "Általános információk");
-define("LAN_NEWS_53", "Speciális beállítások");
-define("LAN_NEWS_54", "szerkesztési módban marad");
+define("LAN_NEWS_53", "További beállítások");
+define("LAN_NEWS_54", "maradjon szerkesztés módban");
+
 define("LAN_NEWS_55", "Karbantartás");
-define("LAN_NEWS_56", "Megjegyzés számít újraszámítása");
-define("LAN_NEWS_57", "Folytassa");
-define("LAN_NEWS_58", "Update teljes ---frissítés--megjegyzést számít frissített,--törölve--nem engedélyezett a megjegyzések törlése");
-define("LAN_NEWS_59", "Hírek-karbantartás");
-define("LAN_NEWS_60", "Összes komment");
-define("LAN_NEWS_61", "Is a megjegyzések törlése nem engedélyezett");
-define("LAN_NEWS_62", "Hiba bejutó adatbázis, vagy nem talált Hírek");
+define("LAN_NEWS_56", "Hozzászólások újraszámolása");
+define("LAN_NEWS_57", "Folytatás");
+define("LAN_NEWS_58", "Frissítés kész - --UPDATE-- hozzászólások újraszámolása megtörtént, --DELETED-- a nem engedélyezett hozzászólások törölve");
+define("LAN_NEWS_59", "Hírek karbantartása");
+
+define("LAN_NEWS_60", "Összes hozzászólás");
+define("LAN_NEWS_61", "Nem engedélyezett hozzászólások törlése");
+define("LAN_NEWS_62", "Adatbázis hozzáférési hiba, vagy nincsennek Hírek");
+
 define("LAN_NEWS_63", "Kategória létrehozása");
-define("LAN_NEWS_64", "Régi benyújtott");
-define("LAN_NEWS_65", "Válasszon egyedi SEF URL-karakterlánc-ebben a kategóriában");
+define("LAN_NEWS_64", "Lejárt beküldött Hír");
+define("LAN_NEWS_65", "Válassz egy keresőbarát URL szöveget ehhez a kategóriához");
 define("LAN_NEWS_66", "");
-define("LAN_NEWS_67", "Zár");
-define("LAN_NEWS_68", "Elküldött tétel");
-define("LAN_NEWS_69", "Az alapértelmezett terület");
-define("LAN_NEWS_70", "Az alapértelmezett terület - cím");
-define("LAN_NEWS_71", "Az alapértelmezett terület - cím/Összefoglaló");
-define("LAN_NEWS_72", "Oldalsáv - Othernews");
-define("LAN_NEWS_73", "Oldalsáv - Othernews 2");
-define("LAN_NEWS_74", "Körhinta");
-define("LAN_NEWS_75", "Featurebox");
-define("LAN_NEWS_87", "pl. blogsearch.google.com/ping/RPC2");
-define("LAN_NEWS_88", "Azt határozza meg, hogyan jelenjen meg az alapértelmezett Hírek oldal.");
-define("LAN_NEWS_89", "Értesíti ezeket a szolgáltatásokat, amikor Ön létrehozása/frissítése hírek.");
-define("LAN_NEWS_90", "Soronként.");
-define("LAN_NEWS_91", "Listanézet limit oldalanként");
-define("LAN_NEWS_92", "pl. News.php?all vagy news.php?cat.1 vagy news.php?tag=xxx");
-define("LAN_NEWS_93", "Listanézet tartalom");
-define("LAN_NEWS_94", "Ezek a sablonok rendelt cikkek jelenik meg a listában.");
+define("LAN_NEWS_67", "Bezár");
+define("LAN_NEWS_68", "Beküldött Hír");
+
+define("LAN_NEWS_69", "Alapértelmezett terület");
+define("LAN_NEWS_70", "Alapértelmezett terület - Cím");
+define("LAN_NEWS_71", "Alapértelmezett terület - Cím/Összegzés");
+define("LAN_NEWS_72", "Oldalsáv - Egyéb Hírek");
+define("LAN_NEWS_73", "Oldalsáv - Egyéb Hírek 2");
+define("LAN_NEWS_74", "Carousel tartalomváltó");
+define("LAN_NEWS_75", "Featurebox tartalomváltó");
+
+define("LAN_NEWS_87", "Pl.: blogsearch.google.com/ping/RPC2");
+define("LAN_NEWS_88", "Meghatározza, hogy az alapértelmezett Híroldal hogyan jelenjen meg.");
+define("LAN_NEWS_89", "Értesítés, mikor a Hír létrehozása/frissítése történik.");
+define("LAN_NEWS_90", "Egy soronként.");
+define("LAN_NEWS_91", "Lista nézet korlátozás oldalnként");
+define("LAN_NEWS_92", "Pl.: news.php?all vagy news.php?cat.1 vagy news.php?tag=xxx");
+define("LAN_NEWS_93", "Lista nézet tartalom");
+define("LAN_NEWS_94", "A listában a Hírek a hozzá rendelt sablonnal jelennek meg.");

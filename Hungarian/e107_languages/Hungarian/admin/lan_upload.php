@@ -4,45 +4,52 @@
 // Generated for e107 v2.x by the Multi-Language Plugin
 // https://github.com/e107inc/multilan
 
-define("UPLLAN_1", "Feltöltés lekerül a listáról.");
-define("UPLLAN_2", "Mentett adatbázis beállításokat");
-define("UPLLAN_4", "Semmi sem változott - nem frissül");
-define("UPLLAN_5", "Poszter");
-define("UPLLAN_7", "Honlap");
-define("UPLLAN_14", "Demo");
-define("UPLLAN_16", "newspost másolása");
-define("UPLLAN_17", "feltöltés eltávolítása a listából");
+define("UPLLAN_1", "Feltöltés törölve a listából.");
+define("UPLLAN_2", "Beállítások elmentve az adatbázisban");
+define("UPLLAN_4", "Nincs változtatás - nincs frissítés");
+define("UPLLAN_5", "Beküldte");
+define("UPLLAN_7", "Weboldal");
+
+define("UPLLAN_14", "Bemutató");
+
+define("UPLLAN_16", "másolás a hírküldéshez");
+define("UPLLAN_17", "feltöltés törlése a listából");
 define("UPLLAN_18", "Részletek megtekintése");
-define("UPLLAN_19", "Vannak nem cenzúrázatlan nyilvános feltöltések");
-define("UPLLAN_20", "Ott");
-define("UPLLAN_21", "cenzúrázatlan nyilvános feltöltés");
-define("UPLLAN_24", "Filé");
-define("UPLLAN_25", "Feltöltés engedélyezve van?");
-define("UPLLAN_26", "Nem nyilvános feltöltések engedélyezni kell, ha le van tiltva");
-define("UPLLAN_27", "cenzúrázatlan nyilvános feltöltések");
-define("UPLLAN_33", "Maximális fájlméret");
-define("UPLLAN_34", "Abszolút maximális feltöltési mérete bájtokban. További korlátozott, php.ini beállításokat, és a beállítások filetypes.xml");
-define("UPLLAN_37", "Engedély");
-define("UPLLAN_38", "Válassza ki, hogy csak bizonyos felhasználók számára, hogy feltölt");
-define("UPLLAN_41", "Kérjük, vegye figyelembe - fájl feltölt van meghibásodott-ból php.ini, hogy nem lehet feltölteni a fájlokat, amíg nem állítod a.");
-define("UPLLAN_45", "Biztosan törli a következő fájl...");
-define("UPLAN_COPYTODLM", "másol-hoz letölt igazgató");
-define("UPLAN_IS", "van");
-define("UPLAN_ARE", "vannak");
-define("UPLAN_COPYTODLS", "Letöltés másolása");
-define("UPLLAN_51", "Lista feltöltések");
-define("UPLLAN_52", "Ez az oldal segít, hogy hozzon létre egy fájlt, a fájl feltöltése engedélyek kezelése. A fájlt menti--forrás--, és át kell másolni--DEST--annak hatálybalépése előtt.");
-define("UPLLAN_54", "Fájlkiterjesztés");
-define("UPLLAN_55", "Maximális feltöltési méret");
-define("UPLLAN_56", "Fájl létrehozása");
-define("UPLLAN_57", "Forrás értékek:");
-define("UPLLAN_59", "Írásbeli beállítások");
-define("UPLLAN_60", "Most helyezze át ezt a fájlt");
-define("UPLLAN_61", "Fájlírási hiba:");
-define("UPLLAN_62", "Letöltés nincs telepítve a plugin - aktiválása nem lehetséges.");
-define("UPLLAN_63", "Rekord letöltések költözött. [x]");
-define("UPLLAN_64", "Kezel letölt");
-define("UPLLAN_66", "Letöltés elérési hiba");
-define("UPLLAN_68", "SQL hiba:");
+define("UPLLAN_19", "Nincsenek moderálatlan feltöltések");
+define("UPLLAN_20", "Jelenleg");
+define("UPLLAN_21", "moderálatlan publikus feltöltés");
+define("UPLLAN_24", "Fájltípus");
+define("UPLLAN_25", "Feltöltés engedélyezése?");
+define("UPLLAN_26", "Kikapcsolása esetén nem lesz publikus feltöltés");
+define("UPLLAN_27", "nem moderált publikus feltöltések");
+
+define("UPLLAN_33", "Max. fájlméret");
+define("UPLLAN_34", "Max. feltölthető méret (byte). További korlátozások beállítása a php.ini fájlban, és az filetypes.xml beállításával történik");
+define("UPLLAN_37", "Jogosultság");
+define("UPLLAN_38", "Válaszd ki, mely felhasználók részére engedélyezett a feltöltés");
+
+define("UPLLAN_41", "Figyelem - a fájl feltöltések tiltva vannak a php.ini-ben, nem lehet fájlokat feltölteni, amíg nem engedélyezed.");
+define("UPLLAN_45", "Biztosan törölni akarod ezt a fájlt...");
+
+define("UPLAN_COPYTODLM", "Másolás a letöltéskezelőbe");
+define("UPLAN_IS", "van ");
+define("UPLAN_ARE", "van ");
+define("UPLAN_COPYTODLS", "Másolás a letöltésekhez");
+
+define("UPLLAN_51", "Feltöltés lista");
+define("UPLLAN_52", "Ez az oldal segít létrehozni egy fájl a fájl fletöltés jogosultságok kezeléséhez. A fájl elmentve, mint --SOURCE--, és szükséges a másolása ide --DEST-- az érvénybe lépés előtt.");
+define("UPLLAN_54", "Fájl kiterjesztések");
+define("UPLLAN_55", "Max. feltöltési méret");
+define("UPLLAN_56", "Fájl legenerálása");
+define("UPLLAN_57", "Forrás az értékekhez: ");
+define("UPLLAN_59", "Beállítások írása ide ");
+define("UPLLAN_60", "Fájl áthelyezése ide ");
+define("UPLLAN_61", "Fájl írási hiba: ");
+
+define("UPLLAN_62", "Letöltés plugin nincs telepítve - aktiválás nem lehetséges.");
+define("UPLLAN_63", "Bejegyzés áthelyezve a Letöltésekhez. [x]");
+define("UPLLAN_64", "Letöltés kezelése");
+define("UPLLAN_66", "Letöltés útvonal hiba");
+define("UPLLAN_68", "SQL Hiba:");
 define("UPLLAN_69", "");
 define("UPLLAN_70", "");
