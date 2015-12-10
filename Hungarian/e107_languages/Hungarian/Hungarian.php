@@ -96,7 +96,7 @@ define("LAN_FILES", "Fájlok");
 define("LAN_SIZE", "Méret");
 define("LAN_VERSION", "Változat");
 define("LAN_DOWNLOAD", "Letöltés");
-define("LAN_COMMENTS", "Hozzászólások");
+define("LAN_COMMENTS", "hozzászólás");
 define("LAN_LOCATION", "Hely");
 define("LAN_NO_RECORDS_FOUND", "Nem található bejegyzés");
 define("LAN_RATING", "Értékelés");
