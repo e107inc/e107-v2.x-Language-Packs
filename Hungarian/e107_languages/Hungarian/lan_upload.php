@@ -5,40 +5,44 @@
 // https://github.com/e107inc/multilan
 
 define("PAGE_NAME", "Feltöltés");
-define("LAN_UL_001", "Érvénytelen e-mail cím");
-define("LAN_UL_002", "Nem volna a kijavít engedély-hoz feltölt fájlokat a szerverre.");
+
+define("LAN_UL_001","Érvénytelen email cím");
+define("LAN_UL_002", "Nincs jogosultságod fájl feltöltésre erre a szerverre.");
+
 define("LAN_UL_020", "Hiba");
-define("LAN_UL_021", "Feltöltési hiba");
-define("LAN_UL_022", "Fájl típusától függően változhat");
+define("LAN_UL_021", "Feltöltés sikertelen");
+define("LAN_UL_022", "Változtasd meg a fájl típust");
 define("LAN_UL_023", "Típus");
-define("LAN_UL_024", "Max mérete");
-define("LAN_UL_025", "Nem megengedett nevű");
+define("LAN_UL_024", "Maximális méret");
+define("LAN_UL_025", "Feltöltés nem engedélyezett	");
 define("LAN_UL_026", "");
 define("LAN_UL_027", "");
-define("LAN_UL_032", "Ki kell választania egy kategóriát");
-define("LAN_UL_033", "Meg kell adnia egy érvényes e-mail címet");
-define("LAN_UL_034", "Meg kell adnia a fájl neve");
-define("LAN_UL_035", "Meg kell adnia egy leírást");
-define("LAN_UL_036", "Meg kell adnia a fájl feltöltése");
-define("LAN_UL_037", "Meg kell adnia egy kategória");
+
+define("LAN_UL_032", "Kategória választás kötelező");
+define("LAN_UL_033", "Érvényes email cím megadása kötelező");
+define("LAN_UL_034", "Fájl nevének megadása kötelező");
+define("LAN_UL_035", "Leírás megadása kötelező");
+define("LAN_UL_036", "Fájl megadása a feltöltéshez kötelező");
+define("LAN_UL_037", "Kategória megadása kötelező");
 define("LAN_UL_038", "");
-define("LAN_61", "a neved:");
-define("LAN_112", "E-mail cím:");
-define("LAN_144", "Honlap URL:");
-define("LAN_402", "Ez a kiszolgáló a fájlok feltöltésére regisztrált tagjának kell lennie.");
-define("LAN_404", "köszönöm. A feltöltés egy adminisztrátor, és kiküldött az oldalhoz, ha szükséges.");
-define("LAN_406", "Kérjük, vegye figyelembe");
-define("LAN_407", "Bármely más fájltípusok feltöltött azonnal törlésre kerül.");
-define("LAN_408", "Hangsúlyozta");
-define("LAN_409", "-Fájl neve");
-define("LAN_410", "Változat");
+
+define("LAN_61", "Neved: ");
+define("LAN_112", "Email Címed: ");
+define("LAN_144", "Weboldal URL: ");
+define("LAN_402", "A feltöltéshez regisztrálnod kell.");
+define("LAN_404", "Köszönjük! A feltöltött fájlt az adminisztrátor ellenőrizni fogja, ha megfelel a követelményeknek, akkor kirakja az oldalra.");
+define("LAN_406", "Figyelem");
+define("LAN_407", "Bármely más típusú fájl azonnali törlésre kerül.");
+define("LAN_408", "Az aláhúzott");
+define("LAN_409", "Fájl neve");
+define("LAN_410", "Verzió");
 define("LAN_411", "Fájl");
 define("LAN_413", "Leírás");
-define("LAN_414", "Munkanap demo");
-define("LAN_415", "írja be az URL-webhelyre, ahol megtekinthető a demo");
-define("LAN_416", "Be- és feltöltési");
+define("LAN_414", "Demó");
+define("LAN_415", "Add meg az oldal URL címét, ahol a demó elérhető");
+define("LAN_416", "Feltöltés");
 define("LAN_417", "Fájl feltöltése");
-define("LAN_418", "Abszolút maximális mérete:");
+define("LAN_418", "Maximális fájlméret: ");
 define("DOWLAN_11", "Kategória");
-define("LAN_419", "Megengedett fájltípusok");
+define("LAN_419", "Engedélyezett fájltípusok:");
 define("LAN_420", "mezők kitöltése kötelező");

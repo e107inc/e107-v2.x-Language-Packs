@@ -93,7 +93,7 @@ define("ADLAN_135", "Admin naplózás");
 define("ADLAN_136", "Levelezés");
 define("ADLAN_137", "E-mail beállítások és levélküldés");
 
-define("ADLAN_138", "Főmenü linkek");
+define("ADLAN_138", "Oldal linkek");
 define("ADLAN_139", "Hozzáadás/módosítás/törlés");
 
 define("ADLAN_140", "Theme Kezelő");
@@ -318,3 +318,8 @@ define("LAN_USER_QUICKADD","Tag hozzáadása");
 define("LAN_USER_PRUNE", "Tagok törlése");
 define("LAN_USER_OPTIONS", "Tagok beállítása");
 define("LAN_USER_RANKS", "Tag rangok");
+define("LAN_CONTROL_PANEL", "[x] irányítópultja");
+define("LAN_CUSTOM_URL", "Egyéni URL");
+define("LAN_CUSTOM_URL_DISABLED", "Kikapcsolás vagy Egyéni URL megadása");
+
+define("LAN_GENERAL", "Általános");

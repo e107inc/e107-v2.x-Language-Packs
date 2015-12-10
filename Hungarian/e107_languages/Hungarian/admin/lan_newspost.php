@@ -8,17 +8,17 @@ define("NWSLAN_4", "Hírek - Meglévő hírek");
 define("NWSLAN_6", "Kategória");
 
 define("NWSLAN_10", "Nincsennek Hír kategóriák");
-define("NWSLAN_13", "Törzs");
-define("NWSLAN_14", "Bõvített Hír");
+define("NWSLAN_13", "Szövegtörzs");
+define("NWSLAN_14", "Szövegtörzs (bővített hír)");
 define("NWSLAN_18", "Hozzászólások engedélyezése ehhez a Hírhez");
 define("NWSLAN_19", "Aktiválás");
 
-define("NWSLAN_21", "Aktív idõszak");
+define("NWSLAN_21", "Aktív időszak");
 
-define("NWSLAN_24", "Ismételt elõnézet");
+define("NWSLAN_24", "Ismételt előnézet");
 define("NWSLAN_25", "Hír frissítése az adatbázisban");
 define("NWSLAN_26", "Hír küldése az adatbázisba");
-define("NWSLAN_27", "Elõnézet");
+define("NWSLAN_27", "Előnézet");
 
 define("NWSLAN_29", "Hírek - Új Hír hozzáadása");
 define("NWSLAN_29a", "Hírek - Meglévő Hír frissítése");
@@ -68,7 +68,7 @@ define("NWSLAN_84","Kik láthatják a Hírt");
 
 define("NWSLAN_86", "Hírkategóriák megjelenítése a láblécben");
 define("NWSLAN_87", "Hírkategória oszlopok száma");
-define("NWSLAN_88", "Oldalanként megjelenítendõ Hírek száma");
+define("NWSLAN_88", "Oldalanként megjelenítendő Hírek száma");
 define("NWSLAN_90", "Hír beállítások");
 define("NWSLAN_100", "Képek feltöltésének engedélyezése a beküldött Híreknél");
 define("NWSLAN_101", "Beküldött képek automatikus átméretezése");
@@ -77,17 +77,17 @@ define("NWSLAN_103", "újraküldés");
 define("NWSLAN_104", "beküldte:");
 define("NWSLAN_105", "Jelöld be a dobozt a hír dátumbélyegének frissítéséhez");
 define("NWSLAN_106", "Hírt beküldhet:");
-define("NWSLAN_107", "WYSIWYG szerkesztõ engedélyezése a hír beküldõ oldalon.");
+define("NWSLAN_107", "WYSIWYG szerkesztő engedélyezése a hír beküldő oldalon.");
 define("NWSLAN_108", "-");
 
 define("NWSLAN_111", "Új dátum fejléc mutatása");
-define("NWSLAN_112", "Ha bejelölöd, lesz egy dátumot tartalmazó box az adott napon írt hírek fölött, a különbözõ napokon írt Hírek elválasztására használható");
+define("NWSLAN_112", "Ha bejelölöd, lesz egy dátumot tartalmazó box az adott napon írt hírek fölött, a különböző napokon írt Hírek elválasztására használható");
 
 define("NWSLAN_113", "Nem alapértelmezett sablon használata a hírek elrendezéséhez");
 define("NWSLAN_114", "ha az általad használt theme tartalmaz sablont a hírek elrendezéséhez, használd azt az általános helyett");
 
 define("NWSLAN_115", "Megjelenített hírek száma az archívumban");
-define("NWSLAN_116", "Elõször az oldalanként megjelenített hírek számát frissítsd, utána állítsd be a hírarchívumot. (0 : kikapcsolva)");
+define("NWSLAN_116", "Először az oldalanként megjelenített hírek számát frissítsd, utána állítsd be a hírarchívumot. (0 : kikapcsolva)");
 define("NWSLAN_117", "Hírarchívum címe");
 define("NWSLAN_120", "Szöveg megjelenítése a Hir beküldése elején");
 define("NWSLAN_121", "Nincs találat ehhez %s");
@@ -103,8 +103,8 @@ define("LAN_NEWS_27", "Összegzés");
 define("LAN_NEWS_28", "Kiemelt");
 define("LAN_NEWS_29", "Jelöld be, ha a hír kiemelt lesz");
 define("LAN_NEWS_30", "Ha bejelölt, a hír az összes többi fölött lesz látható");
-define("LAN_NEWS_32", "Idõbélyeg");
-define("LAN_NEWS_33", "Idõbélyeg beállítása e hírhez");
+define("LAN_NEWS_32", "Időbélyeg");
+define("LAN_NEWS_33", "Időbélyeg beállítása e hírhez");
 
 define("LAN_NEWS_34", "Visszamutatás");
 define("LAN_NEWS_35", "Add meg a visszamutató URL-eket");
