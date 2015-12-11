@@ -9,5 +9,5 @@ define("UGFLAN_4", "Karbantartási beállítások");
 
 define("UGFLAN_5", "Karbantartási üzenet");
 define("UGFLAN_6", "Hagyd üresen az alapértelmezett üzenet megjelenítéséhez");
-define("UGFLAN_8", "Hozzáférés korlátozása csak az Adminok részére");
-define("UGFLAN_9", "Hozzáférés korlátozása csak a Fő-Admin részére");
+define("UGFLAN_8", "Hozzáférés csak Adminok részére");
+define("UGFLAN_9", "Hozzáférés csak Főadmin részére");

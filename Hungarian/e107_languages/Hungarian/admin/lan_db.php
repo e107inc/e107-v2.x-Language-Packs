@@ -5,10 +5,10 @@
 // https://github.com/e107inc/multilan
 
 define("DBLAN_1", "Core beállítások elmentve az adatbázisban.");
-define("DBLAN_4", "Adatbázis érvényességének ellenõrzése");
-define("DBLAN_5", "Érvényesség ellenõrzése");
+define("DBLAN_4", "Adatbázis érvényességének ellenőrzése");
+define("DBLAN_5", "Érvényesség ellenőrzése");
 define("DBLAN_6", "Adatbázis optimalizálása");
-define("DBLAN_7", "SQL adatbázis optimalizálása");
+define("DBLAN_7", "Adatbázis optimalizálása");
 define("DBLAN_8", "Core beállítások mentése");
 define("DBLAN_9", "Core lementése");
 define("DBLAN_10", "Adatbázis eszközök");
@@ -18,16 +18,16 @@ define("DBLAN_15", "Adatbázis frissítések keresése");
 define("DBLAN_16", "Frissítések keresése");
 define("DBLAN_17", "Beállított Név");
 define("DBLAN_18", "Beállított Érték");
-define("DBLAN_19", "Katt a gombra a tulajdonságszerkesztõ megnyitásához (csak haladók részére)");
-define("DBLAN_20", "Tulajdonságszerkesztõ");
+define("DBLAN_19", "Katt a gombra a tulajdonságszerkesztő megnyitásához (csak haladók részére)");
+define("DBLAN_20", "Tulajdonságszerkesztő");
 define("DBLAN_22", "Plugin: Megtekintés és Vizsgálat");
 define("DBLAN_23", "Vizsgálat kész");
 define("DBLAN_25", "Könyvtár");
 define("DBLAN_26", "Hozzáadott tartalom");
 define("DBLAN_27", "Telepítve");
 define("DBLAN_28", "Katt a gombra a plugin vizsgálatához a változtatás részére");
-define("DBLAN_29", "Plugin könyvtár vizsgálata");
-define("DBLAN_30", "Ha egy bõvítmény egy hibát mutat, ellenõrizd a PHP kezdõ/záró tag-eken kívül esõ karaktereket.");
+define("DBLAN_29", "Plugin-ek ellenőrzése");
+define("DBLAN_30", "Ha egy bővítmény egy hibát mutat, ellenőrizd a PHP kezdő/záró tag-eken kívül eső karaktereket.");
 define("DBLAN_31", "Viszgálat kész");
 define("DBLAN_33", "Elérhetetlen");
 define("DBLAN_34", "Nem ellenörzött");
@@ -50,11 +50,11 @@ define("DBLAN_52", "Duplikáció törlése"); //plugin scan
 define("DBLAN_53", "Válaszd ki a műveletet.");
 define("DBLAN_54", "Nincs hiba.");
 define("DBLAN_55", "Válassz a Shortcode/Könyvtár felülírása ellenőrzéséhez az új shortcode-hoz");
-define("DBLAN_56", "Könyvtár felülírás ellenőrzése");
+define("DBLAN_56", "Felülírások ellenőrzése");
 define("DBLAN_57", "Shortcode felülírás lista kiválasztva ehhez ");
 
-define("DBLAN_58", "Oldal adatok exportálása");
-define("DBLAN_59", "Oldal adatok importálása");
+define("DBLAN_58", "Adatok exportálása");
+define("DBLAN_59", "Adatok importálása");
 
 define("DBLAN_60", "Fájl mentés kész!");
 define("DBLAN_61", "Adatbázis mentés indítása...");
@@ -62,7 +62,7 @@ define("DBLAN_62", "Adatbázis mentés kész!");
 define("DBLAN_63", "A teljes oldal mentés kész.");
 
 define("DBLAN_64", "Adatbázis karakterkészlet ellenőrzése");
-define("DBLAN_65", "Karakterkészlet ellenőrzése");
+define("DBLAN_65", "Karakterkódolás ellenőrzése");
 define("DBLAN_66", "Helyes fájl és könyvtár jogosultságok");
 define("DBLAN_67", "Helyes jogosultságok");
 define("DBLAN_68", "Adatbázis mentés, Fájlok és könyvtárak");
@@ -113,3 +113,4 @@ define("DBLAN_107", "[folder] nem írható");
 define("DBLAN_108", "Létrehozva:");
 define("DBLAN_109", "Másolva:");
 define("DBLAN_110", "Nem lehet másolni:");
+define("DBLAN_111", "Úgy tűnik minden rendben van a kiválasztott táblával/táblákkal!");
