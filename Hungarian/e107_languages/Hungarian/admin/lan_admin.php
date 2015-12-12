@@ -10,7 +10,7 @@ define("ADLAN_2", "Hír létrehozása");
 define("ADLAN_3", "Hírek Lista");
 define("ADLAN_3a", "Beállítások");
 define("ADLAN_5", "Oldal beállítások módosítása");
-define("ADLAN_6", "Menük");
+define("ADLAN_6", "Menü kezelő");
 define("ADLAN_7", "Menük elhelyezésének módosítása");
 define("ADLAN_8", "Adminisztrátorok");
 define("ADLAN_9", "Hozzáadás/törlés");
