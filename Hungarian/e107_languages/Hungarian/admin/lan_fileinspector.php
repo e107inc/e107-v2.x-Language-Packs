@@ -67,11 +67,11 @@ define("FR_LAN_28", "Ismert veszélyes fájlok");
 
 define("FR_LAN_29", "Összes fájl egyezés");
 define("FR_LAN_30", "Összes sor egyezés");
-define("FR_LAN_31", "A teljes plugin könyvtár hiányzik");
+define("FR_LAN_31", "A bővítmények könyvtára hiányzik");
 
 define("FS_LAN_1", "Pillanatkép készítése");
 define("FS_LAN_2", "A gyökérkönyvtár abszoludt útvonala a kép létrehozásához innen ");
-define("FS_LAN_3", "Pillanatkép készítése a pluginhoz: (A plugin kilistázódik, ha az írható e_inspect.php fájl létezik a pluginok gyökérkönyvtárában.)");
+define("FS_LAN_3", "Pillanatkép készítése a bővítményről: (A bővítmény kilistázódik, ha az írható e_inspect.php fájl létezik a bővítmények gyökérkönyvtárában.)");
 define("FS_LAN_4", "Válassz...");
 define("FS_LAN_5", "Pillanatkép készítése a jelenlegi vagy az elavult fájlokról");
 define("FS_LAN_6", "Jelenlegi");

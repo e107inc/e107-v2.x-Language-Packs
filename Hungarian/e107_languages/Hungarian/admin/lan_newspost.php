@@ -84,7 +84,7 @@ define("NWSLAN_111", "Új dátum fejléc mutatása");
 define("NWSLAN_112", "Ha bejelölöd, lesz egy dátumot tartalmazó box az adott napon írt hírek fölött, a különböző napokon írt Hírek elválasztására használható");
 
 define("NWSLAN_113", "Nem alapértelmezett sablon használata a hírek elrendezéséhez");
-define("NWSLAN_114", "ha az általad használt theme tartalmaz sablont a hírek elrendezéséhez, használd azt az általános helyett");
+define("NWSLAN_114", "ha az általad használt smink tartalmaz sablont (template) a hírek elrendezéséhez, használd azt az általános helyett");
 
 define("NWSLAN_115", "Megjelenített hírek száma az archívumban");
 define("NWSLAN_116", "Először az oldalanként megjelenített hírek számát frissítsd, utána állítsd be a hírarchívumot. (0 : kikapcsolva)");

@@ -11,14 +11,14 @@ define("LAN_CHECK_5", "Hiányzó kifejezés!");
 define("LAN_CHECK_15", "Illegális karakterek vagy szóköz a [x] előtt vagy a [y] után");
 define("LAN_CHECK_16", "Eredeti Fájl");
 define("LAN_CHECK_17", "Egy írási probléma keletkezett a file mentése során.");
-define("LAN_CHECK_18", "Szabvány formában a nyelvi file nem engedélyezett ehhez a plugin-hoz/theme-hez.");
+define("LAN_CHECK_18", "Nem érhető el nyelvi fájl ehhez a bővítményhez/sminkhez.");
 define("LAN_CHECK_19", "Nem-UTF-8 karakterek!");
 define("LAN_CHECK_20", "Nyelvi csomag generálása");
 define("LAN_CHECK_21", "Ismételt ellenőrzés");
-define("LAN_CHECK_22", "Theme (sablon)");
+define("LAN_CHECK_22", "Smink (theme)");
 define("LAN_CHECK_23", "Hibák");
 define("LAN_CHECK_24", "Összegzés");
-define("LAN_CHECK_25", "Theme-k");
+define("LAN_CHECK_25", "Sminkek");
 define("LAN_CHECK_PAGE_TITLE", "Nyelvek");
 define("LAN_CHECK_27", "Nyelvi csomag hibák száma");
 

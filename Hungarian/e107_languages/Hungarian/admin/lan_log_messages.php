@@ -99,8 +99,8 @@ define("LAN_AL_FRONTPG_04", "Szabály törölve");
 define("LAN_AL_FRONTPG_05", "");
 define("LAN_AL_FRONTPG_06", "");
 
-define("LAN_AL_UTHEME_00", "Ismeretlen felhasználó theme-vel kapcsolatos esemény");
-define("LAN_AL_UTHEME_01", "Felhasználó theme beállítások megváltoztatva");
+define("LAN_AL_UTHEME_00", "Ismeretlen, felhasználói sminkkel kapcsolatos esemény");
+define("LAN_AL_UTHEME_01", "Egy felhasználó megváltoztatta a smink beállításait");
 define("LAN_AL_UTHEME_02", "");
 
 define("LAN_AL_UPDATE_00", "Ismeretlen szoftver frissítéssel kapcsolatos esemény");
@@ -127,9 +127,9 @@ define("LAN_AL_SLINKS_06", "Főmenü link törölve");
 define("LAN_AL_SLINKS_07", "Beküldött Főmenü link");
 define("LAN_AL_SLINKS_08", "Főmenü link frissítve");
 
-define("LAN_AL_THEME_00", "Ismeretlen theme-vel kapcsolatos üzenet");
-define("LAN_AL_THEME_01", "Oldal theme frissítve");
-define("LAN_AL_THEME_02", "Admin theme frissítve");
+define("LAN_AL_THEME_00", "Ismeretlen, sminkkel kapcsolatos üzenet");
+define("LAN_AL_THEME_01", "Weboldal smink frissítve");
+define("LAN_AL_THEME_02", "Adminisztrációs smink frissítve");
 define("LAN_AL_THEME_03", "Kép előtöltés/oldal stíluslap frissítve");
 define("LAN_AL_THEME_04", "Admin stílus/stíluslap frissítve");
 define("LAN_AL_THEME_05", "");
@@ -262,10 +262,10 @@ define("LAN_AL_MAIL_05", "Levelezés adatbázis rendben");
 define("LAN_AL_MAIL_06", "Mailout aktiválva");
 define("LAN_AL_MAIL_07", "");
 
-define("LAN_AL_PLUGMAN_01", "Plugin telepítve");
-define("LAN_AL_PLUGMAN_02", "Plugin frissítve");
-define("LAN_AL_PLUGMAN_03", "Plugin törölve");
-define("LAN_AL_PLUGMAN_04", "Plugin frissítve");
+define("LAN_AL_PLUGMAN_01", "Bővítmény telepítve");
+define("LAN_AL_PLUGMAN_02", "Bővítmény frissítve");
+define("LAN_AL_PLUGMAN_03", "Bővítmény törölve");
+define("LAN_AL_PLUGMAN_04", "Bővítmény frissítve");
 
 define("LAN_AL_EURL_01", "Oldal URL beállítás megváltoztatva");
 

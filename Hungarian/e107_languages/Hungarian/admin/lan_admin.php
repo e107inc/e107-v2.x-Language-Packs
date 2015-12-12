@@ -64,8 +64,8 @@ define("ADLAN_91", "Bejelentkezés");
 define("ADLAN_92", "Az adminisztrációs terület eléréséhez be kell jelentkezned...");
 define("ADLAN_93", "Admin funkciók megjelenítése");
 define("ADLAN_95", "Pluginok beállítása");
-define("ADLAN_98", "Plugin kezelő");
-define("ADLAN_99", "Plugin telepítése/frissítése/beállítása.");
+define("ADLAN_98", "Bővítmény kezelő");
+define("ADLAN_99", "Bővítmény telepítése/frissítése/beállítása.");
 define("ADLAN_102", "Már több mint 30 napja, hogy megváltoztattad a fő admin jelszót - ");
 define("ADLAN_103", "megváltoztatás");
 define("ADLAN_104", "Biztonság");
@@ -96,8 +96,8 @@ define("ADLAN_137", "E-mail beállítások és levélküldés");
 define("ADLAN_138", "Oldal linkek");
 define("ADLAN_139", "Hozzáadás/módosítás/törlés");
 
-define("ADLAN_140", "Theme Kezelő");
-define("ADLAN_141", "Témák telepítése, beállítása, stb.");
+define("ADLAN_140", "Smink kezelő");
+define("ADLAN_141", "Sminkek telepítése, beállítása, stb.");
 
 define("ADLAN_143", "Keresés beállítása");
 define("ADLAN_144", "Egyszerûsített nézet módban vagy, a bővített nézethez");
@@ -124,15 +124,15 @@ define("ADLAN_158", "Időzített feladatok és automatikus karbantartás");
 define("ADLAN_159", "URL beállítása");
 define("ADLAN_160", "Oldal URL-ek beállítása");
 define("ADLAN_161", "Egyéni mezők?");
-define("ADLAN_162", "Egy újabb (theme) verziója érhető el:");
-define("ADLAN_163", "Egy újabb (plugin) verziója érhető el:");
+define("ADLAN_162", "Egy smink újabb verziója érhető el:");
+define("ADLAN_163", "Egy bővítmény újabb verziója érhető el:");
 
 define("ADLAN_CL_2", "Felhasználók");
 define("ADLAN_CL_3", "Tartalom");
 define("ADLAN_CL_4", "Hozzászólások");
 define("ADLAN_CL_5", "Fájlok");
 define("ADLAN_CL_6", "Eszközök");
-define("ADLAN_CL_7", "Plugin-ok");
+define("ADLAN_CL_7", "Bővítmények");
 
 define("ADLAN_CL_8", "Egyéb");
 

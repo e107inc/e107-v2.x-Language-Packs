@@ -25,7 +25,7 @@ define("ADMSLAN_59", "Admin állapot törlése");
 
 define("ADMSLAN_61", "Adminisztrátor törölve");
 
-define("ADMSLAN_62", "Plugin kezelő");
+define("ADMSLAN_62", "Bővítmény kezelő");
 
 define("ADMSLAN_71", "Katt ide a jogosultságok megtekintéséhez");
 

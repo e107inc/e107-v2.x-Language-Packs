@@ -93,7 +93,7 @@ define('IMALAN_81', "Minden olyan kép, amelynek mérete meghaladja ezeket az é
 define('IMALAN_82', "Vízjel szövege");
 define('IMALAN_83', "Opcionális vízjel szöveg");
 define('IMALAN_84', "Vízjel betűtípus");
-define('IMALAN_85', "Opcionális betűtípus. Tölts fel további .ttf betűtípusokat a /fonts mappába a theme könyvtárba.");
+define('IMALAN_85', "Opcionális betűtípus. Tölts fel további .ttf betűtípusokat a /fonts mappába a amink könyvtárán belül.");
 define('IMALAN_86', "Vízjel mérete");
 define('IMALAN_87', "Betűméret pt-ben");
 define('IMALAN_88', "Vízjel elhelyezkedése");

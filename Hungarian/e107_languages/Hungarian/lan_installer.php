@@ -85,16 +85,16 @@ define("LANINS_106", "FIGYELMEZTETÉS - E107 nem tud hozzáírni a kilistázott 
 
 define("LANINS_107", "Weboldal neve");
 define("LANINS_108", "Az Én weboldalam");
-define("LANINS_109", "Weboldal Theme");
+define("LANINS_109", "Weboldal sminkje");
 define("LANINS_111", "Tartalom/beállítások felvétele");
-define("LANINS_112", "A theme előnézet vagy demó megtekintésének gyors reprodukálása. (ha negedélyezett)");
+define("LANINS_112", "A sminkek előnézeteinek vagy bemutatójainak gyors előállítása. (ha negedélyezett)");
 define("LANINS_113", "Írd be a weboldal nevét");
-define("LANINS_114", "Válassz egy theme-t");
-define("LANINS_115", "Theme neve");
-define("LANINS_116", "Theme típusa");
+define("LANINS_114", "Válassz egy sminket");
+define("LANINS_115", "Smink neve");
+define("LANINS_116", "Smink típusa");
 define("LANINS_117", "Weboldal Beállítások");
-define("LANINS_118", "Plugin-ok telepítése");
-define("LANINS_119", "A theme-hez szükséges összes plugin telepítése.");
+define("LANINS_118", "Bővítmények telepítése");
+define("LANINS_119", "A sminkhez szükséges összes bővítmény telepítése.");
 define("LANINS_120", "8. lépés");
 define("LANINS_121", "e107_config.php fájl nem üres");
 define("LANINS_122", "Lehet, hogy már telepítetted a rendszert");

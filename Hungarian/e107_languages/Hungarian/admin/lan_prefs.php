@@ -14,7 +14,7 @@ define("PRFLAN_7", "Főadmin");
 define("PRFLAN_8", "Főadmin email cím");
 define("PRFLAN_9", "Jogi nyilatkozat");
 define("PRFLAN_13", "Megjelenő információk");
-define("PRFLAN_14", "Theme információk megjelenítése?");
+define("PRFLAN_14", "Smink információk megjelenítése?");
 define("PRFLAN_15", "Létrehozási idő megjelenítése?");
 define("PRFLAN_16", "SQL lekérdezések megjelenítése?");
 define("PRFLAN_17", "Tömörítés, gzip használata");
@@ -55,7 +55,7 @@ define("PRFLAN_59", "A kijelölés a főoldal és a regisztráció kivételével
 define("PRFLAN_60", "SSL engedélyezése");
 define("PRFLAN_61", "Csak akkor engedélyezd az SSL-t, ha <b>biztos vagy benne, hogy tudod mit csinálsz!</b>!");
 define("PRFLAN_76", "CAPTCHA bekapcsolása a regisztrációhoz.");
-define("PRFLAN_77", "Plugin információk");
+define("PRFLAN_77", "Bővítmény részletezése");
 define("PRFLAN_78", "Hagyd üresen a letiltáshoz");
 define("PRFLAN_81", "CAPTCHA bekapcsolása a bejelentkezéshez.");
 define("PRFLAN_83", "példa");
@@ -83,10 +83,10 @@ define("PRFLAN_91", "Ha valaki támadja az oldalad többszörös szerverlekérde
 define("PRFLAN_92", "Biztonságos regisztráció ellenőrzés -- jelszó elrejtése az e-mailben?");
 define("PRFLAN_93", "strftime funkció leírása a php.net-en");
 define("PRFLAN_94", "ide");
-define("PRFLAN_95", "Plugin információk megjelenítése:");
-define("PRFLAN_96", "Minden admin oldalon meg fog jelenni az info minden plugin-hez, amelyik támogatja ezt a lehetőséget");
-define("PRFLAN_97", "Egyedi 'Plugin info' menü:");
-define("PRFLAN_98", "Ha letiltod, akkor minden plugin külön, saját menüben fogja megjeleníteni az információit. Ha bejelölt, minden információ egy menüben fog megjelenni.");
+define("PRFLAN_95", "Bővítmény részleteinek megjelenítése:");
+define("PRFLAN_96", "Minden admin oldalon meg fog jelenni az info minden bővítményhez, amelyik támogatja ezt a lehetőséget");
+define("PRFLAN_97", "Egyedi 'Bővítmény info' menü:");
+define("PRFLAN_98", "Ha letiltod, akkor minden bővítmény külön, saját menüben fogja megjeleníteni az információit. Ha bejelölt, minden információ egy menüben fog megjelenni.");
 define("PRFLAN_101", "Szövegmegjelenítés");
 define("PRFLAN_102", "Kattintható linkek cseréje");
 define("PRFLAN_103", "Ha bejelölöd és természetesen a fenti 'Kattintható Linkek' (fentebb) is be van jelölve, akkor a beküldött link vagy email cím hiperlinkként jelenik meg a lenti szövegdobozban lévő szöveget használva. Ezzel elkerülheted, hogy a túl hosszú URL/Email széttörje az oldal elrendezését.");
@@ -180,12 +180,12 @@ define("PRFLAN_154a", "Ha az 'Admin jóváhagyás' van kiválasztva, akkor szük
 define("PRFLAN_196a", "Bejelentkezési terület:");
 
 define("PRFLAN_199", "Admin Allinkek megjelenítése");
-define("PRFLAN_200", "Ha engedélyezed, akkor az Admin legördülő navigációs menü (ha az aktuális theme támogatja) létrehozza az almenüket, ha szükséges (Pl.: Hírek - Hír létrehozása).");
+define("PRFLAN_200", "Ha engedélyezed, akkor az Admin legördülő navigációs menü (ha a weboldal sminkje is támogatja) létrehozza az almenüket, ha szükséges (Pl.: Hírek - Hír létrehozása).");
 define("PRFLAN_201", "Felhasználónév és Jelszó");
 define("PRFLAN_202", "Email és Jelszó");
 define("PRFLAN_203", "Felhasználónév/Email és Jelszó");
-define("PRFLAN_204", "Minden plugin saját menüben.");
-define("PRFLAN_205", "Ha engedélyezed, a plugin-ok saját navigációs menüben jelennek meg, hasonlóan az e107 v0.7 és korábbi verzónál.");
+define("PRFLAN_204", "Minden bővítmény saját menüben.");
+define("PRFLAN_205", "Ha engedélyezed, a bővítmények saját navigációs menüben jelennek meg, hasonlóan az e107 v0.7 és korábbi verzónál.");
 define("PRFLAN_206", "Csak-Tagok URL kivételek");
 define("PRFLAN_207", "Csak-Tagok mód megjelenik az URL-nél, ha bármelyik feltétel teljesül a listában. Soronként egy.");
 define("PRFLAN_208", "Felhasználó csoport, amely email linket használhat az oldalon");
@@ -209,10 +209,10 @@ define("PRFLAN_223", "Teljesen Automatizált Publikus Turing teszt to tell Compu
 define("PRFLAN_224", "Regisztrációs rendszer");
 
 define("PRFLAN_225", "A Facebook és mások használják. Egy négyzet alakú képnek kell lennie, amely legalább 144px széles és magas.");
-define("PRFLAN_226", "Számos theme használja, mint fejrész kép sok oldalon.");
-define("PRFLAN_227", "Számos theme használja. Helyezd a 'SITETAG' kódot a theme-be a használatához.");
-define("PRFLAN_228", "Számos theme használja. Helyezd a 'SITEDESCRIPTION' kódot a theme-be a használatához.");
-define("PRFLAN_229", "Számos theme használja. Helyezd a 'SITEDISCLAIMER' kódot a theme-be a használatához.");
+define("PRFLAN_226", "Számos smink használja, mint fejrész kép sok oldalon.");
+define("PRFLAN_227", "Számos smink használja. Helyezd a 'SITETAG' kódot a sminkbe a használatához.");
+define("PRFLAN_228", "Számos smink használja. Helyezd a 'SITEDESCRIPTION' kódot a sminkbe a használatához.");
+define("PRFLAN_229", "Számos smink használja. Helyezd a 'SITEDISCLAIMER' kódot a sminkbe a használatához.");
 define("PRFLAN_230", "Dátum/Idő bemeneti mező (Input-Field) formátum");
 
 define("PRFLAN_231", "Kitiltás előtti maximális hibás bejelentkezés:");

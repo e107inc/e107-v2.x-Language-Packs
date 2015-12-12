@@ -34,7 +34,7 @@ define("LAN_UPDATE_45", "Új tábla hozzáadása az adatbázishoz: ");
 define("LAN_UPDATE_46", "Hiba a tábla definíciók olvasásakor: ");
 
 define("LAN_UPDATE_50", "Elavult beállítások törölve: ");
-define("LAN_UPDATE_51", "Plugin tábla definíciók frissítése: ");
+define("LAN_UPDATE_51", "Bővítmény tábla-definícióinak frissítése: ");
 define("LAN_UPDATE_52", "Letöltés tábla frissítése");
 define("LAN_UPDATE_53", "A teltöltés tükör tábla frissítése");
 define("LAN_UPDATE_54", "Hiányzó tábla --TABLE-- - nem lehetséges index hozzáadása --INDEX--");
@@ -43,5 +43,5 @@ define("LAN_UPDATE_56", "Rendszer frissítés");
 
 define("LAN_UPDATE_57", "Mielőtt folytatnád, manuálisan töröld a következő elavult mappákat a rendszerből:");
 
-define("LAN_UPDATE_CAPTION_PLUGIN", "Plugin Frissítések");
-define("LAN_UPDATE_CAPTION_CORE", "Core Frissítések");
+define("LAN_UPDATE_CAPTION_PLUGIN", "Bővítmény-frissítések");
+define("LAN_UPDATE_CAPTION_CORE", "Rendszer-frissítések");

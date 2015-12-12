@@ -46,7 +46,7 @@ define("UPLLAN_59", "Beállítások írása ide ");
 define("UPLLAN_60", "Fájl áthelyezése ide ");
 define("UPLLAN_61", "Fájl írási hiba: ");
 
-define("UPLLAN_62", "Letöltés plugin nincs telepítve - aktiválás nem lehetséges.");
+define("UPLLAN_62", "Letöltés bővítmény nincs telepítve - aktiválás nem lehetséges.");
 define("UPLLAN_63", "Bejegyzés áthelyezve a Letöltésekhez. [x]");
 define("UPLLAN_64", "Letöltés kezelése");
 define("UPLLAN_66", "Letöltés útvonal hiba");
