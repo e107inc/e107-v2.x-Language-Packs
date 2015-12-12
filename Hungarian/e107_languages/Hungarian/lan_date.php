@@ -4,23 +4,23 @@
 // Generated for e107 v2.x by the Multi-Language Plugin
 // https://github.com/e107inc/multilan
 
-define("LANDT_01", "év");
-define("LANDT_02", "hónap");
-define("LANDT_03", "hét");
-define("LANDT_04", "nap");
-define("LANDT_05", "óra");
-define("LANDT_06", "perc");
-define("LANDT_07", "másodperc");
-define("LANDT_01s", "év");
-define("LANDT_02s", "hónap");
-define("LANDT_03s", "hét");
-define("LANDT_04s", "nap");
-define("LANDT_05s", "óra");
-define("LANDT_06s", "perc");
-define("LANDT_07s", "másodperc");
+define("LANDT_01", "évvel");
+define("LANDT_02", "hónappal");
+define("LANDT_03", "héttel");
+define("LANDT_04", "nappal");
+define("LANDT_05", "órával");
+define("LANDT_06", "perccel");
+define("LANDT_07", "másodperccel");
+define("LANDT_01s", "évvel");
+define("LANDT_02s", "hónappal");
+define("LANDT_03s", "héttel");
+define("LANDT_04s", "nappal");
+define("LANDT_05s", "órával");
+define("LANDT_06s", "perccel");
+define("LANDT_07s", "másodperccel");
 
-define("LANDT_08", "perc");
-define("LANDT_08s", "perc");
-define("LANDT_09", "mp");
-define("LANDT_09s", "mp");
+define("LANDT_08", "perccel");
+define("LANDT_08s", "perccel");
+define("LANDT_09", "mp-vel");
+define("LANDT_09s", "mp-vel");
 define("LANDT_AGO", "ezelőtt");
