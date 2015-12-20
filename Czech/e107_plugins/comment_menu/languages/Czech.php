@@ -1,17 +1,25 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Czech Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/20 20:10:45
+|
+|        $Author: Oxigen $
++---------------------------------------------------------------+
+*/
 define("CM_L1", "Zatím žádné komentáře.");
 define("CM_L2", "");
-define("CM_L3", "Titulek");
-define("CM_L4", "Počet komentářů k zobrazení?");
-define("CM_L5", "Počet znaků k zobrazení?");
-define("CM_L6", "Přípona pro příliš dlouhý komentáře?");
-define("CM_L7", "Původní titul zprávy zobrazit v menu?");
-define("CM_L8", "Nové komentáře Menu konfigurace");
-define("CM_L11", "na");
+define("CM_L3", "Záhlaví");
+define("CM_L4", "Kolik zobrazit komentářů?");
+define("CM_L5", "Kolik zobrazit znaků?");
+define("CM_L6", "Přípona pro příliš dlouhé komentáře?");
+define("CM_L7", "Zobrazit původní titulek v menu?");
+define("CM_L8", "Konfigurace menu nových komentářů");
+define("CM_L11", "v");
 define("CM_L12", "Re:");
-define("CM_L13", "Přidal");
+define("CM_L13", "Napsal");
+
+
+?>

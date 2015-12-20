@@ -1,61 +1,66 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Czech Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/20 20:04:36
+|
+|        $Author: Oxigen $
++---------------------------------------------------------------+
+*/
 define("CORE_DATE_ORDER", "DMY");
-define("LAN_MAILOUT_01", "Od jména");
-define("LAN_MAILOUT_02", "Z e-mailu");
-define("LAN_MAILOUT_03", "Na");
-define("LAN_MAILOUT_04", "CC");
-define("LAN_MAILOUT_05", "Skrytá kopie");
-define("LAN_MAILOUT_06", "Předmět");
-define("LAN_MAILOUT_07", "Příloha");
-define("LAN_MAILOUT_08", "Poslat Email");
+define("LAN_MAILOUT_01", "Od (jméno)");
+define("LAN_MAILOUT_02", "Od (e-mail)");
+define("LAN_MAILOUT_03", "Adresát");
+define("LAN_MAILOUT_04", "Viditelná kopie");
+define("LAN_MAILOUT_05", "Neviditelná kopie");
+define("LAN_MAILOUT_06", "Betrefft");
+define("LAN_MAILOUT_07", "příloha");
+define("LAN_MAILOUT_08", "Odeslat e-mail");
 define("LAN_MAILOUT_09", "Odeslat formát");
-define("LAN_MAILOUT_10", "Uživatel přihlášen");
-define("LAN_MAILOUT_11", "Vložit proměnné");
+define("LAN_MAILOUT_10", "Uživatel zapsán");
+define("LAN_MAILOUT_11", "Vložit proměnnou");
 define("LAN_MAILOUT_12", "Všichni uživatelé");
 define("LAN_MAILOUT_13", "Všichni neověřených uživatelů");
-define("LAN_MAILOUT_14", "Zobrazované jméno");
+define("LAN_MAILOUT_14", "Uživatelské jméno");
 define("LAN_MAILOUT_15", "Mailout");
 define("LAN_MAILOUT_16", "Uživatelské jméno");
-define("LAN_MAILOUT_17", "Registraci odkaz");
+define("LAN_MAILOUT_17", "odkaz pro registraci");
 define("LAN_MAILOUT_18", "ID uživatele");
 define("LAN_MAILOUT_19", "Žádná cílová e-mailová adresa zadána");
-define("LAN_MAILOUT_20", "Sendmail cesta");
+define("LAN_MAILOUT_20", "Cesta k Sendmailu");
 define("LAN_MAILOUT_21", "Hromadné poštovní položky");
-define("LAN_MAILOUT_22", "V současné době neexistují žádné uložené položky");
-define("LAN_MAILOUT_23", "userclass:");
-define("LAN_MAILOUT_24", "email(s) jsou připraveny k odeslání");
+define("LAN_MAILOUT_22", "V tuto chvíli zde nejsou uloženy žádné záznamy.");
+define("LAN_MAILOUT_23", "třída uživatele:");
+define("LAN_MAILOUT_24", "e-mail(y) jsou připraveny k odeslání");
 define("LAN_MAILOUT_25", "Hromadné poštovní ovládacích prvků");
 define("LAN_MAILOUT_26", "Pozastavit hromadnou poštu každých");
 define("LAN_MAILOUT_27", "e-maily za");
 define("LAN_MAILOUT_28", "Uložit změny");
 define("LAN_MAILOUT_29", "sekundy");
 define("LAN_MAILOUT_30", "Používá se většinou s SMTP udržovací. Pauzy déle než 30 sekund může způsobit, že prohlížeč do časového limitu");
-define("LAN_MAILOUT_31", "Odrážení Email zpracování");
+define("LAN_MAILOUT_31", "Zpracování vrácených e-mailů");
 define("LAN_MAILOUT_33", "Server příchozí pošty");
 define("LAN_MAILOUT_34", "Účet (uživatelské) jméno");
-define("LAN_MAILOUT_36", "Po kontrole odstranit odrazil maily");
+define("LAN_MAILOUT_36", "Smazat vrácené maily po zkontrolování");
 define("LAN_MAILOUT_37", "Pokračovat");
 define("LAN_MAILOUT_38", "Zrušit");
-define("LAN_MAILOUT_39", "E-mailem");
-define("LAN_MAILOUT_40", "Musíte přejmenovat <b>e107.htaccess</b> na <b>.htaccess</b> v");
-define("LAN_MAILOUT_41", "před odesláním pošty z této stránky.");
-define("LAN_MAILOUT_42", "Varování");
+define("LAN_MAILOUT_39", "Emailing");
+define("LAN_MAILOUT_40", "Musíte přejmenovat <b>e107.htaccess</b> na <b>.htaccess</b>");
+define("LAN_MAILOUT_41", "před tím, než odešlete z této stránky e-mail.");
+define("LAN_MAILOUT_42", "varování");
 define("LAN_MAILOUT_43", "Uživatelské jméno");
-define("LAN_MAILOUT_44", "Přihlášení uživatele");
-define("LAN_MAILOUT_45", "E-mail uživatele");
-define("LAN_MAILOUT_46", "Uživatel zápas");
+define("LAN_MAILOUT_44", "přihlášení");
+define("LAN_MAILOUT_45", "e-mail");
+define("LAN_MAILOUT_46", "Zahrnout uživatele, jejichž");
 define("LAN_MAILOUT_47", "obsahuje");
-define("LAN_MAILOUT_48", "rovná se");
-define("LAN_MAILOUT_51", "Předmět");
+define("LAN_MAILOUT_48", "se rovná");
+define("LAN_MAILOUT_51", "Betrefft");
 define("LAN_MAILOUT_52", "Poslední mod");
-define("LAN_MAILOUT_53", "Admins");
-define("LAN_MAILOUT_54", "Já");
-define("LAN_MAILOUT_55", "Userclass");
+define("LAN_MAILOUT_53", "Administrátoři");
+define("LAN_MAILOUT_54", "Sobě");
+define("LAN_MAILOUT_55", "Uživatelská skupina");
 define("LAN_MAILOUT_56", "Poslední návštěva (dd-mm RR)");
 define("LAN_MAILOUT_57", "Odesílání hromadných e-mailů SMTP v blocích");
 define("LAN_MAILOUT_67", "E-mail nelze odeslat. Prosím zkontrolujte nastavení SMTP, nebo vyberte jinou poštovní metodu a opakujte akci.");
@@ -71,22 +76,22 @@ define("LAN_MAILOUT_76", "Včetně e-mailu informace v protokolu");
 define("LAN_MAILOUT_77", "E-mailová adresa zdroje");
 define("LAN_MAILOUT_78", "Mailshot Status");
 define("LAN_MAILOUT_79", "Žádné mailshots zobrazení");
-define("LAN_MAILOUT_81", "Úspěšně odeslán e-mail, prosím, zkontrolujte složky Doručená pošta.");
+define("LAN_MAILOUT_81", "E-mail byl úspěšně odeslán, prosím zkontrolujte svou schránku.");
 define("LAN_MAILOUT_82", "E-maily odeslané");
 define("LAN_MAILOUT_83", "Maily jít");
 define("LAN_MAILOUT_84", "Dát na poštu identifikace");
 define("LAN_MAILOUT_85", "Původce");
 define("LAN_MAILOUT_86", "Znovu odeslat");
 define("LAN_MAILOUT_87", "SMTP Server");
-define("LAN_MAILOUT_88", "Uživatelské jméno SMTP");
-define("LAN_MAILOUT_89", "Heslo SMTP");
+define("LAN_MAILOUT_88", "SMTP Uživatelské jméno");
+define("LAN_MAILOUT_89", "SMTP Heslo");
 define("LAN_MAILOUT_90", "Funkce protokolu SMTP");
 define("LAN_MAILOUT_91", "POP před SMTP");
 define("LAN_MAILOUT_92", "SSL");
 define("LAN_MAILOUT_93", "TLS");
 define("LAN_MAILOUT_94", "(Používat protokol SSL pro gmail/googlemail)");
 define("LAN_MAILOUT_95", "Použít VERP pro hromadnou poštu");
-define("LAN_MAILOUT_96", "žádný");
+define("LAN_MAILOUT_96", "nezapisovat");
 define("LAN_MAILOUT_97", "Mailer výsledky");
 define("LAN_MAILOUT_98", "Osamocené položky");
 define("LAN_MAILOUT_99", "Potvrdit opakování mailshot");
@@ -100,14 +105,14 @@ define("LAN_MAILOUT_106", "E-mail nelze odeslat. Zdá se, že váš server není
 define("LAN_MAILOUT_107", "na");
 define("LAN_MAILOUT_108", "Výsledek");
 define("LAN_MAILOUT_109", "Zobrazit detaily");
-define("LAN_MAILOUT_110", "Odeslat zkušební e-mail");
+define("LAN_MAILOUT_110", "Poslat zkušební e-mail");
 define("LAN_MAILOUT_111", "Název e-mailu (neodesláno)");
 define("LAN_MAILOUT_112", "Odeslat zkušební e-mail");
-define("LAN_MAILOUT_113", "Zkušební e-mailu z");
+define("LAN_MAILOUT_113", "Zkušební e-mail z");
 define("LAN_MAILOUT_114", "Toto je testovací e-mail, zdá se, že nastavení e-mailu fungují ok! [br] [br] S pozdravem [br] z webové stránky systému e107.");
-define("LAN_MAILOUT_115", "E-mailem metoda");
-define("LAN_MAILOUT_116", "Pokud si nejste jisti, ponechte jako php");
-define("LAN_MAILOUT_117", "kompletní");
+define("LAN_MAILOUT_115", "Metoda posílání");
+define("LAN_MAILOUT_116", "Pokud si nejste jisti, ponechte php");
+define("LAN_MAILOUT_117", "Kompletní");
 define("LAN_MAILOUT_118", "Pokračovat, klikněte na 'spustit odesílání e-mailů. Klepněte na tlačítko Storno zastavit běh. Po dokončení, vyberte jinou stránku. Neodeslané e-mailů cal prohlížet prostřednictvím obrazovky 'Mailshot stavu'");
 define("LAN_MAILOUT_119", "Protokolování, s chybami");
 define("LAN_MAILOUT_120", "Typ účtu");
@@ -133,7 +138,7 @@ define("LAN_MAILOUT_140", "Příjemce e-mailu");
 define("LAN_MAILOUT_141", "Jméno příjemce");
 define("LAN_MAILOUT_142", "ID příjemce uživatele");
 define("LAN_MAILOUT_143", "Příjemce ČJ.");
-define("LAN_MAILOUT_144", "Odrazil");
+define("LAN_MAILOUT_144", "Odražen");
 define("LAN_MAILOUT_145", "Nový e-mail uložený");
 define("LAN_MAILOUT_146", "Chyba při ukládání e-mailu");
 define("LAN_MAILOUT_147", "Aktualizace e-mailem");
@@ -142,7 +147,7 @@ define("LAN_MAILOUT_149", "Email odesílatele");
 define("LAN_MAILOUT_150", "Jméno odesílatele");
 define("LAN_MAILOUT_151", "Zkopírovat do");
 define("LAN_MAILOUT_152", "Slepá kopie do");
-define("LAN_MAILOUT_153", "Přílohy");
+define("LAN_MAILOUT_153", "přílohy");
 define("LAN_MAILOUT_154", "Odeslat formát");
 define("LAN_MAILOUT_155", "Voliče");
 define("LAN_MAILOUT_156", "Maximální počet e-mailů odesílat na Plánovač klíště");
@@ -178,7 +183,7 @@ define("LAN_MAILOUT_185", "Přidána do fronty odesílat e-maily");
 define("LAN_MAILOUT_186", "Obecná chyba uvedení poštovní ref: – ID – hovorem");
 define("LAN_MAILOUT_187", "ID e-mailu – – na držení");
 define("LAN_MAILOUT_188", "Obecná chyba při odesílání pošty ref: – ID –");
-define("LAN_MAILOUT_189", "Testovat adresu");
+define("LAN_MAILOUT_189", "Test adresy");
 define("LAN_MAILOUT_190", "Vytvořit/poslat Mail");
 define("LAN_MAILOUT_191", "E-maily uložené");
 define("LAN_MAILOUT_192", "Dokončené Mailshots");
@@ -197,9 +202,9 @@ define("LAN_MAILOUT_207", "Chyba při načítání šablony");
 define("LAN_MAILOUT_208", "Chyba při převodu šablony");
 define("LAN_MAILOUT_209", "");
 define("LAN_MAILOUT_210", "");
-define("LAN_MAILOUT_211", "Odesláno");
-define("LAN_MAILOUT_212", "Se nezdařilo.");
-define("LAN_MAILOUT_213", "Odrazil");
+define("LAN_MAILOUT_211", "Odeslané");
+define("LAN_MAILOUT_212", "kategorie");
+define("LAN_MAILOUT_213", "Odražen");
 define("LAN_MAILOUT_214", "K odeslání");
 define("LAN_MAILOUT_215", "Uloženo");
 define("LAN_MAILOUT_216", "Chyba kódu");
@@ -218,7 +223,7 @@ define("LAN_MAILOUT_228", "– POČET – anomálie v mail_content opravit; záz
 define("LAN_MAILOUT_229", "ID e-mailu ID – – na držení");
 define("LAN_MAILOUT_230", "Chyba při držení email s ID – ID –");
 define("LAN_MAILOUT_231", "Odrážení e-maily - Metoda zpracování");
-define("LAN_MAILOUT_232", "Žádný");
+define("LAN_MAILOUT_232", "nezapisovat");
 define("LAN_MAILOUT_233", "Auto proces skript");
 define("LAN_MAILOUT_234", "Poštovní účet");
 define("LAN_MAILOUT_235", "(Váš server musí předat nebo 'potrubí' na e-mailovou adresu výše cesta skriptu výše.)");
@@ -229,7 +234,7 @@ define("LAN_MAILOUT_239", "Nejpozdější čas odeslání");
 define("LAN_MAILOUT_240", "Upozornit při spuštění úplné");
 define("LAN_MAILOUT_241", "(Toto je kromě standardních e107 oznámení možnosti)");
 define("LAN_MAILOUT_242", "Další možnosti (pouze při odesílání)");
-define("LAN_MAILOUT_243", "Oznámit");
+define("LAN_MAILOUT_243", "Upozornění");
 define("LAN_MAILOUT_244", "E-mail odeslán:");
 define("LAN_MAILOUT_245", "Automaticky vyhledat skáče");
 define("LAN_MAILOUT_246", "Je-li políčko zaškrtnuto, budete potřebovat až k aktivovat úloh v plánovači");
@@ -242,11 +247,14 @@ define("LAN_MAILOUT_252", "Má různé kontroly konzistence dat, opraví se poč
 define("LAN_MAILOUT_253", "Žádní příjemci našel - Kontrola poškození databáze");
 define("LAN_MAILOUT_254", "Zobrazit šablony e-mailu");
 define("LAN_MAILOUT_255", "Šablony e-mailu, ID:");
-define("LAN_MAILOUT_256", "Návrat");
+define("LAN_MAILOUT_256", "Pokračovat do kalendáře");
 define("LAN_MAILOUT_257", "Generovaná šablona");
 define("LAN_MAILOUT_259", "");
 define("LAN_SEND", "Odeslat");
 define("LAN_HOLD", "Držet");
 define("LAN_MAILOUT_260", "Typ uživatele");
 define("LAN_BASIC", "Základní");
-define("LAN_ADVANCED", "Pokročilé");
+define("LAN_ADVANCED", "Rozšířené");
+
+
+?>

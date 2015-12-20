@@ -1,24 +1,30 @@
 <?php
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Czech Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/20 20:06:50
+|
+|        $Author: Oxigen $
++---------------------------------------------------------------+
+*/
 
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("UCSLAN_3", "Třída, odstraněna.");
-define("UCSLAN_5", "Třída, aktualizovány.");
-define("UCSLAN_6", "Třída, uložena do databáze.");
-define("UCSLAN_7", "Zatím žádné uživatelské třídy.");
-define("UCSLAN_8", "Existující třídy");
-define("UCSLAN_9", "Žádná ikona");
+define("UCSLAN_3", "Smazat skupinu.");
+define("UCSLAN_5", "Skupina byla upravena.");
+define("UCSLAN_6", "Skupina byla uložena do databáze.");
+define("UCSLAN_7", "Žádná skupina ještě nebyla vytvořena.");
+define("UCSLAN_8", "Uživatelské skupiny");
+define("UCSLAN_9", "žádná ikona");
 define("UCSLAN_10", "Třída není odstraněna - je základní třídy, nebo se používá v definici třídy jiné, jako rodič nebo upravit třída");
-define("UCSLAN_11", "značek k potvrzení");
-define("UCSLAN_12", "Název třídy");
-define("UCSLAN_13", "Popis třídy");
-define("UCSLAN_14", "Aktualizovat třídu uživatelů");
-define("UCSLAN_15", "Vytvořit novou třídu");
-define("UCSLAN_18", "Jasné, třída");
-define("UCSLAN_20", "třída");
-define("UCSLAN_21", "Nastavení třídy uživatele");
+define("UCSLAN_11", "zaškrtněte pro potvrzení");
+define("UCSLAN_12", "Název skupiny");
+define("UCSLAN_13", "Popis skupiny");
+define("UCSLAN_14", "Uložit údaje");
+define("UCSLAN_15", "Vytvořit novou skupinu");
+define("UCSLAN_18", "Vyprázdnit skupinu");
+define("UCSLAN_20", "Viditelný pro");
+define("UCSLAN_21", "Nastavení uživatelské skupiny");
 define("UCSLAN_24", "Správce třídy");
 define("UCSLAN_25", "Vytvořit či upravit třídy");
 define("UCSLAN_26", "Třídy členství");
@@ -38,7 +44,7 @@ define("UCSLAN_40", "Nastavit počáteční třídy");
 define("UCSLAN_41", "Nastavení aktualizováno");
 define("UCSLAN_42", "Nic se nezměnilo - nejsou aktualizovány");
 define("UCSLAN_43", "Existující třídy:");
-define("UCSLAN_44", "Žádný");
+define("UCSLAN_44", "nezapisovat");
 define("UCSLAN_45", "Bod, kde sada tříd:");
 define("UCSLAN_46", "(ignorováno, pokud žádné ověření)");
 define("UCSLAN_47", "Původní zápis");
@@ -70,7 +76,7 @@ define("UCSLAN_72", "Znovu vytvořit třídu hierarchie");
 define("UCSLAN_73", "(To může být vyžadována Jestliže dojde k poškození databáze)");
 define("UCSLAN_74", "Administrátoři a moderátoři");
 define("UCSLAN_75", "Registrovaný a přihlášený členové");
-define("UCSLAN_76", "Správci webu");
+define("UCSLAN_76", "Administrátoři");
 define("UCSLAN_77", "Hlavní stránka správci");
 define("UCSLAN_78", "Moderátoři fóra a dalších oblastí");
 define("UCSLAN_79", "Typ třídy");
@@ -86,4 +92,7 @@ define("UCSLAN_88", "Identifikované prohledávačům");
 define("UCSLAN_89", "Členové skupiny jsou kontrolovány třídy");
 define("UCSLAN_90", "Nelze upravit některé třídy uživatelů systému!");
 define("UCSLAN_91", "");
-define("UCSLAN_UPDATE", "Aktualizovat");
+define("UCSLAN_UPDATE", "Uložit");
+
+
+?>

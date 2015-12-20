@@ -1,14 +1,20 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Czech Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/20 19:59:43
+|
+|        $Author: Oxigen $
++---------------------------------------------------------------+
+*/
 define("LAN_UPDATE_2", "Akce");
-define("LAN_UPDATE_3", "Není potřeba");
+define("LAN_UPDATE_3", "Není třeba");
 define("LAN_UPDATE_4", "Aktualizovat z [x] [y]");
+define("LAN_UPDATE_5", "");
 define("LAN_UPDATE_7", "Provedené [x]");
-define("LAN_UPDATE_12", "Jedna z tabulek obsahuje duplicitní položky.");
+define("LAN_UPDATE_12", "Jedna z tabulek obsahuje duplicity.");
 define("LAN_UPDATE_13", "Přidat další/chybějící základní nastavení");
 define("LAN_UPDATE_14", "Start verze:");
 define("LAN_UPDATE_20", "Aktualizace Preference(s):");
@@ -22,7 +28,7 @@ define("LAN_UPDATE_27", "Přidání tabulky:");
 define("LAN_UPDATE_28", "– POČET – uložit e-maily přestěhoval");
 define("LAN_UPDATE_29", "V závislosti na konkrétní konfiguraci budete muset spustit proces upgradu několikrát.");
 define("LAN_UPDATE_37", "Přidat index - INDEX – do tabulky – tabulky –");
-define("LAN_UPDATE_38", "Aktualizovat nastavení titulní stránky");
+define("LAN_UPDATE_38", "Upravit nastavení vstupní stránky");
 define("LAN_UPDATE_40", "Tabulka aktualizace novinek");
 define("LAN_UPDATE_41", "Pole časové pásmo uživatele zpracovány");
 define("LAN_UPDATE_42", "Chyba při přenosu dat časové pásmo uživatele - přerušeno");
@@ -40,3 +46,6 @@ define("LAN_UPDATE_56", "Aktualizace systému");
 define("LAN_UPDATE_57", "Než budete pokračovat, ručně odstraňte následující zastaralé složky ze systému:");
 define("LAN_UPDATE_CAPTION_PLUGIN", "Plugin aktualizace");
 define("LAN_UPDATE_CAPTION_CORE", "Základní aktualizace");
+
+
+?>

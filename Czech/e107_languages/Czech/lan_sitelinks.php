@@ -1,8 +1,17 @@
 <?php
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Czech Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/20 19:55:35
+|
+|        $Author: Oxigen $
++---------------------------------------------------------------+
+*/
 
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+define("LAN_SITELINKS_183", "Hlavní menu");
+define("LAN_SITELINKS_502", "Administrace");
 
-define("LAN_SITELINKS_183", "Hlavní Menu");
-define("LAN_SITELINKS_502", "Admin oblast");
+
+?>

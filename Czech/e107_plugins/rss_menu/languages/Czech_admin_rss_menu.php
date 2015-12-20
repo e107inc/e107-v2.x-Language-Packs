@@ -1,67 +1,73 @@
 <?php
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Czech Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/20 20:26:31
+|
+|        $Author: Oxigen $
++---------------------------------------------------------------+
+*/
 
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("RSS_LAN05", "Počet položek (0 = neaktivní)");
-define("RSS_MENU_L1", "může být syndikovaný pomocí těchto informačních kanálů rss.");
+define("RSS_LAN05", "Počet položek (0=vypnuto)");
+define("RSS_MENU_L1", " mohou být odebírány pomocí těchto RSS kanálů.");
 define("RSS_MENU_L2", "RSS kanály");
-define("RSS_MENU_L3", "Naše novinky");
-define("RSS_MENU_L4", "Naše komentáře");
-define("RSS_MENU_L5", "Naše fórum vlákna");
-define("RSS_MENU_L6", "Naše příspěvky fóra");
-define("RSS_MENU_L7", "Naše příspěvky chat");
-define("RSS_MENU_L8", "Naše bugtracker zprávy");
-define("RSS_MENU_L9", "Naše soubory ke stažení");
-define("RSS_NEWS", "Novinky");
-define("RSS_COM", "Komentáře");
-define("RSS_ART", "Články");
-define("RSS_REV", "Recenze");
-define("RSS_FT", "Vlákna ve fórech");
-define("RSS_FP", "Příspěvky fóra");
-define("RSS_FSP", "Zvláštní příspěvek ve fóru");
-define("RSS_BUG", "Bugtracker");
+define("RSS_MENU_L3", "Novinky");
+define("RSS_MENU_L4", "Komentáře");
+define("RSS_MENU_L5", "Témata fóra");
+define("RSS_MENU_L6", "Nové příspěvky do fóra");
+define("RSS_MENU_L7", "Nové příspěvky do chatboxu");
+define("RSS_MENU_L8", "Nové nahlášené chyby");
+define("RSS_MENU_L9", "Oznámení o nových souborech");
+define("RSS_NEWS", "nové");
+define("RSS_COM", "komentáře");
+define("RSS_ART", "článků");
+define("RSS_REV", "Zobrazeno");
+define("RSS_FT", "Témata ve fóru");
+define("RSS_FP", "příspěvků ve fóru");
+define("RSS_FSP", "Zvláštní příspěvky fóra");
+define("RSS_BUG", "Databáze chyb");
 define("RSS_FOR", "Fórum");
-define("RSS_DL", "Soubory ke stažení");
-define("RSS_PLUGIN_LAN_6", "Kanál odkazy");
-define("RSS_PLUGIN_LAN_7", "Kanál rss News");
-define("RSS_PLUGIN_LAN_8", "Rss kanál ke stažení");
-define("RSS_PLUGIN_LAN_9", "Rss kanál komentářů");
-define("RSS_PLUGIN_LAN_10", "Rss kanál novinek kategorie:");
-define("RSS_PLUGIN_LAN_11", "RSS z kategorie ke stažení:");
-define("RSS_LAN_ADMINMENU_1", "Možnosti RSS");
-define("RSS_LAN_ADMINMENU_2", "Výpis");
+define("RSS_DL", "Stažení");
+define("RSS_PLUGIN_LAN_6", "Odkazy kanálů");
+define("RSS_PLUGIN_LAN_7", "RSS kanál novinek");
+define("RSS_PLUGIN_LAN_8", "RSS kanál souborů ke stažení");
+define("RSS_PLUGIN_LAN_9", "RSS kanál komentářů");
+define("RSS_PLUGIN_LAN_10", "RSS kanál kategorie novinek:");
+define("RSS_PLUGIN_LAN_11", "RSS kanál kategorie souborů ke stažení:");
+define("RSS_LAN_ADMINMENU_1", "RSS nastavení");
+define("RSS_LAN_ADMINMENU_2", "Přehled");
 define("RSS_LAN_ADMINMENU_4", "Importovat");
 define("RSS_LAN_ERROR_1", "Toto není platný rss kanál<br><br><a href=''.e_SELF.''>< return='' to='' rss='' feed=''></a>");
-define("RSS_LAN_ERROR_2", "Soubor e107_config.php nebo jazykové soubory obsahují mezery nebo ï» ¿znaky před <? znaků. Byste měli odstranit to s textovým editorem utf8-Pokud chcete mít platný RSS feed.");
+define("RSS_LAN_ERROR_2", "Váš soubor e107_config.php, nebo soubory jazykové lokalizace zřejmě obsahují mezery, případně > před < znaky. Pro funkční RSS kanály musíte tyto případné chyby odstranit.");
 define("RSS_LAN_ERROR_3", "Žádné kanály rss jsou přítomny dosud<br>pomocí funkce importu importovat dostupné rss kanály nebo vytvořit rss kanál ručně.");
-define("RSS_LAN_ERROR_4", "Dosud nejsou k dispozici žádné kanály rss");
-define("RSS_LAN_ERROR_5", "Tento rss položka neexistuje");
-define("RSS_LAN_ERROR_6", "Neexistují žádné kanály rss import");
-define("RSS_LAN_ERROR_7", "Některé požadované pole chybí.");
-define("RSS_LAN_ADMIN_1", "Stávající RSS kanály");
+define("RSS_LAN_ERROR_4", "Žádné RSS kanály nejsou zatím dostupné");
+define("RSS_LAN_ERROR_5", "Tento RSS kanál neexistuje");
+define("RSS_LAN_ERROR_6", "Žádné RSS kanály k importu nebyly nalezeny");
+define("RSS_LAN_ERROR_7", "Některé z vyžadovaných informací nebyly vyplněny.");
+define("RSS_LAN_ADMIN_1", "Dostupné RSS kanály");
 define("RSS_LAN_ADMIN_2", "ID");
 define("RSS_LAN_ADMIN_3", "Cesta");
-define("RSS_LAN_ADMIN_5", "Adresa URL");
-define("RSS_LAN_ADMIN_6", "Text");
-define("RSS_LAN_ADMIN_7", "Omezení");
-define("RSS_LAN_ADMIN_8", "Viditelnost");
-define("RSS_LAN_ADMIN_10", "RSS kanál vytvořit položku");
-define("RSS_LAN_ADMIN_11", "Importovat kanály informačního kanálu RSS");
+define("RSS_LAN_ADMIN_5", "URL");
+define("RSS_LAN_ADMIN_6", "text");
+define("RSS_LAN_ADMIN_7", "Limit");
+define("RSS_LAN_ADMIN_8", "viditelnost");
+define("RSS_LAN_ADMIN_10", "RSS kanál vytvořen vložením");
+define("RSS_LAN_ADMIN_11", "RSS kanál vytvořen nahranými kanály");
 define("RSS_LAN_ADMIN_12", "Id tématu");
-define("RSS_LAN_ADMIN_13", "Zahrnout další novinky News Feed?");
-define("RSS_LAN_ADMIN_14", "Povolit");
-define("RSS_LAN_ADMIN_15", "Klíště odkazy na jejich označování pro import...");
-define("RSS_LAN_ADMIN_16", "importovat?");
-define("RSS_LAN_ADMIN_17", "importovat zaškrtnuto odkazy");
-define("RSS_LAN_ADMIN_18", "zdroj┼ RSS importovat.");
+define("RSS_LAN_ADMIN_13", "Zahrnout ostatní novinky do kanálu novinek?");
+define("RSS_LAN_ADMIN_14", "Zapnuto");
+define("RSS_LAN_ADMIN_15", "Zaškrtněte odkazy pro import ...");
+define("RSS_LAN_ADMIN_16", "Importovat?");
+define("RSS_LAN_ADMIN_17", "Importovat označené odkazy");
+define("RSS_LAN_ADMIN_18", "RSS kanál(y) nahrány.");
 define("RSS_LAN_ADMIN_19", "Použití zpráv jako popis v News Feed?");
-define("RSS_LAN_ADMIN_21", "aktivní a viditelné v seznamu kanálu rss");
-define("RSS_LAN_ADMIN_22", "aktivní a není viditelný v seznamu kanálu rss");
-define("RSS_LAN_ADMIN_23", "neaktivní");
-define("RSS_LAN_ADMIN_26", "Zaškrtnout vše");
-define("RSS_LAN_ADMIN_27", "Zrušit zaškrtnutí všech");
+define("RSS_LAN_ADMIN_21", "aktivní a viditelné v seznamu RSS kanálů");
+define("RSS_LAN_ADMIN_22", "aktivní, ale neviditelné v seznamu RSS kanálů");
+define("RSS_LAN_ADMIN_23", "Vypnuto");
+define("RSS_LAN_ADMIN_26", "Zaznačit vše");
+define("RSS_LAN_ADMIN_27", "Odznačit vše");
 define("RSS_LAN_ADMIN_28", "Nic se nezměnilo - není uloženo");
 define("RSS_LAN_ADMIN_31", "omezením položky RSS aktualizován");
 define("RSS_LAN_ADMIN_32", "");
@@ -69,3 +75,6 @@ define("RSS_LAN_ADMIN_33", "Zobrazit obrázek v News Feed?");
 define("RSS_LAN_0", "RSS");
 define("RSS_LAN_2", "@nospam.com");
 define("RSS_LAN_3", "noauthor@nospam.com");
+
+
+?>

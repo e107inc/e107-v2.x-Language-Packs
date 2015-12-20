@@ -1,10 +1,16 @@
 <?php
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Czech Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/20 20:07:37
+|
+|        $Author: Oxigen $
++---------------------------------------------------------------+
+*/
 
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("LAN_VALIDATE_0", "Neznámá chyba");
+define("LAN_VALIDATE_0", "Chyba: neznámá");
 define("LAN_VALIDATE_101", "Chybějící hodnota");
 define("LAN_VALIDATE_102", "Neočekávaná hodnota typ");
 define("LAN_VALIDATE_103", "Byly nalezeny neplatné znaky");
@@ -26,3 +32,6 @@ define("LAN_VALIDATE_202", "Soubor nebyl zapisovat");
 define("LAN_VALIDATE_203", "Velikost souboru překračuje povolenou velikost");
 define("LAN_VALIDATE_204", "Velikost souboru je nižší, než je přípustné minimální velikost");
 define("LAN_VALIDATE_FAILMSG", "[x] Chyba při ověřování: [y] [z].");
+
+
+?>

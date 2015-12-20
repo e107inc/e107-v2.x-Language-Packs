@@ -1,8 +1,16 @@
 <?php
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Czech Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/20 20:23:07
+|
+|        $Author: Oxigen $
++---------------------------------------------------------------+
+*/
+define("NWSF_FP_1", "Zásobování novinkami");
+define("NWSF_FP_2", "hlavní stránka");
 
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
 
-define("NWSF_FP_1", "Zpravodajské kanály");
-define("NWSF_FP_2", "Hlavní stránka");
+?>

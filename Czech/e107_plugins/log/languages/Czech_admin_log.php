@@ -1,41 +1,47 @@
 <?php
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Czech Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/20 20:22:05
+|
+|        $Author: Oxigen $
++---------------------------------------------------------------+
+*/
 
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("ADSTAT_L1", "Tento plugin bude protokolovat všechny návštěvy stránek a vybudovat podrobné statistiky obrazovky založené na informacích shromážděných.");
+define("ADSTAT_L1", "Tento doplněk zaznamenává všechny návštěvy vašich stránek a vytváží detailní seznam statistik na základě získaných dat.");
 define("ADSTAT_L2", "Statistiky protokolování byla úspěšně nainstalována. Chcete-li aktivovat, přejděte na obrazovku konfigurace a klepněte na tlačítko aktivovat.<br><b>Musíte nastavit oprávnění e107_plugins/log/logs složky na 777 (chmod 777)</b>");
-define("ADSTAT_L3", "Statistické protokolování");
-define("ADSTAT_L4", "Aktivovat statistiky protokolování");
-define("ADSTAT_L5", "Typy statistických");
+define("ADSTAT_L3", "Zaznamenávané statistiky.");
+define("ADSTAT_L4", "Aktivovat statistiky");
+define("ADSTAT_L5", "Druhy  statistik");
 define("ADSTAT_L6", "Prohlížeče");
 define("ADSTAT_L7", "Operační systémy");
-define("ADSTAT_L8", "Obrazovka rozlišení / hloubky");
-define("ADSTAT_L9", "Země/domény z");
-define("ADSTAT_L10", "Odkazující servery");
-define("ADSTAT_L11", "Vyhledávací dotazy");
+define("ADSTAT_L8", "Rozlišení obrazovky / barvy");
+define("ADSTAT_L9", "Návštěvy ze států/domén");
+define("ADSTAT_L10", "Odkazující stránky");
+define("ADSTAT_L11", "Hledané výrazy");
 define("ADSTAT_L12", "Resetovat statistiky");
 define("ADSTAT_L13", "Tímto způsobem bude vymazána historické statistiky - pozor! Odstraní statistiky na konci včera. Je samostatnou položku odstranit vybrané historická data");
-define("ADSTAT_L14", "Počty stránek");
-define("ADSTAT_L16", "Nastavení statistiky webu");
-define("ADSTAT_L18", "Povolit přístup k hlavním statistiky stránce...");
-define("ADSTAT_L19", "Poslední návštěvníci uživatele");
-define("ADSTAT_L20", "Hrabě admin návštěv");
-define("ADSTAT_L21", "Maximální počet záznamů zobrazených na stránce Statistiky");
-define("ADSTAT_L22", "Spusťte update rutiny");
-define("ADSTAT_L23", "protokoly z předchozí verze e107 byla zjištěna, je zde aktualizovat");
-define("ADSTAT_L24", "Přejít na aktualizaci skriptu");
-define("ADSTAT_L26", "Odebrat položky stránky");
-define("ADSTAT_L27", "Je-li vaše statistiky mají nesprávné stránky, můžete je odebrat zde");
-define("ADSTAT_L28", "Otevřené stránky");
+define("ADSTAT_L14", "Počty na stránce");
+define("ADSTAT_L16", "Nastavení statistiky stránek");
+define("ADSTAT_L18", "Povolit přístup k hlavním statistikám ...");
+define("ADSTAT_L19", "Poslední návštěvy");
+define("ADSTAT_L20", "Počty návštěv administrátorů");
+define("ADSTAT_L21", "Kolik nejvíce zobrazit rekordů na stránce se statistikami");
+define("ADSTAT_L22", "Spustit aktualizaci");
+define("ADSTAT_L23", "záznamy z minulých verzí e107 byly nalezeny, načtěte je zde");
+define("ADSTAT_L24", "Spustit aktualizaci dat");
+define("ADSTAT_L26", "Odebrat záznamy stránky");
+define("ADSTAT_L27", "Pokud mají vaše statistiky chybné stránky, můžete je smazat zde");
+define("ADSTAT_L28", "Otevřít stránku");
 define("ADSTAT_L29", "Název stránky");
-define("ADSTAT_L30", "Kontrola odstranění");
-define("ADSTAT_L31", "Odstranit vybrané stránky");
-define("ADSTAT_L32", "Tidy stránky");
-define("ADSTAT_L35", "Možnosti");
+define("ADSTAT_L30", "Zkontrolujte odebrání");
+define("ADSTAT_L31", "Odebrat vybrané stránky");
+define("ADSTAT_L32", "Stránka vyčištěna");
+define("ADSTAT_L35", "nastavení");
 define("ADSTAT_L36", "Export dat");
-define("ADSTAT_L38", "Je nutné nastavit e107_plugins/log/logs složky zapisovatelný");
+define("ADSTAT_L38", "Přístupová práva ke složce e107_plugins/log/logs musí být nastavena na CHMOD 777.");
 define("ADSTAT_L39", "Funkce sledování statistiky");
 define("ADSTAT_L40", "Exportovat data");
 define("ADSTAT_L41", "Výběr data");
@@ -47,7 +53,7 @@ define("ADSTAT_L46", "Datum:");
 define("ADSTAT_L47", "Neplatné datum zvolené");
 define("ADSTAT_L48", "Měsíční a všech dob");
 define("ADSTAT_L49", "All-pouze");
-define("ADSTAT_L50", "Žádný");
+define("ADSTAT_L50", "nezapisovat");
 define("ADSTAT_L51", "Výstupní Data");
 define("ADSTAT_L52", "Datové stránky");
 define("ADSTAT_L53", "Žádný výběr možných");
@@ -82,3 +88,6 @@ define("ADSTAT_L82", "Následující hodnoty nyní nastaven:");
 define("ADSTAT_L83", "Následující položky ID protokolu odstraněn:");
 define("ADSTAT_L84", "");
 define("ADSTAT_L85", "");
+
+
+?>

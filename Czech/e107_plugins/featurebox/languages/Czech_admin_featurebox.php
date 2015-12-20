@@ -1,13 +1,22 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Czech Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/20 20:15:39
+|
+|        $Author: Oxigen $
++---------------------------------------------------------------+
+*/
 
 define("FBLAN_08", "Text zprávy");
-define("FBLAN_12", "Mód");
-define("FBLAN_13", "Náhodně se točí zprávy");
-define("FBLAN_14", "Zobrazit tuto zprávu pouze");
-define("FBLAN_22", "Vykreslení typ");
-define("FBLAN_23", "V poli motiv");
-define("FBLAN_24", "Prostý");
+define("FBLAN_12", "Režim");
+define("FBLAN_13", "Náhodně měněné texty");
+define("FBLAN_14", "Zobrazit pouze tento text");
+define("FBLAN_22", "Nastavení vzhledu");
+define("FBLAN_23", "Podle šablony stránky");
+define("FBLAN_24", "Jednoduchý text");
+
+
+?>

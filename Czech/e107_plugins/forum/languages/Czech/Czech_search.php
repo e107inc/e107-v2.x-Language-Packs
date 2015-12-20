@@ -1,9 +1,18 @@
 <?php
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Czech Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/20 20:17:38
+|
+|        $Author: Oxigen $
++---------------------------------------------------------------+
+*/
 
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("FOR_SCH_LAN_2", "Vyberte fórum");
+define("FOR_SCH_LAN_2", "Vybrat fórum");
 define("FOR_SCH_LAN_4", "Celý příspěvek");
-define("FOR_SCH_LAN_5", "Jako součást vlákna");
+define("FOR_SCH_LAN_5", "Jako součást tématu");
+
+
+?>

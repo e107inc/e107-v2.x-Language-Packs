@@ -1,9 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Czech Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/20 20:03:55
+|
+|        $Author: Oxigen $
++---------------------------------------------------------------+
+*/
 define("LAN_AUDIT_LOG_001", "Přístup do zakázaných uživatelů");
 define("LAN_AUDIT_LOG_002", "Aktivní ochrana před povodněmi");
 define("LAN_AUDIT_LOG_003", "Přístup ze zakázané adresy IP");
@@ -16,7 +21,7 @@ define("LAN_AUDIT_LOG_009", "");
 define("LAN_AUDIT_LOG_010", "Uživatelská data změnil od admin");
 define("LAN_AUDIT_LOG_011", "Uživatel se přihlásil");
 define("LAN_AUDIT_LOG_012", "Uživatel potvrdil registrace");
-define("LAN_AUDIT_LOG_013", "Přihlášený uživatel");
+define("LAN_AUDIT_LOG_013", "Uživatel přihlášen");
 define("LAN_AUDIT_LOG_014", "Uživatel odhlášen");
 define("LAN_AUDIT_LOG_015", "Změněné zobrazované jméno uživatele");
 define("LAN_AUDIT_LOG_016", "Uživatel změnil heslo");
@@ -39,7 +44,7 @@ define("LAN_AL_USET_03", "Možnosti uživatelů aktualizovány");
 define("LAN_AL_USET_04", "Uživatelé vyřazeny");
 define("LAN_AL_USET_05", "Uživatel zakázal");
 define("LAN_AL_USET_06", "Uživatel unbanned");
-define("LAN_AL_USET_07", "Odstranění uživatele");
+define("LAN_AL_USET_07", "Uživatel smazán");
 define("LAN_AL_USET_08", "Provedené uživatelem admin");
 define("LAN_AL_USET_09", "Uživatele admin stav odvolán");
 define("LAN_AL_USET_10", "Uživatel schválen");
@@ -47,7 +52,7 @@ define("LAN_AL_USET_11", "Znovu odeslat ověřovací e-mail");
 define("LAN_AL_USET_12", "Znovu poslat všechny e-maily ověření");
 define("LAN_AL_USET_13", "Odrážení e-maily odstraněny");
 define("LAN_AL_USET_14", "Třídy členství aktualizován");
-define("LAN_AL_USET_15", "Přihlášení odmítnuto");
+define("LAN_AL_USET_15", "Registrace zamítnuta");
 define("LAN_AL_UCLASS_00", "Neznámá událost související se userclass");
 define("LAN_AL_UCLASS_01", "Userclass vytvořen");
 define("LAN_AL_UCLASS_02", "Userclass odstraněna");
@@ -137,8 +142,8 @@ define("LAN_AL_WELCOME_05", "");
 define("LAN_AL_ADMINPW_01", "Admin heslo změněno.");
 define("LAN_AL_BANNER_00", "Neznámá zpráva týkající se banner");
 define("LAN_AL_BANNER_01", "Aktualizace nabídky banner");
-define("LAN_AL_BANNER_02", "Prapor vytvořen");
-define("LAN_AL_BANNER_03", "Nápis aktualizován");
+define("LAN_AL_BANNER_02", "Banner vytvořen");
+define("LAN_AL_BANNER_03", "Banner Upraven");
 define("LAN_AL_BANNER_04", "Odstranění nápisu");
 define("LAN_AL_BANNER_05", "Konfigurace hlavičky aktualizován");
 define("LAN_AL_BANNER_06", "");
@@ -205,11 +210,11 @@ define("LAN_AL_SEARCH_04", "Prohledávatelné oblasti aktualizován");
 define("LAN_AL_SEARCH_05", "Vyhledávací rutiny nastavení aktualizováno");
 define("LAN_AL_SEARCH_06", "");
 define("LAN_AL_NOTIFY_01", "Oznámit nastavení aktualizováno");
-define("LAN_AL_NEWS_01", "Položky odstraněné zprávy");
+define("LAN_AL_NEWS_01", "Novinka smazána");
 define("LAN_AL_NEWS_02", "Novinky Kategorie odstraněna");
 define("LAN_AL_NEWS_03", "Odeslané zprávy odstraněny");
 define("LAN_AL_NEWS_04", "Novinky Kategorie vytvořené");
-define("LAN_AL_NEWS_05", "Novinky Kategorie aktualizován");
+define("LAN_AL_NEWS_05", "Kategorie aktualizována");
 define("LAN_AL_NEWS_06", "Předvolby Novinky aktualizováno");
 define("LAN_AL_NEWS_07", "Odeslaných zpráv povoleno");
 define("LAN_AL_NEWS_08", "Položky přidané novinky");
@@ -247,3 +252,6 @@ define("LAN_AL_ADMINUI_02", "Aktualizace tabulky DB admin UI: [x]");
 define("LAN_AL_ADMINUI_03", "Odstranit tabulku DB admin UI: [x]");
 define("LAN_AL_ADMINUI_04", "Chyba DB admin UI: [x]");
 define("LAN_AL_BACKUP", "Zálohování databáze");
+
+
+?>

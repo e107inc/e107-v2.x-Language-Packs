@@ -1,87 +1,96 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Czech Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/20 20:25:17
+|
+|        $Author: Oxigen $
++---------------------------------------------------------------+
+*/
 
 define("LAN_PM", "Soukromá zpráva");
-define("LAN_PM_1", "Odeslat soukromou zprávu");
-define("LAN_PM_2", "Na");
-define("LAN_PM_3", "Náhled");
-define("LAN_PM_4", "Userclass");
-define("LAN_PM_5", "Předmět");
+define("LAN_PM_1", "Vytvoření nové zprávy");
+define("LAN_PM_2", "Adresát");
+define("LAN_PM_3", "zobrazit");
+define("LAN_PM_4", "Uživatelská skupina");
+define("LAN_PM_5", "Betrefft");
 define("LAN_PM_6", "Zpráva");
-define("LAN_PM_7", "Emoce");
-define("LAN_PM_8", "Přílohy");
-define("LAN_PM_9", "Oznámení o přečtení");
-define("LAN_PM_10", "Pošlete mi email, když četl tento PM");
-define("LAN_PM_11", "přidat nové odeslání");
-define("LAN_PM_12", "Nejste oprávněni používat systém PM");
-define("LAN_PM_13", "Pošta je v současné době {%} % plné, nejste schopni poslat PM, dokud neodstraníte některé");
-define("LAN_PM_14", "Chyba: Možná duplicitní post, PM nebyla odeslána");
-define("LAN_PM_15", "Nejste oprávněni zaslat userclass");
-define("LAN_PM_16", "Musí být členem třídy");
-define("LAN_PM_17", "Uživatel nebyl nalezen.");
-define("LAN_PM_18", "Nejste oprávněni posílat až:");
-define("LAN_PM_19", "Pošta je plná, nejste oprávněni posílat PMs");
-define("LAN_PM_21", "Přidání tohoto PM překročí maximální odeslání velikost, PM nezaúčtované");
-define("LAN_PM_22", "Odeslání souboru se nezdařilo.");
-define("LAN_PM_23", "Nejste oprávněni odesílat přílohy");
-define("LAN_PM_24", "Mazání PM");
+define("LAN_PM_7", "Smajlíci");
+define("LAN_PM_8", "přílohy");
+define("LAN_PM_9", "Potvrzení");
+define("LAN_PM_10", "Zaslat upozornění na email, až bude tato zpráva přečtená");
+define("LAN_PM_11", "přidat další přílohu");
+define("LAN_PM_12", "Nemáte povolení používat soukromé zprávy");
+define("LAN_PM_13", "Adresář s odeslanou poštou máte na {PERCENT}% plný, takže nemůžete odeslat SZ, dokud některé nevymažete");
+define("LAN_PM_14", "Chyba: Pravděpodobně duplicitní odeslání, SZ neodeslaná");
+define("LAN_PM_15", "Nemáte oprávnění posílat SZ uživatelské skupině");
+define("LAN_PM_16", "Musíte být členem této skupiny");
+define("LAN_PM_17", "Uživatel nenalezen");
+define("LAN_PM_18", "Nemáte oprávnění posílat SZ:");
+define("LAN_PM_19", "Adresář s odeslanou poštou máte plný a proto nemůžete odesílat další SZ");
+define("LAN_PM_21", "Přidáním této SZ překročíte maximum velikosti složky odeslané pošty, SZ nebyla odeslána");
+define("LAN_PM_22", "Nahrání přílohy nebylo úspěšné");
+define("LAN_PM_23", "Nemáte oprávnění vkládat přílohy");
+define("LAN_PM_24", "Mazání SZ");
 define("LAN_PM_25", "Doručená pošta");
-define("LAN_PM_26", "K odeslání");
+define("LAN_PM_26", "Odeslaná pošta");
 define("LAN_PM_27", "Nepřečtené");
-define("LAN_PM_28", "NENÍ K DISPOZICI");
+define("LAN_PM_28", "Nedostupné");
 define("LAN_PM_29", "Zpráva odeslána");
-define("LAN_PM_30", "Čtení zpráv");
+define("LAN_PM_30", "Zpráva přečtena");
 define("LAN_PM_31", "Od");
 define("LAN_PM_32", "Přijaté");
-define("LAN_PM_33", "Odesláno");
+define("LAN_PM_33", "Odeslané");
 define("LAN_PM_34", "Žádné zprávy");
-define("LAN_PM_35", "Odeslat novou zprávu");
+define("LAN_PM_35", "Poslat novou zprávu");
 define("LAN_PM_36", "celkem");
-define("LAN_PM_37", "nepřečtené");
-define("LAN_PM_38", "PM Sent do userclass");
-define("LAN_PM_39", "Nepodařilo se odeslat do hodin");
-define("LAN_PM_40", "PM Sent uživateli");
-define("LAN_PM_41", "Nepodařilo se odeslat PM do složky Pošta k odeslání");
-define("LAN_PM_42", "PM odstraněna ze složky Doručená pošta");
-define("LAN_PM_43", "PM odstraněna ze složky Pošta k odeslání");
-define("LAN_PM_44", "Blok odstraněn: {UNAME} je dnes dovoleno posílat PMs");
-define("LAN_PM_45", "Chyba: Block není odstraněn, neznámá chyba");
-define("LAN_PM_46", "Blok není na místě pro {UNAME}");
-define("LAN_PM_47", "Blok Přidáno: {UNAME} již není povoleno posílat vám PMs");
-define("LAN_PM_48", "Chyba: Block nebyla přidána, neznámá chyba");
-define("LAN_PM_49", "Chyba: Blok již na místě pro {UNAME}");
-define("LAN_PM_50", "Blokovat uživatele");
-define("LAN_PM_51", "Odblokovat uživatele");
+define("LAN_PM_37", "Nepřečtené");
+define("LAN_PM_38", "SZ odeslaná do uživatelské skupiny");
+define("LAN_PM_39", "Selhalo odesílání SZ");
+define("LAN_PM_40", "SZ odeslána uživateli");
+define("LAN_PM_41", "selhalo odeslání do tvého adresáře odeslané pošty");
+define("LAN_PM_42", "SZ smazaná z přijaté pošty");
+define("LAN_PM_43", "SZ smazaná z odeslané pošty");
+define("LAN_PM_44", "Blokování odstraněné: {UNAME} nyní máte oprávnění posílat SZ");
+define("LAN_PM_45", "Chyba: Blokování neodstraněné, neznámá chyba");
+define("LAN_PM_46", "{UNAME} není blokován");
+define("LAN_PM_47", "Blokován: Uživately {UNAME} ,není umožněno posílat Vám SZ");
+define("LAN_PM_48", "Chyba: Blokování nazadáno, neznámá chyba");
+define("LAN_PM_49", "Chyba: Uživatel {UNAME} již je blokován");
+define("LAN_PM_50", "Blokovaný uživatel");
+define("LAN_PM_51", "Odblokovaný uživatel");
 define("LAN_PM_53", "Smazat vybrané");
-define("LAN_PM_54", "Nabídka originál");
-define("LAN_PM_55", "Poslat odpověď");
-define("LAN_PM_56", "Není dovoleno odpovědi na tuto zprávu");
-define("LAN_PM_57", "Zpráva nebyla nalezena.");
+define("LAN_PM_54", "Cituj originál");
+define("LAN_PM_55", "Pošli odpověď");
+define("LAN_PM_56", "Nejste oprávněný odpovídat na tuto zprávu");
+define("LAN_PM_57", "Zpráva nenalezená");
 define("LAN_PM_58", "Re:");
-define("LAN_PM_59", "Přejdete na stránku:");
-define("LAN_PM_60", "Nemáte oprávnění k zobrazení této zprávy");
-define("LAN_PM_61", "Žádný předmět");
-define("LAN_PM_62", "Soubor: [{FILENAME}] přesahuje omezení velikosti - není připojen");
+define("LAN_PM_59", "Jít na stranu:");
+define("LAN_PM_60", "Nejste oprávněný zobrazit tuto zprávu");
+define("LAN_PM_61", "Bez předmětu");
+define("LAN_PM_62", "Soubor: [{FILENAME}] překračuje omezení velikosti - nepřipojené");
 define("LAN_PM_63", "třída:");
-define("LAN_PM_64", "Chyba: Nemáte oprávnění blokovat zprávy od správce webů");
-define("LAN_PM_65", "Chyba: Žádná položka k odeslání");
+define("LAN_PM_64", "CHYBA: Nemáte od administrátora webu povolení k využití soukromých zpráv");
+define("LAN_PM_65", "CHYBA: Není nic k odeslání");
 define("LAN_PM_66", "Blokovaní odesílatelé");
-define("LAN_PM_67", "Žádní uživatelé blokovány");
+define("LAN_PM_67", "Žádní blokovaní uživatelé");
 define("LAN_PM_68", "Uživatelské jméno");
 define("LAN_PM_69", "Datum zablokování");
-define("LAN_PM_70", "Odstranění bloku na uživatele");
+define("LAN_PM_70", "Zrušit blokování uživatele");
 define("LAN_PM_71", "[x] přílohy odstraněn. [y] chybami");
-define("LAN_PM_100", "Nové PM od");
-define("LAN_PM_101", "Obdrželi jste novou soukromou zprávu od");
-define("LAN_PM_102", "Zpráva odeslaná z:");
+define("LAN_PM_100", "Nová SZ od");
+define("LAN_PM_101", "Dostal jste novou soukromou zprávu od");
+define("LAN_PM_102", "Zpráva odeslaná od:");
 define("LAN_PM_103", "Předmět zprávy:");
 define("LAN_PM_104", "Počet příloh:");
-define("LAN_PM_105", "Můžete si prohlédnout PM na:");
-define("LAN_PM_106", "PM přečteny");
-define("LAN_PM_107", "Soukromé zprávy, které jste odeslali do {UNAME} byla přečtena");
-define("LAN_PM_108", "Zpráva zaslaná při:");
-define("LAN_PM_109", "Počet nových zpráv:");
-define("LAN_PM_111", "Čtení");
+define("LAN_PM_105", "Můžete zobrazit tuto SZ na:");
+define("LAN_PM_106", "SZ četl");
+define("LAN_PM_107", "Soukromá zpráva, kterou jste poslal {UNAME} byla přečtená dne");
+define("LAN_PM_108", "Zpráva poslaná dne:");
+define("LAN_PM_109", "Nová zpráva/y");
+define("LAN_PM_111", "Číst");
+
+
+?>
