@@ -1,27 +1,36 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/28 19:48:37
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("LAN_EMAIL_1", "Fra:");
-define("LAN_EMAIL_2", "IP-adressen til avsender:");
-define("LAN_EMAIL_3", "Sendt element fra");
-define("LAN_EMAIL_4", "Send e-post");
-define("LAN_EMAIL_5", "E-postelement til en venn");
-define("LAN_EMAIL_6", "Jeg tenkte du kunne være interessert i dette elementet fra");
-define("LAN_EMAIL_7", "e-post til noen");
-define("LAN_EMAIL_8", "Kommentar");
-define("LAN_EMAIL_9", "Beklager - kan ikke sende e-post");
-define("LAN_EMAIL_10", "E-post til");
-define("LAN_EMAIL_11", "E-post sendt");
-define("LAN_EMAIL_13", "E-artikkel til en venn");
-define("LAN_EMAIL_14", "E-news_item til en venn");
+define("LAN_EMAIL_2", "IP addressen til avsender:");
+define("LAN_EMAIL_3", "Innholdet i e-posten er sendt fra");
+define("LAN_EMAIL_4", "Send epost");
+define("LAN_EMAIL_5", "Send dette på mail til en venn");
+define("LAN_EMAIL_6", "Jeg tenkte at du kanskje vil være interessert i dette fra");
+define("LAN_EMAIL_7", "send til noen");
+define("LAN_EMAIL_8", "Seksjoner");
+define("LAN_EMAIL_9", "Beklager - kunne ikke sende eposten");
+define("LAN_EMAIL_10", "Mailen er sendt til");
+define("LAN_EMAIL_11", "E-posten er nå sendt");
+define("LAN_EMAIL_13", "Send denne artikkelen til en venn");
+define("LAN_EMAIL_14", "Send denne nyheten til en venn");
 define("LAN_EMAIL_15", "Brukernavn:");
 define("LAN_EMAIL_106", "Det synes ikke å være en gyldig e-postadresse");
-define("LAN_EMAIL_185", "Sende artikkelen");
-define("LAN_EMAIL_186", "Sende nyheter");
-define("LAN_EMAIL_187", "E-postadresse å sende til");
-define("LAN_EMAIL_188", "Jeg tenkte du kunne være interessert i denne nyhetsartikkelen fra");
-define("LAN_EMAIL_189", "Tenkte du kunne være interessert i denne artikkelen fra");
-define("LAN_EMAIL_190", "Angi synlig");
+define("LAN_EMAIL_185", "Send Artikkel");
+define("LAN_EMAIL_186", "Send Nyhet");
+define("LAN_EMAIL_187", "E-post adresser som dette skal sendes til");
+define("LAN_EMAIL_188", "Jeg tenkte at du kanskje vil være interessert i denne nyheten fra");
+define("LAN_EMAIL_189", "Jeg tenkte at du kanskje vil være interessert i denne artikkelen fra");
+define("LAN_EMAIL_190", "Skriv inn den synlige koden");
+
+
+?>

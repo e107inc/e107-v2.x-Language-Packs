@@ -1,13 +1,19 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/28 19:55:12
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("LAN_IMA_M_01", "Mediebiblioteket");
 define("LAN_IMA_M_02", "Media opplasting/Import");
 define("LAN_IMA_M_03", "Mediekategoriene");
-define("LAN_IMA_M_04", "Opprette kategori");
+define("LAN_IMA_M_04", "Opprett kategori");
 define("LAN_IMA_M_05", "Avatarer");
 define("LAN_IMA_001", "Endringen er ikke tillatt.");
 define("LAN_IMA_002", "Ikke nok minne til å rotere");
@@ -19,56 +25,56 @@ define("LAN_IMA_O_003", "Siden [img] bbcode");
 define("LAN_IMA_O_004", "Featurebox bilder");
 define("LAN_IMA_O_005", "Featurebox [img] bbcode");
 define("LAN_IMA_O_006", "[img] bbcode");
-define("IMALAN_1", "Aktiver bildevisning");
-define("IMALAN_2", "Bilder, dette vil bruke nettstedet (kommentarer, praterommet etc) på bilder skrevet bruker [img] bbcode");
-define("IMALAN_3", "Endre metoden");
-define("IMALAN_4", "Metoden brukes til å endre størrelsen på bilder, enten GD1/2 biblioteket eller ImageMagick");
-define("IMALAN_5", "Banen til ImageMagick (Hvis valgt)");
-define("IMALAN_6", "Fullstendig bane til ImageMagick konvertere verktøyet");
-define("IMALAN_7", "Bildeinnstillinger");
-define("IMALAN_8", "Oppdatere bildeinnstillinger");
-define("IMALAN_9", "Bildeinnstillingene oppdatert");
-define("IMALAN_10", "Bildet visningsklassen");
-define("IMALAN_11", "Begrense brukere som kan vise bilder (hvis aktivert ovenfor)");
-define("IMALAN_12", "Funksjonshemmede image metoden");
-define("IMALAN_13", "Hva å gjøre med profilen, hvis bildet vises er deaktivert");
-define("IMALAN_14", "Vis bilde-URL");
+define("IMALAN_1", "Aktiver bildeposting");
+define("IMALAN_2", "Vis bilder. Dette påvirker hele nettstedet (kommentarer, chatboks, etc) for bildet postet via [img] bb koden");
+define("IMALAN_3", "Metode for størrelsesendring");
+define("IMALAN_4", "Metode som benyttes til å endre størrelse på bilder, enten GD1/2 biblioteket, eller ImageMagick");
+define("IMALAN_5", "Sti til ImageMagick (hvis valgt)");
+define("IMALAN_6", "Full sti til ImageMagick konverteringsmodul");
+define("IMALAN_7", "Innstillinger for bildet");
+define("IMALAN_8", "Oppdater billedinnstillinger");
+define("IMALAN_9", "Billedinnstillinger oppdatert");
+define("IMALAN_10", "Klasse for bildeposting");
+define("IMALAN_11", "Begrens hvilke brukere som kan poste bilder (hvis bildeposting er aktivert ovenfor)");
+define("IMALAN_12", "Metode ved inaktive bilder");
+define("IMALAN_13", "Hva som skal gjøres med postede bilder om posting avaktiveres");
+define("IMALAN_14", "Vis bildets URL");
 define("IMALAN_15", "Vis ingenting");
 define("IMALAN_18", "Lastet opp Avatar bilde");
 define("IMALAN_20", "Ikke noe forandret");
-define("IMALAN_21", "Brukes av");
-define("IMALAN_22", "Bildet ikke er i bruk");
+define("IMALAN_21", "Bildet brukt av");
+define("IMALAN_22", "Bildet ikke i bruk");
 define("IMALAN_23", "Avatarer");
-define("IMALAN_24", "Fotografere");
+define("IMALAN_24", "Bilde");
 define("IMALAN_25", "Klikk her for å slette alle ubrukte bilder");
 define("IMALAN_26", "bilde(r) slettet");
-define("IMALAN_28", "slettet");
+define("IMALAN_28", "Slettet");
 define("IMALAN_29", "Ingen bilder");
-define("IMALAN_36", "Validere avatar størrelse og tilgang");
-define("IMALAN_37", "Avatar validering");
-define("IMALAN_38", "Maksimal tillatte bredde");
-define("IMALAN_39", "Maksimalt tillatt høyde");
-define("IMALAN_40", "For brede");
-define("IMALAN_41", "For høyt");
-define("IMALAN_42", "Finner ikke");
-define("IMALAN_45", "Finner ikke");
+define("IMALAN_36", "Valider avatarstørrelse og adgang");
+define("IMALAN_37", "Avatarvalidering");
+define("IMALAN_38", "Maksimum tillatt bredde");
+define("IMALAN_39", "Maksimum tillatt høyde");
+define("IMALAN_40", "For bred");
+define("IMALAN_41", "For høy");
+define("IMALAN_42", "IKKE FUNNET");
+define("IMALAN_45", "IKKE FUNNET");
 define("IMALAN_46", "For stor");
-define("IMALAN_47", "Totalt opplastede avatarer");
+define("IMALAN_47", "Totalt antall opplastede avatarer");
 define("IMALAN_48", "Totalt antall eksterne avatarer");
 define("IMALAN_49", "Brukere med avatarer");
-define("IMALAN_50", "Totalt");
+define("IMALAN_50", "total");
 define("IMALAN_51", "Avatar for");
-define("IMALAN_52", "Banen til ImageMagick synes å være feil");
-define("IMALAN_53", "Banen til ImageMagick vises riktig, men konvertere filen kanskje ikke gyldig");
+define("IMALAN_52", "Stien til ImageMagick ser ut til å være ugyldig");
+define("IMALAN_53", "Stien til ImageMagick ser ut til å være gyldig, men konverter fil funksjonen er kanskje ikke gyldig");
 define("IMALAN_54", "GD versjon installert:");
 define("IMALAN_55", "Ikke installert");
 define("IMALAN_56", "Klikk for å velge");
 define("IMALAN_57", "Bildet for stort - Klikk for å forstørre");
-define("IMALAN_62", "Grunn");
+define("IMALAN_62", "Begrunnelse");
 define("IMALAN_65", "Ingenting funnet");
 define("IMALAN_66", "Filnavn");
 define("IMALAN_68", "Lukk");
-define("IMALAN_69", "Mappen");
+define("IMALAN_69", "katalog");
 define("IMALAN_70", "Finner ikke mappen!");
 define("IMALAN_73", "Miniatyrkvalitet");
 define("IMALAN_74", "Angi dette så lavt som mulig før tap av kvalitet er tydelig. Max. 100");
@@ -117,11 +123,14 @@ define("IMALAN_116", "Bildetekst (sett av publikum)");
 define("IMALAN_118", "MIME-typen");
 define("IMALAN_119", "Filstørrelse");
 define("IMALAN_120", "Dimensjoner");
-define("IMALAN_121", "Forhåndsvisning");
+define("IMALAN_121", "Forhåndsvis");
 define("IMALAN_122", "[x] kan ikke omdøpes. Sjekk filen permanent.");
 define("IMALAN_123", "Importer i kategorien:");
 define("IMALAN_124", "Importere valgte filer");
-define("IMALAN_125", "Slette valgte filer");
+define("IMALAN_125", "Slett valgte filer");
 define("IMALAN_126", "Kontroller minst én fil.");
 define("IMALAN_127", "Kunne ikke få Filinformasjon fra:");
 define("IMALAN_128", "Importere Media:");
+
+
+?>

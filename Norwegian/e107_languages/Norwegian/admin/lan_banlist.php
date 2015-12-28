@@ -1,19 +1,25 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/28 20:14:21
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("BANLAN_2", "Ingen forbud i listen.");
-define("BANLAN_3", "Eksisterende forbud");
-define("BANLAN_5", "Angi IP, e-postadresse eller vert");
-define("BANLAN_7", "Grunn");
-define("BANLAN_8", "Forbud adresse");
-define("BANLAN_9", "Utesteng fra området av e-post, IP eller vertsadresse");
-define("BANLAN_10", "IP / e / årsak");
-define("BANLAN_11", "Automatisk blokkering: mer enn 10 mislykkede påloggingsforsøk");
+define("BANLAN_3", "Eksisterende blokkeringer");
+define("BANLAN_5", "Angi IP, epostadresse, eller server");
+define("BANLAN_7", "Begrunnelse");
+define("BANLAN_8", "Blokker bruker");
+define("BANLAN_9", "Blokker bruker fra nettstedet");
+define("BANLAN_10", "IP / Epost / Begrunnelse");
+define("BANLAN_11", "Auto-ban: Mer en 10 mislykkede innlogginger");
 define("BANLAN_12", "Merk: Omvendt DNS er for øyeblikket deaktivert. Det må aktiveres tillate utvisning av verten.  Banning av IP og e-postadresse vil fortsatt fungere normalt.");
-define("BANLAN_13", "Merk: For å forby en bruker brukernavn, gå til siden for brukere-admin:");
+define("BANLAN_13", "Noter: For å banne en bruker med brukernavn, vennligst gå til administrasjonsdelen for medlemmer:");
 define("BANLAN_14", "Forbud liste");
 define("BANLAN_15", "Meldinger/forbud perioder");
 define("BANLAN_16", "Banning");
@@ -25,7 +31,7 @@ define("BANLAN_22", "Ukjent");
 define("BANLAN_23", "dag(er)");
 define("BANLAN_24", "timer");
 define("BANLAN_25", "Legg til i svarteliste");
-define("BANLAN_26", "For øyeblikket");
+define("BANLAN_26", "Eksisterende");
 define("BANLAN_27", "Ugyldige tegn i IP-adresse strippet - nå:");
 define("BANLAN_28", "Forbud type");
 define("BANLAN_29", "Meldingen å vise utestengt bruker");
@@ -43,7 +49,7 @@ define("BANLAN_41", "Banliste Import");
 define("BANLAN_42", "Importere valg");
 define("BANLAN_43", "Erstatt alle eksisterende importerte forbud");
 define("BANLAN_44", "Bruk løpetid dato/klokkeslett fra import");
-define("BANLAN_45", "Import");
+define("BANLAN_45", "Importer");
 define("BANLAN_46", "Importfilen:");
 define("BANLAN_47", "Sende feil");
 define("BANLAN_48", "Slettet - NUM - utløpt forbud oppføringer");
@@ -55,12 +61,12 @@ define("BANLAN_53", "Legg til hviteliste");
 define("BANLAN_54", "Ingen oppføringer i hvitelisten");
 define("BANLAN_55", "Oppføringsdatoen");
 define("BANLAN_56", "IP/Email, bruker");
-define("BANLAN_57", "Bruker");
+define("BANLAN_57", "bruker");
 define("BANLAN_58", "Legge til brukere i hvitelisten");
 define("BANLAN_59", "Redigere eksisterende hviteliste");
 define("BANLAN_60", "Redigere eksisterende svarteliste");
 define("BANLAN_61", "Hviteliste oppføringer");
-define("BANLAN_63", "Bruke omvendt DNS til å tillate verten banning");
+define("BANLAN_63", "Bruk reverser DNS for å tillate vertbanning");
 define("BANLAN_64", "Omvendt DNS-tilgang når du legger til forbud");
 define("BANLAN_65", "Du aktiverer dette alternativet vil tillate deg å forby brukere av vertsnavn, heller deretter bare IP eller e-postadresse.<br>Merk: Dette kan påvirke pageload ganger på noen verter, eller hvis en server ikke svarer");
 define("BANLAN_66", "Når et forbud oppstår, dette alternativet legger til domenet til forbudte adressen til grunn");
@@ -81,7 +87,7 @@ define("BANLAN_80", "CSV-Import format:");
 define("BANLAN_81", "Handlingslogg for forbud");
 define("BANLAN_82", "Ingen oppføringer i Ban Handlingslogg");
 define("BANLAN_83", "Dato/klokkeslett");
-define("BANLAN_84", "IP-adresse");
+define("BANLAN_84", "IP Address");
 define("BANLAN_85", "Tilleggsinformasjon");
 define("BANLAN_86", "Ban-relaterte hendelser");
 define("BANLAN_87", "Totalt - NUM - oppføringene i listen");
@@ -97,7 +103,7 @@ define("BANLAN_102", "Flom");
 define("BANLAN_103", "Antall treff");
 define("BANLAN_104", "Påloggingsfeil");
 define("BANLAN_105", "Importert");
-define("BANLAN_106", "Bruker");
+define("BANLAN_106", "bruker");
 define("BANLAN_107", "Ukjent");
 define("BANLAN_108", "Ukjent");
 define("BANLAN_109", "Gamle");
@@ -117,3 +123,6 @@ define("BANLAN_122", "Svarteliste");
 define("BANLAN_123", "Legg til i svarteliste");
 define("BANLAN_124", "Utløper");
 define("BANLAN_125", "Bruk meg IP");
+
+
+?>

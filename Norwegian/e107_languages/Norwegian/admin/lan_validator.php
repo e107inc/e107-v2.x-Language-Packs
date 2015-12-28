@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/28 20:00:14
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("LAN_VALIDATE_0", "Ukjent feil");
 define("LAN_VALIDATE_101", "Manglende verdi");
@@ -26,3 +32,6 @@ define("LAN_VALIDATE_202", "Ikke filen skrivbar");
 define("LAN_VALIDATE_203", "Filen overstiger tillatt filstørrelse");
 define("LAN_VALIDATE_204", "Filstørrelsen er lavere enn tillatt minimal filstørrelse");
 define("LAN_VALIDATE_FAILMSG", "[x] valideringsfeil: [y] [z].");
+
+
+?>
