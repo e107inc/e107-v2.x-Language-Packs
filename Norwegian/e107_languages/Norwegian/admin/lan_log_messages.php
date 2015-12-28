@@ -1,14 +1,9 @@
 <?php
-/*
-+---------------------------------------------------------------+
-|        e107 website content management system Norwegian Language File
-|        Released under the terms and conditions of the
-|        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/28 19:55:46
-|
-|        $Author: Administrador $
-+---------------------------------------------------------------+
-*/
+
+// Bing-Translated Language file 
+// Generated for e107 v2.x by the Multi-Language Plugin
+// https://github.com/e107inc/multilan
+
 define("LAN_AUDIT_LOG_001", "Utestengt bruker tilgang");
 define("LAN_AUDIT_LOG_002", "Beskyttelse mot oversvømmelse aktivert");
 define("LAN_AUDIT_LOG_003", "Tilgang fra forbudte IP-adresse");
@@ -21,8 +16,8 @@ define("LAN_AUDIT_LOG_009", "");
 define("LAN_AUDIT_LOG_010", "Brukerdata som er endret av admin");
 define("LAN_AUDIT_LOG_011", "Brukeren registrerte");
 define("LAN_AUDIT_LOG_012", "Brukeren bekreftet registreringen");
-define("LAN_AUDIT_LOG_013", "Medlem har logget inn");
-define("LAN_AUDIT_LOG_014", "Medlem har logget ut");
+define("LAN_AUDIT_LOG_013", "Bruker pålogget");
+define("LAN_AUDIT_LOG_014", "Brukeren logget ut");
 define("LAN_AUDIT_LOG_015", "Brukeren endret navn");
 define("LAN_AUDIT_LOG_016", "Bruker endret passord");
 define("LAN_AUDIT_LOG_017", "Brukeren endret e-postadresse");
@@ -44,7 +39,7 @@ define("LAN_AL_USET_03", "Brukeralternativer oppdatert");
 define("LAN_AL_USET_04", "Brukere beskjæres");
 define("LAN_AL_USET_05", "Bruker forbudt");
 define("LAN_AL_USET_06", "Brukeren unbanned");
-define("LAN_AL_USET_07", "Bruker slettet");
+define("LAN_AL_USET_07", "Brukeren slettes");
 define("LAN_AL_USET_08", "Brukeren gjorde admin");
 define("LAN_AL_USET_09", "Admin brukerstatus opphevet");
 define("LAN_AL_USET_10", "Brukeren godkjent");
@@ -52,7 +47,7 @@ define("LAN_AL_USET_11", "Send godkjenningen email");
 define("LAN_AL_USET_12", "Sende alle validering emails");
 define("LAN_AL_USET_13", "Retur-postmeldinger slettet");
 define("LAN_AL_USET_14", "Klassen medlemskap oppdatert");
-define("LAN_AL_USET_15", "Registrering ble avbrutt");
+define("LAN_AL_USET_15", "Registrering nektet");
 define("LAN_AL_UCLASS_00", "Ukjent userclass-hendelse");
 define("LAN_AL_UCLASS_01", "Brukerklasse opprettet");
 define("LAN_AL_UCLASS_02", "Brukerklasse slettet");
@@ -151,7 +146,7 @@ define("LAN_AL_IMALAN_00", "Ukjent bilderelaterte melding");
 define("LAN_AL_IMALAN_01", "Avatar slettet");
 define("LAN_AL_IMALAN_02", "Alle avatarer og bilder slettes");
 define("LAN_AL_IMALAN_03", "Avatar slettet");
-define("LAN_AL_IMALAN_04", "Innstillingene er oppdatert");
+define("LAN_AL_IMALAN_04", "Innstillingene oppdatert");
 define("LAN_AL_IMALAN_05", "");
 define("LAN_AL_IMALAN_06", "");
 define("LAN_AL_LANG_00", "Ukjent språk-relaterte melding");
@@ -210,11 +205,11 @@ define("LAN_AL_SEARCH_04", "Søkbare områder oppdatert");
 define("LAN_AL_SEARCH_05", "Søkeinnstillinger handler oppdatert");
 define("LAN_AL_SEARCH_06", "");
 define("LAN_AL_NOTIFY_01", "Varsle innstillingene oppdatert");
-define("LAN_AL_NEWS_01", "Nyhet er slettet");
+define("LAN_AL_NEWS_01", "Nyheter element slettes");
 define("LAN_AL_NEWS_02", "Nyheter kategori slettet");
 define("LAN_AL_NEWS_03", "Nyhetsartikkel slettet");
 define("LAN_AL_NEWS_04", "Nyheter kategori opprettet");
-define("LAN_AL_NEWS_05", "Nyhetskategori oppdatert");
+define("LAN_AL_NEWS_05", "Nyheter kategori oppdatert");
 define("LAN_AL_NEWS_06", "Nyheter innstillinger oppdatert");
 define("LAN_AL_NEWS_07", "Nyhetsartikkel autorisert");
 define("LAN_AL_NEWS_08", "Nyheter element lagt");
@@ -252,6 +247,3 @@ define("LAN_AL_ADMINUI_02", "Admin-grensesnitt DB tabellen oppdatering: [x]");
 define("LAN_AL_ADMINUI_03", "Admin-grensesnitt DB tabellen slette: [x]");
 define("LAN_AL_ADMINUI_04", "Admin-grensesnitt DB feil: [x]");
 define("LAN_AL_BACKUP", "Databasesikkerhetskopi");
-
-
-?>
