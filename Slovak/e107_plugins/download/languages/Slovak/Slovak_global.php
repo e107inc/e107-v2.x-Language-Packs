@@ -9,9 +9,8 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-
 define("LAN_PLUGIN_DOWNLOAD_NAME", "Stahnutia");
-define("LAN_PLUGIN_DOWNLOAD_DIZ", "");
+define("LAN_PLUGIN_DOWNLOAD_DIZ", "Toto rozšírenie je plne funkčný systém na sťahovanie súborov");
 
 
 ?>

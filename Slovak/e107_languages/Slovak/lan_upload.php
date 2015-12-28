@@ -9,15 +9,15 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("PAGE_NAME", "uploadovať");
-define("LAN_UL_001", "Neplatná e-mailová adresa");
-define("LAN_UL_002", "Nemáte oprávnenia pre uploadnutie súborov na server.");
+define("PAGE_NAME", "Nahrávanie");
+define("LAN_UL_001", "Neplatná emailová adresa");
+define("LAN_UL_002", "Nemáte oprávnenia pre nahratie súborov na server.");
 define("LAN_UL_020", "chyba");
-define("LAN_UL_021", "Zlyhanie uploadu");
-define("LAN_UL_022", "");
+define("LAN_UL_021", "Zlyhanie nahrávania");
+define("LAN_UL_022", "sa môže meniť v závislosti od typu súboru");
 define("LAN_UL_023", "Typ");
-define("LAN_UL_024", "");
-define("LAN_UL_025", "");
+define("LAN_UL_024", "Maximálna veľkosť");
+define("LAN_UL_025", "Nahrávanie nie je povolené");
 define("LAN_UL_026", "");
 define("LAN_UL_027", "");
 define("LAN_UL_032", "Musíte zvoliť kategóriu");
@@ -43,7 +43,7 @@ define("LAN_414", "Fungujúce demo");
 define("LAN_415", "vložte URL, kde je možné vidieť uploadovaný súbor v reále");
 define("LAN_416", "Uložiť a Uploadovať");
 define("LAN_417", "Upload súboru");
-define("LAN_418", "");
+define("LAN_418", "Absolútna maximálna veľkosť súboru:");
 define("DOWLAN_11", "Kategória");
 define("LAN_419", "Povolené typy súborov");
 define("LAN_420", "polia sú povinné");

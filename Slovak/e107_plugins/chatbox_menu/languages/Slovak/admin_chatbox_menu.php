@@ -9,7 +9,6 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-
 define("CHBLAN_11", "Zobrazených príspevkov");
 define("CHBLAN_12", "počet zobrazených príspevkov v chatboxe");
 define("CHBLAN_20", "Nastavenia chatboxu");
@@ -19,7 +18,7 @@ define("CHBLAN_24", "Jeden deň");
 define("CHBLAN_25", "Jeden týždeň");
 define("CHBLAN_26", "Jeden mesiac");
 define("CHBLAN_27", "- Zmazať všetky správy -");
-define("CHBLAN_29", "");
+define("CHBLAN_29", "Zobraziť chatbox v rámci skrolujúcej vrstvy o výške [x]");
 define("CHBLAN_31", "Ukázať smajlíkov");
 define("CHBLAN_32", "Moderovať užívateľské triedy");
 define("CHBLAN_33", "Súčty užívateľa sú prepočítané");
@@ -28,7 +27,7 @@ define("CHBLAN_35", "Prepočítať");
 define("CHBLAN_36", "Možnosťi zobrazenia chatboxu");
 define("CHBLAN_37", "Normálny chatbox");
 define("CHBLAN_38", "Použiť javascript kód na dynamickú aktualizáciu príspevkov (AJAX)");
-define("CHBLAN_42", "");
+define("CHBLAN_42", "Zobraziť počet príspevkov v profile užívateľa");
 
 
 ?>

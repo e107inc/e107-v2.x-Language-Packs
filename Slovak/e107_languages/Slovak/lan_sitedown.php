@@ -9,9 +9,9 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("PAGE_NAME", "Stránky sú dočasne uzavreté");
+define("PAGE_NAME", "Stránka sú dočasne uzavretá");
 define("LAN_SITEDOWN_00", "je dočasne uzavretá");
-define("LAN_SITEDOWN_01", "");
+define("LAN_SITEDOWN_01", "Dočasne sme uzatvorili stránku kvôli nevyhnutnej údržbe. Nemalo by to trvať dlho - vráťte sa čoskoro späť, za nepohodlie sa ospravedlňujeme.");
 
 
 ?>

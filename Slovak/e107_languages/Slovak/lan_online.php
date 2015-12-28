@@ -24,7 +24,7 @@ define("ONLINE_EL12", "Odpoveď na");
 define("ONLINE_EL13", "Fórum");
 define("ONLINE_EL14", "vlákno");
 define("ONLINE_EL15", "stránka");
-define("ONLINE_EL16", "");
+define("ONLINE_EL16", "Informácie nie sú dostupné");
 define("CLASSRESTRICTED", "Stránka vyhradená pre triedu užívateľov");
 define("CHAT", "Chat");
 define("DOWNLOAD", "Stahnutia");
@@ -57,7 +57,7 @@ define("SURVEY", "Prezerá");
 define("ARTICLE", "Článok");
 define("CONTENT", "Stránka obsahu");
 define("REVIEW", "Ukázať");
-define("OTHER", "");
+define("OTHER", "Ďalšia stránka:");
 
 
 ?>

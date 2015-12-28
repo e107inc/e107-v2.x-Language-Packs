@@ -10,7 +10,7 @@
 +---------------------------------------------------------------+
 */
 define("LAN_PLUGIN_GSITEMAP_NAME", "Google mapa stránok");
-define("LAN_PLUGIN_GSITEMAP_DESCRIPTION", "");
+define("LAN_PLUGIN_GSITEMAP_DESCRIPTION", "Generuje mapu stránok");
 
 
 ?>

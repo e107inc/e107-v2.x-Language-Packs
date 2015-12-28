@@ -9,10 +9,10 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("TD_MENU_L1", "Iné novinky");
-define("TD_MENU_L2", "Iné novinky");
-define("LAN_NEWSCAT_MENU_TITLE", "Kategórie noviniek");
-define("LAN_NEWSLATEST_MENU_TITLE", "");
+define("TD_MENU_L1", "Iné články");
+define("TD_MENU_L2", "Iné články");
+define("LAN_NEWSCAT_MENU_TITLE", "Kategórie článkov");
+define("LAN_NEWSLATEST_MENU_TITLE", "Posledné články");
 
 
 ?>

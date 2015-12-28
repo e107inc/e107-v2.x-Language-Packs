@@ -20,11 +20,11 @@ define("UP_LAN_6", "Vlákna");
 define("UP_LAN_7", "Žiadne komentáre");
 define("UP_LAN_8", "Žiadne príspevky");
 define("UP_LAN_9", " na");
-define("UP_LAN_10", "Re");
+define("UP_LAN_10", "Re:");
 define("UP_LAN_11", "Zaslal");
 define("UP_LAN_12", "hľadať");
 define("UP_LAN_14", "príspevkov fóra");
-define("UP_LAN_15", "Re");
+define("UP_LAN_15", "Re:");
 define("UP_LAN_16", "IP adresa");
 
 

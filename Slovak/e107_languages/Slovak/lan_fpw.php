@@ -17,7 +17,7 @@ define("LAN_06", "Pokus o aktualizáciu hesla");
 define("LAN_07", "Niekto s nasledujúcou IP adresou");
 define("LAN_08", "sa pokúšal o zmenu heslo hlavného administrátora.");
 define("LAN_09", "Heslo aktualizované od");
-define("LAN_112", "");
+define("LAN_112", "Emailová adresa, s ktorou ste sa zaregistrovali na tejto stránke");
 define("LAN_213", "Toto užívateľské meno/heslo nebolo nájdené v databáze.");
 define("LAN_214", "Nie je možné aktualizovať heslo");
 define("LAN_218", "Vaše užívateľské meno je:");
@@ -36,13 +36,13 @@ define("LAN_FPW14", "bola zaslané od niekoho s IP adresou");
 define("LAN_FPW15", "Toto už nie je vaše heslo. Musíte dokončiť zmenu hesla vo vašom emaile.");
 define("LAN_FPW16", "Ak ste nežiadali o reset hesla a ak nechcete resetovať vaše heslo, prosím, jednoducho tento email ignorujte");
 define("LAN_FPW17", "Odkaz (URL) je platný len nasledujúcich 48 hodín.");
-define("LAN_FPW18", "");
-define("LAN_FPW19", "");
-define("LAN_FPW20", "");
-define("LAN_FPW21", "");
-define("LAN_FPW_100", "");
-define("LAN_FPW_101", "");
-define("LAN_FPW_102", "");
+define("LAN_FPW18", "Požadovaná zmena hesla");
+define("LAN_FPW19", "Odoslanie emailu zlyhalo");
+define("LAN_FPW20", "Odoslanie emailu úspešné");
+define("LAN_FPW21", "Užívateľ klikol na link s resetovaním hesla");
+define("LAN_FPW_100", "Zabudli ste svoje heslo?");
+define("LAN_FPW_101", "Bez obáv. Len zadajte nižšie svoju emailovú adresu a my vám pošleme pokyny na jeho obnovenie.");
+define("LAN_FPW_102", "Obnova hesla");
 
 
 ?>

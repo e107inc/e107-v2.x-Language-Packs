@@ -16,12 +16,12 @@ define("UC_LAN_3", "členov");
 define("UC_LAN_4", "Len pre čítanie");
 define("UC_LAN_5", "Administrátori");
 define("UC_LAN_6", "Hlavný administrátor");
-define("UC_LAN_7", "");
-define("UC_LAN_8", "");
+define("UC_LAN_7", "Moderátori fóra");
+define("UC_LAN_8", "Adminovia a moderátori");
 define("UC_LAN_9", "Noví užívatelia");
 define("UC_LAN_10", "Vyhľadávací boti");
-define("UC_LAN_INVERT", "");
-define("UC_LAN_INVERTLABEL", "");
+define("UC_LAN_INVERT", "Bez --CLASS--");
+define("UC_LAN_INVERTLABEL", "Všetci okrem...");
 
 
 ?>

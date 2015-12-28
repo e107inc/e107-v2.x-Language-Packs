@@ -9,7 +9,7 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("LAN_PLUGIN_PAGE_BOCHAP", "");
+define("LAN_PLUGIN_PAGE_BOCHAP", "Vyhľadávanie v Kniha/Kapitola");
 
 
 ?>

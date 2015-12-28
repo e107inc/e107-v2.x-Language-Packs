@@ -9,11 +9,11 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("LAN_PLUGIN_FAQS_NAME", "");
-define("LAN_PLUGIN_FAQS_DESCRIPTION", "");
-define("LAN_PLUGIN_FAQS_FUNCTIONNAME", "");
-define("LAN_PLUGIN_FAQS_FRONT_NAME", "");
-define("LAN_PLUGIN_FAQS_SEARCH", "");
+define("LAN_PLUGIN_FAQS_NAME", "Najčastejšie otázky");
+define("LAN_PLUGIN_FAQS_DESCRIPTION", "Jednoduchý plugin na pridanie najčastejších otázok na vašu webstránku");
+define("LAN_PLUGIN_FAQS_FUNCTIONNAME", "FAQ kategórie");
+define("LAN_PLUGIN_FAQS_FRONT_NAME", "FAQ (Najčastejšie kladené otázky)");
+define("LAN_PLUGIN_FAQS_SEARCH", "Vyhľadávať vo FAQ");
 
 
 ?>

@@ -98,7 +98,7 @@ define("LAN_SEARCH_76", "Odoslané na stránku");
 define("LAN_SEARCH_77", "Odoslané na stránku profilu");
 define("LAN_SEARCH_98", "Články");
 define("LAN_SEARCH_201", "Zmeňte svoju požiadavku na vyhľadávanie, prosím");
-define("LAN_SEARCH_202", "");
+define("LAN_SEARCH_202", "Režim pokročilého vyhľadávania");
 
 
 ?>

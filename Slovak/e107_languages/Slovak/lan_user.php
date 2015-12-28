@@ -10,7 +10,7 @@
 +---------------------------------------------------------------+
 */
 define("LAN_USER_01", "Užívateľské meno");
-define("LAN_USER_02", "");
+define("LAN_USER_02", "Prihlasovacie meno");
 define("LAN_USER_03", "Skutočné meno");
 define("LAN_USER_04", "Titul");
 define("LAN_USER_06", "Fotografie");
@@ -37,7 +37,7 @@ define("LAN_USER_35", "[Skrytý stav]");
 define("LAN_USER_36", "Zobraziť komentáre");
 define("LAN_USER_37", "Zobraziť príspevky vo fóre");
 define("LAN_USER_38", "Kliknite sem pre úpravu svojich údajov");
-define("LAN_USER_39", "");
+define("LAN_USER_39", "Sem kliknite, ak chcete meniť údaje o užívateľovi");
 define("LAN_USER_40", "predchádzajúci člen");
 define("LAN_USER_41", "nasledujúci člen");
 define("LAN_USER_42", "bez fotky");
@@ -50,13 +50,13 @@ define("LAN_USER_50", "Profil užívateľa");
 define("LAN_USER_51", "Neplatný užívateľ");
 define("LAN_USER_52", "Registrovaní užívatelia");
 define("LAN_USER_53", "Žiadni registrovaní užívatelia");
-define("LAN_USER_54", "");
+define("LAN_USER_54", "Úroveň");
 define("LAN_USER_55", "K zobrazeniu stránky nemáte potrebné práva.");
 define("LAN_USER_56", "Registrovaní členovia:");
 define("LAN_USER_57", "Poradie:");
 define("LAN_USER_58", "Člen");
 define("LAN_USER_59", "Poslané:");
-define("LAN_USER_60", "E-mailová adresa:");
+define("LAN_USER_60", "Emailová adresa:");
 define("LAN_USER_62", "Pošlite súkromnú správu");
 define("LAN_USER_63", "Skutočné meno:");
 define("LAN_USER_64", "Štatistiky webu");
@@ -70,18 +70,18 @@ define("LAN_USER_71", "Podpis:");
 define("LAN_USER_72", "Avatar:");
 define("LAN_USER_73", "výber obsahu/zoznamu e-mailov");
 define("LAN_USER_74", "Titul");
-define("LAN_USER_75", "");
+define("LAN_USER_75", "Vaše --SOMETHING-- je povinné");
 define("LAN_USER_76", "Prihlásený do");
-define("LAN_USER_77", "");
-define("LAN_USER_78", "Min.");
+define("LAN_USER_77", "Vaše heslo musí mať najmenej --COUNT-- znakov.");
+define("LAN_USER_78", "Minim.");
 define("LAN_USER_79", "znakov");
 define("LAN_USER_80", "meno, pod ktorým budete na stránke vystupovať");
 define("LAN_USER_81", "Meno užívateľa:");
 define("LAN_USER_82", "meno, pod ktorým sa budete prihlasovať na stránku");
 define("LAN_USER_83", "Skryť e-mail?:");
 define("LAN_USER_84", "Zabráni zobrazenie Vašej e-mailovej adresy na tomto webe");
-define("LAN_USER_85", "");
-define("LAN_USER_86", "");
+define("LAN_USER_85", "Ak chcete zmeniť svoje užívateľské meno, musíte požiadať hlavného administrátora");
+define("LAN_USER_86", "Maximálna veľkosť avatara je --WIDTH-- x --HEIGHT-- pixelov");
 
 
 ?>
