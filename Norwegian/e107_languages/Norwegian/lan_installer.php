@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/10/03 23:32:31
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("LANINS_001", "e107 installasjon");
 define("LANINS_002", "Trinn");
@@ -52,11 +58,13 @@ define("LANINS_044", "Opprettet databasen.");
 define("LANINS_045", "Klikk på knappen for å gå videre til neste trinn.");
 define("LANINS_046", "5");
 define("LANINS_047", "Administrator detaljer");
+define("LANINS_048", "EXIF informasjon");
 define("LANINS_049", "To passordene du oppgav er ikke det samme. Vennligst gå tilbake og prøv på nytt.");
 define("LANINS_050", "XML-utvidelse");
 define("LANINS_051", "Installert");
 define("LANINS_052", "Ikke installert");
 define("LANINS_053", "e107 v2.x krever PHP XML-filtypen er installert. Kontakt verten eller lese informasjonen på [x] før du fortsetter");
+define("LANINS_054", "e107 v2.x krever at PHP EXIF informasjonen er installert. Vennligst ta kontakt med din host eller lese informasjonen på [x] før du fortsetter");
 define("LANINS_055", "Installere bekreftelse");
 define("LANINS_056", "6");
 define("LANINS_057", "e107 har nå all informasjon den trenger for å fullføre installasjonen.
@@ -66,13 +74,6 @@ define("LANINS_058", "7");
 define("LANINS_060", "Kan ikke lese sql datafile Vennligst sikre filen [b]core_sql.php[/b] finnes i [b] e107_core/sql [/ b] mappen.");
 define("LANINS_061", "e107 kunne ikke opprette alle de nødvendige database-tabellene.
 Vennligst Fjern databasen og korrigere eventuelle problemer før du prøver igjen.");
-define("LANINS_062", "[b] Velkommen til det nye nettstedet! [/ b] e107 har installert og er nå klar til å godta.
-
-Din administrasjonen delen [link=e107_admin/admin.php]located her [/link], klikk for å gå dit nå. Du må logge inn brukernavn og passord under installasjonen.
-
-[b] Støtte [/ b] e107 hjemmeside: [link = http://e107.org] http://e107.org [/link], vil du finne FAQ og dokumentasjon her.
-Forum: [link = http://e107.org/e107_plugins/forum/forum.php] http://e107.org/e107_plugins/forum/forum.php [/link] Plugin utviklere: [link = http://www.e107coders.org] http://e107coders.org [/link] [b] nedlastinger [/ b] Plugins: [link = http://plugins.e107.org] http://plugins.e107.org [/link] temaer: [link = http://themes.e107.org] http://themes.e107.org [/link] Takk for prøver e107, håper vi den oppfyller behovene nettsted.
-(Du kan slette denne meldingen fra din admin-delen.)");
 define("LANINS_069", "e107 er installert!
 
 Av sikkerhetsgrunner bør du nå angi filtillatelsene på filen [b]e107_config.php[/b] tilbake til 644.
@@ -120,3 +121,6 @@ define("LANINS_126", "Av sikkerhetsgrunner bør du nå angi filtillatelsene på 
 define("LANINS_127", "Databasen [x] finnes allerede. Vil du overskrive den? (eksisterende data vil gå tapt)");
 define("LANINS_128", "Overskrive");
 define("LANINS_129", "Databasen ikke funnet.");
+
+
+?>

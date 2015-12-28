@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/28 01:51:19
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("PRFLAN_1", "Områdeinformasjon");
 define("PRFLAN_2", "Områdenavn");
@@ -233,3 +239,12 @@ define("PRFLAN_254", "E-post og kontaktinfo");
 define("PRFLAN_255", "Filopplasting");
 define("PRFLAN_256", "Avanserte alternativer");
 define("PRFLAN_257", "JavaScript Framework");
+define("PRFLAN_258", "Kontakt skjema Synlighet");
+define("PRFLAN_259", "Registrer & Logg inn");
+define("PRFLAN_260", "Kun Innlogging");
+define("PRFLAN_261", "Feltalternativer");
+define("PRFLAN_262", "Passord i e-post bekreftelsen");
+define("PRFLAN_263", "Bør være unik for denne hjemmesiden");
+
+
+?>

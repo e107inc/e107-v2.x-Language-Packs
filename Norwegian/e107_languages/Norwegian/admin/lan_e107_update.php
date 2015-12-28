@@ -1,12 +1,19 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/28 01:47:34
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("LAN_UPDATE_2", "Handlingen");
 define("LAN_UPDATE_3", "Ikke nødvendig");
 define("LAN_UPDATE_4", "Oppdatere fra [x] til [y]");
+define("LAN_UPDATE_5", "Oppdater kjerne database struktur");
 define("LAN_UPDATE_7", "Henrettet [x]");
 define("LAN_UPDATE_12", "En av tabellene inneholder duplikatoppføringer.");
 define("LAN_UPDATE_13", "Legge til flere mangler kjernen innstillinger");
@@ -40,3 +47,6 @@ define("LAN_UPDATE_56", "Systemoppdatering");
 define("LAN_UPDATE_57", "Før du fortsetter, vennligst slett manuelt følgende utdatert mapper fra systemet:");
 define("LAN_UPDATE_CAPTION_PLUGIN", "Plugin oppdateringer");
 define("LAN_UPDATE_CAPTION_CORE", "Kjernen oppdateringer");
+
+
+?>

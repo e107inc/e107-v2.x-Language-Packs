@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/28 01:42:08
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("COMLAN_0", "[blokkert av admin]");
 define("COMLAN_1", "Oppheve");
@@ -56,6 +62,8 @@ define("COMLAN_337", "Oppdatert.");
 define("COMLAN_400", "godkjent");
 define("COMLAN_401", "blokkert");
 define("COMLAN_402", "ventende");
+define("COMLAN_403", "Legg igjen en beskjed...");
+define("COMLAN_404", "Godkjenn");
 define("COMLAN_TYPE_1", "Nyheter");
 define("COMLAN_TYPE_2", "Last ned");
 define("COMLAN_TYPE_3", "FAQ");
@@ -65,3 +73,6 @@ define("COMLAN_TYPE_6", "bugtrack");
 define("COMLAN_TYPE_7", "ideer");
 define("COMLAN_TYPE_8", "USERPROFILE");
 define("COMLAN_TYPE_PAGE", "Innhold");
+
+
+?>

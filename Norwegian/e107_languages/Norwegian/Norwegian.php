@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/10/24 23:24:04
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 setlocale(LC_ALL,  'no_NO.UTF-8', 'no_NO.utf8', 'no');
 define("CORE_LC", "no");
@@ -100,5 +106,9 @@ define("LAN_USER", "Bruker");
 define("LAN_EMAIL", "E-postadresse");
 define("LAN_WROTE", "skrev");
 define("LAN_RE_ORDER", "Endre rekkefølgen");
+define("LAN_RELATED", "Relatert");
 define("LAN_ENTER_USRNAME_EMAIL", "Skriv inn ditt brukernavn eller e-post");
 define("LAN_PWD_REQUIRED", "Passord kreves");
+
+
+?>

@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/28 01:48:39
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("NWSLAN_4", "Nyheter - eksisterende nyheter");
 define("NWSLAN_6", "Kategori");
@@ -124,3 +130,7 @@ define("LAN_NEWS_91", "Listevisning grense per side");
 define("LAN_NEWS_92", "f.eks. News.php?all eller news.php?cat.1 eller news.php?tag=xxx");
 define("LAN_NEWS_93", "Listevisning innhold");
 define("LAN_NEWS_94", "Elementer som er tilordnet disse malene vises i listen.");
+define("LAN_NEWS_95", "En annen nyhet bruker SEF URL: [x]");
+
+
+?>

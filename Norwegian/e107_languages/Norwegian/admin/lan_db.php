@@ -1,9 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/11/08 14:59:44
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 define("DBLAN_1", "Kjernen sikkerhetskopiert i databasen.");
 define("DBLAN_4", "Velg for å kontrollere gyldigheten av e107 database");
 define("DBLAN_5", "Når databasen gyldighet");
@@ -12,8 +17,7 @@ define("DBLAN_7", "Optimalisere SQL-database");
 define("DBLAN_8", "Velg for å sikkerhetskopiere innstillingene for kjernen");
 define("DBLAN_9", "Backup kjernen");
 define("DBLAN_10", "Verktøy");
-define("DBLAN_11", "MySQL-database");
-define("DBLAN_12", "optimalisert");
+define("DBLAN_11", "MySQL-database [x] er optimalisert");
 define("DBLAN_15", "Velg for å se etter tilgjengelige db oppdateringer");
 define("DBLAN_16", "Se etter oppdateringer");
 define("DBLAN_17", "Pref. navn");
@@ -22,7 +26,7 @@ define("DBLAN_19", "Velg for å åpne redigeringsprogrammet innstillinger (bare 
 define("DBLAN_20", "Innstillinger Editor");
 define("DBLAN_22", "Plugin visning og skanning");
 define("DBLAN_23", "Skanning");
-define("DBLAN_25", "Directory");
+define("DBLAN_25", "Mappe");
 define("DBLAN_26", "Inkludert add-ons");
 define("DBLAN_27", "Installert");
 define("DBLAN_28", "Velg for å skanne plugin kataloger for endringer");
@@ -102,3 +106,7 @@ define("DBLAN_107", "[folder] er ikke skrivbar");
 define("DBLAN_108", "Opprettet:");
 define("DBLAN_109", "Kopierte:");
 define("DBLAN_110", "Kunne ikke kopiere:");
+define("DBLAN_111", "Tabeller ser ut til å være i orden!");
+
+
+?>

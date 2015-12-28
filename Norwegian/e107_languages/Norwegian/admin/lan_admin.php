@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/28 01:45:54
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("ADLAN_0", "Nyheter");
 define("ADLAN_1", "Administrere nyheter");
@@ -261,3 +267,10 @@ define("LAN_USER_QUICKADD", "Hurtigtillegg bruker");
 define("LAN_USER_PRUNE", "Prune brukere");
 define("LAN_USER_OPTIONS", "Brukeralternativer");
 define("LAN_USER_RANKS", "Brukeren rekkene");
+define("LAN_CONTROL_PANEL", "[x]'s Kontrol Panel");
+define("LAN_CUSTOM_URL", "Spesial tilpasset URL");
+define("LAN_CUSTOM_URL_DISABLED", "Deaktivert eller Legg inn spesial tilpasset URL");
+define("LAN_GENERAL", "Generell");
+
+
+?>

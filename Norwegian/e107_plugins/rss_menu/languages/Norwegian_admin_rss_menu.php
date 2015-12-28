@@ -33,7 +33,7 @@ define("RSS_PLUGIN_LAN_11", "Rss feed av nedlasting Kategori:");
 define("RSS_LAN_ADMINMENU_1", "RSS-alternativer");
 define("RSS_LAN_ADMINMENU_2", "Liste");
 define("RSS_LAN_ADMINMENU_4", "Import");
-define("RSS_LAN_ERROR_1", "Dette er ikke en gyldig rss feed<br><br><a href=''.e_SELF.''>< return='' to='' rss='' feed=''></a>");
+define("RSS_LAN_ERROR_1", "Dette er ikke en gyldig rss feed<br><br>[Return to rss feed list]");
 define("RSS_LAN_ERROR_2", "Filen e107_config.php eller språkfilene inneholder mellomrom eller ï» ¿tegn før den <? tegn. Du bør fjerne dette med en ikke-utf8 tekst-editor hvis du ønsker å ha en gyldig RSS feed.");
 define("RSS_LAN_ERROR_3", "Rss-strømmer ikke finnes ennå<br>Bruk importfunksjonen for å importere tilgjengelige rss-feeder eller opprette en rss feed manuelt.");
 define("RSS_LAN_ERROR_4", "Ingen rss-feeds er tilgjengelig ennå");
