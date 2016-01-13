@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Czech Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/20 19:57:59
+|
+|        $Author: Oxigen $
++---------------------------------------------------------------+
+*/
 
 define("RL_LAN_002", "Válcování Log");
 define("RL_LAN_005", "Nastavit nebo zobrazit systémové protokoly");
@@ -23,17 +29,17 @@ define("RL_LAN_025", "Název události");
 define("RL_LAN_026", "Třída pro akce uživatele, které je zaznamenána");
 define("RL_LAN_028", "Aktualizace filtrů");
 define("RL_LAN_029", "Filtr typu akce");
-define("RL_LAN_030", "Admin Log");
+define("RL_LAN_030", "Záznamy admina (log)");
 define("RL_LAN_031", "Akce k protokolování");
 define("RL_LAN_032", "Pri");
 define("RL_LAN_033", "Další informace");
 define("RL_LAN_044", "Protokolovat události zobrazených na stránce");
 define("RL_LAN_045", "Odstranit admin protokolovat události starší než");
-define("RL_LAN_046", "dny");
+define("RL_LAN_046", "dnů");
 define("RL_LAN_047", "Potvrdit odstranění admin protokolovat události starší než");
-define("RL_LAN_049", "Odstranit staré položky");
-define("RL_LAN_050", "Chyba: parametr nic odstraněno");
-define("RL_LAN_052", "Protokol admin");
+define("RL_LAN_049", "Smazat staré položky");
+define("RL_LAN_050", "Chyba v uvedených parametrech - nic nebylo smazáno");
+define("RL_LAN_052", "Záznamy admina (log)");
 define("RL_LAN_053", "Protokol auditu uživatele");
 define("RL_LAN_054", "Nic odstranit, nebo chyba databáze");
 define("RL_LAN_057", "-události starší než – staré – (– NUM – položky)");
@@ -54,7 +60,7 @@ define("RL_LAN_073", "Přihlášení a odhlášení");
 define("RL_LAN_075", "Změnit zobrazované jméno");
 define("RL_LAN_076", "Změnit heslo");
 define("RL_LAN_077", "Změnit e-mailovou adresu");
-define("RL_LAN_078", "Obnovení hesla");
+define("RL_LAN_078", "Aktualizace hesla");
 define("RL_LAN_079", "Změnit další nastavení uživatele");
 define("RL_LAN_080", "Admin rychlé přidání uživatele");
 define("RL_LAN_081", "Hromadné odchody");
@@ -70,10 +76,10 @@ define("RL_LAN_096", "Diff (s)");
 define("RL_LAN_098", "Zdroj");
 define("RL_LAN_100", "CID");
 define("RL_LAN_101", "PID");
-define("RL_LAN_103", "Předmět");
+define("RL_LAN_103", "Betrefft");
 define("RL_LAN_104", "UID");
 define("RL_LAN_106", "Typ");
-define("RL_LAN_107", "Komentář");
+define("RL_LAN_107", "sekce");
 define("RL_LAN_108", "BK");
 define("RL_LAN_109", "LK");
 define("RL_LAN_110", "Del");
@@ -91,3 +97,6 @@ define("RL_LAN_123", "Třída uživatelů audit trail");
 define("RL_LAN_124", "Uživatelské akce auditu stezka");
 define("RL_LAN_125", "Údržba systému protokoly");
 define("RL_LAN_126", "Položek celkem [x] odpovídající vyhledávací podmínka");
+
+
+?>

@@ -1,20 +1,25 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Czech Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/20 20:00:28
+|
+|        $Author: Oxigen $
++---------------------------------------------------------------+
+*/
 define("LAN_EURL_NAME", "Spravovat adresy URL webu");
 define("LAN_EURL_NAME_CONFIG", "Profily");
 define("LAN_EURL_NAME_ALIASES", "Aliasy");
-define("LAN_EURL_NAME_SETTINGS", "Obecné nastavení");
-define("LAN_EURL_NAME_HELP", "Pomoc");
+define("LAN_EURL_NAME_SETTINGS", "Hlavní nastavení");
+define("LAN_EURL_NAME_HELP", "Nápověda");
 define("LAN_EURL_EMPTY", "Seznam je prázdný");
 define("LAN_EURL_LEGEND_CONFIG", "Vybrat adresu URL profilu na webu plochy");
 define("LAN_EURL_LEGEND_ALIASES", "Konfigurovat základní adresa URL aliasy na URL profilu");
-define("LAN_EURL_DEFAULT", "Výchozí");
+define("LAN_EURL_DEFAULT", "standardní");
 define("LAN_EURL_PROFILE", "Profil");
-define("LAN_EURL_INFOALT", "Informace");
+define("LAN_EURL_INFOALT", "Info");
 define("LAN_EURL_PROFILE_INFO", "Informace o profilu není k dispozici.");
 define("LAN_EURL_LOCATION", "Umístění profilu");
 define("LAN_EURL_LOCATION_NONE", "Konfigurační soubor není k dispozici.");
@@ -45,7 +50,7 @@ define("LAN_EURL_MENU", "Adresy URL webu");
 define("LAN_EURL_MENU_CONFIG", "Adresa URL profily");
 define("LAN_EURL_MENU_ALIASES", "Aliasy");
 define("LAN_EURL_MENU_SETTINGS", "Nastavení");
-define("LAN_EURL_MENU_HELP", "Pomoc");
+define("LAN_EURL_MENU_HELP", "Nápověda");
 define("LAN_EURL_MENU_REDIRECTS", "Přesměrování");
 define("LAN_EURL_UC", "Ve výstavbě");
 define("LAN_EURL_CORE_MAIN", "Stránky Root Namespace - alias není v provozu.");
@@ -53,14 +58,14 @@ define("LAN_EURL_FRIENDLY", "Přátelský");
 define("LAN_EURL_LEGACY", "Starší verze přímé adresy URL.");
 define("LAN_EURL_REWRITE_LABEL", "Friendly URL");
 define("LAN_EURL_REWRITE_DESCR", "Vyhledávací engine a uživateli friendly URL.");
-define("LAN_EURL_CORE_NEWS", "Novinky");
+define("LAN_EURL_CORE_NEWS", "nové");
 define("LAN_EURL_NEWS_REWRITEF_LABEL", "Plný přátelské URL (žádný výkon a většina přátelské)");
 define("LAN_EURL_NEWS_REWRITEF_DESCR", "");
 define("LAN_EURL_NEWS_REWRITE_LABEL", "Friendly URL bez ID (žádný výkon, více přátelské)");
 define("LAN_EURL_NEWS_REWRITE_DESCR", "Znázorňuje ruční propojení analýzy a kompletace.");
 define("LAN_EURL_NEWS_REWRITEX_LABEL", "Friendly URL s identifikátorem (výkonu)");
 define("LAN_EURL_NEWS_REWRITEX_DESCR", "Ukazuje, že automatizované propojení analýzy a kompletace na základě předdefinované trasy pravidel.");
-define("LAN_EURL_CORE_USER", "Uživatelé");
+define("LAN_EURL_CORE_USER", "uživatelé");
 define("LAN_EURL_USER_REWRITE_LABEL", "Friendly URL");
 define("LAN_EURL_USER_REWRITE_DESCR", "Vyhledávací engine a uživateli friendly URL.");
 define("LAN_EURL_CORE_PAGE", "Vlastní stránky");
@@ -68,7 +73,7 @@ define("LAN_EURL_PAGE_SEF_LABEL", "Friendly URL s identifikátorem (výkon)");
 define("LAN_EURL_PAGE_SEF_DESCR", "Vyhledávací engine a uživateli friendly URL.");
 define("LAN_EURL_PAGE_SEFNOID_LABEL", "Friendly URL bez ID (žádný výkon, více přátelské)");
 define("LAN_EURL_PAGE_SEFNOID_DESCR", "Vyhledávací engine a uživateli friendly URL.");
-define("LAN_EURL_CORE_SEARCH", "Hledat");
+define("LAN_EURL_CORE_SEARCH", "hledat");
 define("LAN_EURL_SEARCH_DEFAULT_LABEL", "Výchozí adresa URL hledání");
 define("LAN_EURL_SEARCH_DEFAULT_DESCR", "Starší verze přímé URL.");
 define("LAN_EURL_SEARCH_REWRITE_LABEL", "Přátelské URL");
@@ -78,5 +83,8 @@ define("LAN_EURL_SYSTEM_DEFAULT_LABEL", "Výchozí systém adresy URL");
 define("LAN_EURL_SYSTEM_DEFAULT_DESCR", "Adresy URL pro stránky jako nebyl nalezen, přístup byl odepřen, atd.");
 define("LAN_EURL_SYSTEM_REWRITE_LABEL", "Adresy URL přátelské systému");
 define("LAN_EURL_SYSTEM_REWRITE_DESCR", "Adresy URL pro stránky jako nebyl nalezen, přístup byl odepřen, atd.");
-define("LAN_EURL_CORE_INDEX", "Přední strana");
+define("LAN_EURL_CORE_INDEX", "Hlavní strana");
 define("LAN_EURL_CORE_INDEX_INFO", "Titulní stránka nemůže mít alias.");
+
+
+?>

@@ -1,17 +1,25 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("FLALAN_2", "Byly zaznamenány žádné pokusy o přihlášení se nezdařilo");
-define("FLALAN_3", "Pokus (y), odstranění");
-define("FLALAN_4", "Uživatel se pokusil o přihlášení pomocí nesprávného uživatelského jména a hesla");
-define("FLALAN_5", "IP(s) banned");
-define("FLALAN_7", "Údaje");
-define("FLALAN_8", "Adresa IP / Host");
-define("FLALAN_10", "Odstranit / zákazu kontrolovat položky");
-define("FLALAN_15", "Následující adresy IP byly zakázány automatické - uživatel se pokusil více než deset neúspěšné přihlášení");
-define("FLALAN_16", "odstranit tento seznam zákaz automatického");
-define("FLALAN_17", "Auto zákaz seznam odstranění");
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Czech Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/20 20:01:14
+|
+|        $Author: Oxigen $
++---------------------------------------------------------------+
+*/
+define("FLALAN_2", "Nezaznamenal jsem žádné neúspěšné pokusy o přihlášení");
+define("FLALAN_3", "Pokus(y) smazán(y)");
+define("FLALAN_4", "Uživatel se pokusil přihlásit s nesprávnou kombinací jména a hesla");
+define("FLALAN_5", "blokované IP adresy");
+define("FLALAN_7", "Data");
+define("FLALAN_8", "IP adresa / host");
+define("FLALAN_10", "Smazat / Blokovat zaškrtnuté položky");
+define("FLALAN_15", "Následující IP adresy byly zablokované automaticky - uživatel provedl více než 10 neplatných pokusů o přihlášení");
+define("FLALAN_16", "Vymazat seznam automatických blokací");
+define("FLALAN_17", "Seznam adres zablokovaných automaticky byl smazán.");
 define("FLALAN_18", "By není zákaz IP adresa - IP – - na whitelist");
+
+
+?>

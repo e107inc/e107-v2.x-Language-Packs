@@ -1,14 +1,20 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Czech Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/20 19:59:09
+|
+|        $Author: Oxigen $
++---------------------------------------------------------------+
+*/
 
 define("LAN_CRON_M_02", "Aktualizovat");
 define("LAN_CRON_2", "Funkce");
 define("LAN_CRON_3", "Záložka");
 define("LAN_CRON_4", "Poslední spuštění");
-define("LAN_CRON_01_1", "Zkušební e-mailu");
+define("LAN_CRON_01_1", "Test e-mailu");
 define("LAN_CRON_01_2", "Odeslat zkušební e-mail [eml].");
 define("LAN_CRON_01_3", "Doporučujeme vyzkoušet systém plánování.");
 define("LAN_CRON_02_1", "Fronty pošty");
@@ -59,3 +65,6 @@ define("LAN_CRON_53", "Měsíce:");
 define("LAN_CRON_54", "Weekday(s):");
 define("LAN_CRON_BACKUP", "Zálohování");
 define("LAN_CRON_LOGGING", "Protokolování");
+
+
+?>

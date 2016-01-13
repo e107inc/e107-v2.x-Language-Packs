@@ -1,43 +1,47 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("DBLAN_1", "Kjernen sikkerhetskopiert i databasen.");
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/11/08 14:59:44
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
+define("DBLAN_1", "Kjerneinnstillinger kopiert til databasen.");
 define("DBLAN_4", "Velg for å kontrollere gyldigheten av e107 database");
-define("DBLAN_5", "Når databasen gyldighet");
+define("DBLAN_5", "Kontrollera databasens gyldighet");
 define("DBLAN_6", "Velg for å optimalisere e107 databasen");
-define("DBLAN_7", "Optimalisere SQL-database");
+define("DBLAN_7", "Optimer SQL-databasen");
 define("DBLAN_8", "Velg for å sikkerhetskopiere innstillingene for kjernen");
-define("DBLAN_9", "Backup kjernen");
-define("DBLAN_10", "Verktøy");
-define("DBLAN_11", "MySQL-database");
-define("DBLAN_12", "optimalisert");
+define("DBLAN_9", "Kopier kjerneinnstillingene");
+define("DBLAN_10", "Database verktøy");
+define("DBLAN_11", "MySQL-database [x] er optimalisert");
 define("DBLAN_15", "Velg for å se etter tilgjengelige db oppdateringer");
-define("DBLAN_16", "Se etter oppdateringer");
-define("DBLAN_17", "Pref. navn");
-define("DBLAN_18", "Pref. verdi");
+define("DBLAN_16", "Kontroller oppdateringer");
+define("DBLAN_17", "Pref. Navn");
+define("DBLAN_18", "Pref. Verdi");
 define("DBLAN_19", "Velg for å åpne redigeringsprogrammet innstillinger (bare for avanserte brukere)");
-define("DBLAN_20", "Innstillinger Editor");
+define("DBLAN_20", "Preferanseredaktør");
 define("DBLAN_22", "Plugin visning og skanning");
-define("DBLAN_23", "Skanning");
-define("DBLAN_25", "Directory");
+define("DBLAN_23", "Skann er fullført");
+define("DBLAN_25", "Mappe");
 define("DBLAN_26", "Inkludert add-ons");
 define("DBLAN_27", "Installert");
 define("DBLAN_28", "Velg for å skanne plugin kataloger for endringer");
-define("DBLAN_29", "Skanne plugin kataloger");
+define("DBLAN_29", "Skann pluginmapper");
 define("DBLAN_30", "Hvis en addon viser feil, se etter tegn PHP åpning/lukking koder.");
-define("DBLAN_31", "Pass");
-define("DBLAN_33", "Utilgjengelig");
-define("DBLAN_34", "Ikke merket");
+define("DBLAN_31", "Ferdig");
+define("DBLAN_33", "Kunne ikke åpne");
+define("DBLAN_34", "Ikke sjekket");
 define("DBLAN_35", "Velg for å kontrollere gyldigheten av e107 databaseposter");
 define("DBLAN_36", "Når databasen posten gyldighet");
-define("DBLAN_37", "Velg tabellen(e) validere");
-define("DBLAN_38", "Start kontroller");
+define("DBLAN_37", "Velg tabell(er) å validere");
+define("DBLAN_38", "Start verifisering");
 define("DBLAN_39", "Databasen postvalideringsregel");
 define("DBLAN_40", "Postvalideringsregel:");
-define("DBLAN_41", "tabell");
+define("DBLAN_41", "Tabell");
 define("DBLAN_43", "bemerkning");
 define("DBLAN_45", "ID ikke grunnlegge!");
 define("DBLAN_46", "Tabellen ikke funnet!");
@@ -88,13 +92,13 @@ define("DBLAN_92", "Tabellene bruker riktig tegnsett.");
 define("DBLAN_93", "Databasen konvertert vellykket til UTF-8.");
 define("DBLAN_94", "Kontroller at du har følgende linje i filen e107_config.php:");
 define("DBLAN_95", "Eksportalternativer");
-define("DBLAN_97", "Tabeller");
+define("DBLAN_97", "tabeller");
 define("DBLAN_98", "Rader");
 define("DBLAN_99", "Tabelldata:");
 define("DBLAN_100", "Konvertere baner og pakke bilder og xml til:");
 define("DBLAN_101", "Eksportfilen");
 define("DBLAN_102", "Eksportalternativer");
-define("DBLAN_103", "Satt inn");
+define("DBLAN_103", "Artikkel");
 define("DBLAN_104", "Kan ikke sette inn");
 define("DBLAN_105", "Satsvise koder:");
 define("DBLAN_106", "(tom)");
@@ -102,3 +106,7 @@ define("DBLAN_107", "[folder] er ikke skrivbar");
 define("DBLAN_108", "Opprettet:");
 define("DBLAN_109", "Kopierte:");
 define("DBLAN_110", "Kunne ikke kopiere:");
+define("DBLAN_111", "Tabeller ser ut til å være i orden!");
+
+
+?>

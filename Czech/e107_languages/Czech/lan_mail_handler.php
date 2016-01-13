@@ -1,13 +1,22 @@
 <?php
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Czech Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/20 19:53:38
+|
+|        $Author: Oxigen $
++---------------------------------------------------------------+
+*/
 
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("LANMAILH_1", "Produkované systémem e107 webové stránky");
-define("LANMAILH_2", "To je vícedílné zprávy v MIME formátu.");
-define("LANMAILH_3", "není ve správném formátu");
+define("LANMAILH_1", "Vytvořeno za pomocí CMS e107");
+define("LANMAILH_2", "Toto je zpráva ve formátu MIME obsahující více částí");
+define("LANMAILH_3", " nemá správný formát");
 define("LANMAILH_4", "Server odmítl adresu");
-define("LANMAILH_5", "Žádná odpověď ze serveru");
-define("LANMAILH_6", "Server elektronické pošty nelze najít.");
-define("LANMAILH_7", "se zdá být platný.");
+define("LANMAILH_5", "Žádná odezva od serveru");
+define("LANMAILH_6", "E-mailový server nenalezen.");
+define("LANMAILH_7", " se zdá být platná.");
+
+
+?>

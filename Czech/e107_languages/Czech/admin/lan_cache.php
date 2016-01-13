@@ -1,15 +1,21 @@
 <?php
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Czech Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/20 19:58:56
+|
+|        $Author: Oxigen $
++---------------------------------------------------------------+
+*/
 
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("CACLAN_1", "Mezipaměť systému Status");
-define("CACLAN_2", "Stav nastavení mezipaměti");
-define("CACLAN_3", "Správa mezipaměti");
+define("CACLAN_1", "Status systémové vyrovnávací paměti");
+define("CACLAN_2", "Natavit status vyrovnávací paměti");
+define("CACLAN_3", "Údržba Cache(vyrovnávací paměti)");
 define("CACLAN_5", "Prázdný obsah Cache");
-define("CACLAN_6", "Vyprázdnění mezipaměti");
-define("CACLAN_10", "Adresář mezipaměti není zapisovatelný. Ověřte, zda že je adresář nastaven CHMOD 0777");
+define("CACLAN_6", "Cache byla úspěšně vyprázdněná");
+define("CACLAN_10", "Složka k ukládání vyrvnávací paměti není zapisovatelná. Prosím ujistěte se zda má složka CHMOD nastavený na hodnotu 0777");
 define("CACLAN_11", "Obsah Cache");
 define("CACLAN_12", "Mezipaměť systému");
 define("CACLAN_13", "Obsahu cache obsahuje obsah stránky vykreslen. To zahrnuje veškerý obsah (html), který se vykreslí na vašich stránkách.");
@@ -26,3 +32,6 @@ define("CACLAN_24", "Prázdná databáze struktura Cache");
 define("CACLAN_25", "Prázdnou Cache miniatur");
 define("CACLAN_26", "Vyprázdnit Cache");
 define("CACLAN_27", "Prázdné prohlížeče Cache");
+
+
+?>

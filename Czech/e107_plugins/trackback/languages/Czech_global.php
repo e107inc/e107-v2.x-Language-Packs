@@ -1,8 +1,17 @@
 <?php
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Czech Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/20 20:27:16
+|
+|        $Author: Oxigen $
++---------------------------------------------------------------+
+*/
 
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+define("LAN_PLUGIN_TRACKBACK_NAME", "Trackback");
+define("LAN_PLUGIN_TRACKBACK_DESCRIPTION", "Tento doplněk vám umožní používat funkci zpětných odkazů pro vaše novinky.");
 
-define("LAN_PLUGIN_TRACKBACK_NAME", "Zpětný odkaz");
-define("LAN_PLUGIN_TRACKBACK_DESCRIPTION", "Tento plugin vám umožní použít trackback v novinky příspěvky.");
+
+?>

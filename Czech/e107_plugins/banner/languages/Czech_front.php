@@ -1,26 +1,35 @@
 <?php
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Czech Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/20 20:09:30
+|
+|        $Author: Oxigen $
++---------------------------------------------------------------+
+*/
 
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("PAGE_NAME", "Nápis");
-define("BANNERLAN_16", "Uživatelské jméno:");
+define("PAGE_NAME", "Banner");
+define("BANNERLAN_16", "Uživatel:");
 define("BANNERLAN_17", "Heslo:");
-define("BANNERLAN_19", "Zadejte své přihlašovací jméno klienta a heslo pokračovat");
-define("BANNERLAN_20", "Lituji, nemohu najít tyto údaje v databázi. Podrobnosti získáte od správce webu.");
-define("BANNERLAN_21", "Bannery statistiky");
+define("BANNERLAN_19", "Pro pokračování prosím vložte vaše uživatelské jméno a heslo.");
+define("BANNERLAN_20", "Omlouváme se, údaje nebyly v databázi nalezeny. Kontaktujte administrátora stránek.");
+define("BANNERLAN_21", "Statistiky bannerů");
 define("BANNERLAN_22", "Klient");
-define("BANNERLAN_23", "Banner ID");
-define("BANNERLAN_24", "Prokliky");
-define("BANNERLAN_25", "Klepněte na tlačítko %");
-define("BANNERLAN_26", "Dojmy");
-define("BANNERLAN_27", "Dojmy, koupil");
-define("BANNERLAN_28", "Dojmy, vlevo");
-define("BANNERLAN_29", "Žádné nápisy");
-define("BANNERLAN_30", "Neomezená");
-define("BANNERLAN_31", "Nelze použít");
-define("BANNERLAN_34", "Končí:");
-define("BANNERLAN_35", "Clickthrough IP adresy");
+define("BANNERLAN_23", "ID banneru");
+define("BANNERLAN_24", "Počet kliknutí");
+define("BANNERLAN_25", "Pro více informací klikněte zde");
+define("BANNERLAN_26", "Zobrazení");
+define("BANNERLAN_27", "Zakoupených zobrazení");
+define("BANNERLAN_28", "Zbývá zobrazení");
+define("BANNERLAN_29", "Žádné bannery");
+define("BANNERLAN_30", "Bez limitu");
+define("BANNERLAN_31", "Nelze aplikovat");
+define("BANNERLAN_34", "Konec:");
+define("BANNERLAN_35", "IP adresy prokliků");
 define("BANNERLAN_36", "Aktivní:");
-define("BANNERLAN_37", "Začíná:");
+define("BANNERLAN_37", "Začátek:");
+
+
+?>
