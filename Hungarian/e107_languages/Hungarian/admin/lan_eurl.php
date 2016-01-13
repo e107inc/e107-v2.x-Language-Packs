@@ -4,79 +4,102 @@
 // Generated for e107 v2.x by the Multi-Language Plugin
 // https://github.com/e107inc/multilan
 
-define("LAN_EURL_NAME", "URL-címek kezelése");
+define("LAN_EURL_NAME", "URL kezelő");
 define("LAN_EURL_NAME_CONFIG", "Profilok");
-define("LAN_EURL_NAME_ALIASES", "Aliasok");
+define("LAN_EURL_NAME_ALIASES", "Álnevek");
 define("LAN_EURL_NAME_SETTINGS", "Általános beállítások");
-define("LAN_EURL_NAME_HELP", "segítség");
-define("LAN_EURL_EMPTY", "A oldalra dől üres");
-define("LAN_EURL_LEGEND_CONFIG", "URL-Profilválasztás / terület");
-define("LAN_EURL_LEGEND_ALIASES", "Állítsa be az alap URL-t az álnevek URL profilonként");
+define("LAN_EURL_NAME_HELP", "Súgó");
+
+define("LAN_EURL_EMPTY", "A lista üres");
+define("LAN_EURL_LEGEND_CONFIG", "Válassz egy URL profilt oldal-területenként");
+define("LAN_EURL_LEGEND_ALIASES", "Base URL álnév beállítása URL profilonként");
+
 define("LAN_EURL_DEFAULT", "Alapértelmezett");
 define("LAN_EURL_PROFILE", "Profil");
-define("LAN_EURL_INFOALT", "Info");
-define("LAN_EURL_PROFILE_INFO", "Profil információ nem áll rendelkezésre");
-define("LAN_EURL_LOCATION", "Profil helyére");
-define("LAN_EURL_LOCATION_NONE", "Config fájl nem érhető el");
-define("LAN_EURL_FORM_HELP_DEFAULT", "Alias alapértelmezett nyelv.");
-define("LAN_EURL_FORM_HELP_ALIAS_0", "Alapértelmezett értéke");
-define("LAN_EURL_FORM_HELP_ALIAS_1", "Alias a");
-define("LAN_EURL_FORM_HELP_EXAMPLE", "Alap URL-címe");
-define("LAN_EURL_ERR_ALIAS_MODULE", "Nem lehet menteni, alias '%1\$s' - van egy URL rendszerprofil, az azonos nevű. Válasszon másik alias értéket a rendszer az URL-cím profilt '%2\$s'");
-define("LAN_EURL_SETTINGS_PATHINFO", "Távolítsa el a fájlnév az URL-címről");
-define("LAN_EURL_SETTINGS_MAINMODULE", "Társult gyökér névtér");
-define("LAN_EURL_SETTINGS_MAINMODULE_HELP", "Válassza ki, melyik terület kapcsolódik a bázis webhely URL-címét. Példa: Ha a hírek van a gyökér névtér http://yoursite.com/News-Item-Title lesznek társítva Hírek (cikk kilátás oldal lesz megoldani)");
-define("LAN_EURL_SETTINGS_REDIRECT", "Rendszer nem található az oldal átirányítása");
-define("LAN_EURL_SETTINGS_REDIRECT_HELP", "Ha értéke hamis, nem találtam oldal lesz közvetlen (nélkül böngésző átirányítás)");
-define("LAN_EURL_SETTINGS_SEFTRANSLATE", "Automatizált SEF karakterlánctípus létrehozása");
-define("LAN_EURL_SETTINGS_SEFTRANSLATE_HELP", "Válassza ki milyen lesz SEF karakterlánc össze, ha ez automatikusan épített a cím értékét (pl. hírek, egyéni lapok, stb.)");
-define("LAN_EURL_SETTINGS_SEFTRTYPE_NONE", "Csak biztos, hogy");
-define("LAN_EURL_SETTINGS_SEFTRTYPE_DASHL", "dasherize a nyomtatott kisbetű");
-define("LAN_EURL_SETTINGS_SEFTRTYPE_DASHC", "Dasherize-a-teve-ügy");
-define("LAN_EURL_SETTINGS_SEFTRTYPE_DASH", "Dasherize-a-no-ügy-változás");
-define("LAN_EURL_SETTINGS_SEFTRTYPE_UNDERSCOREL", "underscore_to_lower_case");
-define("LAN_EURL_SETTINGS_SEFTRTYPE_UNDERSCOREC", "Underscore_To_Camel_Case");
-define("LAN_EURL_SETTINGS_SEFTRTYPE_UNDERSCORE", "Underscore_with_no_case_CHANGE");
-define("LAN_EURL_SETTINGS_SEFTRTYPE_PLUSL", "Plus + elválasztó + a + alsó + tok");
-define("LAN_EURL_SETTINGS_SEFTRTYPE_PLUSC", "Plus + elválasztó + a + teve + tok");
-define("LAN_EURL_SETTINGS_SEFTRTYPE_PLUS", "Plus + elválasztó + a + nem + case + módosítása");
-define("LAN_EURL_MODREWR_DESCR", "Belépési parancsfájl neve (index.php/) eltávolítja az URL-eket. Szükséged lesz a mod_rewrite telepítve van és fut a szerveren (Apache Web szerver). Ez a beállítás engedélyezése után megy a webhely gyökérmappájában, átnevez htaccess.txt .htaccess és modifgy <em>'RewriteBase'</em> irányelv, ha szükséges.");
-define("LAN_EURL_MENU", "URL-címek");
-define("LAN_EURL_MENU_CONFIG", "URL-profilok");
-define("LAN_EURL_MENU_ALIASES", "Aliasok");
+
+define("LAN_EURL_INFOALT", "Információ");
+define("LAN_EURL_PROFILE_INFO", "Profil információ nem elérhető");
+define("LAN_EURL_LOCATION", "Profil helye");
+define("LAN_EURL_LOCATION_NONE", "A Config fájl nem elérhető");
+define("LAN_EURL_FORM_HELP_DEFAULT", "Álnév az alapértelmezett nyelv esetén.");
+define("LAN_EURL_FORM_HELP_ALIAS_0", "Alapértelmezett érték ");
+define("LAN_EURL_FORM_HELP_ALIAS_1", "Álnév amikor ");
+define("LAN_EURL_FORM_HELP_EXAMPLE", "Base URL");
+
+define("LAN_EURL_ERR_ALIAS_MODULE", "Álnevet &quot;%1\$s&quot; nem lehet elmenteni - már van URL profil ezen a néven. Válassz másik álnevet a redszer URL profilhoz &quot;%2\$s&quot;"); // FIXME HTML IN LAN
+
+define("LAN_EURL_SETTINGS_PATHINFO", "Fájlnév törlése az URL-ből");
+define("LAN_EURL_SETTINGS_MAINMODULE", "Root névtér társítása");
+define("LAN_EURL_SETTINGS_MAINMODULE_HELP", "Válaszd ki, melyik oldal terület kapcsolódjon a Base URL-hez. Például: Mikor a News a root névtér akkor a http://yoursite.com/News-Item-Title lesz társítva a hírekhez (a hír oldalán kell megoldani)");
+define("LAN_EURL_SETTINGS_REDIRECT", "Átirányítás a Nem található oldal-ak esetén");
+define("LAN_EURL_SETTINGS_REDIRECT_HELP", "Ha a false értéket váálasztod, a Nem található oldal-ak közvetlenül kerülnek rendelésre (anélkül hogy a böngésző átirányításra kerülne)");
+define("LAN_EURL_SETTINGS_SEFTRANSLATE", "Automatikus SEF sztring létrehozás típusa");
+define("LAN_EURL_SETTINGS_SEFTRANSLATE_HELP", "Válaszd ki, hogyan állítsa össze a SEF sztring-et, amikor az automatikusan létrejön a Cím értékéből (pl.: hírekben, egyéni oldalakban, stb.)");
+define("LAN_EURL_SETTINGS_SEFTRTYPE_NONE", "Csak biztosítsd");
+define("LAN_EURL_SETTINGS_SEFTRTYPE_DASHL", "kötőjellel-elválasztva-kis-betűkkel");
+define("LAN_EURL_SETTINGS_SEFTRTYPE_DASHC", "Kötőjellel-Elválasztva-Nagy-Kezdőbetűkkel");
+define("LAN_EURL_SETTINGS_SEFTRTYPE_DASH", "Kötőjellel-elválasztva-nem-módosítva-a-betűket");
+define("LAN_EURL_SETTINGS_SEFTRTYPE_UNDERSCOREL", "alsóvonással_elválasztva_kis_betűkkel");
+define("LAN_EURL_SETTINGS_SEFTRTYPE_UNDERSCOREC", "Alsóvonással_Elválasztva_Nagy_Kezdőbetűkkel");
+define("LAN_EURL_SETTINGS_SEFTRTYPE_UNDERSCORE", "Alsóvonással_elválasztva_nem_módosítva_a_betűket");
+define("LAN_EURL_SETTINGS_SEFTRTYPE_PLUSL", "plusszal+elválasztva+kis+betűkkel");
+define("LAN_EURL_SETTINGS_SEFTRTYPE_PLUSC", "Plusszal+Elválasztva+Nagy+Kezdőbetűkkel");
+define("LAN_EURL_SETTINGS_SEFTRTYPE_PLUS", "Plusszal+elválasztva+nem+módosítva+a+betűket");
+
+define("LAN_EURL_MODREWR_DESCR", "Eltávolítja a fájl nevet (index.php/) az URL-ből. Telepítve kell lennie a mod_rewrite-nak és futnia kell a szerveren (Apache Web Server). Ennek a beállításnak az engedélyezése után lépj a oldal gyökér mappájába, nevezd át a htaccess.txt .htaccess-re és módosítsd <em>&quot;RewriteBase&quot;</em> irányelveket, ha szükséges.");
+
+define("LAN_EURL_MENU", "URL-ek");
+define("LAN_EURL_MENU_CONFIG", "URL Profilok");
+define("LAN_EURL_MENU_ALIASES", "Álnevek");
 define("LAN_EURL_MENU_SETTINGS", "Beállítások");
-define("LAN_EURL_MENU_HELP", "segítség");
+define("LAN_EURL_MENU_HELP", "Súgó");
 define("LAN_EURL_MENU_REDIRECTS", "Átirányítások");
-define("LAN_EURL_UC", "Építés alatt");
-define("LAN_EURL_CORE_MAIN", "Webhely gyökér Namespace - alias nem-ban használ.");
-define("LAN_EURL_FRIENDLY", "Barátságos");
-define("LAN_EURL_LEGACY", "Örökölt közvetlen URL-ek.");
-define("LAN_EURL_REWRITE_LABEL", "Keresőbarát URL-EK");
-define("LAN_EURL_REWRITE_DESCR", "Kutatás motor és felhasználó barátságos URLs.");
+
+define("LAN_EURL_UC", "Karbantartás alatt");
+
+define("LAN_EURL_CORE_MAIN", "Oldal Root Névtér - álnév nincs használatban.");
+
+define("LAN_EURL_FRIENDLY",   "Felhasználóbarát");
+define("LAN_EURL_LEGACY", "Hagyományos URL-ek.");
+
+define("LAN_EURL_REWRITE_LABEL", "Felhasználóbarát URL-ek");
+define("LAN_EURL_REWRITE_DESCR", "Keresőmotor- és felhasználóbarát URL-ek.");
+
 define("LAN_EURL_CORE_NEWS", "Hírek");
-define("LAN_EURL_NEWS_REWRITEF_LABEL", "Teljes keresőbarát URL-ek (nem a teljesítmény és a legtöbb barátságos)");
+
+define("LAN_EURL_NEWS_REWRITEF_LABEL", "Teljes felhasználóbarát URL-ek (no performance and most friendly)");
 define("LAN_EURL_NEWS_REWRITEF_DESCR", "");
-define("LAN_EURL_NEWS_REWRITE_LABEL", "Keresőbarát URL-ek nélkül ID (nincs teljesítmény, több barátságos)");
-define("LAN_EURL_NEWS_REWRITE_DESCR", "Bemutatja a manuális link elemzés és összeszerelése.");
-define("LAN_EURL_NEWS_REWRITEX_LABEL", "Keresőbarát URL-ek ID (teljesítmény bölcs)");
-define("LAN_EURL_NEWS_REWRITEX_DESCR", "Bizonyítja, hogy előre meghatározott útvonal szabályok alapján automatikus kapcsolat elemzés és összeszerelése.");
-define("LAN_EURL_CORE_USER", "A felhasználók");
-define("LAN_EURL_USER_REWRITE_LABEL", "Keresőbarát URL-EK");
-define("LAN_EURL_USER_REWRITE_DESCR", "Kutatás motor és felhasználó barátságos URLs.");
+
+define("LAN_EURL_NEWS_REWRITE_LABEL", "Felhasználóbarát URL-ek ID nélkül (no performance, more friendly)");
+define("LAN_EURL_NEWS_REWRITE_DESCR", "Manuális link elemzés és összerakás.");
+
+define("LAN_EURL_NEWS_REWRITEX_LABEL", "Felhasználóbarát URL-ek ID-vel (performance wise)");
+define("LAN_EURL_NEWS_REWRITEX_DESCR", "Előre meghatározott szabályok alapján történő link elemzés és összerakás.");
+
+define("LAN_EURL_CORE_USER", "Felhasználók");
+define("LAN_EURL_USER_REWRITE_LABEL", "Felhasználóbarát URL-ek");
+define("LAN_EURL_USER_REWRITE_DESCR", "Keresőmotor- és felhasználóbarát URL-ek.");
+
 define("LAN_EURL_CORE_PAGE", "Egyéni oldalak");
-define("LAN_EURL_PAGE_SEF_LABEL", "Keresőbarát URL-ek ID (előadás)");
-define("LAN_EURL_PAGE_SEF_DESCR", "Kutatás motor és felhasználó barátságos URLs.");
-define("LAN_EURL_PAGE_SEFNOID_LABEL", "Keresőbarát URL-ek nélkül ID (nincs teljesítmény, több barátságos)");
-define("LAN_EURL_PAGE_SEFNOID_DESCR", "Kutatás motor és felhasználó barátságos URLs.");
-define("LAN_EURL_CORE_SEARCH", "Szálláshelyek keresése");
-define("LAN_EURL_SEARCH_DEFAULT_LABEL", "Alapértelmezett keresési URL-címe");
-define("LAN_EURL_SEARCH_DEFAULT_DESCR", "Örökölt közvetlen URL-címe.");
-define("LAN_EURL_SEARCH_REWRITE_LABEL", "Barátságos URL-EK");
+
+define("LAN_EURL_PAGE_SEF_LABEL", "Felhasználóbarát URL-ek ID-vel (performance)");
+define("LAN_EURL_PAGE_SEF_DESCR", "Keresőmotor- és felhasználóbarát URL-ek.");
+
+define("LAN_EURL_PAGE_SEFNOID_LABEL", "Felhasználóbarát URL-ek ID nélkül (no performance, more friendly)");
+define("LAN_EURL_PAGE_SEFNOID_DESCR", "Keresőmotor- és felhasználóbarát URL-ek.");
+
+define("LAN_EURL_CORE_SEARCH", "Keresés");
+define("LAN_EURL_SEARCH_DEFAULT_LABEL", "Alapértelmezett Kereső URL");
+define("LAN_EURL_SEARCH_DEFAULT_DESCR", "Hagyományos URL.");
+define("LAN_EURL_SEARCH_REWRITE_LABEL", "Felhasználóbarát URL");
 define("LAN_EURL_SEARCH_REWRITE_DESCR", "");
+
 define("LAN_EURL_CORE_SYSTEM", "Rendszer");
-define("LAN_EURL_SYSTEM_DEFAULT_LABEL", "Alapértelmezett rendszer URL-címek");
-define("LAN_EURL_SYSTEM_DEFAULT_DESCR", "URL-eket oldalak, mint a nem található, hozzáférés megtagadva, stb.");
-define("LAN_EURL_SYSTEM_REWRITE_LABEL", "Felhasználóbarát rendszer URL-címek");
-define("LAN_EURL_SYSTEM_REWRITE_DESCR", "URL-eket oldalak, mint a nem található, hozzáférés megtagadva, stb.");
-define("LAN_EURL_CORE_INDEX", "Címlapon");
-define("LAN_EURL_CORE_INDEX_INFO", "Első oldal nem lehet egy álneve.");
+define("LAN_EURL_SYSTEM_DEFAULT_LABEL", "Alapértelmezett Rendszer URL-ek");
+define("LAN_EURL_SYSTEM_DEFAULT_DESCR", "URL-ek az Oldal nem található, Hozzáférés letiltva, stb. oldalakhoz");
+
+define("LAN_EURL_SYSTEM_REWRITE_LABEL", "Felhasználóbarát Rendszer URL-ek");
+define("LAN_EURL_SYSTEM_REWRITE_DESCR", "URL-ek az Oldal nem található, Hozzáférés letiltva, stb. oldalakhoz");
+
+define("LAN_EURL_CORE_INDEX", "Kezdőlap");
+define("LAN_EURL_CORE_INDEX_INFO", "A kezdőlap nem rendelkezhet álnévvel.");

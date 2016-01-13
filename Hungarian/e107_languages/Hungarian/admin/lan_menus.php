@@ -4,43 +4,49 @@
 // Generated for e107 v2.x by the Multi-Language Plugin
 // https://github.com/e107inc/multilan
 
-define("MENLAN_1", "Látható az összes");
-define("MENLAN_2", "Látható, hogy csak tagoknak");
-define("MENLAN_3", "Látható, hogy csak a rendszergazdák");
-define("MENLAN_4", "Csak látható:");
-define("MENLAN_6", "Láthatósági beállítások mentése");
-define("MENLAN_7", "A láthatósági beállítások konfigurálása");
-define("MENLAN_8", "Láthatósági beállítások frissítve");
-define("MENLAN_9", "Beiktatott új egyéni menü");
-define("MENLAN_10", "Új menü a telepítve");
-define("MENLAN_11", "Menü eltávolítása");
-define("MENLAN_12", "Aktiválása: válassza ki a terület");
-define("MENLAN_13", "Aktiválja a területen");
+define("MENLAN_1", "Mindenki láthatja");
+define("MENLAN_2", "Csak a tagok láthatják");
+define("MENLAN_3", "Csak az adminisztrátorok láthatják");
+define("MENLAN_4", "Csak a következők láthatják:");
+define("MENLAN_6", "Mentés");
+define("MENLAN_7", "Csoport kiválasztása");
+define("MENLAN_8", "Csoport frissítve");
+define("MENLAN_9", "Új egyéni menü telepítve");
+define("MENLAN_10", "Új menü telepítve");
+define("MENLAN_11", "Menü eltávolítva");
+define("MENLAN_12", "Menü aktiválása: terület kiválasztása");
+define("MENLAN_13", "Aktiválás: Terület");
 define("MENLAN_14", "Terület");
-define("MENLAN_15", "Kikapcsolása");
-define("MENLAN_17", "Feljebb");
-define("MENLAN_18", "Lejjebb");
-define("MENLAN_19", "Áthelyezése.");
-define("MENLAN_22", "Inaktív menük");
-define("MENLAN_23", "Alsó áthelyezése");
-define("MENLAN_24", "Elejére");
-define("MENLAN_25", "Akció...");
-define("MENLAN_26", "Ez a menü csak akkor lesz a [b] [/b] megjelenített a következő oldalak");
-define("MENLAN_27", "Ez a menü csak akkor lesz a [b] [/b] rejtett a következő oldalak");
-define("MENLAN_28", "Írjuk be soronként egy oldal, elég megkülönböztetik a megfelelő URL-címét adja meg.  A vége az URL-t pontosan egyeznie kell, ha egy! a végén a nevét. Például: [b]page.php?1! [/b]");
-define("MENLAN_29", "Válassza ki az elrendezés");
-define("MENLAN_30", "A menü és a pozíciójukat egyéni elrendezések megtekintéséhez válasszuk az egyéni elrendezés itt.");
+define("MENLAN_15", "Kikapcsolás");
+define("MENLAN_17", "Mozgatás fel");
+define("MENLAN_18", "Mozgatás le");
+define("MENLAN_19", "Áthelyezés: Terület");
+
+define("MENLAN_22", "Menük inaktíválása");
+
+define("MENLAN_23", "Mozgatás az aljára");
+define("MENLAN_24", "Mozgatás a tetejére");
+define("MENLAN_25", "Művelet...");
+
+define("MENLAN_26", "Ez a menü csak a következő oldalakon lesz [b]látható[/b]");
+define("MENLAN_27", "Ez a menü csak a következő oldalakon lesz [b]rejtett[/b]");
+define("MENLAN_28", "Minden sorba egy oldalt adj meg, a szükséges elérési úttal. Ha szükséges az elérési utat nagyon pontosan megadni, akkor használj egy ! jelet az oldal neve végén. Például: [b]page.php?1![/b]");
+
+define("MENLAN_29", "Elrendezés kiválasztása");
+define("MENLAN_30", "Az egyéni elrendezés menüterületeinek és azok pozícióinak megtekintéséhez válassz egy egyéni elrendezést.");
 define("MENLAN_31", "Alapértelmezett elrendezés");
 define("MENLAN_32", "Newsheader elrendezés");
 define("MENLAN_33", "Egyéni elrendezés");
 define("MENLAN_34", "Beágyazott");
-define("MENLAN_36", "Válassza ki a menu(s)-hoz hatékonnyá tesz");
-define("MENLAN_37", "és ha aktiválja őket.");
-define("MENLAN_38", "Tartsa lenyomva a CTRL billentyűt több menük kiválasztásához.");
-define("MENLAN_39", "Előre megadott terület");
-define("MENLAN_40", "Használható menü készletek");
-define("MENLAN_41", "A menük, ez az elrendezés a helyzetének elvesznek. Még mindig szeretné folytatni?");
+define("MENLAN_36", "Válaszd ki az aktiválandó menüt");
+define("MENLAN_37", "majd válaszd ki, hol legyen aktív.");
+define("MENLAN_38", "Tartsd lenyomva a CTRL -t több menü kiválasztásához.");
+
+define("MENLAN_39", "Előre beállított Terület");
+define("MENLAN_40", "Menü előbeállítások használata");
+define("MENLAN_41", "Ennek az elrendezésnek az összes menü helyzetét el fogod veszíteni. Még mindig folytatni akarod?");
 define("MENLAN_42", "Egyéni");
-define("MENLAN_43", "Menü előre aktivált");
+define("MENLAN_43", "Menü előbeállítások aktiválva");
+
 define("MENLAN_44", "Menü paraméterek");
-define("MENLAN_45", "Paraméterek (query string formátumban):");
+define("MENLAN_45", "Paraméterek (lekérdezési formátum):");

@@ -4,6 +4,6 @@
 // Generated for e107 v2.x by the Multi-Language Plugin
 // https://github.com/e107inc/multilan
 
-define("PAGE_NAME", "Site ideiglenesen bezárt");
+define("PAGE_NAME", "Az oldal átmenetileg zárva");
 define("LAN_SITEDOWN_00", "átmenetileg zárva");
-define("LAN_SITEDOWN_01", "Már ideiglenesen bezárt az oldal néhány alapvető karbantartás. Ez nem tart túl sokáig,-kérjük Látogass vissza hamarosan, elnézést a kellemetlenségért.");
+define("LAN_SITEDOWN_01", "Karbantartás miatt az oldalt átmenetileg lezártuk. Remélhetőleg nem tart sokáig - látogass vissza később. Elnézést kérünk a kellemetlenségért.");

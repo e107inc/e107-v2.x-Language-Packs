@@ -6,14 +6,16 @@
 
 define("NP_1", "Előző oldal");
 define("NP_2", "Következő oldal");
-define("LAN_NP_FIRST", "első");
+
+define("LAN_NP_FIRST", "Első");
 define("LAN_NP_URLFIRST", "Ugrás az első oldalra");
-define("LAN_NP_PREVIOUS", "korábbi");
+define("LAN_NP_PREVIOUS", "Előző");
 define("LAN_NP_URLPREVIOUS", "Ugrás az előző oldalra");
-define("LAN_NP_NEXT", "következő");
+define("LAN_NP_NEXT", "Következő");
 define("LAN_NP_URLNEXT", "Ugrás a következő oldalra");
-define("LAN_NP_LAST", "utolsó");
-define("LAN_NP_URLLAST", "Ugrás az utolsó oldal");
+define("LAN_NP_LAST", "Utolsó");
+define("LAN_NP_URLLAST", "Ugrás az utolsó oldalra");
 define("LAN_NP_GOTO", "Ugrás az oldalra [x]");
-define("LAN_NP_URLCURRENT", "Jelenleg nézett");
-define("NP_CAPTION", "[Y] [x] lapja");
+define("LAN_NP_URLCURRENT", "Aktuális oldal");
+
+define("NP_CAPTION", "[x]. oldal, összes oldal: [y]");
