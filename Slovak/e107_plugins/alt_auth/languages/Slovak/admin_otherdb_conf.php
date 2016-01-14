@@ -18,12 +18,12 @@ define("OTHERDB_LAN_6", "Tabuľka");
 define("OTHERDB_LAN_7", "Pole užívateľa:");
 define("OTHERDB_LAN_8", "Pole hesla:");
 define("OTHERDB_LAN_9", "Metóda hesla:");
-define("OTHERDB_LAN_10", "Nastav overenie inej db");
-define("OTHERDB_LAN_12", "");
-define("OTHERDB_LAN_13", "");
-define("OTHERDB_LAN_14", "");
-define("OTHERDB_LAN_15", "");
-define("LAN_AUTHENTICATE_HELP", "");
+define("OTHERDB_LAN_10", "Nastavenie overenia inej db");
+define("OTHERDB_LAN_12", "Pole: Salt Heslo");
+define("OTHERDB_LAN_13", "(Nechajte prázdne, ak sa nepoužíva)");
+define("OTHERDB_LAN_14", "Pole Emailová adresa:");
+define("OTHERDB_LAN_15", "MySQL - generic database");
+define("LAN_AUTHENTICATE_HELP", "Táto metóda overenia sa používa na overenie voči inej ako e107 databáze. Heslo musí byť uložené v niektorom z podporovaných formátov.");
 
 
 ?>

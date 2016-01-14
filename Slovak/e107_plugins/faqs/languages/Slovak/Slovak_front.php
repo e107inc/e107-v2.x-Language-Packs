@@ -9,10 +9,10 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("LAN_FAQS_TAGS", "");
-define("LAN_FAQS_FILTER_ACTIVE", "");
-define("LAN_FAQS_NONE_AVAILABLE", "");
-define("LAN_FAQS_ASKQUESTION_AFTER", "");
+define("LAN_FAQS_TAGS", "Značky");
+define("LAN_FAQS_FILTER_ACTIVE", "Aktívny filter");
+define("LAN_FAQS_NONE_AVAILABLE", "Aktuálne nie sú dostupné žiadne otázky");
+define("LAN_FAQS_ASKQUESTION_AFTER", "Ďakujeme vám. Vaša otázka bola uložená a v najkratšom možnom čase vám na na ňu odpovieme.");
 
 
 ?>

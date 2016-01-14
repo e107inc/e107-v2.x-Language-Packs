@@ -10,7 +10,7 @@
 +---------------------------------------------------------------+
 */
 define("LAN_PLUGIN_BANNER_NAME", "Reklamy");
-define("LAN_PLUGIN_BANNER_DESCRIPTION", "");
+define("LAN_PLUGIN_BANNER_DESCRIPTION", "Pridáva reklamné banery na vašu e107 stránku");
 
 
 ?>

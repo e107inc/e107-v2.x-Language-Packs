@@ -9,9 +9,9 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("LAN_AL_AUTH_01", "");
-define("LAN_AL_AUTH_02", "");
-define("LAN_AL_AUTH_03", "");
+define("LAN_AL_AUTH_01", "Zmena nastavení Alt Auth");
+define("LAN_AL_AUTH_02", "Zmenené Alt Auth rozšírené užív. triedy");
+define("LAN_AL_AUTH_03", "Zmenené nastavenia Alt Auth metód");
 
 
 ?>

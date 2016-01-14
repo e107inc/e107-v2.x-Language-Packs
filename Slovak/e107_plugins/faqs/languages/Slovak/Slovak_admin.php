@@ -9,18 +9,18 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("LANA_FAQ_QUESTION", "");
-define("LANA_FAQ_ANSWER", "");
-define("LANA_FAQ_COMMENT", "komentár");
-define("LANA_FAQ_UNAME", "Uživatelské jméno");
-define("LANA_FAQ_ULOGINNAME", "Prihlásenie užívateľa");
-define("LANA_FAQ_TAGS", "");
-define("LANA_FAQ_TAGS_HELP", "");
-define("LANA_FAQ_METAD", "");
-define("LANA_FAQ_METAK", "");
-define("LANA_FAQ_PREF_1", "");
-define("LANA_FAQ_PREF_2", "");
-define("LANA_FAQ_PREF_3", "");
+define("LANA_FAQ_QUESTION", "Otázka");
+define("LANA_FAQ_ANSWER", "Odpoveď");
+define("LANA_FAQ_COMMENT", "Komentár");
+define("LANA_FAQ_UNAME", "Užívateľské meno");
+define("LANA_FAQ_ULOGINNAME", "Užívateľský login");
+define("LANA_FAQ_TAGS", "Značky");
+define("LANA_FAQ_TAGS_HELP", "Čiarkami oddelený zoznam značiek");
+define("LANA_FAQ_METAD", "Meta popis");
+define("LANA_FAQ_METAK", "Meta kľúčové slová");
+define("LANA_FAQ_PREF_1", "Povoliť odosielanie FAQ od:");
+define("LANA_FAQ_PREF_2", "'Položte otázku' je obmedzená na");
+define("LANA_FAQ_PREF_3", "Použiť Klasik Layout");
 
 
 ?>
