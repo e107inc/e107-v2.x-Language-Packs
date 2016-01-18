@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Russian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/01/18 15:04:22
+|
+|        $Author: admin $
++---------------------------------------------------------------+
+*/
 
 define("BNRLAN_00", "Никаких баннеров, еще не создан.");
 define("BNRLAN_01", "Баннер идентификатор не найден.");
@@ -39,3 +45,7 @@ define("BNRLAN_45", "Одна кампания, оказываемых в еди
 define("BNRLAN_46", "Все выбранные кампании, оказываемых в одно единое меню");
 define("BNRLAN_47", "Все выбранные кампании, оказываемых в отдельном меню");
 define("BNRLAN_48", "Все выбранные кампании (не окно визуализации)");
+define("BNRLAN_49", "Описание/Подсказка");
+
+
+?>

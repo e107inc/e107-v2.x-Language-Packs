@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Russian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/01/10 03:15:38
+|
+|        $Author: admin $
++---------------------------------------------------------------+
+*/
 
 define("COMLAN_0", "[заблокирован администратором]");
 define("COMLAN_1", "Разблокировать");
@@ -56,6 +62,8 @@ define("COMLAN_337", "Успешно обновлены.");
 define("COMLAN_400", "утвержден");
 define("COMLAN_401", "заблокирован");
 define("COMLAN_402", "Ожидание");
+define("COMLAN_403", "Оставить сообщение...");
+define("COMLAN_404", "Одобрить");
 define("COMLAN_TYPE_1", "Новости");
 define("COMLAN_TYPE_2", "Скачать");
 define("COMLAN_TYPE_3", "Вопросы и ответы");
@@ -65,3 +73,6 @@ define("COMLAN_TYPE_6", "Bugtrack");
 define("COMLAN_TYPE_7", "идеи");
 define("COMLAN_TYPE_8", "UserProfile");
 define("COMLAN_TYPE_PAGE", "Содержание");
+
+
+?>

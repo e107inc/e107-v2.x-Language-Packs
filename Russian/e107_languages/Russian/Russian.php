@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Russian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/01/10 06:01:00
+|
+|        $Author: admin $
++---------------------------------------------------------------+
+*/
 
 setlocale(LC_ALL,  'ru_RU.UTF-8', 'ru_RU.utf8', 'ru');
 define("CORE_LC", "ru");
@@ -98,7 +104,11 @@ define("LAN_ABOUT", "О");
 define("LAN_TITLE", "Название");
 define("LAN_USER", "Пользователь");
 define("LAN_EMAIL", "Адрес электронной почты");
-define("LAN_WROTE", "Написал");
+define("LAN_WROTE", "написал");
 define("LAN_RE_ORDER", "Возобновления заказа");
+define("LAN_RELATED", "Имеет отношение");
 define("LAN_ENTER_USRNAME_EMAIL", "Пожалуйста, введите ваше имя пользователя или по электронной почте");
 define("LAN_PWD_REQUIRED", "Требуется пароль");
+
+
+?>
