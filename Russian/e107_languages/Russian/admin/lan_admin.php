@@ -9,7 +9,6 @@
 |        $Author: admin $
 +---------------------------------------------------------------+
 */
-
 define("ADLAN_0", "Новости");
 define("ADLAN_1", "Управление элементами Новости");
 define("ADLAN_2", "Создать новость");
@@ -271,6 +270,8 @@ define("LAN_CONTROL_PANEL", "Панель Управления [x]");
 define("LAN_CUSTOM_URL", "Подробная ссылка");
 define("LAN_CUSTOM_URL_DISABLED", "Выключено или введите подробную ссылку");
 define("LAN_GENERAL", "Общее");
+define("LAN_GENERATE", "Генерировать");
+define("LAN_WILL_OVERWRITE_SEF", "Это перезапишет ваш существующий SEF URL.");
 
 
 ?>
