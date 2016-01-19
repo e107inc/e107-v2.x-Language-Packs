@@ -31,7 +31,7 @@ define("ONLINE_EL16", "Informatie niet beschikbaar");
 
 define("CLASSRESTRICTED", "Voor klasse beperkte pagina");
 define("CHAT", 		"Chat");
-define("COMMENT", 	"Reacties");
+//define("COMMENT", 	"Reacties");
 define("DOWNLOAD", 	"Downloads");
 define("EMAIL",    	"email.php");
 define("FORUM", 	"Hoofd forum index");
