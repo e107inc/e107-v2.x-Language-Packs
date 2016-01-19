@@ -152,4 +152,5 @@ define("LAN_NEWS_91", "Limiet voor Lijstmatige Nieuwspagina's ");
 define("LAN_NEWS_92", "vb. news.php?all of news.php?cat.1 of news.php?tag=xxx");
 define("LAN_NEWS_93", "Lijst-bekijk inhoud");
 define("LAN_NEWS_94", "Items toegewezen aan deze templates worden getoond in de lijst.");
+define("LAN_NEWS_95", " Deze SEF URL wordt al gebruikt door een ander bericht: [x]");
 ?>

@@ -73,10 +73,10 @@ define("TPVLAN_55", "Standaard");
 define("TPVLAN_56", "Zichtbaarheid Filter"); 
 define("TPVLAN_57", "Compatibiliteit");
 
-define("TPVLAN_58", "Dit theme gebruikt reeds voor-geinstalleerde voorbeeldsinhoud (zoals pagina's en menu's) die mogelijk bruikbaar kunnen zijn op je website.");
-define("TPVLAN_59", "(Opletten!) Bedenk echter wel dat de voorbeeldsinhoud je huidige eigen inhoud zal [b]overschrijven[/b] met het volgende");
+define("TPVLAN_58", "Dit theme gebruikt reeds voor-geinstalleerde voorbeelds-inhoud (zoals pagina's en menu's) die mogelijk bruikbaar kunnen zijn op je website.");
+define("TPVLAN_59", "(Opletten!) Bedenk echter wel dat de voorbeelds-inhoud je huidige eigen inhoud zal [b]overschrijven[/b] met het volgende");
 define("TPVLAN_60", "[x] invoerrecord(s) in jouw [y] tabel");
-define("TPVLAN_61", "Wens je de huidge inhoud te [b]vervangen[/b] met de voorbeelds-inhoud van het door het theme aangeleverd materiaal?");
+define("TPVLAN_61", "Wens je de huidige inhoud te [b]vervangen[/b] met de voorbeelds-inhoud van het door het theme aangeleverd materiaal?");
 
 
 ?>

@@ -10,3 +10,9 @@ A>	Het voorkomt dat je site wordt overstroomd door extreme aantallen HTTP aanvra
 
 Q>	Moet ik Cookies of Sessies gebruiken om mijn leden te volgen?
 A>	Het is je eigen keuze. Als je site goed werkt met cookies (standaardwaarde), laat dat maar zo. Als je de voorkeur geeft aan PHP Sessies, probeer dat dan (er wordt een eigen e107 sessie manager gebruikt).
+
+Q> Wat bedoeld men met PLAINTEXT?
+A> Tekst zonder een opmaak.
+
+Q> Wat bedoeld men met CHAP?
+A> Challenge Handshake Authentication Protocol : is een wijd verspreide verificatiemethode waarbij een representatie van het wachtwoord van de gebruiker, in plaats van het wachtwoord zelf, verzonden wordt tijdens het verificatieproces.

@@ -57,7 +57,7 @@ define("LAN_USET_41", "Instellingen bijgewerkt en opgeslagen in de database.");
 define("LAN_USET_42", "Code niet correct");
 define("LAN_USET_43", "Gebruikersgegevens niet bijgewerkt");
 
-
+//TODO Move to usersettings.php with bcDefs() method.
 define("LAN_7", "Gebruikersnaam: ");
 define("LAN_8", "de naam die op de site wordt weergegeven");
 define("LAN_9", "Inlognaam: ");

@@ -20,8 +20,8 @@ define("DBLAN_7",  "Optimaliseer database");
 define("DBLAN_8",  "klik op de knop om je ´core´ instellingen te backuppen");
 define("DBLAN_9",  "Backup core instellingen");
 define("DBLAN_10", "Database hulpprogramma´s");
-define("DBLAN_11", "mySQL database");
-define("DBLAN_12", "geoptimaliseerd");
+define("DBLAN_11", "MySQL database [x] geoptimaliseerd");
+//define("DBLAN_12", "geoptimaliseerd");
 define("DBLAN_15", "Klik op de knop om te controleren op beschikbare database updates");
 define("DBLAN_16", "Controleer op updates");
 define("DBLAN_17", "Voork. Naam");
@@ -124,4 +124,5 @@ define("DBLAN_107", "[folder] is niet beschijfbaar");
 define("DBLAN_108", "Aangemaakt:");
 define("DBLAN_109", "Gekopiëerd:");
 define("DBLAN_110", "Kon niet kopiëren:");
+define("DBLAN_111", "Tabellen lijken in orde!");
 ?>

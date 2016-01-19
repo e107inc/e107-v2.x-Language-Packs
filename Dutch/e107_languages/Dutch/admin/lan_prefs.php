@@ -255,4 +255,11 @@ define("PRFLAN_254", "Email &amp; Contact Info");
 define("PRFLAN_255", "Bestand Uploading");
 define("PRFLAN_256", "Geavanceerde Opties");
 define("PRFLAN_257", "Javascript Framework");
+
+define("PRFLAN_258", "Contact Formulier zichtbaar voor");
+define("PRFLAN_259", "Aanmelden & Inloggen");
+define("PRFLAN_260", "Alleen Inloggen");
+define("PRFLAN_261", "Opties Velden");
+define("PRFLAN_262", "Wachtwoord in Email Bevestiging");
+define("PRFLAN_263", "Dient uniek te zijn voor deze website");
 ?>

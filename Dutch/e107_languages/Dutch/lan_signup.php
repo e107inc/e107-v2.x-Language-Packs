@@ -25,7 +25,7 @@ define("LAN_SIGNUP_8", "Bedankt!");
 define("LAN_SIGNUP_9", "Kan niet verder gaan.");
 define("LAN_SIGNUP_11", ".");
 define("LAN_SIGNUP_12", "Bewaar je inlognaam en wachtwoord op een veilige plek. Verloren gegevens kunnen namelijk niet worden teruggehaald.");
-define("LAN_SIGNUP_13", "Je kunt nu inloggen in het Inlogmenu of vanaf <a href='".e_BASE."login.php'>hier</a>.");
+define("LAN_SIGNUP_13", "Je kunt nu inloggen in het Inlogmenu of vanaf [hier].");
 define("LAN_SIGNUP_14", "hier");
 define("LAN_SIGNUP_15", "Neem contact op met de beheerder");
 define("LAN_SIGNUP_16", "als je hulp nodig hebt.");
@@ -85,7 +85,7 @@ define("LAN_SIGNUP_81", "Inlognaam: ");
 define("LAN_SIGNUP_82", "Dit is de naam waarmee je inlogt");						
 define("LAN_SIGNUP_83", "Wachtwoord: ");											
 define("LAN_SIGNUP_84", "Wachtwoord bevestiging: ");								
-define("LAN_SIGNUP_85", "Inlognamen en wachtwoorden zijn <b>hoofdlettergevoelig</b>.");	
+define("LAN_SIGNUP_85", "Inlognamen en wachtwoorden zijn hoofdlettergevoelig.");	
 define("LAN_SIGNUP_89", "Gebruikersnaam: ");										
 define("LAN_SIGNUP_90", "Dit is de naam die op de site wordt getoond");		
 define("LAN_SIGNUP_91", "Echte naam: ");										
@@ -112,6 +112,7 @@ define("LAN_SIGNUP_110", "Je volledige naam");
 define("LAN_SIGNUP_111", "Geef de URL naar de afbeelding of kies een bestaande avatar.");
 define("LAN_SIGNUP_112", "Je bent nu ingelogd als Hoofdbeheerder.");
 
+/*
 define("LAN_7", "Gebruikersnaam: ");
 define("LAN_8", "Dit is de naam die op de site wordt getoond");
 define("LAN_9", "Inlognaam: ");
@@ -129,6 +130,6 @@ define("LAN_308", "Echte naam: ");
 define("LAN_309", "Voer je gegevens hieronder in.");
 define("LAN_400", "Gebruikersnamen en wachtwoorden zijn <b>hoofdlettergevoelig</b>.");
 define("LAN_410", "Voer de zichtbare code in");
-
+*/
 
 ?>
