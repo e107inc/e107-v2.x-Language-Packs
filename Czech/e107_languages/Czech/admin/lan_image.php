@@ -1,9 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Czech Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/20 20:03:17
+|
+|        $Author: Oxigen $
++---------------------------------------------------------------+
+*/
 define("LAN_IMA_M_01", "Knihovna médií");
 define("LAN_IMA_M_02", "Mediální Upload/Import");
 define("LAN_IMA_M_03", "Kategorie médií");
@@ -19,56 +24,56 @@ define("LAN_IMA_O_003", "Stránka [img] bbcode");
 define("LAN_IMA_O_004", "Featurebox obrazy");
 define("LAN_IMA_O_005", "Featurebox [img] bbcode");
 define("LAN_IMA_O_006", "bbcode [img]");
-define("IMALAN_1", "Povolit zobrazení obrazu");
-define("IMALAN_2", "Zobrazování obrázků, tato vůle platí celý web (Komentáře, chat atd) pro obrazy, které jsou zaúčtovány pomocí bbcode [img]");
-define("IMALAN_3", "Změna velikosti metoda");
-define("IMALAN_4", "Metoda umožňuje změnit velikost obrázků, GD1/2 knihovny, nebo ImageMagick");
-define("IMALAN_5", "Cesta k ImageMagick (je-li vybráno)");
-define("IMALAN_6", "Úplná cesta k nástroj ImageMagick Convert");
-define("IMALAN_7", "Nastavení obrazu");
-define("IMALAN_8", "Aktualizovat nastavení obrazu");
-define("IMALAN_9", "Obrázek nastavení aktualizováno");
-define("IMALAN_10", "Image zobrazení třída");
-define("IMALAN_11", "Omezení uživatelů, kteří mohou zobrazit obrázky (je-li povoleno výše)");
-define("IMALAN_12", "Zakázané image metoda");
-define("IMALAN_13", "Co mám dělat s obrázky, pokud se obraz na displeji je zakázáno");
-define("IMALAN_14", "Zobrazit adresu URL obrázku");
-define("IMALAN_15", "Nic");
+define("IMALAN_1", "Povolit ukládání obrázků");
+define("IMALAN_2", "Zobrazovat obrázky, použije se pro celý web (i v komentářích, apod.), které byly vloženy pomocí [img] BBCode");
+define("IMALAN_3", "Metoda pro změnu velikosti");
+define("IMALAN_4", "Metoda pro změny velikosti - knihovna GD1/2 nebo ImageMagick");
+define("IMALAN_5", "Cesta pro ImageMagick (pokud je aktivní)");
+define("IMALAN_6", "Plná cesta, kde najdu ImageMagick");
+define("IMALAN_7", "Nastavení obrázků");
+define("IMALAN_8", "Upravit nastavení obrázku");
+define("IMALAN_9", "Nastavení uložena");
+define("IMALAN_10", "Třída nutná pro zasílání obrázků");
+define("IMALAN_11", "Určit uživatele, kteří mohou zasílat obrázky (pokud je to povoleno)");
+define("IMALAN_12", "Vypnutá metoda obrázku");
+define("IMALAN_13", "Co se má stát s nahraným obrázkem, pokud je jejich zasílání vypnuté");
+define("IMALAN_14", "Ukaž URL obrázku");
+define("IMALAN_15", "Nic nezobrazovat");
 define("IMALAN_18", "Nahrané Avatar obrázky");
 define("IMALAN_20", "Nic se nezměnilo");
-define("IMALAN_21", "Používá");
-define("IMALAN_22", "Obrázek není v provozu");
+define("IMALAN_21", "Použit");
+define("IMALAN_22", "Obrázek není použit");
 define("IMALAN_23", "Avatary");
 define("IMALAN_24", "Fotografie");
-define("IMALAN_25", "Chcete-li odstranit všechny nepoužité obrázky");
-define("IMALAN_26", "obrázky odstraněny");
-define("IMALAN_28", "odstraněn");
+define("IMALAN_25", "Kliknutím zde smažete všechny nepoužité obrázky");
+define("IMALAN_26", "obrázky smazány");
+define("IMALAN_28", "Smazáno");
 define("IMALAN_29", "Žádné obrázky");
-define("IMALAN_36", "Avatar velikost a přístup");
-define("IMALAN_37", "Avatar ověření");
-define("IMALAN_38", "Maximální povolená šířka");
-define("IMALAN_39", "Maximální povolená výška");
-define("IMALAN_40", "Příliš široké");
-define("IMALAN_41", "Příliš vysoké");
-define("IMALAN_42", "Nebyl nalezen.");
-define("IMALAN_45", "Nebyl nalezen.");
+define("IMALAN_36", "Potvrdit velikost a přístup pro avatar");
+define("IMALAN_37", "Potvrzení avataru");
+define("IMALAN_38", "Maximální šířka");
+define("IMALAN_39", "Maximální výška");
+define("IMALAN_40", "Moc široké");
+define("IMALAN_41", "Moc vysoké");
+define("IMALAN_42", "NENALEZENO");
+define("IMALAN_45", "NENALEZENO");
 define("IMALAN_46", "Příliš velké");
-define("IMALAN_47", "Celkový nahrané avatary");
-define("IMALAN_48", "Celkové vnější avatary");
-define("IMALAN_49", "Uživatelé s avatary");
-define("IMALAN_50", "Celkem");
+define("IMALAN_47", "Celkem nahraných avatarů");
+define("IMALAN_48", "Celkem avatarů z externích zdrojů");
+define("IMALAN_49", "Uživatelé s avatarem");
+define("IMALAN_50", "celkem");
 define("IMALAN_51", "Avatar pro");
-define("IMALAN_52", "Cesta k ImageMagick se zdá být nesprávná");
-define("IMALAN_53", "Cesta k ImageMagick se zdá být správný, ale převést soubor zřejmě není platný");
-define("IMALAN_54", "Nainstalovanou verzi GD:");
-define("IMALAN_55", "Není nainstalován");
+define("IMALAN_52", "Cesta k ImageMagick je asi špatně");
+define("IMALAN_53", "Cesta k ImageMagick je asi dobře, ale převod souboru nemusí být platný");
+define("IMALAN_54", "Instalovaná verze GD:");
+define("IMALAN_55", "nenainstalováno");
 define("IMALAN_56", "Klepnutím vyberte");
 define("IMALAN_57", "Obrázek příliš velký - klikněte pro zvětšení");
-define("IMALAN_62", "Důvod");
+define("IMALAN_62", "Odůvodnění");
 define("IMALAN_65", "Nic našel");
 define("IMALAN_66", "Název souboru");
 define("IMALAN_68", "Zavřít");
-define("IMALAN_69", "Složka");
+define("IMALAN_69", "složka");
 define("IMALAN_70", "Non systémová složka nachází!");
 define("IMALAN_73", "Kvality miniatury");
 define("IMALAN_74", "Nastavte tak nízké, jak je to možné dříve, než ztráta kvality je zřejmá. Max. 100");
@@ -115,13 +120,16 @@ define("IMALAN_114", "Žádné médium nalezeno! Prosím nahrávejte některé s
 define("IMALAN_115", "Titul (interní použití)");
 define("IMALAN_116", "Titulek (vidět veřejnost)");
 define("IMALAN_118", "MIME typ");
-define("IMALAN_119", "Velikost souboru");
+define("IMALAN_119", "Velikost");
 define("IMALAN_120", "Rozměry");
-define("IMALAN_121", "Náhled");
+define("IMALAN_121", "zobrazit");
 define("IMALAN_122", "[x] nelze přejmenovat. Kontrola souboru trvalou.");
 define("IMALAN_123", "Import do kategorie:");
 define("IMALAN_124", "Importovat vybrané soubory");
-define("IMALAN_125", "Odstranit vybrané soubory");
+define("IMALAN_125", "Smazat vybrané soubory");
 define("IMALAN_126", "Zkontrolujte prosím alespoň jeden soubor.");
 define("IMALAN_127", "Nelze získat informace o souboru:");
 define("IMALAN_128", "Importování médií:");
+
+
+?>

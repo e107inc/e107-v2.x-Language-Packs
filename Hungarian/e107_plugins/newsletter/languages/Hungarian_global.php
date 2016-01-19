@@ -5,4 +5,4 @@
 // https://github.com/e107inc/multilan
 
 define("LAN_PLUGIN_NEWSLETTER_NAME", "Hírlevél");
-define("LAN_PLUGIN_NEWSLETTER_DESCRIPTION", "Biztosít a gyors és könnyű út-hoz configure és küld hírlevelet.");
+define("LAN_PLUGIN_NEWSLETTER_DESCRIPTION", "Egy könnyű és gyors lehetőséget biztosít a beállításhoz és a hírlevél elküldéséhez.");

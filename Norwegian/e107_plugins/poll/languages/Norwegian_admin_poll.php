@@ -1,18 +1,26 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("POLL_ADLAN03", "Konfigurere avstemninger");
-define("POLL_ADLAN04", "Poll innpluggingsmodul er installert. Legg til målinger, klikk på ikonet avstemninger i delen plugin admin forsiden og husk å velge menyvalget fra menyer siden.");
-define("POLL_ADLAN05", "Viktigste Poll:");
-define("POLL_ADLAN06", "Forumtråden:");
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/28 20:09:08
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
+define("POLL_ADLAN03", "Konfigurer avstemning");
+define("POLL_ADLAN04", "Utvidelsen er nå installert. For å legge til avstemninger, klikk på stemmegivningsikonet i utvidelsesseksjonen på admins førsteside, og husk å aktivere menyobjektet fra menysiden din.");
+define("POLL_ADLAN05", "Hovedavstemning:");
+define("POLL_ADLAN06", "Forum Tråd:");
 define("POLL_ADLAN07", "Type");
-define("POLLAN_MENU_CAPTION", "Poll");
-define("POLLAN_7", "Ingen avstemninger ennå.");
+define("POLLAN_MENU_CAPTION", "avstemning");
+define("POLLAN_7", "Foreløpig ingen avstemninger.");
 define("LAN_AL_POLL_01", "Målingen slettet");
 define("LAN_AL_POLL_02", "Målingen oppdatert");
 define("LAN_AL_POLL_03", "Målingen lagt");
 define("LAN_AL_POLL_04", "");
 define("LAN_AL_POLL_05", "");
+
+
+?>

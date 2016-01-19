@@ -1,10 +1,19 @@
 <?php
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/28 20:06:30
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("LAN_PLUGIN_LOG_NAME", "Annonsestatistikker");
-define("LAN_PLUGIN_LOG_DESCRIPTION", "Dette programtillegget vil logge alle besøk til nettstedet ditt, og bygge detaljert statistikken skjermer basert på informasjon.");
-define("LAN_PLUGIN_LOG_CONFIGURE", "Konfigurere statistisk Logging");
+define("LAN_PLUGIN_LOG_NAME", "Side statistikk");
+define("LAN_PLUGIN_LOG_DESCRIPTION", "Denne plugin'en kommer til å logge alle besøk på nettstedet og bygge detaljerte statistikkbilder basert på den innsamlede informasjonen.");
+define("LAN_PLUGIN_LOG_CONFIGURE", "Konfigurer statististisk logging");
 define("LAN_PLUGIN_LOG_LINK", "Besøk");
+
+
+?>

@@ -1,19 +1,24 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Czech Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/20 19:58:13
+|
+|        $Author: Oxigen $
++---------------------------------------------------------------+
+*/
 define("BANLAN_2", "Žádné zákazy v seznamu.");
-define("BANLAN_3", "Stávající zákazy");
-define("BANLAN_5", "Zadejte IP, e-mailovou adresu nebo hostitele");
-define("BANLAN_7", "Důvod");
-define("BANLAN_8", "Zákaz adresa");
-define("BANLAN_9", "Zakázat uživatelům webu email, IP nebo hostitelské adresy");
-define("BANLAN_10", "IP / Email / důvod");
-define("BANLAN_11", "Auto zákaz: více než 10 neúspěšných pokusů o přihlášení");
+define("BANLAN_3", "Současné zakázané návštěvy");
+define("BANLAN_5", "Vložit IP, email nebo hostitele");
+define("BANLAN_7", "Odůvodnění");
+define("BANLAN_8", "Zakázat");
+define("BANLAN_9", "Zakázat návštěvu uživatele podle emailu, IP nebo hostitelské adresy");
+define("BANLAN_10", "IP / Email / Odůvodnění");
+define("BANLAN_11", "Automatický ban: Více než 10 neúspěšných pokusů o přihlášení");
 define("BANLAN_12", "Poznámka: Reverzní DNS je v současné době zakázán; musí být povoleno zak├ízat hostitelem.  Zákaz IP a e-mailová adresa bude i nadále fungovat normálně.");
-define("BANLAN_13", "Poznámka: Chcete-li zakázat uživatele podle uživatelského jména, přejděte na stránku Správce uživatele:");
+define("BANLAN_13", "Poznámka: Pro zakázání přístupu uživatelů podle jména přejděte na stránku správy uživatelů:");
 define("BANLAN_14", "Ban List");
 define("BANLAN_15", "Zprávy/Ban období");
 define("BANLAN_16", "Zákaz");
@@ -21,11 +26,11 @@ define("BANLAN_17", "Datum zákazu");
 define("BANLAN_18", "Vypršení platnosti zákazu");
 define("BANLAN_19", "Poznámky");
 define("BANLAN_20", "Typ");
-define("BANLAN_22", "Neznámý");
+define("BANLAN_22", "neznámé");
 define("BANLAN_23", "dny");
-define("BANLAN_24", "hodiny");
+define("BANLAN_24", "hodin");
 define("BANLAN_25", "Přidat do Banlist");
-define("BANLAN_26", "V současné době");
+define("BANLAN_26", "Aktuálně");
 define("BANLAN_27", "Neplatné znaky v poli Adresa IP svlékl - nyní:");
 define("BANLAN_28", "Zákaz typ");
 define("BANLAN_29", "Zpráva Ukázat na zakázané uživatele");
@@ -55,12 +60,12 @@ define("BANLAN_53", "Přidat do seznamu povolených");
 define("BANLAN_54", "Žádné položky v seznamu povolených");
 define("BANLAN_55", "Datum položky");
 define("BANLAN_56", "IP/Email, uživatelské");
-define("BANLAN_57", "Uživatel");
+define("BANLAN_57", "uživatel");
 define("BANLAN_58", "Přidat uživatele do seznamu povolených serverů");
 define("BANLAN_59", "Upravit existující položku seznamu povolených");
 define("BANLAN_60", "Upravit existující položku banlist");
 define("BANLAN_61", "Stávající položky do seznamu povolených");
-define("BANLAN_63", "Použít reverzní DNS povolit hostitele zákaz");
+define("BANLAN_63", "Používat reverzní DNS pro blokování?");
 define("BANLAN_64", "Reverzní DNS přístupy při přidávání zákaz");
 define("BANLAN_65", "Zapnutím této možnosti umožní zakázat uživatele podle názvu hostitele, spíše potom jen IP nebo e-mailovou adresu.<br>Poznámka: To může mít vliv pageload časy na některých počítačích nebo pokud server neodpovídá");
 define("BANLAN_66", "Dojde-li k zákazu, tato volba přidá doménu zakázané adresy z důvodu");
@@ -91,15 +96,15 @@ define("BANLAN_90", "Chyba při odstraňování souboru protokolu");
 define("BANLAN_91", "Formát data a času pro zákaz protokolu");
 define("BANLAN_92", "Najdete na stránce funkce strftime na php.net");
 define("BANLAN_93", "");
-define("BANLAN_100", "Neznámý");
+define("BANLAN_100", "neznámé");
 define("BANLAN_101", "Manuál");
 define("BANLAN_102", "Povodeň");
 define("BANLAN_103", "Počet přístupů");
 define("BANLAN_104", "Chyba přihlášení");
 define("BANLAN_105", "Importován");
-define("BANLAN_106", "Uživatel");
-define("BANLAN_107", "Neznámý");
-define("BANLAN_108", "Neznámý");
+define("BANLAN_106", "uživatel");
+define("BANLAN_107", "neznámé");
+define("BANLAN_108", "neznámé");
 define("BANLAN_109", "Staré");
 define("BANLAN_110", "S největší pravděpodobností zákaz, který byl dříve, než e107 byl inovován z 0.7.x");
 define("BANLAN_111", "Vložil admin");
@@ -117,3 +122,6 @@ define("BANLAN_122", "Černá listina");
 define("BANLAN_123", "Přidat do blacklistu");
 define("BANLAN_124", "Vypršení platnosti");
 define("BANLAN_125", "Použít mé IP");
+
+
+?>

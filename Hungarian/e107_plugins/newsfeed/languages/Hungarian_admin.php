@@ -4,45 +4,54 @@
 // Generated for e107 v2.x by the Multi-Language Plugin
 // https://github.com/e107inc/multilan
 
-define("NFLAN_03", "Állítsa be a hírcsatornák");
-define("NFLAN_04", "Newsfeeds plugin telepítése sikeres volt. Newsfeeds hozzáadása és konfigurálása, térjen vissza a fő admin oldalra, és kattintson a hírcsatornák ikonra a dugó szakaszban.");
-define("NFLAN_07", "Meglévő Newsfeeds");
-define("NFLAN_08", "Newsfeeds címlapon");
-define("NFLAN_09", "Hozzon létre a hírcsatorna");
-define("NFLAN_10", "Az RSS-hírcsatorna URL-címét.");
-define("NFLAN_11", "Kép elérési útja");
+define("NFLAN_03", "Hírforrások beállítása");
+define("NFLAN_04", "A Hírforrások plugin telepítve. Hírforrás felvételéhez és a beállításokhoz, lépj vissza az admin főoldalra és kattints a Hírforrások ikonra a plugin manager-ben.");
+define("NFLAN_07", "Jelenlegi hírforrások");
+define("NFLAN_08", "Hírforrások főoldala");
+define("NFLAN_09", "Hírforrás felvitele");
+define("NFLAN_11", "Kép elérési útvonala");
 define("NFLAN_12", "Aktiválás");
 define("NFLAN_13", "Sehol (inaktív)");
 define("NFLAN_14", "Csak menüben");
-define("NFLAN_17", "Adja meg a 'default' használni a képet a takarmány meghatározása. Használja a saját kép, belép a teli kerti ösvény. Üresen nincs kép.");
-define("NFLAN_18", "Frissítési időköz másodpercben");
-define("NFLAN_19", "pl. 3600: hírcsatorna frissíteni óránként");
-define("NFLAN_20", "A hírcsatorna csak a fő oldal");
-define("NFLAN_21", "A menü és a hírcsatorna");
-define("NFLAN_22", "Válassza ki, hol jelenik meg hírcsatorna.");
-define("NFLAN_26", "Frissítési időköz");
-define("NFLAN_37", "Rövid leírás a takarmány. Adja meg a 'default' használni a leírás, a takarmány meghatározása");
-define("NFLAN_41", "Nem határozták még meg newsfeeds");
-define("NFLAN_42", "<b>»</b> <u>Takarmány-név:</u>
-	Az azonosító neve, a takarmány lehet, amit akarsz.<br><br>
-	<b>»</b> <u>Rss-hírcsatorna URL-címe:</u>
-	A címét az rss feed<br><br>
-	<b>»</b> <u>Kerti ösvény-hoz kép:</u>
-	Ha a takarmány egy képet, hogy meghatározott, adja meg a 'default' használni. Használhatsz saját képeket, írja be a teljes elérési utat hozzá. Hagyja üresen, hogy nincs kép egyáltalán.<br><br>
-	<b>»</b> <u>Leírás:</u>
-	Adjon meg egy rövid leírást a takarmány vagy a takarmány meghatározott 'default' használni a leírás (ha van ilyen).<br><br>
-	<b>»</b> <u>Frissítési időköz másodpercben:</u>
-	Összegét a másodpercben, mielőtt a táplál van korszerűsített, például 1800: 30 perc, 3600: egy óra.<br><br>
-	<b>»</b> <u>Aktiválás:</u>
-	Ha azt szeretné, a takarmány a megjelenített eredmények, hogy szüksége lesz a hírcsatornák menü <a href=''.e_ADMIN.'menus.php'>menük oldal</a>aktiválásához menü eszik.<br><br>Egy jó listája elérhető hírcsatornákat lásd: <a href='http://www.syndic8.com/' rel='external'>syndic8.com</a> vagy <a href='http://feedfinder.feedster.com/index.php' rel='external'>feedster.com</a>");
-define("NFLAN_43", "Hírcsatorna-Súgó");
-define("NFLAN_44", "Ide kattintva megtekintheti");
-define("NFLAN_45", "Megjeleníthető menü elemek száma");
-define("NFLAN_46", "A fő oldal elemek száma");
-define("NFLAN_47", "0 vagy üres összes megjelenítése");
-define("NFLAN_49", "Unserialize képtelenek rss adatok - szintaxisa nem szabványos");
-define("LAN_AL_NEWSFD_01", "Készítette: News Feed");
-define("LAN_AL_NEWSFD_02", "Frissített hírek táplál");
-define("LAN_AL_NEWSFD_03", "News Feed törölve");
+define("NFLAN_17", "Írd be a 'default' értéket az alapértelmezett kép használatához a hírforrásban, saját kép használata esetén írd be a teljes elérési útvonalat, ha ne legyen kép, akkor hagyd üresen.");
+define("NFLAN_18", "Frissítési gyakoriság másodpercben");
+define("NFLAN_19", "pl, 3600: a hírforrás óránként fog frissülni");
+define("NFLAN_20", "Csak a hírforrások főoldalon");
+define("NFLAN_21", "Menüben és a hírforrás oldalon is");
+define("NFLAN_22", "válaszd ki, hol jelenjen meg a hírforrás");
+define("NFLAN_26", "Frissítési gyakoriság");
+define("NFLAN_37", "Hírforrások leírásának sorrendje, írd be a 'default' értéket az alapértelmezett leírás használatához a hírforrásokban");
+define("NFLAN_41", "Nincs hírforrás megadva");
+
+define("NFLAN_42", "<b>&raquo;</b> <u>Hírforrás neve:</u>
+  A hírforrás azonosítóneve, írj be bármit, ami tetszik.
+  <br /><br />
+  <b>&raquo;</b> <u>Az rss hírforrás URL-je:</u>
+  Az rss hírforrás címe.
+  <br /><br />
+  <b>&raquo;</b> <u>Kép útvonala (URL):</u>
+  Ha a hírforrás rendelkezik képpel, írd be a 'default' értéket a használatához. Saját kép használata esetén írd be a kép teljes elérési útvonalát. Hagyd üresen, ha ne jelenjen meg kép.
+  <br /><br />
+  <b>&raquo;</b> <u>Leírás:</u>
+  Írj egy rövid leírást a hírforráshoz vagy hagyd 'default' értéken a hírforrásban megadott leírás megjelenítéséhez (ha van benne).
+  <br /><br />
+  <b>&raquo;</b> <u>Frissítési intervallum másodpercben:</u>
+  A másodpercek mennyisége, mielőtt a hírforrás frissíti magát, pl.: 1800: 30 perc, 3600: egy óra.
+  <br /><br />
+  <b>&raquo;</b> <u>Aktiválás:</u>
+  Hol akarod, hogy megjelenjen a hírforrás eredménye, a menü-szerű hírforrás megjelenítéséhez aktiválni kell a <a href='".e_ADMIN."menus.php'>menük oldalon</a>.
+  <br /><br />Egy hasznos, felhasználható hírforrás lista megtekinthető a <a href='http://www.syndic8.com/' rel='external'>syndic8.com</a> vagy <a href='http://feedfinder.feedster.com/index.php' rel='external'>feedster.com</a> oldalon.");
+define("NFLAN_43", "Hírforrás - Súgó");
+define("NFLAN_44", "katt ide a megtekintéshez");
+
+define("NFLAN_45", "Menüben megjelenő hírforrások száma");
+define("NFLAN_46", "A főoldalon megjelenő hírforrások száma");
+define("NFLAN_47", "0 vagy hagyd üresen az összes megjelenítéséhez");
+
+define("NFLAN_49", "Nem lehet deszerializálni az rss adatot - nem szabványos szintaxist használ");
+
+define("LAN_AL_NEWSFD_01", "Hírforrás létrehozva");
+define("LAN_AL_NEWSFD_02", "Hírforrás frissítve");
+define("LAN_AL_NEWSFD_03", "Hírforrás törölve");
 define("LAN_AL_NEWSFD_04", "");
 define("LAN_AL_NEWSFD_05", "");

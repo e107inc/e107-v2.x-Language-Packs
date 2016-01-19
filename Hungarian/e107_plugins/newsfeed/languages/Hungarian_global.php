@@ -5,4 +5,4 @@
 // https://github.com/e107inc/multilan
 
 define("LAN_PLUGIN_NEWSFEEDS_NAME", "Hírforrások");
-define("LAN_PLUGIN_NEWSFEEDS_DESCRIPTION", "Ez a plugin elhoz rss eszik más weboldalakon, és megjeleníti azokat a preferenciák.");
+define("LAN_PLUGIN_NEWSFEEDS_DESCRIPTION", "A plugin más weboldalak rss hírforrásait olvassa és jeleníti meg.");

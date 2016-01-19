@@ -1,57 +1,62 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("PAGE_NAME", "Registrace");
-define("LAN_EMAIL_01", "Drahá");
-define("LAN_EMAIL_04", "Mějte tento email pro své vlastní informace.");
-define("LAN_EMAIL_05", "Hesla byla zašifrována a nelze načíst, pokud jste dát na nepravé místo nebo na to zapomeň. Můžete však požádat o nové heslo, pokud k tomu dojde.");
-define("LAN_EMAIL_06", "Díky za vaši registraci.");
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Czech Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/20 19:54:57
+|
+|        $Author: Oxigen $
++---------------------------------------------------------------+
+*/
+define("PAGE_NAME", "registrujte se");
+define("LAN_EMAIL_01", "Vážený");
+define("LAN_EMAIL_04", "Informace obsažené v tomto e-mailu uchovejte pouze pro vlastní potřebu.");
+define("LAN_EMAIL_05", "Heslo bylo zakódováno a nelze jej zpětně nijak zjistit. Můžete však kdykoliv požadat o nastavení nového hesla administrátora webu.");
+define("LAN_EMAIL_06", "Děkujeme za Vaši registraci.");
 define("LAN_SIGNUP_1", "Min.");
-define("LAN_SIGNUP_2", "znaků.");
-define("LAN_SIGNUP_3", "Ověření kódu se nezdařilo.");
-define("LAN_SIGNUP_4", "Vaše heslo musí být nejméně");
-define("LAN_SIGNUP_5", "znaků.");
-define("LAN_SIGNUP_8", "Děkuju!");
-define("LAN_SIGNUP_9", "Nelze pokračovat.");
+define("LAN_SIGNUP_2", "znaků");
+define("LAN_SIGNUP_3", "Nepodařilo se ověřit kód.");
+define("LAN_SIGNUP_4", "Heslo musí mít minimálně");
+define("LAN_SIGNUP_5", " znaků.");
+define("LAN_SIGNUP_8", "Děkujeme.");
+define("LAN_SIGNUP_9", "Nelze zpracovat.");
 define("LAN_SIGNUP_11", ".");
-define("LAN_SIGNUP_12", "Prosím, mějte své uživatelské jméno a heslo zapsal v bezpečném místě jako by ztratil a to že nelze načíst.");
+define("LAN_SIGNUP_12", "uchovejte prosím Vaše uživatelské jméno a heslo na bezpečném místě. Pokud je zapomenete, heslo nelze zpětně zjistit.");
 define("LAN_SIGNUP_13", "Nyní přihlášení v přihlašovacím okně, nebo [zde].");
-define("LAN_SIGNUP_14", "Tady");
-define("LAN_SIGNUP_15", "Prosím, kontaktujte admin hlavní stránka");
-define("LAN_SIGNUP_16", "Pokud požadujete pomoc.");
-define("LAN_SIGNUP_17", "Prosím potvrdit, že jste 13 nebo 13 let.");
-define("LAN_SIGNUP_18", "Vaše registrace byla přijata a vytvořen s následující přihlašovací údaje:");
-define("LAN_SIGNUP_21", "Váš účet je v současné době označen jako neaktivní. K aktivaci vašeho účtu přejděte na následující odkaz:");
-define("LAN_SIGNUP_22", "Klepnutím sem");
-define("LAN_SIGNUP_23", "k přihlášení.");
-define("LAN_SIGNUP_24", "Děkujeme vám za registraci na");
-define("LAN_SIGNUP_25", "Nahrát avatara");
-define("LAN_SIGNUP_26", "Nahrajte vaše fotografie");
-define("LAN_SIGNUP_27", "Zobrazit");
+define("LAN_SIGNUP_14", "zde");
+define("LAN_SIGNUP_15", "Kontaktujte prosím hlavního administrátora webu");
+define("LAN_SIGNUP_16", "pokud potřebujete pomoci.");
+define("LAN_SIGNUP_17", "Potvrďte prosím (na vlastní zodpovědnost), že je Vám 13 nebo více let.");
+define("LAN_SIGNUP_18", "Přijali jsme Vaši žádost o registraci s těmito údaji ...");
+define("LAN_SIGNUP_21", "Váš účet zatím není aktivní. Účet lze aktivovat kliknutím na následující odkaz ...");
+define("LAN_SIGNUP_22", "klikni zde");
+define("LAN_SIGNUP_23", "pro přihlášení.");
+define("LAN_SIGNUP_24", "Děkujeme za registraci na tomto webu");
+define("LAN_SIGNUP_25", "Nahrajte si svůj avatar (podobiznu)");
+define("LAN_SIGNUP_26", "Nahrajte svou fotku");
+define("LAN_SIGNUP_27", "Ukázat");
 define("LAN_SIGNUP_30", "Pokud si nepřejete zobrazovat vaši e-mailovou adresu na této stránce, zvolte 'Ano' pro volbu 'Skrýt e-mailovou adresu?'.");
-define("LAN_SIGNUP_34", "Poznámka: jakýkoliv obrázek nahráli na tento server, který je považováno za nevhodné správci budou okamžitě odstraněny.");
-define("LAN_SIGNUP_36", "Došlo k chybě vytvoření vaše uživatelské informace, obraťte se na správce webu");
+define("LAN_SIGNUP_34", "Upozornění! Jakékoliv obrázky považované administrátorem za nevhodné budou bez upozornění mazány!");
+define("LAN_SIGNUP_36", "Došlo k chybě při vytváření informací pro Váš uživatelský účet. Kontaktujte prosím administrátora webu.");
 define("LAN_SIGNUP_37", "Tuto fázi registrace je dokončena. Administrátor bude muset schválit členství.  Poté, co byla provedena obdržíte potvrzující e-mail s upozorněním, že vaše členství bylo schváleno.");
-define("LAN_SIGNUP_38", "Zadali jste dvě různé e-mailové adresy. Zadejte prosím platnou e-mailovou adresu do dvou polí");
-define("LAN_SIGNUP_39", "Zadejte znovu e-mailovou adresu:");
-define("LAN_SIGNUP_40", "Aktivace není nutná");
-define("LAN_SIGNUP_41", "Váš účet je již aktivován.");
-define("LAN_SIGNUP_42", "Došlo k potížím, nebyla odeslána registrační mail, obraťte se na správce webu.");
-define("LAN_SIGNUP_43", "E-mail odeslán");
-define("LAN_SIGNUP_44", "Aktivační e-mail zaslat:");
-define("LAN_SIGNUP_45", "Prosím, zkontrolujte složky Doručená pošta.");
-define("LAN_SIGNUP_47", "Znovu poslat aktivační E-mail");
-define("LAN_SIGNUP_48", "Uživatelské jméno nebo e-mailem");
+define("LAN_SIGNUP_38", "Zadal(a) jste dvě odlišné e-mailové adresy. Zadejte prosím platnou e-mailovou adresu do obou polí.");
+define("LAN_SIGNUP_39", "Znovu zadat e-mail:");
+define("LAN_SIGNUP_40", "Aktivace není nutná.");
+define("LAN_SIGNUP_41", "Váš účet již byl aktivován.");
+define("LAN_SIGNUP_42", "Nastal technický problém, nepodařilo se odeslat potvrzovací e-mail. Kontaktujte prosím hlavního administrátora webu.");
+define("LAN_SIGNUP_43", "Email odeslán");
+define("LAN_SIGNUP_44", "Aktivační e-mail odeslán:");
+define("LAN_SIGNUP_45", "Podívejte se do své příchozí pošty.");
+define("LAN_SIGNUP_47", "Znovu zaslat aktivační email");
+define("LAN_SIGNUP_48", "Uživatelské jméno nebo e-mail");
 define("LAN_SIGNUP_49", "Pokud jste se zaregistrovali se špatnou e-mailovou adresu, stejně jako v poli výše, zadejte novou e-mailovou adresu a heslo zde:");
-define("LAN_SIGNUP_50", "Nový Email");
+define("LAN_SIGNUP_50", "Nový e-mail");
 define("LAN_SIGNUP_51", "Staré heslo");
-define("LAN_SIGNUP_52", "Nesprávné heslo");
-define("LAN_SIGNUP_53", "pole se nezdařilo ověření testu");
-define("LAN_SIGNUP_54", "Chcete-li vyplnit formulář k registraci");
-define("LAN_SIGNUP_58", "Zápis náhled");
+define("LAN_SIGNUP_52", "Neplatné heslo");
+define("LAN_SIGNUP_53", "pole neprošlo testem pravosti");
+define("LAN_SIGNUP_54", "Klikněte sem, aby jste se mohl(a) registrovat");
+define("LAN_SIGNUP_58", "Náhled přihlášení");
 define("LAN_SIGNUP_59", "Pokud odkaz nefunguje, zkontrolujte prosím, že část nebyla přeteče na další řádek. ****");
 define("LAN_SIGNUP_60", "Registrace e-mailem odeslání požadováno");
 define("LAN_SIGNUP_61", "Odesílání bylo úspěšné");
@@ -64,40 +69,43 @@ define("LAN_SIGNUP_67", "To po registraci přidělí systém");
 define("LAN_SIGNUP_69", "");
 define("LAN_SIGNUP_70", "");
 define("LAN_SIGNUP_71", "Dosáhli jste limitu serveru pro účet registrace. Přihlaste se pomocí jednoho z vašich účtů.");
-define("LAN_SIGNUP_72", "Díky za přihlášení se na [název_serveru]! Jsme právě poslal vám potvrzovací email na [email]. Klepněte na odkaz pro potvrzení v e-mailu k dokončení vašeho znamení se a aktivovat váš účet.");
-define("LAN_SIGNUP_73", "Děkuju!");
-define("LAN_SIGNUP_74", "Váš účet je nyní aktivována, prosím");
-define("LAN_SIGNUP_75", "Registrace aktivován");
-define("LAN_SIGNUP_76", "Děkuju! Nyní jste registrovaným členem");
+define("LAN_SIGNUP_72", "Díky za registraci na [sitename]! Právě jsme vám zaslali potvrzující e-mail na [email]. Klikněte prosím na odkaz v e-mailu k dokončení registrace a aktivaci účtu.");
+define("LAN_SIGNUP_73", "Děkujeme.");
+define("LAN_SIGNUP_74", "Váš účet byl právě aktivován");
+define("LAN_SIGNUP_75", "Registrace je aktivní");
+define("LAN_SIGNUP_76", "Děkujeme. Nyní jste registrovaným členem webu");
 define("LAN_SIGNUP_77", "Tento web splňuje The Children Online Privacy Protection Act z roku 1998 (COPPA) a jako takový nemůže přijímat registrace uživatelů ve věku 13 let bez písemného svolení dokument od jejich rodiče nebo opatrovníka. Pro více informací si můžete přečíst legislativa");
 define("LAN_SIGNUP_78", "Registrace");
-define("LAN_SIGNUP_79", "Registrace");
-define("LAN_SIGNUP_80", "Zadejte prosím své údaje níže.");
-define("LAN_SIGNUP_81", "Uživatelské jméno:");
-define("LAN_SIGNUP_82", "jméno, které používáte k přihlášení");
+define("LAN_SIGNUP_79", "registrujte se");
+define("LAN_SIGNUP_80", "Níže prosím vyplňte požadované údaje.");
+define("LAN_SIGNUP_81", "Uživatel:");
+define("LAN_SIGNUP_82", "jméno které budete používat k přihlašování (login)");
 define("LAN_SIGNUP_83", "Heslo:");
-define("LAN_SIGNUP_84", "Zadejte znovu heslo:");
+define("LAN_SIGNUP_84", "Znova zadejte heslo:");
 define("LAN_SIGNUP_85", "Uživatelská jména a hesla rozlišují velká a malá písmena.");
-define("LAN_SIGNUP_89", "Zobrazované jméno:");
-define("LAN_SIGNUP_90", "název, který se zobrazí na stránce");
+define("LAN_SIGNUP_89", "Jméno uživatele:");
+define("LAN_SIGNUP_90", "jméno, které se bude zobrazovat n webu");
 define("LAN_SIGNUP_91", "Skutečné jméno:");
 define("LAN_SIGNUP_93", "Podpis:");
 define("LAN_SIGNUP_94", "Avatar:");
-define("LAN_SIGNUP_95", "Zadejte kód v obraze viditelný");
+define("LAN_SIGNUP_95", "Zadejte kód, který vidíte na obrázku");
 define("LAN_SIGNUP_96", "Registrační údaje pro");
-define("LAN_SIGNUP_97", "Vítáme vás na");
+define("LAN_SIGNUP_97", "Vítejte na webu");
 define("LAN_SIGNUP_98", "Potvrďte svou e-mailovou adresu");
-define("LAN_SIGNUP_99", "Došlo");
-define("LAN_SIGNUP_100", "Admin schválení čekající");
+define("LAN_SIGNUP_99", "Vyskytl se problém");
+define("LAN_SIGNUP_100", "Až do schválení správcem");
 define("LAN_SIGNUP_101", "Aktualizace záznamů selhala - obraťte se na správce webu");
-define("LAN_SIGNUP_103", "Příliš mnoho uživatelů již používá adresu IP:");
-define("LAN_SIGNUP_105", "Akce nelze váš požadavek - obraťte se na správce webu");
-define("LAN_SIGNUP_106", "Akce nelze váš požadavek - již máte účet zde?");
+define("LAN_SIGNUP_103", "Příliš mnoho uživatelů již používá IP adresy:");
+define("LAN_SIGNUP_105", "Váš registrační požadavek nelze dokončit - Prosím kontaktujte administrátora");
+define("LAN_SIGNUP_106", "Váš registrační požadavek nelze dokončit - Vlastníte již účet zde?");
 define("LAN_LOGINNAME", "Uživatelské jméno");
-define("LAN_USERNAME", "Zobrazované jméno");
+define("LAN_USERNAME", "Uživatelské jméno");
 define("LAN_SIGNUP_107", "Heslo musí být minimálně [x] znaků a obsahovat alespoň jedno velké písmeno a číslice");
 define("LAN_SIGNUP_108", "Musí být platnou e-mailovou adresu");
 define("LAN_SIGNUP_109", "Je případ citlivé a nesmí obsahovat mezery.");
 define("LAN_SIGNUP_110", "Vaše celé jméno");
 define("LAN_SIGNUP_111", "Zadejte adresu URL k obrázku nebo zvolit existující avatar.");
 define("LAN_SIGNUP_112", "Jste aktuálně přihlášeni jako hlavní správce.");
+
+
+?>

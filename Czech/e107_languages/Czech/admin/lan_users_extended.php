@@ -1,95 +1,103 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("EXTLAN_1", "Jméno");
-define("EXTLAN_2", "Náhled");
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Czech Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/20 20:07:19
+|
+|        $Author: Oxigen $
++---------------------------------------------------------------+
+*/
+define("EXTLAN_1", "název");
+define("EXTLAN_2", "zobrazit");
 define("EXTLAN_3", "Hodnoty");
 define("EXTLAN_4", "Req by");
-define("EXTLAN_5", "Použitelné");
-define("EXTLAN_6", "Přístup pro čtení");
-define("EXTLAN_7", "Přístup pro zápis");
+define("EXTLAN_5", "Zájmy");
+define("EXTLAN_6", "Práva číst");
+define("EXTLAN_7", "Práva zapisovat");
 define("EXTLAN_8", "Akce");
-define("EXTLAN_9", "Rozšířené uživatelské pole");
+define("EXTLAN_9", "Rozšířená uživatelská pole");
 define("EXTLAN_10", "Název pole");
-define("EXTLAN_11", "Toto je název pole uložené v tabulce, musí být jedinečný od jiných a nesmí být použit v tabulce je hlavním odběratelem");
-define("EXTLAN_12", "Text pole");
-define("EXTLAN_13", "To je zobrazený název pole v zobrazených stránek");
+define("EXTLAN_11", "Jde o název pole, pod kterým bude uloženo v databázi. Název musí být unikátní");
+define("EXTLAN_12", "Textové pole");
+define("EXTLAN_13", "Zobrazované jméno pole na stránkách");
 define("EXTLAN_14", "Typ pole");
-define("EXTLAN_15", "Pole obsahuje text");
-define("EXTLAN_16", "Výchozí hodnota");
-define("EXTLAN_17", "Na každém řádku zadejte každou možnou hodnotu<br>DB tabulky viz Nápověda.");
-define("EXTLAN_18", "Požadováno");
-define("EXTLAN_19", "Uživatelé budou muset zadat hodnotu do tohoto pole při aktualizaci jejich nastavení.");
-define("EXTLAN_20", "Určuje, kteří uživatelé toto pole použije.");
-define("EXTLAN_21", "To bude určovat, kdo uvidí toto pole v jejich usersettings.");
+define("EXTLAN_15", "Součástí pole je text");
+define("EXTLAN_16", "Základní hodnota");
+define("EXTLAN_17", "Zadávejte hodnoty na jednotlivé řádky<br /> Podívejte se do nápovědy pro tabulku databáze.");
+define("EXTLAN_18", "Vyžadováno");
+define("EXTLAN_19", "Následující údaj bude pro uživatele k vyplnění povinný.");
+define("EXTLAN_20", "Určuje, kterých uživatelů se toto pole bude týkat.");
+define("EXTLAN_21", "Ovlivňuje, kdo toto pole ve svém uživatelském nastavení uvidí.");
 define("EXTLAN_22", "To bude určovat, kdo může vidět hodnotu v uživatelské stránce<br>Poznámka: Toto nastavení na 'Jen pro čtení' bude to pro správce a člen pouze viditelné.");
-define("EXTLAN_23", "Rozšířené pole přidat");
-define("EXTLAN_24", "Rozšířené pole aktualizovat");
-define("EXTLAN_25", "Přesunout dolů");
-define("EXTLAN_26", "Přesunout nahoru");
-define("EXTLAN_27", "Potvrdit odstranění");
-define("EXTLAN_28", "Nebyla definována žádná rozšířené pole.");
-define("EXTLAN_29", "Rozšířené uživatelské pole uložena.");
-define("EXTLAN_30", "Rozšířené pole odstraněn");
+define("EXTLAN_23", "Přidat rozšiřující pole");
+define("EXTLAN_24", "Upravit rozšiřující pole");
+define("EXTLAN_25", "dolů");
+define("EXTLAN_26", "nahoru");
+define("EXTLAN_27", "Potvrdit smazání");
+define("EXTLAN_28", "Nejsou definovaná rozšiřující uživatelská pole");
+define("EXTLAN_29", "Rozšiřující uživatelská pole byla uložena.");
+define("EXTLAN_30", "Rozšiřující pole bylo smazáno");
 define("EXTLAN_31", "Popis kategorie");
 define("EXTLAN_32", "To je popisek pole, jak je uvedeno na stránce uživatelského nastavení. Konstanty jazyka jsou povoleny.");
 define("EXTLAN_33", "Zrušit úpravy");
-define("EXTLAN_34", "Rozšířené pole");
+define("EXTLAN_34", "Rozšiřující pole");
 define("EXTLAN_35", "Kategorie");
-define("EXTLAN_36", "Žádné přiřazené kategorie");
-define("EXTLAN_37", "Žádné kategorie, definice");
+define("EXTLAN_36", "Kategorie není přidělena");
+define("EXTLAN_37", "Kategorie nejsou definovány");
 define("EXTLAN_38", "Název kategorie");
 define("EXTLAN_39", "Přidat kategorii");
-define("EXTLAN_40", "Kategorie vytvořené");
-define("EXTLAN_41", "Odstranění kategorie");
-define("EXTLAN_42", "Aktualizace kategorie");
-define("EXTLAN_43", "Kategorie, které jsou aktualizovány");
+define("EXTLAN_40", "Kategorie vytvořena");
+define("EXTLAN_41", "Kategorie smazána");
+define("EXTLAN_42", "Upravit kategorii");
+define("EXTLAN_43", "Kategorie byla aktualizována");
 define("EXTLAN_44", "Kategorie");
 define("EXTLAN_45", "Přidat nové pole");
-define("EXTLAN_46", "Pomoc");
-define("EXTLAN_47", "Přidání nového parametru");
+define("EXTLAN_46", "Nápověda");
+define("EXTLAN_47", "Přidat nový parametr");
 define("EXTLAN_48", "Přidat novou hodnotu");
-define("EXTLAN_49", "Povolit uživatelům skrýt");
-define("EXTLAN_50", "Označíte Ano umožní uživateli skrýt tuto hodnotu od-admins");
+define("EXTLAN_49", "Povolit uživateli skrýt");
+define("EXTLAN_50", "Pokud nastavíte tuto hodnotu na Ano, umožníte uživateli údaj skrýt před všemi, kdo nejsou správci");
 define("EXTLAN_51", "Zde lze zadat libovolný parametr platný w3c<br>například <b> <i>třída = velikost 'tbox' = '40' maxlength = '80'</i></b>");
-define("EXTLAN_52", "kód pro ověření Regex");
-define("EXTLAN_53", "Zadejte kód regex, který bude muset odpovídat bude platná položka<br>** regex oddělovače jsou vyžadovány **");
-define("EXTLAN_54", "Regex selhání text");
-define("EXTLAN_55", "Zadejte chybovou zprávu, která se zobrazí, pokud se nezdaří ověření regex.");
+define("EXTLAN_52", "regex kód pro ověření správnosti");
+define("EXTLAN_53", "Zadejte kód regulárního výrazu, který musí údaj splňovat, aby byl považován za správný <br />**oddělovače regulárního výrazu jsou povinné**");
+define("EXTLAN_54", "regex text při selhání");
+define("EXTLAN_55", "Vložte chybovou zprávu, která bude zobrazena, pokud nedojde k ověření hodnoty regulárním výrazem.");
 define("EXTLAN_56", "Předdefinovaná pole");
-define("EXTLAN_57", "Aktivován");
-define("EXTLAN_58", "Není aktivován");
+define("EXTLAN_57", "Aktivní");
+define("EXTLAN_58", "Neaktivní");
 define("EXTLAN_59", "Aktivovat");
-define("EXTLAN_60", "Deaktivovat");
-define("EXTLAN_61", "Žádný");
+define("EXTLAN_60", "deaktivovat");
+define("EXTLAN_61", "nezapisovat");
 define("EXTLAN_62", "Tabulka");
-define("EXTLAN_63", "Id pole");
-define("EXTLAN_64", "Zobrazit hodnoty");
-define("EXTLAN_65", "Ne - se nebude zobrazovat na přihlašovací stránce");
-define("EXTLAN_66", "Ano - se zobrazuje na přihlašovací stránce");
-define("EXTLAN_67", "Ne - Show na přihlašovací stránce");
-define("EXTLAN_68", "Obor:");
-define("EXTLAN_69", "byl aktivován");
-define("EXTLAN_70", "CHYBA!! Obor:");
-define("EXTLAN_71", "Neaktivovaný!");
-define("EXTLAN_72", "byl deaktivován");
-define("EXTLAN_73", "nebyl deaktivován!");
-define("EXTLAN_74", "je název vyhrazené pole a nelze jej použít.");
-define("EXTLAN_75", "Chyba při přidání pole do databáze.");
+define("EXTLAN_63", "Identifikátor / ID");
+define("EXTLAN_64", "Zobrazovaný údaj");
+define("EXTLAN_65", "Ne - nebude zobrazeno na stránce registrace");
+define("EXTLAN_66", "Ano - bude zobrazeno na stránce registrace");
+define("EXTLAN_67", "Ne - ukázat na straně registrace");
+define("EXTLAN_68", "Pole:");
+define("EXTLAN_69", "bylo aktivováno");
+define("EXTLAN_70", "Chyba!! Pole:");
+define("EXTLAN_71", "nebylo aktivováno!");
+define("EXTLAN_72", "bylo deaktivováno");
+define("EXTLAN_73", "nebylo deaktivováno!");
+define("EXTLAN_74", "je vyhrazeným jménem pro pole a nelze jej tedy použít.");
+define("EXTLAN_75", "Chyba při vkládání pole do databáze.");
 define("EXTLAN_76", "Neplatné znaky v poli Název - pouze A-Z,-z, 0-9, povoleno.");
-define("EXTLAN_77", "Kategorie není odstraněna - musí nejprve odstranit pole v kategorii:");
-define("EXTLAN_78", "Nelze nalézt soubor – soubor – potřebné k vytvoření datové tabulky");
+define("EXTLAN_77", "Kategorie nebyla smazána - prvni musí být smazána pole:");
+define("EXTLAN_78", "Potřebný soubor --FILE-- k vytvoření tabulky nebyl nalezen");
 define("EXTLAN_79", "Popisek");
 define("EXTLAN_80", "Chyba ověření - přerušeno.");
 define("EXTLAN_HELP_1", "<b><i>Parametry:</i></b><br>velikost - velikost pole<br>MaxLength - maximální délka pole<br><br>Třída - třída css pole<br>styl - css styl řetězec<br><br>Regex - regex ověřovací kód<br>regexfail - text selhání ověření");
 define("EXTLAN_HELP_2", "Zadejte text pro volby v 'Hodnoty' - jedno pole na možnost. Přidat nové pole, podle potřeby");
 define("EXTLAN_HELP_3", "Zadejte text pro volby v 'Hodnoty' - jedno pole na možnost. Přidat nové pole, podle potřeby");
-define("EXTLAN_HELP_4", "<b><i>Hodnoty:</i></b><br>By měly být vždy tři hodnoty:<br><ol><li>DbTable</li><li>pole obsahující id</li><li>pole obsahující hodnotu</li></ol><br>");
+define("EXTLAN_HELP_4", "<b><i>Údaje:</i></b><br />VŽDY je třeba vložit tři údaje:<br /><ol><li>tabulka databáze</li><li>pole obsahující identifikátor</li><li>pole obsahující hodnotu</li></ol><br />");
 define("EXTLAN_HELP_5", "Definujte oblast volného formátu textu. (Nastavení velikosti v poli 'Pole obsahuje text' podle potřeby)");
-define("EXTLAN_HELP_6", "Umožnit uživateli, aby zadal číselnou hodnotu");
-define("EXTLAN_HELP_7", "Vyžaduje zadání data");
-define("EXTLAN_HELP_8", "Povolit uživatelům vybírat z nainstalovaných jazyků");
+define("EXTLAN_HELP_6", "Povolit uživateli zadat nečíselnou hodnotu");
+define("EXTLAN_HELP_7", "Tento text bude nápovědou pro hodnotu typu datum");
+define("EXTLAN_HELP_8", "Povolit uživateli vybrat z nainstalovaných jazyků");
 define("EXTLAN_HELP_9", "Zadejte seznam předdefinovaných. Pole hodnota vybere typ seznamu - v současné době jen 'pásem' je platná položka");
+
+
+?>

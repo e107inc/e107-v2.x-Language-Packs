@@ -1,104 +1,113 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Czech Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/20 19:44:33
+|
+|        $Author: Oxygen $
++---------------------------------------------------------------+
+*/
 setlocale(LC_ALL,  'cs_CS.UTF-8', 'cs_CS.utf8', 'cs');
 define("CORE_LC", "cs");
-define("CORE_LC2", "cs");
-define("CORE_LAN1", "Chyba: téma je missing.\\n\\nChange použité motivy v předvolbách (admin oblasti) nebo nahrát soubory na aktuální téma na serveru.");
-define("CORE_LAN4", "Prosím odstranit install.php ze serveru");
-define("CORE_LAN5", "v opačném případě je potenciální bezpečnostní riziko pro váš web");
-define("CORE_LAN6", "Ochrany před povodněmi na tomto webu aktivována a budete upozorněni, že pokud nosíte na vyžádání stránky jste mohli zakázány.");
-define("CORE_LAN7", "Jádro se pokouší obnovit z automatické zálohy prefs.");
-define("CORE_LAN8", "Jádro Prefs chyba");
-define("CORE_LAN9", "Jádro nelze obnovit z automatické zálohy. Provedení se zastavil.");
-define("CORE_LAN10", "Poškozený soubor cookie zjištěn - odhlášeni.");
-define("CORE_LAN11", "Doba vykreslování:");
+define("CORE_LC2", "cz");
+define("CORE_LAN1", "Error : theme is missing.\\n\\nChange the used themes in your preferences (admin area) or upload files for the current theme to the server.");
+define("CORE_LAN4", "Prosím smažte install.php z vašeho serveru");
+define("CORE_LAN5", "Pokud to neuděláte, hrozí vaší stránce potencionální riziko!");
+define("CORE_LAN6", "Ochrana proti DoS útokům na této stránce je zapnuta. Pokud budete pokračovat v zahlcování serveru, budete zabanováni!");
+define("CORE_LAN7", "Jádro systému se pokouší obnovit předvolby z automatické zálohy.");
+define("CORE_LAN8", "Chyba v předvolbách jádra");
+define("CORE_LAN9", "Jádro nelze obnovit ze zálohy. Provádění ukončeno.");
+define("CORE_LAN10", "Poškozená cookie - byl jste odhlášen.");
+define("CORE_LAN11", "Vygenerováno za:");
 define("CORE_LAN12", "s)");
 define("CORE_LAN13", "% pro dotazy)");
 define("CORE_LAN14", "%2.3f cpu sec (%2.2f%% zatížení, při spuštění %2.3f). Hodiny:");
-define("CORE_LAN15", "DB dotazů:");
+define("CORE_LAN15", "Dotazů v DB:");
 define("CORE_LAN16", "Paměť:");
-define("CORE_LAN17", "[Obrázek zakázány]");
+define("CORE_LAN17", "[ obrázek vypnut ]");
 define("CORE_LAN18", "Obrázek:");
 define("CORE_LAN_B", "B");
 define("CORE_LAN_KB", "kB");
 define("CORE_LAN_MB", "MB");
-define("CORE_LAN_GB", "GB");
+define("CORE_LAN_GB", "cz");
 define("CORE_LAN_TB", "TB");
 define("EMESSLAN_TITLE_INFO", "Systémové informace");
-define("EMESSLAN_TITLE_ERROR", "Chyba");
+define("EMESSLAN_TITLE_ERROR", "chyba");
 define("EMESSLAN_TITLE_SUCCESS", "Úspěch");
-define("EMESSLAN_TITLE_WARNING", "Varování");
+define("EMESSLAN_TITLE_WARNING", "varování");
 define("EMESSLAN_TITLE_DEBUG", "Ladění systému");
-define("LAN_EDIT", "Úpravy");
+define("LAN_EDIT", "Upravit");
 define("LAN_DELETE", "Smazat");
-define("LAN_DEFAULT", "Výchozí");
+define("LAN_DEFAULT", "standardní");
 define("LAN_MORE", "Více...");
 define("LAN_READ_MORE", "Přečtěte si více...");
-define("LAN_GOPAGE", "Přejít na stránku");
+define("LAN_GOPAGE", "Jdi na stránku");
 define("LAN_GOTOPAGEX", "Přejít na stránku [x]");
-define("LAN_GO", "Přejít");
+define("LAN_GO", "Pokračovat");
 define("LAN_SUBMIT", "Odeslat");
-define("LAN_NONE", "Žádný");
+define("LAN_NONE", "nezapisovat");
 define("LAN_WARNING", "Varování!");
-define("LAN_ERROR", "Chyba");
+define("LAN_ERROR", "chyba");
 define("LAN_ANONYMOUS", "Anonymní");
-define("LAN_EMAIL_SUBS", "-e-mail-");
-define("LAN_YES", "Ano");
-define("LAN_NO", "Ne");
-define("LAN_OK", "Ok");
+define("LAN_EMAIL_SUBS", "-email-");
+define("LAN_YES", "ano");
+define("LAN_NO", "žádný");
+define("LAN_OK", "ok");
 define("LAN_ACTIONS", "Akce");
-define("LAN_THANK_YOU", "Děkuju");
-define("LAN_CONTINUE", "Pokračovat v");
+define("LAN_THANK_YOU", "Děkujeme");
+define("LAN_CONTINUE", "Pokračovat");
 define("LAN_ENTER", "Vstoupit");
-define("LAN_ENTER_CODE", "Zadejte kód");
-define("LAN_INVALID_CODE", "Zadán nesprávný kód.");
-define("LAN_SEARCH", "Hledat");
-define("LAN_VIEW", "Pohled");
-define("LAN_SORT", "Řazení");
-define("LAN_ORDER_BY", "Řadit podle");
-define("LAN_ASCENDING", "Vzestupně");
-define("LAN_DESCENDING", "Sestupně");
+define("LAN_ENTER_CODE", "Vložit kód");
+define("LAN_INVALID_CODE", "Zadaný kód nesouhlasí.");
+define("LAN_SEARCH", "hledat");
+define("LAN_VIEW", "Ukázat");
+define("LAN_SORT", "Seřadit");
+define("LAN_ORDER_BY", "Seřadit podle");
+define("LAN_ASCENDING", "vzestupně");
+define("LAN_DESCENDING", "sestupně");
 define("LAN_SHARE", "Podíl");
 define("LAN_BACK", "Zpět");
-define("LAN_NAME", "Jméno");
+define("LAN_NAME", "název");
 define("LAN_DESCRIPTION", "Popis");
 define("LAN_CANCEL", "Zrušit");
-define("LAN_DATE", "Datum");
-define("LAN_DATE_POSTED", "Datum zaúčtování");
+define("LAN_DATE", "datum");
+define("LAN_DATE_POSTED", "Datum zaslání");
 define("LAN_JSCONFIRM", "Opravdu?");
 define("LAN_IP", "IP adresa");
 define("LAN_AUTHOR", "Autor");
 define("LAN_CATEGORY", "Kategorie");
-define("LAN_GUEST", "Hodnocení");
+define("LAN_GUEST", "Host");
 define("LAN_NEXT", "Další");
 define("LAN_PREVIOUS", "Předchozí");
-define("LAN_LOGIN", "Přihlášení");
-define("LAN_LOGOUT", "Odhlášení");
+define("LAN_LOGIN", "Přihlásit se");
+define("LAN_LOGOUT", "Odhlásit se");
 define("LAN_SETTINGS", "Nastavení");
 define("LAN_PASSWORD", "Heslo");
 define("LAN_TYPE", "Typ");
-define("LAN_SCREENSHOT", "Snímek obrazovky");
-define("LAN_FILE", "Soubor");
+define("LAN_SCREENSHOT", "Náhled");
+define("LAN_FILE", "soubor");
 define("LAN_FILETYPES", "Typy souborů");
-define("LAN_FILE_NOT_FOUND", "Soubor nebyl nalezen");
-define("LAN_FILES", "Soubory");
-define("LAN_SIZE", "Velikost");
+define("LAN_FILE_NOT_FOUND", "Soubor nenalezen");
+define("LAN_FILES", "soubory");
+define("LAN_SIZE", "velikost");
 define("LAN_VERSION", "Verze");
-define("LAN_DOWNLOAD", "Stáhnout");
-define("LAN_COMMENTS", "Komentáře");
+define("LAN_DOWNLOAD", "Stažení");
+define("LAN_COMMENTS", "komentáře");
 define("LAN_LOCATION", "Umístění");
 define("LAN_NO_RECORDS_FOUND", "Nebyly nalezeny žádné záznamy.");
-define("LAN_RATING", "Hodnocení");
-define("LAN_IMAGE", "Obrázek");
+define("LAN_RATING", "hodnocení");
+define("LAN_IMAGE", "obrázek");
 define("LAN_ABOUT", "O");
-define("LAN_TITLE", "Titul");
-define("LAN_USER", "Uživatel");
-define("LAN_EMAIL", "E-mailová adresa");
-define("LAN_WROTE", "napsal/a");
+define("LAN_TITLE", "Titulek");
+define("LAN_USER", "uživatel");
+define("LAN_EMAIL", "E-mail");
+define("LAN_WROTE", "napsal");
 define("LAN_RE_ORDER", "Znovu uspořádat");
+define("LAN_RELATED", "");
 define("LAN_ENTER_USRNAME_EMAIL", "Zadejte prosím své uživatelské jméno nebo e-mailem");
 define("LAN_PWD_REQUIRED", "Heslo je vyžadováno");
+
+
+?>

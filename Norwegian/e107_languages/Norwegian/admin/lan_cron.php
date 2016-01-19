@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/28 19:53:58
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("LAN_CRON_M_02", "Oppdater");
 define("LAN_CRON_2", "Funksjonen");
@@ -59,3 +65,6 @@ define("LAN_CRON_53", "Måned:");
 define("LAN_CRON_54", "Weekday(s):");
 define("LAN_CRON_BACKUP", "Sikkerhetskopiering");
 define("LAN_CRON_LOGGING", "Logging");
+
+
+?>

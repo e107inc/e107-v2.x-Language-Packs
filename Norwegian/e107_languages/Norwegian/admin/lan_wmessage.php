@@ -1,14 +1,23 @@
 <?php
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/28 20:00:20
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("WMLAN_00", "Velkommen meldinger");
-define("WMLAN_02", "Melding");
-define("WMLAN_04", "Meldingstekst");
-define("WMLAN_05", "Omslutter");
+define("WMLAN_00", "Velkomstmeldinger");
+define("WMLAN_02", "Message");
+define("WMLAN_04", "Beskjed tekst");
+define("WMLAN_05", "Ramm inn");
 define("WMLAN_06", "Når aktivert, vises meldingen i en boks");
-define("WMLAN_07", "Overstyre standard systemet til å bruke {WMESSAGE} mangel:");
-define("WMLAN_09", "Ingen velkomstmeldinger fastsatt");
-define("WMLAN_10", "Melding tittel");
+define("WMLAN_07", "For å kjøre over standard system, så kan du bruke {WMESSAGE} hurtigkoden:");
+define("WMLAN_09", "Det er ikke satt noen velkomstmelding");
+define("WMLAN_10", "Tittel på melding");
+
+
+?>

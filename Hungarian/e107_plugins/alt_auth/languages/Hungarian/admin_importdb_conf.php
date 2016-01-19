@@ -4,9 +4,8 @@
 // Generated for e107 v2.x by the Multi-Language Plugin
 // https://github.com/e107inc/multilan
 
-define("IMPORTDB_LAN_9", "Jelszó módszer:");
-define("IMPORTDB_LAN_10", "Importált adatbázis jelszó típusú beállítása");
-define("IMPORTDB_LAN_11", "Ez a beállítás akkor használható, ha más felhasználó alapú rendszerek importálta E107. 
-							Ez lehetővé teszi, hogy elfogadja a kiválasztott nem szabványos formátumban kódolt jelszavakat. 
-							Minden user\ jelszó az E107 formátumba konvertált, amikor ők fatörzs-ban.");
-define("LAN_AUTHENTICATE_HELP", "Ez a hitelesítési módszer az, hogy legyen használt <i>egyetlen</i> Amikor importálta a felhasználói adatbázis E107-be, és a jelszó nem kompatibilis formátumban. Az eredeti jelszót a helyi adatbázisból, és érvényesítik a tárolási formátum az eredeti rendszer. Ha ellenőrzi, a jelenlegi E107-kompatibilis formátumba konvertált és az adatbázisban tárolt. Egy idő után általában letilthatja a alt-auth plugin, mivel aktív felhasználók lesz minden a jelszó raktározott-ban egy kompatibilis formátumban.");
+define("IMPORTDB_LAN_9", "Jelszó metódus:");
+define("IMPORTDB_LAN_10", "Importált adatbázis jelszó típusának beállítása");
+define("IMPORTDB_LAN_11", "Ez a beállítás akkor használatos, ha más felhasználó-alapú rendszereket importálsz E107-be. Ez lehetővé teszi, hogy elfogadja a nem szabványos formátumban kódolt jelszavakat. Minden felhasználó jelszava E107 formátumra lesz konvertált, amikor bejelentkeznek.");
+
+define("LAN_AUTHENTICATE_HELP", "Ez a hitelesítési módszer <i>csak</i> akkor használatos, ha egy felhasználói adatbázist importálsz e107-be, és a jelszó formátuma inkompatibilis. Az eredeti jelszó a helyi adatbázisból kerül kiolvasásra, és az eredeti rendszer tárolási formátumának használatával kerül hitelesítésre. Ha a hitelesítés sikerült, a jelszó konvertálva lesz az e107 formátumra, és el lesz mentve az adatbázisba. Tehát, ha idővel kikapcsolnád az alternatív hitelesítést, a felhasználók akkor is be tudnak majd lépni, az eredeti jelszavuk használatával.");

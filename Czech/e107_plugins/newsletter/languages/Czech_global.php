@@ -1,8 +1,16 @@
 <?php
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Czech Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/20 20:24:21
+|
+|        $Author: Oxigen $
++---------------------------------------------------------------+
+*/
+define("LAN_PLUGIN_NEWSLETTER_NAME", "Novinky");
+define("LAN_PLUGIN_NEWSLETTER_DESCRIPTION", "Provides a quick and easy way to configure and send newsletters.");
 
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
 
-define("LAN_PLUGIN_NEWSLETTER_NAME", "Informační bulletin");
-define("LAN_PLUGIN_NEWSLETTER_DESCRIPTION", "Poskytuje rychlý a snadný způsob, jak konfigurace a odeslat bulletiny.");
+?>

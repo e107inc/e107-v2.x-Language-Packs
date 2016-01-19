@@ -16,7 +16,7 @@ define("LAN_LOGINMENU_10", "L'indicateur de maintenance est vrai : cela signifie
 define("LAN_LOGINMENU_11", "Zone d'administration");
 define("LAN_LOGINMENU_13", "Voir le profil");
 define("LAN_LOGINMENU_14", "entrefilet");
-define("LAN_LOGINMENU_15", "Actualités du");
+define("LAN_LOGINMENU_15", "Articles du");
 define("LAN_LOGINMENU_16", "ChatBox post");
 define("LAN_LOGINMENU_17", "ChatBox posts");
 define("LAN_LOGINMENU_18", "Commentaire");

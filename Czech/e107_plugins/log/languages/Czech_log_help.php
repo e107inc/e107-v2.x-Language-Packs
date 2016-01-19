@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Czech Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/20 20:22:21
+|
+|        $Author: Oxigen $
++---------------------------------------------------------------+
+*/
 
 define("LAN_STAT_HELP_01", "Statistické údaje protokolování");
 define("LAN_STAT_HELP_02", "Tato možnost odstraní historická data z databáze. Nemá vliv \'all-time\' postavy.<br><br>Pozor! Po odstranění nelze tato data obnovit. Zálohovat nebo exportovat data, která mohou vyžadovat nejprve.");
@@ -16,3 +22,6 @@ define("LAN_STAT_HELP_05", "<b>Povolit protokolování Stats</b><br>Žádné pro
 Je-li měsíční statistiky jsou shromažďovány, můžete určit, zda jsou zobrazeny jen běžný měsíc, nebo současný měsíc a předchozí měsíc,<br><br>
 <b>Resetovat statistiky</b><br>Vymaže vybrané historické údaje (do konce roku včera) na nulu. Chcete-li odstranit dnes\ 's daty, odstraňte log*.php soubory v adresáři log/logs plugin<br><br>");
 define("LAN_STAT_HELP_06", "");
+
+
+?>

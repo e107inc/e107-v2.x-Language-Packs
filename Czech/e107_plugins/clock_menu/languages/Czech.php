@@ -1,13 +1,19 @@
 <?php
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Czech Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/20 20:10:26
+|
+|        $Author: Oxigen $
++---------------------------------------------------------------+
+*/
 
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("CLOCK_MENU_L1", "Hodin menu nastavení uloženo");
-define("CLOCK_MENU_L2", "Titulek");
-define("CLOCK_MENU_L3", "Aktualizovat nastavení v Menu");
-define("CLOCK_MENU_L4", "Hodin Menu Config");
+define("CLOCK_MENU_L1", "Nastavení menu hodin uloženo");
+define("CLOCK_MENU_L2", "Záhlaví");
+define("CLOCK_MENU_L3", "Uložit nastavení");
+define("CLOCK_MENU_L4", "Nastavení menu hodin");
 define("CLOCK_MENU_L5", "Pondělí,");
 define("CLOCK_MENU_L6", "Úterý,");
 define("CLOCK_MENU_L7", "Středa,");
@@ -27,3 +33,6 @@ define("CLOCK_MENU_L20", "Září");
 define("CLOCK_MENU_L21", "Říjen");
 define("CLOCK_MENU_L22", "Listopad");
 define("CLOCK_MENU_L23", "Prosinec");
+
+
+?>

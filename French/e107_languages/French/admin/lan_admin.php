@@ -4,11 +4,11 @@
 // Generated for e107 v2.x by the Multi-Language Plugin
 // https://github.com/e107inc/multilan
 
-define("ADLAN_0", "Actualités");
-define("ADLAN_1", "Gérer les actualités");
-define("ADLAN_2", "Créer une actualité");
-define("ADLAN_3", "Liste des actualités");
-define("ADLAN_3a", "Paramètres des actualités");
+define("ADLAN_0", "Articles");
+define("ADLAN_1", "Gérer les articles");
+define("ADLAN_2", "Créer une article");
+define("ADLAN_3", "Liste des articles");
+define("ADLAN_3a", "Paramètres des articles");
 define("ADLAN_5", "Modifier les préférences de Site");
 define("ADLAN_6", "Gestionnaire de menus");
 define("ADLAN_7", "Modifier l'ordre de vos menus");
@@ -116,7 +116,7 @@ define("ADLAN_CL_6", "Outils");
 define("ADLAN_CL_7", "Extensions");
 define("ADLAN_CL_8", "Divers");
 define("ADLAN_LAT_1", "Plus récentes");
-define("ADLAN_LAT_2", "Actualités proposées");
+define("ADLAN_LAT_2", "Articles proposés");
 define("ADLAN_LAT_5", "Liens proposés");
 define("ADLAN_LAT_6", "Messages de forum signalés");
 define("ADLAN_LAT_7", "Fichiers uploadés");
@@ -192,7 +192,7 @@ define("LAN_NEWVERSION", "Nouvelle version disponible");
 define("LAN_CHECKALL", "Cocher tout");
 define("LAN_UNCHECKALL", "Décocher tout");
 define("LAN_DELCHECKED", "Supprimer ceux cochés");
-define("LAN_USERCLASS", "Classe d'utilisateur");
+define("LAN_USERCLASS", "Groupe d'utilisateur");
 define("LAN_HELP", "Aide");
 define("LAN_CUSTOM", "Configuration personnalisée");
 define("LAN_MENULAYOUT", "Disposition du menu");
@@ -255,7 +255,7 @@ define("LAN_UI_DELETE_WARNING", "Vous allez supprimer [x] enregistrements. Veuil
 define("LAN_UI_BATCH_CREATELINK", "Créer un lien");
 define("LAN_UI_USING_DATABASE_TABLE", "Utiliser la table de base de données [x]");
 define("LAN_UI_TOTAL_RECORDS", "Total des enregistrements: [x]");
-define("LAN_USER_MANAGEALL", "Gérer tous les utilisateurs, classe d'utilisateurs et les champs étendus des utilisateurs");
+define("LAN_USER_MANAGEALL", "Gérer tous les utilisateurs, groupe d'utilisateurs et les champs étendus des utilisateurs");
 define("LAN_USER_LIST", "Liste des utilisateurs");
 define("LAN_USER_QUICKADD", "Ajout rapide d'utilisateur");
 define("LAN_USER_PRUNE", "Suppression d'utilisateurs");

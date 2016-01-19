@@ -1,61 +1,67 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/28 20:16:08
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("CORE_DATE_ORDER", "dmy");
 define("LAN_MAILOUT_01", "Fra navn");
-define("LAN_MAILOUT_02", "Fra e-post");
+define("LAN_MAILOUT_02", "Fra epost");
 define("LAN_MAILOUT_03", "Til");
-define("LAN_MAILOUT_04", "CC");
-define("LAN_MAILOUT_05", "Blindkopi");
+define("LAN_MAILOUT_04", "Cc");
+define("LAN_MAILOUT_05", "Bcc");
 define("LAN_MAILOUT_06", "Emne");
-define("LAN_MAILOUT_07", "Vedlegg");
-define("LAN_MAILOUT_08", "Send e-post");
+define("LAN_MAILOUT_07", "vedlegg");
+define("LAN_MAILOUT_08", "Send epost");
 define("LAN_MAILOUT_09", "Sende formatet");
-define("LAN_MAILOUT_10", "Brukeren abonnerer");
+define("LAN_MAILOUT_10", "Bruker abonnement");
 define("LAN_MAILOUT_11", "Sett inn variabler");
 define("LAN_MAILOUT_12", "Alle brukere");
 define("LAN_MAILOUT_13", "Alle ubekreftede brukere");
-define("LAN_MAILOUT_14", "Visningsnavn");
+define("LAN_MAILOUT_14", "Nick");
 define("LAN_MAILOUT_15", "Mailout");
 define("LAN_MAILOUT_16", "Brukernavn");
-define("LAN_MAILOUT_17", "Signup lenken");
-define("LAN_MAILOUT_18", "Bruker-ID");
+define("LAN_MAILOUT_17", "Registreringslink");
+define("LAN_MAILOUT_18", "Bruker ID");
 define("LAN_MAILOUT_19", "Ingen mål e-postadresse angitt");
-define("LAN_MAILOUT_20", "Sendmail-banen");
+define("LAN_MAILOUT_20", "Sti til sendmail");
 define("LAN_MAILOUT_21", "Bulk mailing oppføringer");
-define("LAN_MAILOUT_22", "Det finnes for øyeblikket ingen lagrede oppføringer");
+define("LAN_MAILOUT_22", "Det finnes for tiden ingen lagrede poster");
 define("LAN_MAILOUT_23", "brukerklasse:");
-define("LAN_MAILOUT_24", "email(s) er klar til å sendes");
+define("LAN_MAILOUT_24", "epost(er) er klart/klare til å sendes");
 define("LAN_MAILOUT_25", "Bulk mailing kontroller");
 define("LAN_MAILOUT_26", "Stanse masseutsendelse hver");
 define("LAN_MAILOUT_27", "e-postmeldinger for");
 define("LAN_MAILOUT_28", "Lagre endringer");
 define("LAN_MAILOUT_29", "sekunder");
 define("LAN_MAILOUT_30", "Brukes med SMTP keepalive. En pause i mer enn 30 sekunder kan føre leseren tidsavbrudd");
-define("LAN_MAILOUT_31", "Sprett Email behandling");
+define("LAN_MAILOUT_31", "Bearbeiding av retunerte eposter");
 define("LAN_MAILOUT_33", "Innkommende e-postserver");
 define("LAN_MAILOUT_34", "Konto (bruker) navn");
-define("LAN_MAILOUT_36", "Slette returnert post etter kontroll");
-define("LAN_MAILOUT_37", "Fortsette");
+define("LAN_MAILOUT_36", "Slett retunerte eposter etter sjekk");
+define("LAN_MAILOUT_37", "Fortsett");
 define("LAN_MAILOUT_38", "Avbryt");
-define("LAN_MAILOUT_39", "E-post");
-define("LAN_MAILOUT_40", "Du må endre <b>e107.htaccess</b> til <b>.htaccess</b>");
-define("LAN_MAILOUT_41", "før du sender e-post fra denne siden.");
-define("LAN_MAILOUT_42", "Advarsel");
+define("LAN_MAILOUT_39", "E-posting");
+define("LAN_MAILOUT_40", "Du må forandre navn fra <b>e107.htaccess</b> til <b>.htaccess</b> i");
+define("LAN_MAILOUT_41", "før du sender mail fra denne siden.");
+define("LAN_MAILOUT_42", "advarsel");
 define("LAN_MAILOUT_43", "Brukernavn");
-define("LAN_MAILOUT_44", "Brukerpålogging");
-define("LAN_MAILOUT_45", "Bruker Email");
-define("LAN_MAILOUT_46", "Bruker-Match");
+define("LAN_MAILOUT_44", "Brukers Login");
+define("LAN_MAILOUT_45", "Brukers E-post");
+define("LAN_MAILOUT_46", "Brukermach");
 define("LAN_MAILOUT_47", "inneholder");
 define("LAN_MAILOUT_48", "er lik");
 define("LAN_MAILOUT_51", "Emne");
 define("LAN_MAILOUT_52", "Siste mod");
-define("LAN_MAILOUT_53", "Admins");
-define("LAN_MAILOUT_54", "Selv");
-define("LAN_MAILOUT_55", "Brukerklasse");
+define("LAN_MAILOUT_53", "Adminer");
+define("LAN_MAILOUT_54", "Self");
+define("LAN_MAILOUT_55", "Brukergruppe");
 define("LAN_MAILOUT_56", "Siste besøk (dd-mm-yy)");
 define("LAN_MAILOUT_57", "Sende bulk SMTP e-post i blokker");
 define("LAN_MAILOUT_67", "Kan ikke sende e-post. Kontroller SMTP, eller velg en annen utsendelse metode og prøv igjen.");
@@ -71,26 +77,26 @@ define("LAN_MAILOUT_76", "Inkludere email info i loggen");
 define("LAN_MAILOUT_77", "E-postadressen kilder");
 define("LAN_MAILOUT_78", "Utsendelse Status");
 define("LAN_MAILOUT_79", "Ingen utsendelser vise");
-define("LAN_MAILOUT_81", "E-posten er sendt, sjekk Vennligst din innboks.");
+define("LAN_MAILOUT_81", "Eposten er sendt, kontroller innboksen din.");
 define("LAN_MAILOUT_82", "Post sendt");
 define("LAN_MAILOUT_83", "Innlevere å gå");
 define("LAN_MAILOUT_84", "Innlevere ID");
 define("LAN_MAILOUT_85", "Avsenderen");
 define("LAN_MAILOUT_86", "Send på nytt");
-define("LAN_MAILOUT_87", "SMTP-Server");
-define("LAN_MAILOUT_88", "SMTP-brukernavn");
-define("LAN_MAILOUT_89", "SMTP-passord");
+define("LAN_MAILOUT_87", "SMTP server");
+define("LAN_MAILOUT_88", "SMTP brukernavn");
+define("LAN_MAILOUT_89", "SMTP passord");
 define("LAN_MAILOUT_90", "SMTP-funksjoner");
 define("LAN_MAILOUT_91", "POP før SMTP");
 define("LAN_MAILOUT_92", "SSL");
 define("LAN_MAILOUT_93", "TLS");
 define("LAN_MAILOUT_94", "(Bruk SSL for gmail/googlemail)");
 define("LAN_MAILOUT_95", "Bruk VERP for masseutsendelse");
-define("LAN_MAILOUT_96", "ingen");
+define("LAN_MAILOUT_96", "Ingenting");
 define("LAN_MAILOUT_97", "Mailer resultater");
 define("LAN_MAILOUT_98", "Foreldreløse oppføringer");
 define("LAN_MAILOUT_99", "Bekrefte Prøv utsendelse");
-define("LAN_MAILOUT_100", "Melding");
+define("LAN_MAILOUT_100", "Message");
 define("LAN_MAILOUT_101", "E-detaljer");
 define("LAN_MAILOUT_102", "Detalj utsendelse");
 define("LAN_MAILOUT_103", "Resultatene av forsøk på å sende");
@@ -98,16 +104,16 @@ define("LAN_MAILOUT_104", "Ingen forsøk på å sende eller feil under lagring a
 define("LAN_MAILOUT_105", "Detaljer om opptil 10 feil");
 define("LAN_MAILOUT_106", "Kan ikke sende e-post. Det synes at serveren ikke er riktig konfigurert for å sende e-post, prøv på nytt med SMTP, eller kontakt din verter og be dem om å sjekke deres sendmail / email serverinnstillinger.");
 define("LAN_MAILOUT_107", "på");
-define("LAN_MAILOUT_108", "Resultatet");
+define("LAN_MAILOUT_108", "Resultat");
 define("LAN_MAILOUT_109", "Vis detalj");
-define("LAN_MAILOUT_110", "Send test epost");
+define("LAN_MAILOUT_110", "Send testepost");
 define("LAN_MAILOUT_111", "E-tittelen (ikke sendt)");
 define("LAN_MAILOUT_112", "Send test epost til");
-define("LAN_MAILOUT_113", "Teste e-post fra");
+define("LAN_MAILOUT_113", "Testepost fra");
 define("LAN_MAILOUT_114", "Dette er en test e-post, ser det ut til at postinnstillingene for e-fungerer ok! [br] [br] Hilsen [br] fra e107 nettstedet system.");
-define("LAN_MAILOUT_115", "Sende metoden");
-define("LAN_MAILOUT_116", "Hvis du er usikker, la som php");
-define("LAN_MAILOUT_117", "fullføre");
+define("LAN_MAILOUT_115", "Epost sendemetode");
+define("LAN_MAILOUT_116", "Om du er usikker, la stå som PHP");
+define("LAN_MAILOUT_117", "Komplett");
 define("LAN_MAILOUT_118", "Klikk på Fortsett ' å begynne å sende e-post. Klikk på Avbryt for å stoppe kjøre. Når fullført, velger du en annen side. Usendte emails cal ses gjennom 'Utsendelse status' skjermen");
 define("LAN_MAILOUT_119", "Logging, med feil");
 define("LAN_MAILOUT_120", "Kontotype");
@@ -133,7 +139,7 @@ define("LAN_MAILOUT_140", "Mottakerens e-post");
 define("LAN_MAILOUT_141", "Mottakernavn");
 define("LAN_MAILOUT_142", "Mottakeren bruker-ID");
 define("LAN_MAILOUT_143", "Mottakerref.");
-define("LAN_MAILOUT_144", "Sprett");
+define("LAN_MAILOUT_144", "Returnert");
 define("LAN_MAILOUT_145", "Ny email lagret");
 define("LAN_MAILOUT_146", "Feil under lagring av e-post");
 define("LAN_MAILOUT_147", "E-post som er oppdatert");
@@ -142,7 +148,7 @@ define("LAN_MAILOUT_149", "Sender Email");
 define("LAN_MAILOUT_150", "Avsenderens navn");
 define("LAN_MAILOUT_151", "Kopiere til");
 define("LAN_MAILOUT_152", "Blindkopi til");
-define("LAN_MAILOUT_153", "Vedlegg");
+define("LAN_MAILOUT_153", "vedleg");
 define("LAN_MAILOUT_154", "Sende formatet");
 define("LAN_MAILOUT_155", "Velgere");
 define("LAN_MAILOUT_156", "Maksimalt antall e-poster sendt per planlegger tick");
@@ -178,7 +184,7 @@ define("LAN_MAILOUT_185", "E-post til sende kø");
 define("LAN_MAILOUT_186", "Generell feil sette e ref: - ID - sperret");
 define("LAN_MAILOUT_187", "E - ID - sette på holder");
 define("LAN_MAILOUT_188", "Generell feil sende mail ref: - ID -");
-define("LAN_MAILOUT_189", "Test adresse");
+define("LAN_MAILOUT_189", "Test addresse");
 define("LAN_MAILOUT_190", "Opprette/sende e-post");
 define("LAN_MAILOUT_191", "Lagrede e-postmeldinger");
 define("LAN_MAILOUT_192", "Fullført utsendelser");
@@ -198,8 +204,8 @@ define("LAN_MAILOUT_208", "Malen filkonverteringsfeil");
 define("LAN_MAILOUT_209", "");
 define("LAN_MAILOUT_210", "");
 define("LAN_MAILOUT_211", "Sendt");
-define("LAN_MAILOUT_212", "Mislyktes");
-define("LAN_MAILOUT_213", "Sprett");
+define("LAN_MAILOUT_212", "Kategori");
+define("LAN_MAILOUT_213", "Returnert");
 define("LAN_MAILOUT_214", "Sende");
 define("LAN_MAILOUT_215", "Lagret");
 define("LAN_MAILOUT_216", "Koden feil");
@@ -218,7 +224,7 @@ define("LAN_MAILOUT_228", "-COUNT - uregelmessigheter i mail_content rettet; pos
 define("LAN_MAILOUT_229", "Email ID - ID - sette på holder");
 define("LAN_MAILOUT_230", "Feil holder e-post med ID - ID-");
 define("LAN_MAILOUT_231", "Retur-postmeldinger - behandlingsmetode");
-define("LAN_MAILOUT_232", "Ingen");
+define("LAN_MAILOUT_232", "Ingenting");
 define("LAN_MAILOUT_233", "Auto-behandler skript");
 define("LAN_MAILOUT_234", "E-postkontoen");
 define("LAN_MAILOUT_235", "(Serveren må videresende eller 'rør' fra adressen ovenfor til Skriptbanen ovenfor.)");
@@ -242,11 +248,14 @@ define("LAN_MAILOUT_252", "Gjør forskjellige konsistens kontroller på dataene,
 define("LAN_MAILOUT_253", "Ingen mottakere funnet - sjekk for feil i sikkerhetsdatabasen");
 define("LAN_MAILOUT_254", "Vise mal e-post");
 define("LAN_MAILOUT_255", "Mal Email, ID:");
-define("LAN_MAILOUT_256", "Avkastning");
+define("LAN_MAILOUT_256", "Tilbake");
 define("LAN_MAILOUT_257", "Genererte mal");
 define("LAN_MAILOUT_259", "");
-define("LAN_SEND", "Sende");
+define("LAN_SEND", "Send");
 define("LAN_HOLD", "Hold");
 define("LAN_MAILOUT_260", "Bruker-Type");
-define("LAN_BASIC", "Grunnleggende");
+define("LAN_BASIC", "Enkel");
 define("LAN_ADVANCED", "Avansert");
+
+
+?>

@@ -1,25 +1,34 @@
 <?php
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Czech Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/20 20:05:21
+|
+|        $Author: Oxigen $
++---------------------------------------------------------------+
+*/
 
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("NT_LAN_1", "Oznámit");
-define("NT_LAN_2", "Přijímat oznámení e-mailem na");
-define("NU_LAN_1", "Uživatelské události");
+define("NT_LAN_1", "Upozornění");
+define("NT_LAN_2", "Oznamovat e-mailem na");
+define("NU_LAN_1", "<b>Uživatelské události</b>");
 define("NU_LAN_2", "Registrace uživatele");
 define("NU_LAN_3", "Ověření uživatelského účtu");
-define("NU_LAN_4", "Přihlášení uživatele");
+define("NU_LAN_4", "přihlášení");
 define("NU_LAN_5", "Odhlášení uživatele");
-define("NS_LAN_1", "Události zabezpečení");
-define("NS_LAN_2", "IP zakázáno záplavy server");
-define("NN_LAN_1", "Novinky akce");
-define("NN_LAN_2", "Novinky, položka napsané uživatelem");
-define("NN_LAN_3", "Zprávy bod Přidal admin");
-define("NN_LAN_4", "Zprávy, položky upravil admin");
-define("NN_LAN_5", "Novinky, položka odstraněna uživatelem admin");
+define("NS_LAN_1", "<b>Bezpečnostní události</b>");
+define("NS_LAN_2", "Zablokování IP pro zahlcování stránek");
+define("NN_LAN_1", "<b>Události novinek</b>");
+define("NN_LAN_2", "Zaslání novinky uživatelem");
+define("NN_LAN_3", "Zaslání novinky adminem");
+define("NN_LAN_4", "Úpravu novinky adminem");
+define("NN_LAN_5", "Smazání novinky adminem");
 define("NM_LAN_1", "Poštovní události");
 define("NM_LAN_2", "Hromadný e-mail, spusťte úplné");
-define("NF_LAN_1", "Souborové události");
-define("NF_LAN_2", "Soubor je odeslán uživatelem");
+define("NF_LAN_1", "<b>Události souborů</b>");
+define("NF_LAN_2", "Nahrání souboru uživatelem");
 define("LAN_NOTIFY_01", "Události");
+
+
+?>

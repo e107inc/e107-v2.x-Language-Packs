@@ -4,15 +4,15 @@
 // Generated for e107 v2.x by the Multi-Language Plugin
 // https://github.com/e107inc/multilan
 
-define("LAN_STAT_HELP_01", "Statisztikák naplózási");
-define("LAN_STAT_HELP_02", "Ez a beállítás történelmi adatot törli az adatbázisból. Ez nem befolyásolja a \'all-time\' számok.<br><br>Vigyázat! Egyszer töröl, ezeket az adatokat nem lehet helyreállítani. Készítsen biztonsági másolatot, és/vagy exportálja az adatokat, először szüksége lehet.");
-define("LAN_STAT_HELP_03", "Ez a beállítás lehetővé teszi, hogy az adott oldalra vonatkozó adatok törlése.");
-define("LAN_STAT_HELP_04", "Ez a beállítás lehetővé teszi, hogy statisztikai adatok exportálása CSV formátumban. Számos más alkalmazás részletes elemzésre importálható. A wiki oldalon a statisztikák naplózási plugin további részleteket fájlformátumok stb");
-define("LAN_STAT_HELP_05", "<b>Engedélyezi a naplózási statisztika</b><br>Nincs naplózás történik, ha le van tiltva<br><br>
-<b>Statisztika oldal belépés</b><br>Meghatározza, hogy ki tekintheti meg a webhely-statisztikák<br><br>
-<b>Gróf Admin látogatások</b><br>Gyakori látogatások az adminok torzíthatja telek statisztika, így lehet kizárni őket<br><br>
-<b>Rekordok maximális száma a kijelző...</b><br>Beállítja, hány \'recent visitors\' visszatartott<br><br>
-<b>Statisztika-típusok</b><br>Azt határozza meg, amely naplózza. Felvétel havi adatok lesz több helyet tárol, és jobb láthatóságot ad.
-Ha havi statisztikák szedik, beállíthatja, hogy csak a aktuális hónap vagy aktuális hónap és előző hónap jelennek meg<br><br>
-<b>Statisztika nullázása</b><br>Törli a kijelölt mindenkori adatok (tegnap végéig) nullára. Törlendő ma\ 's adatokat is, a log*.php fájlok törlése a log/logs plugin könyvtárban<br><br>");
+define("LAN_STAT_HELP_01", "Statisztikák naplózása");
+define("LAN_STAT_HELP_02", "Ez törli az összes látogatási adatot. Az \"összes\" adatra nem lesz hatással.<br><br>Figyelem! Az adatok törlése végleges, helyreállításuk csak adatbázis mentésből lehetséges!");
+define("LAN_STAT_HELP_03", "Lehetővé teszi azon adatok törlését, melyek egy adott oldalhoz kapcsolódnak.");
+define("LAN_STAT_HELP_04", "Lehetővé teszi a statisztikai adatok exportálását egy CSV fájlba, mely utána importálható más alkalmazásokba, sokkal részletesebb és összetettebb jelentések elkészítése érdekében.");
+define("LAN_STAT_HELP_05", "<b>Naplózási statisztika engedélyezése</b><br>Ha le van tiltva, úgy nem kerül sor naplózásra<br><br>
+<b>Hozzáférés a statisztikákhoz</b><br>Meghatározza, hogy ki tekintheti meg a webhely-statisztikákat<br><br>
+<b>Admin látogatások naplózása</b><br>Az adminisztrátorok gyakori látogatása torzíthatja a statisztikákat, így ennek elkerülése végett kikapcsolható az adminok látogatásainak naplózása.<br><br>
+<b>Megjelenítendő rekordok maximális száma</b><br>Beállíthatod, hogy maxmim meennyi \"legutóbbi látogató\" legyen megjelenítve<br><br>
+<b>Statisztika típusok</b><br>Meghatározható, mely információk kerüljenek naplózásra. Havi rögzítés választása esetén több adatbázis tárhelyre lesz szükség, viszont jobb áttekinthetőséget kínál.
+Ha havi statisztikákat választod, beállíthatod, hogy csak az adott hónap jelenjen meg, vagy az adott hónap és az előző hónap is.<br><br>
+<b>Statisztika nullázása</b><br>Törli a teljes statisztikai adathalmazt, az aktuális napig bezárólag. Ha az aktuális (mai) nap adatait is törölni szeretnéd, ahhoz törölnöd kell a log*.php fájlokat a log/logs plugin könyvtárból.<br><br>");
 define("LAN_STAT_HELP_06", "");

@@ -42,7 +42,7 @@ define("LISTNEW", "Список новых элементов");
 define("USERPOSTS", "Сообщения пользователя");
 define("SUBCONTENT", "Отправить содержание");
 define("TOP", "Лучшие плакаты/наиболее активных потоков");
-define("ADMINAREA", "Админку");
+define("ADMINAREA", "Админцентр");
 define("BUGTRACKER", "Багтрекер");
 define("EVENT", "Список событий");
 define("CALENDAR", "Календарь событий");

@@ -1,43 +1,48 @@
 <?php
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Czech Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/20 19:59:19
+|
+|        $Author: Oxigen $
++---------------------------------------------------------------+
+*/
 
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("DBLAN_1", "Základní nastavení zálohován v databázi.");
+define("DBLAN_1", "Nastavení jádra uloženo v databázi.");
 define("DBLAN_4", "Vyberte zkontrolovat platnost e107 databáze");
-define("DBLAN_5", "Kontrola platnosti databáze");
+define("DBLAN_5", "Zkontrolovat správnost databáze");
 define("DBLAN_6", "Zaškrtnutím tohoto políčka optimalizovat databáze aplikace e107");
-define("DBLAN_7", "Optimalizovat databáze SQL");
+define("DBLAN_7", "Optimalizovat SQL databázi");
 define("DBLAN_8", "Vyberte zálohování nastavení jádra");
-define("DBLAN_9", "Zálohování jádro");
-define("DBLAN_10", "Správa databáze");
+define("DBLAN_9", "Zálohovat jádro");
+define("DBLAN_10", "Nástroje databáze");
 define("DBLAN_11", "Databáze MySQL");
-define("DBLAN_12", "optimalizované");
 define("DBLAN_15", "Vyberte, pokud chcete kontrolovat všechny aktualizace dostupné db");
-define("DBLAN_16", "Kontrola aktualizací");
+define("DBLAN_16", "Zkontrolovat aktualizace");
 define("DBLAN_17", "Pref. jméno");
 define("DBLAN_18", "Pref. hodnota");
 define("DBLAN_19", "Otevřít editor nastavení (pouze pro pokročilé uživatele)");
-define("DBLAN_20", "Editor nastavení");
+define("DBLAN_20", "Editor předvoleb");
 define("DBLAN_22", "Zobrazení zásuvného a skener");
-define("DBLAN_23", "Prohledávání bylo dokončeno.");
-define("DBLAN_25", "Adresář");
-define("DBLAN_26", "Zahrnuty Doplňky");
-define("DBLAN_27", "Nainstalované");
+define("DBLAN_23", "Prohlídka dokončena");
+define("DBLAN_25", "Složka");
+define("DBLAN_26", "Přiložené doplňky");
+define("DBLAN_27", "nainstalováno");
 define("DBLAN_28", "Vyberte skenovat plugin adresáře pro změny");
-define("DBLAN_29", "Prohledávání adresářů modul");
+define("DBLAN_29", "Vyhledat změny");
 define("DBLAN_30", "Je-li addon ukazuje chybu, zkontrolujte, zda znaky mimo PHP otevírání/zavírání značky.");
-define("DBLAN_31", "Průchod");
+define("DBLAN_31", "PASS");
 define("DBLAN_33", "Nepřístupné");
-define("DBLAN_34", "Nekontrolují");
+define("DBLAN_34", "Nezkontrolováno");
 define("DBLAN_35", "Vyberte ověřit platnost e107 databáze záznamů");
 define("DBLAN_36", "Zkontrolovat platnost záznamu databáze");
-define("DBLAN_37", "Zvolte Tabulka pro ověření");
-define("DBLAN_38", "Počáteční ověření");
+define("DBLAN_37", "Vyberte tabulky ke kontrole");
+define("DBLAN_38", "Spustit ověření");
 define("DBLAN_39", "Ověřovací databáze");
 define("DBLAN_40", "Záznam ověření:");
-define("DBLAN_41", "tabulka");
+define("DBLAN_41", "Tabulka");
 define("DBLAN_43", "Poznámka");
 define("DBLAN_45", "ID nebylo nalezeno!");
 define("DBLAN_46", "Tabulka nenalezena!");
@@ -73,7 +78,7 @@ define("DBLAN_77", "Základní sql soubor nelze přečíst");
 define("DBLAN_78", "Tabulka");
 define("DBLAN_79", "Motor");
 define("DBLAN_80", "Řazení");
-define("DBLAN_81", "Stav");
+define("DBLAN_81", "Status");
 define("DBLAN_82", "Tato funkce bude natrvalo změnit všechny tabulky v databázi. ([databáze])");
 define("DBLAN_83", "Je to [b] doporučuje [/ b] nejprve zálohování databáze a přepnout do režimu údržby webu.");
 define("DBLAN_84", "Upozornění:");
@@ -88,13 +93,13 @@ define("DBLAN_92", "Tabulky se používá správnou znakovou sadu.");
 define("DBLAN_93", "Parametr převedené databáze úspěšně do UTF-8.");
 define("DBLAN_94", "Přesvědčte se, zda že máte následující řádek v souboru e107_config.php:");
 define("DBLAN_95", "Možnosti exportu");
-define("DBLAN_97", "Tabulky");
-define("DBLAN_98", "Řádky");
+define("DBLAN_97", "tabulky");
+define("DBLAN_98", "řádků");
 define("DBLAN_99", "Tabulka dat:");
 define("DBLAN_100", "Převod a balíček obrazů a xml do cesty:");
 define("DBLAN_101", "Exportní soubor");
 define("DBLAN_102", "Možnosti exportu");
-define("DBLAN_103", "Vloženo");
+define("DBLAN_103", "jiné");
 define("DBLAN_104", "Nepodařilo se vložit");
 define("DBLAN_105", "Dávka shortcodes:");
 define("DBLAN_106", "(prázdný)");
@@ -102,3 +107,7 @@ define("DBLAN_107", "[složka] není zapisovatelný");
 define("DBLAN_108", "Vytvořeno:");
 define("DBLAN_109", "Kopírování:");
 define("DBLAN_110", "Nelze kopírovat:");
+define("DBLAN_111", "");
+
+
+?>

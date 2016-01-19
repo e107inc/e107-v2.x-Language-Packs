@@ -1,47 +1,55 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("LAN_dl_1", "(Omezené)");
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Czech Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/20 20:14:41
+|
+|        $Author: Oxigen $
++---------------------------------------------------------------+
+*/
+define("LAN_dl_1", "(omezeno)");
 define("LAN_dl_4", "Dostupné soubory:");
 define("LAN_dl_5", "Celková velikost souborů:");
 define("LAN_dl_6", "Staženo souborů:");
-define("LAN_dl_8", "Získat");
-define("LAN_dl_9", "Návrat na seznam kategorií");
-define("LAN_dl_13", "Bez hodnocení");
-define("LAN_dl_14", "Ohodnoťte Toto stahování");
-define("LAN_dl_16", "Download(s) od");
+define("LAN_dl_8", "Stáhnout");
+define("LAN_dl_9", "Vrátit se na seznam kategorií");
+define("LAN_dl_13", "Nehodnoceno");
+define("LAN_dl_14", "Ohodnotit tento soubor");
+define("LAN_dl_16", "stažení z");
 define("LAN_dl_29", "Je DL");
 define("LAN_dl_30", "Email autora");
-define("LAN_dl_31", "Autor webové stránky");
+define("LAN_dl_31", "Web autora");
 define("LAN_dl_36", "Nové soubory ke stažení");
-define("LAN_dl_40", "Klikněte zde pro screenshot");
-define("LAN_dl_43", "hlasování");
+define("LAN_dl_40", "Náhled");
+define("LAN_dl_43", "hlas");
 define("LAN_dl_44", "hlasy");
-define("LAN_dl_45", "Nahlásit nefunkční download");
-define("LAN_dl_46", "Chcete-li stáhnout");
-define("LAN_dl_47", "Hlášeny post");
-define("LAN_dl_48", "Stahování bylo hlášeno správci.<br>Děkuju.");
-define("LAN_dl_49", "Klepnutím sem se vrátíte ke stažení");
+define("LAN_dl_45", "Oznámení o nemožnosti stažení souboru");
+define("LAN_dl_46", "Stáhnout soubor");
+define("LAN_dl_47", "Chyba při odesílání e-mailu");
+define("LAN_dl_48", "Nefunkční soubor byl nahlášen administrátorovi.<br />Děkujeme.");
+define("LAN_dl_49", "Vrátit se na stahování");
 define("LAN_dl_50", "Nefunkční stahování hlásí");
-define("LAN_dl_51", "Oznámení ke stažení:");
-define("LAN_dl_53", "Klepnutím sem zobrazíte ke stažení");
-define("LAN_dl_54", "Správci budou informováni o stažení, prosím zanechte vzkaz to cítíš-li nezbytné.");
+define("LAN_dl_51", "Nahlášené nefunkční soubory:");
+define("LAN_dl_53", "Zobrazit soubor ke stažení");
+define("LAN_dl_54", "Administrátor bude upozorněn, pokud chcete, zanechte zprávu.");
 define("LAN_dl_55", "Nepoužívejte tento formulář kontaktovat admin z jiného důvodu.");
-define("LAN_dl_57", "ohlášené");
-define("LAN_dl_58", "Byla hlášena následující stažení zlomené z webu");
-define("LAN_dl_59", "Zpracoval:");
-define("LAN_dl_60", "Nefunkční stahování zpráva od");
-define("LAN_dl_62", "Už bylo zabráněno stahování tohoto souboru; Překročili jste kvótu stahování");
-define("LAN_dl_63", "Nemáte správná oprávnění pro tento soubor stáhnout.");
-define("LAN_dl_66", "Výběr ke stažení zrcadlo");
+define("LAN_dl_57", "ohlásil");
+define("LAN_dl_58", "Tento soubor ke stažení byl nahlášen jako nefunkční.");
+define("LAN_dl_59", "Ohlásil:");
+define("LAN_dl_60", "Formulář na oznámení poškozeného odkazu.");
+define("LAN_dl_62", "Tento soubor nemůžete stáhnout, vyčerpali jste svůj limit.");
+define("LAN_dl_63", "Nemáte práva ke stažení tohoto souboru.");
+define("LAN_dl_66", "Zvolte si alternativu");
 define("LAN_dl_67", "Vyberte zrcadlo...");
-define("LAN_dl_68", "Zrcadlo hostitele");
-define("LAN_dl_72", "Požaduje soubor:");
-define("LAN_dl_73", "Položky ke stažení od tohoto zrcadla:");
-define("LAN_dl_74", "Celkový počet stažení z tohoto zrcadla:");
-define("LAN_dl_75", "žádný obrázek k dispozici");
-define("LAN_dl_77", "Soubory ke stažení");
+define("LAN_dl_68", "Alternativní server");
+define("LAN_dl_72", "Požadovaný soubor:");
+define("LAN_dl_73", "Stažení z tohoto serveru:");
+define("LAN_dl_74", "Celkem stažení z tohoto serveru:");
+define("LAN_dl_75", "žádné obrázky nejsou dostupné");
+define("LAN_dl_77", "Stažení");
 define("LAN_dl_78", "Že ke stažení byla zakázána nebo přerušeno. Zkontrolujte voblasti [ke stažení] pro novější verzi.");
+
+
+?>

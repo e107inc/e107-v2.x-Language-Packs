@@ -4,36 +4,39 @@
 // Generated for e107 v2.x by the Multi-Language Plugin
 // https://github.com/e107inc/multilan
 
-define("SEALAN_1", "Keresési beállításokat");
-define("SEALAN_3", "Keresési rendezési mód:");
+define("SEALAN_1", "Keresés beállítása");
+define("SEALAN_3", "Keresési sorrend módszere:");
 define("SEALAN_7", "Regisztrált tagok");
-define("SEALAN_10", "Megjelenítendő érték jelentősége:");
-define("SEALAN_11", "Lehetővé teszi a felhasználó-hoz kiválaszt kereshető területek:");
-define("SEALAN_12", "Korlátozza a határidő közötti keresés (max 5 perc):");
-define("SEALAN_13", "Szűkíthető egy keresés minden");
-define("SEALAN_14", "másodperc");
-define("SEALAN_15", "Keresési oldalon elérhető felhasználói osztály");
-define("SEALAN_18", "Kereshető megjegyzések területen (ha megjegyzések keresés be van kapcsolva)");
-define("SEALAN_19", "Lehetővé teszi a felhasználók egyszerre több területet kereséséhez:");
+define("SEALAN_10", "Fontossági érték megjelenítése:");
+define("SEALAN_11", "Felhasználó kiválaszthatja a keresendő területeket:");
+define("SEALAN_12", "Keresések közötti idő korlátozása (max 5 perc):");
+define("SEALAN_13", "Keresés engedélyezése csak");
+define("SEALAN_14", "másodpercenként");
+define("SEALAN_15", "A Keresés oldal a következő felhasználócsoportnak érhető el");
+define("SEALAN_18", "Kereshető hozzászólás területek (ha a keresés a hozzászólásokban aktivált)");
+define("SEALAN_19", "A felhasználók egyidőben több, mint egy területben kereshetnek:");
 define("SEALAN_20", "Általános beállítások");
 define("SEALAN_21", "Kereshető területek");
 define("SEALAN_23", "Alternatív");
-define("SEALAN_25", "FelhasználóiOsztály");
-define("SEALAN_26", "Előtti cím szöveg");
-define("SEALAN_30", "Kiemelni a kulcsszavakat a említett oldalra:");
-define("SEALAN_31", "Korlátozott-hoz PHP");
-define("SEALAN_32", "eredmények (hagyja üresen a nincs korlátozás.)");
-define("SEALAN_35", "Kereshető területek kiválasztási módszer:");
-define("SEALAN_36", "Legördülő lista");
-define("SEALAN_37", "Jelölőnégyzet");
-define("SEALAN_38", "Rádió");
+define("SEALAN_25", "Felhasználó Csoport");
+define("SEALAN_26", "Pre-Title Szöveg");
+define("SEALAN_30", "Kulcsszavak kiemelése a hivatkozott oldalon:");
+define("SEALAN_31", "PHP limit ide");
+define("SEALAN_32", "eredmény (hagyd üresen, ha nincs limit)");
+define("SEALAN_35", "Keresendő terület kiválasztási módszere:");
+define("SEALAN_36", "Legördülő doboz");
+define("SEALAN_37", "Bejelölő doboz");
+define("SEALAN_38", "Rádió gomb");
 define("SEALAN_39", "Egyéni oldalak");
-define("SEALAN_40", "Keresési opciók");
-define("SEALAN_41", "Fő oldal");
-define("SEALAN_43", "A keresési beállítások szerkesztése");
-define("SEALAN_44", "Felhasználói osztály lehetővé tette, hogy ezen a területen");
-define("SEALAN_45", "Oldalanként megjelenített találatok száma");
-define("SEALAN_46", "A keresési eredmény összefoglaló karakterek száma");
-define("SEALAN_47", "Csak teljes-szavas találatok:");
-define("SEALAN_48", "Ez a beállítás csak akkor érvényes, ha a keresés rendezési módszer PHP. Ha a webhely tartalmaz ideografikus nyelvek, például kínai és Japán kell ezt ki.");
-define("SEALAN_49", "Ha a webhely tartalmaz ideografikus nyelvek, például kínai és Japán, a PHP rendezési módszert kell használnia.");
+
+define("SEALAN_40", "Keresés beállítások");
+define("SEALAN_41", "Főoldal");
+
+define("SEALAN_43", "Beállítások módosítása");
+define("SEALAN_44", "Felhasználó csoport, amelynek engedélyezett a keresés ezen a területen");
+define("SEALAN_45", "Az eredmény megjelenítésének száma oldalanként");
+define("SEALAN_46", "Karakterek száma a keresési eredmény összegzésben");
+
+define("SEALAN_47", "Eredmény, csak teljes szavak:");
+define("SEALAN_48", "Ezen beállítás alkalmazása csak akkor lehetséges, ha a keresés rendezés módszere PHP. Ha oldalad képírás-szerű nyelvet tartalmaz, pl.: Kínai és Japán, akkor ezt ki kell kapcsolnod.");
+define("SEALAN_49", "Ha oldalad képírás-szerű nyelvet tartalmaz, pl.: Kínai és Japán, akkor a PHP rendezési módszert kell alkalmaznod.");

@@ -1,9 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Russian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/01/10 06:04:58
+|
+|        $Author: admin $
++---------------------------------------------------------------+
+*/
 define("ADLAN_0", "Новости");
 define("ADLAN_1", "Управление элементами Новости");
 define("ADLAN_2", "Создать новость");
@@ -137,7 +142,7 @@ define("LAN_SETSAVED", "Ваши настройки были сохранены"
 define("LAN_NOCHANGE_NOTSAVED", "Ничего не изменилось - не сохраняются");
 define("LAN_CONFIRMDEL", "Пожалуйста, подтвердите, что вы хотите удалить");
 define("LAN_OPTIONS", "Параметры");
-define("LAN_PREFS", "Предпочтения");
+define("LAN_PREFS", "Настройки");
 define("LAN_DELETED", "Успешно удалена");
 define("LAN_UPDATED", "Успешно обновлен");
 define("LAN_CREATED", "Успешно создан");
@@ -179,7 +184,7 @@ define("LAN_UPLOAD_ADDFILE", "Добавьте еще один файл");
 define("LAN_UPLOAD_CONFIRM", "Все несохраненные изменения этой страницы будут потеряны. Продолжить?");
 define("LAN_UPLOAD_777", "Папка отсутствует или не для записи, необходимо CHMOD 777 следующую папку перед загрузкой:");
 define("LAN_UPLOAD_SERVEROFF", "Этот параметр отключен, как загрузка файлов не включен на вашем сервере");
-define("LAN_DISABLED", "Инвалидов");
+define("LAN_DISABLED", "Выключено");
 define("LAN_ENABLED", "Включено");
 define("LAN_BOOL_REVERSE", "Инвертировать");
 define("LAN_NOT_AVAILABLE", "Не доступно");
@@ -261,3 +266,12 @@ define("LAN_USER_QUICKADD", "Быстрое добавление пользов�
 define("LAN_USER_PRUNE", "Удаление пользователей");
 define("LAN_USER_OPTIONS", "Параметры пользователя");
 define("LAN_USER_RANKS", "Ряды пользователей");
+define("LAN_CONTROL_PANEL", "Панель Управления [x]");
+define("LAN_CUSTOM_URL", "Подробная ссылка");
+define("LAN_CUSTOM_URL_DISABLED", "Выключено или введите подробную ссылку");
+define("LAN_GENERAL", "Общее");
+define("LAN_GENERATE", "Генерировать");
+define("LAN_WILL_OVERWRITE_SEF", "Это перезапишет ваш существующий SEF URL.");
+
+
+?>
