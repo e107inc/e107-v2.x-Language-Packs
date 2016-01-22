@@ -13,7 +13,7 @@ define("GSLAN_1", "Link stránky");
 define("GSLAN_2", "Importovať?");
 define("GSLAN_7", "Importovanie linkov");
 define("GSLAN_8", "Importovať s:");
-define("GSLAN_9", "Priority");
+define("GSLAN_9", "Priorita");
 define("GSLAN_10", "Frekvencia");
 define("GSLAN_11", "vždy");
 define("GSLAN_12", "každú hodinu");
@@ -35,7 +35,7 @@ define("GSLAN_33", "Inštrukcie Google Sitemaps");
 define("GSLAN_34", "Najprv vytvorte linky, ktoré chcete mať v mape stránky. Väčšinu svojich linkov môžete naimportovať stlačením voľby Import na pravej strane.");
 define("GSLAN_35", "Ak ste sa rozhodli svoje linky naimportovať, kliknite na Import a potom zaškrtnite linky, ktoré si želáte naimportovať.");
 define("GSLAN_36", "Môžete vložiť aj samostatné linky kliknutím na 'Vytvoriť nový záznam'");
-define("GSLAN_37", "Once you have some entries, go to [URL] and enter the following URL -> <b>".SITEURL."gsitemap.php</b> - if this url doesn't look right to you, please make sure your site url is correct in admin -> preferences");
+define("GSLAN_37", "Keď máte nejaké záznamy, choďte na [URL]  a zadajte nasledujúcu URL -> <b>".SITEURL."gsitemap.php</b> - ak sa vám táto url nezdá, overte správnosť url stránky v administrácii -> Nastavenia. ");
 define("GSLAN_38", "Pre viac informácií o protokole Google mapy stránok, choďte na  [URL].");
 define("GSLAN_39", "V mape stránok nie sú žiadne linky - naimportovať linky stránok?");
 

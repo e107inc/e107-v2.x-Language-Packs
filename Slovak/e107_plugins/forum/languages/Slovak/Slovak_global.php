@@ -10,13 +10,13 @@
 +---------------------------------------------------------------+
 */
 define("LAN_PLUGIN_FORUM_NAME", "Fórum");
-define("LAN_PLUGIN_FORUM_DESC", "Tento doplnok je plne funkčný systém pre vytvorenie fóra.");
+define("LAN_PLUGIN_FORUM_DESC", "Toto rozšírenie je plne funkčný systém pre vytvorenie diskusného fóra.");
 define("LAN_PLUGIN_FORUM_POSTS", "príspevkov fóra");
 define("LAN_PLUGIN_FORUM_ALLFORUMS", "Všetky fóra");
 define("FORUM_LAN_URL_DEFAULT_LABEL", "Východzie URL pre fórum");
-define("FORUM_LAN_URL_DEFAULT_DESCR", "URLs of 'GET type' with no single entry point. Examples:<br />http://yoursite.com/e107_plugins/forum/forum.php (forum index)<br />http://yoursite.com/e107_plugins/forum/forum_viewtopic.php?id=2 (thread view)");
-define("FORUM_LAN_URL_REWRITE_LABEL", "SEF Forum URLs (UNDER DEVELOPMENT)");
-define("FORUM_LAN_URL_REWRITE_DESCR", "Examples:<br />UNDER DEVELOPMENT");
+define("FORUM_LAN_URL_DEFAULT_DESCR", "URLs of 'GET type' with no single entry point. Príklady:<br />http://yoursite.com/e107_plugins/forum/forum.php (forum index)<br />http://yoursite.com/e107_plugins/forum/forum_viewtopic.php?id=2 (thread view)");
+define("FORUM_LAN_URL_REWRITE_LABEL", "SEF Forum URLs (VO VÝVOJI)");
+define("FORUM_LAN_URL_REWRITE_DESCR", "Príklady:<br />VO VÝVOJI");
 
 
 ?>

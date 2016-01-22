@@ -9,10 +9,10 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("LAN_AL_GSMAP_01", "");
-define("LAN_AL_GSMAP_02", "");
-define("LAN_AL_GSMAP_03", "");
-define("LAN_AL_GSMAP_04", "");
+define("LAN_AL_GSMAP_01", "Importovať odkazy stránky");
+define("LAN_AL_GSMAP_02", "Link pre mapu stránky vymazaný");
+define("LAN_AL_GSMAP_03", "Link pre mapu stránky pridaný");
+define("LAN_AL_GSMAP_04", "Link pre mapu stránky aktualizovaný");
 
 
 ?>

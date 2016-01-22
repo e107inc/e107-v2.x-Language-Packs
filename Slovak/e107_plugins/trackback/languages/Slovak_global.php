@@ -9,7 +9,7 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("LAN_PLUGIN_TRACKBACK_NAME", "Spätné sledovanie novinky");
+define("LAN_PLUGIN_TRACKBACK_NAME", "Spätné sledovanie");
 define("LAN_PLUGIN_TRACKBACK_DESCRIPTION", "Tento plugin vám umožnuje nastavit sledovanie vo vašich novinkách.");
 
 

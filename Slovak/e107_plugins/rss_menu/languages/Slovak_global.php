@@ -9,10 +9,10 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("LAN_PLUGIN_RSS_NAME", "RSS");
-define("LAN_PLUGIN_RSS_DESCRIPTION", "");
+define("LAN_PLUGIN_RSS_NAME", "Informačný kanál");
+define("LAN_PLUGIN_RSS_DESCRIPTION", "Informačné kanály z našej stránky.");
 define("LAN_PLUGIN_RSS_SUBSCRIBE", "Prihláste sa");
-define("LAN_PLUGIN_RSS_SUBSCRIBE_TO", "");
+define("LAN_PLUGIN_RSS_SUBSCRIBE_TO", "Prihláste sa k [x]");
 
 
 ?>

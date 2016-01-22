@@ -9,15 +9,15 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("LAN_LOGINMENU_1", "Meno užívateľa:");
+define("LAN_LOGINMENU_1", "Meno používateľa:");
 define("LAN_LOGINMENU_2", "Heslo:");
-define("LAN_LOGINMENU_3", "");
+define("LAN_LOGINMENU_3", "Prihlásiť sa");
 define("LAN_LOGINMENU_4", "Zabudli ste heslo?");
 define("LAN_LOGINMENU_5", "Vitajte");
 define("LAN_LOGINMENU_6", "Zapamätať si ma");
-define("LAN_LOGINMENU_7", "");
+define("LAN_LOGINMENU_7", "Nepodarilo sa identifikovať unikátne ID používateľa (pravdepodobne poškodené cookies). Kliknite prosím na link na odhlásenie, aby ste zrušili cookies.");
 define("LAN_LOGINMENU_9", "Chyba prihlásenia");
-define("LAN_LOGINMENU_10", "Stav údržby zapnutý - znamená to, že všetky požiadavky na server budú presmerované na sitedown.php. Pre zrušenie stavu údržby choďte na admin/údržba.");
+define("LAN_LOGINMENU_10", "Je zapnutý stav údržby - znamená to, že všetky požiadavky na server budú presmerované na sitedown.php. Pre zrušenie stavu údržby choďte na admin/údržba.");
 define("LAN_LOGINMENU_11", "Administrácia");
 define("LAN_LOGINMENU_13", "Profil");
 define("LAN_LOGINMENU_14", "novinka");
@@ -43,17 +43,17 @@ define("LAN_LOGINMENU_41", "Nastavenia prihlasovacieho menu");
 define("LAN_LOGINMENU_37", "Ukázať");
 define("LAN_LOGINMENU_38", "");
 define("LAN_LOGINMENU_42", "");
-define("LAN_LOGINMENU_43", "");
-define("LAN_LOGINMENU_44", "");
-define("LAN_LOGINMENU_45", "");
+define("LAN_LOGINMENU_43", "Pozícia");
+define("LAN_LOGINMENU_44", "chýbajúci názov odkazu");
+define("LAN_LOGINMENU_45", "odkaz(y)");
 define("LAN_LOGINMENU_45a", "");
 define("LAN_LOGINMENU_45b", "Plugin");
-define("LAN_LOGINMENU_46", "");
+define("LAN_LOGINMENU_46", "posledné príspevky -");
 define("LAN_LOGINMENU_47", "");
-define("LAN_LOGINMENU_48", "");
-define("LAN_LOGINMENU_49", "");
-define("LAN_LOGINMENU_50", "");
-define("LAN_LOGINMENU_51", "");
+define("LAN_LOGINMENU_48", "Konfigurácia menu");
+define("LAN_LOGINMENU_49", "E-mail:");
+define("LAN_LOGINMENU_50", "Meno používateľa alebo e-mail:");
+define("LAN_LOGINMENU_51", "Prihlásiť sa");
 
 
 ?>

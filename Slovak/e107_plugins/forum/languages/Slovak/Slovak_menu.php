@@ -11,16 +11,16 @@
 */
 define("LAN_FORUM_MENU_001", "Zaslané od");
 define("LAN_FORUM_MENU_002", "Žiadne príspevky");
-define("LAN_FORUM_MENU_003", "Konfigurácia menu nového príspevku fóra");
+define("LAN_FORUM_MENU_003", "Konfigurácia menu Nové príspevky fóra uložená");
 define("LAN_FORUM_MENU_004", "Nadpis");
-define("LAN_FORUM_MENU_005", "Počet zobrazených príspevkov");
-define("LAN_FORUM_MENU_006", "Počet zobrazených znakov");
-define("LAN_FORUM_MENU_007", "Nahrádzací reťazec (postfix) pre dlhé príspevky");
-define("LAN_FORUM_MENU_008", "Zobraziť tému vlákna v menu");
+define("LAN_FORUM_MENU_005", "Počet zobrazených príspevkov?");
+define("LAN_FORUM_MENU_006", "Počet zobrazených znakov?");
+define("LAN_FORUM_MENU_007", "Nahrádzací reťazec (postfix) pre príliš dlhé príspevky");
+define("LAN_FORUM_MENU_008", "Zobraziť pôvodnú tému v menu?");
 define("LAN_FORUM_MENU_009", "Aktualizovať nastavenia menu");
-define("LAN_FORUM_MENU_0010", "Konfigurácia menu nového príspevku fóra");
+define("LAN_FORUM_MENU_0010", "Konfigurácia menu Nové príspevky fóra");
 define("LAN_FORUM_MENU_0012", "Maximálny vek zobrazovaných príspevkov");
-define("LAN_FORUM_MENU_0013", "Použite nulu na tichom webe; nastavenie hodnoty v dňoch zníži čas databázy na rušnom webe");
+define("LAN_FORUM_MENU_0013", "Použite nulu na nenáročnom webe; nastavenie hodnoty v dňoch zníži čas databázy na rušnom webe");
 
 
 ?>

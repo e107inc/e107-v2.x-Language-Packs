@@ -9,13 +9,13 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("TRACKBACK_L7", "Aktivuj sledovanie");
+define("TRACKBACK_L7", "Aktivovať sledovanie");
 define("TRACKBACK_L8", "Sledovanie URL textu");
 define("TRACKBACK_L10", "Nastavenia sledovania");
 define("TRACKBACK_L11", "Adresa sledovania pre túto tému:");
 define("TRACKBACK_L12", "Nie sú sledovania pre túto položku");
-define("TRACKBACK_L13", "Priemerné sledovania");
-define("TRACKBACK_L16", "Spätné sledovanie novinky");
+define("TRACKBACK_L13", "Moderovať sledovania");
+define("TRACKBACK_L16", "Spätné sledovanie");
 
 
 ?>

@@ -9,9 +9,8 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-
-define("LAN_PLUGIN_NEWSLETTER_NAME", "Novinky");
-define("LAN_PLUGIN_NEWSLETTER_DESCRIPTION", "");
+define("LAN_PLUGIN_NEWSLETTER_NAME", "Newsletter");
+define("LAN_PLUGIN_NEWSLETTER_DESCRIPTION", "Poskytuje rýchly a ľahký spôsob ako nastaviť a odosielať newslettere.");
 
 
 ?>

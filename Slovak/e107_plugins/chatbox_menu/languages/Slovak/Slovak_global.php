@@ -10,11 +10,11 @@
 +---------------------------------------------------------------+
 */
 define("LAN_PLUGIN_CHATBOX_MENU_NAME", "Chatbox");
-define("LAN_PLUGIN_CHATBOX_MENU_DESCRIPTION", "");
+define("LAN_PLUGIN_CHATBOX_MENU_DESCRIPTION", "Chatbox Menu");
 define("LAN_PLUGIN_CHATBOX_MENU_POSTS", "príspevkou chatboxu");
-define("LAN_AL_CHBLAN_01", "");
-define("LAN_AL_CHBLAN_02", "");
-define("LAN_AL_CHBLAN_03", "");
+define("LAN_AL_CHBLAN_01", "Nastavenia chatboxu aktualizované");
+define("LAN_AL_CHBLAN_02", "Chatbox prečistený");
+define("LAN_AL_CHBLAN_03", "Prepočítané príspevky v chatboxe");
 define("LAN_AL_CHBLAN_04", "");
 define("LAN_AL_CHBLAN_05", "");
 define("NT_LAN_CB_1", "Udalosti chatboxu");

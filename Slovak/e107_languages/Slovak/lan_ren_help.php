@@ -45,24 +45,24 @@ define("LANHELP_33", "HTML - odstráni ukončenia riadkov z textu: [html]<table>
 define("LANHELP_34", "[newpage] alebo [newpage=title] Vloží novú stránku, rozdeluje článok na viac stránok");
 define("LANHELP_35", "URL prepojenia");
 define("LANHELP_36", "Nezoradené: [list]line1*line2*line3[/list] Zoradené: [list=type]line1*line2*line3[/list]");
-define("LANHELP_37", "Vlož obrázok zo zložky e107_images/newspost_images/");
+define("LANHELP_37", "Vložte obrázok zo zložky e107_images/newspost_images/");
 define("LANHELP_38", "pre zobrazenie celého obrázka bude generovaný link");
-define("LANHELP_39", "Vlož link na stiahnutie z existujúcich stiahnutí");
+define("LANHELP_39", "Vložte link na stiahnutie z existujúcich stiahnutí");
 define("LANHELP_40", "Momentálne nie sú k dispozícii žiadne súbory na stiahnutie");
 define("LANHELP_41", "Veľkosť fontu...");
-define("LANHELP_42", "Vyber obrázok...");
-define("LANHELP_43", "Vyber súbor na stiahnutie...");
-define("LANHELP_44", "Klikni pre otvorenie/zatvorenie okna so smajlami ...");
-define("LANHELP_45", "");
+define("LANHELP_42", "Vyberte obrázok...");
+define("LANHELP_43", "Vyberte súbor na stiahnutie...");
+define("LANHELP_44", "Kliknite pre otvorenie/zatvorenie okna s emotikonami ...");
+define("LANHELP_45", "Vložte obrázok z Media Manažéra");
 define("LANHELP_46", "* Vnútri sa nenachádzajú žiadne súbory:");
-define("LANHELP_47", "Vlož flash: [flash=šírka,výška]http://www.priklad.sk/subor.swf[/flash]");
-define("LANHELP_48", "");
-define("LANHELP_49", "");
+define("LANHELP_47", "Vložte flash: [flash=šírka,výška]http://www.priklad.sk/subor.swf[/flash]");
+define("LANHELP_48", "Vložte YouTube video: [youtube=tiny | small | medium | big | huge | width,height]6kYjxJmk0wc[/youtube]");
+define("LANHELP_49", "Odsek: [p=class name]Text odseku[/p]");
 define("LANHELP_50", "");
 define("LANHELP_51", "");
-define("LANHELP_52", "");
+define("LANHELP_52", "Nový riadok (HTML): [br]");
 define("LANHELP_53", "");
-define("LANHELP_54", "");
+define("LANHELP_54", "HTML blok (div tag): [block]Váš obsah[/block]");
 
 
 ?>

@@ -9,16 +9,16 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("POLLAN_MENU_CAPTION", "anketa");
+define("POLLAN_MENU_CAPTION", "Hlasovanie");
 define("POLLAN_1", "Existujúce ankety");
 define("POLLAN_2", "Vytvoriť / upraviť ankety");
-define("POLLAN_3", "Anketová otázka");
-define("POLLAN_4", "");
-define("POLLAN_8", "Ďalšia odpoveď");
+define("POLLAN_3", "Hlasovacia otázka");
+define("POLLAN_4", "Možné odpovede");
+define("POLLAN_8", "Pridať ďalšiu odpoveď");
 define("POLLAN_9", "Povoliť viacnásobné odpovede?");
 define("POLLAN_10", "áno");
-define("POLLAN_11", "žiadny");
-define("POLLAN_12", "Ukáž výsledky");
+define("POLLAN_11", "nie");
+define("POLLAN_12", "Zobraziť výsledky");
 define("POLLAN_13", "po hlasovaní");
 define("POLLAN_14", "kliknutím zobraziť link k výsledkom - k použitiu tejto možnosti musia byť umožnené komentáre");
 define("POLLAN_15", "Umožniť hlasovať v tejto ankete");
@@ -47,13 +47,13 @@ define("POLLAN_39", "Ďakujeme, že ste hlasovali!");
 define("POLLAN_40", "Kliknite sem k zobrazeniu výsledkov");
 define("POLLAN_41", "Táto anketa je určená len pre členov");
 define("POLLAN_42", "Táto anketa je určená len pre adminov");
-define("POLLAN_43", "Nemáš oprávnenie hlasovať v tejto ankete");
-define("POLLAN_44", "Zmazať túto anketu?");
+define("POLLAN_43", "Nemáte oprávnenie hlasovať v tejto ankete");
+define("POLLAN_44", "Zmazať hlasovanie?");
 define("POLLAN_45", "Anketa bola úspešne aktualizovaná");
-define("LAN_FORUM_3029", "");
-define("LAN_FORUM_3030", "Anketová otázka");
-define("LAN_FORUM_3031", "");
-define("LAN_FORUM_3032", "");
+define("LAN_FORUM_3029", "Ak si neželáte pridať k svojej téme hlasovanie, nechajte tieto polia prázdne.");
+define("LAN_FORUM_3030", "Hlasovacia otázka");
+define("LAN_FORUM_3031", "hlasovaciu otázku");
+define("LAN_FORUM_3032", "Pridať ďalšiu odpoveď");
 define("LAN_FORUM_3033", "Povoliť viacnásobné odpovede?");
 define("LAN_FORUM_3034", "Metóda uchovania hlasu");
 define("LAN_FORUM_3035", "cookie");
