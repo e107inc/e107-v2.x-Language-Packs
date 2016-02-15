@@ -9,12 +9,13 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-define("LAN_UPDATE_2", "Handling");
+
+define("LAN_UPDATE_2", "Handlingen");
 define("LAN_UPDATE_3", "Ikke nødvendig");
 define("LAN_UPDATE_4", "Oppdatere fra [x] til [y]");
 define("LAN_UPDATE_5", "Oppdater kjerne database struktur");
 define("LAN_UPDATE_7", "Henrettet [x]");
-define("LAN_UPDATE_12", "En av dine tabeller inneholder duplikater.");
+define("LAN_UPDATE_12", "En av tabellene inneholder duplikatoppføringer.");
 define("LAN_UPDATE_13", "Legge til flere mangler kjernen innstillinger");
 define("LAN_UPDATE_14", "Start versjon:");
 define("LAN_UPDATE_20", "Oppdatering Preference(s):");
@@ -28,7 +29,7 @@ define("LAN_UPDATE_27", "Legge til tabellen:");
 define("LAN_UPDATE_28", "-COUNT - bevart emails flyttet");
 define("LAN_UPDATE_29", "Avhengig av bestemte konfigurasjonen må du kjøre oppgraderingen flere ganger.");
 define("LAN_UPDATE_37", "Legge til index--indeks-til tabellen tabell--");
-define("LAN_UPDATE_38", "Oppdater forside innstillinger");
+define("LAN_UPDATE_38", "Oppdatere innstillingene for forsiden");
 define("LAN_UPDATE_40", "Oppdater nyhetsstrømmer tabell");
 define("LAN_UPDATE_41", "Timezone feltet behandlet");
 define("LAN_UPDATE_42", "Feil overfører timezone data - avbrutt");

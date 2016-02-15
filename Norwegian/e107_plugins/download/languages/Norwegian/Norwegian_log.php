@@ -1,14 +1,8 @@
 <?php
-/*
-+---------------------------------------------------------------+
-|        e107 website content management system Norwegian Language File
-|        Released under the terms and conditions of the
-|        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/28 20:03:08
-|
-|        $Author: Administrador $
-+---------------------------------------------------------------+
-*/
+
+// Bing-Translated Language file 
+// Generated for e107 v2.x by the Multi-Language Plugin
+// https://github.com/e107inc/multilan
 
 define("LAN_AL_DOWNL_01", "Nedlastinger - Last ned valgmulighetene forandret");
 define("LAN_AL_DOWNL_02", "Nedlastinger - Last opp valgmulighetene forandret");
@@ -21,6 +15,3 @@ define("LAN_AL_DOWNL_08", "Nedlastinger - logge 08");
 define("LAN_AL_DOWNL_09", "Nedlastinger - logger 09");
 define("LAN_AL_DOWNL_10", "Nedlastinger - grense oppdatert");
 define("LAN_AL_DOWNL_11", "Nedlastinger - grense fjernet");
-
-
-?>

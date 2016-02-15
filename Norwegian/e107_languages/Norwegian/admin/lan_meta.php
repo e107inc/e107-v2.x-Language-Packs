@@ -1,19 +1,10 @@
 <?php
-/*
-+---------------------------------------------------------------+
-|        e107 website content management system Norwegian Language File
-|        Released under the terms and conditions of the
-|        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/28 19:57:35
-|
-|        $Author: Administrador $
-+---------------------------------------------------------------+
-*/
 
-define("METLAN_00", "Meta Tags");
+// Bing-Translated Language file 
+// Generated for e107 v2.x by the Multi-Language Plugin
+// https://github.com/e107inc/multilan
+
+define("METLAN_00", "Metakoder");
 define("METLAN_1", "Flere metakoder");
 define("METLAN_2", "f.eks< meta='' name='revisit-after' content='30 days'>");
-define("METLAN_3", "Bruk nyhetstittelen og sammendraget som meta-beskrivelse på nyhetssider.");
-
-
-?>
+define("METLAN_3", "Bruk nyhetstittel og Sammendrag som meta-beskrivelse på nyhetssider.");
