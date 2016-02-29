@@ -14,6 +14,7 @@
 define("LAN_UPDATE_2",  "Actie");
 define("LAN_UPDATE_3",  "Niet nodig");
 define("LAN_UPDATE_4", "Update van [x] naar [y]");
+define("LAN_UPDATE_5","Update core database structuur");
 define("LAN_UPDATE_7",  "Uitgevoerd [x]");
 define("LAN_UPDATE_12", "Een van de tabellen bevat dubbele records.");
 define("LAN_UPDATE_12", "Een van de tabellen bevat dubbele records.");

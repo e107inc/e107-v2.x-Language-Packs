@@ -34,7 +34,7 @@ define("LAN_USET_17", "De gebruikersnaam is al ingebruik. Kies een andere.");
 define("LAN_USET_18", "gebruikersgegevens veranderd door Beheerder: --ID--, Inlognaam: --LOGNAME--");
 define("LAN_USET_20", "je moet ook de gebruikers wachtwoord veranderen wanneer je de Loginnaam of e-mail adres wijzigt.");
 define("LAN_USET_21", "Bevestig de gegevens door je wachtwoord in te geven: ");
-define("LAN_USET_22", "Fout wachtwoord!"); // TODO LAN common?
+//define("LAN_USET_22", "Fout wachtwoord!"); // TODO LAN common?
 define("LAN_USET_23", "Niets invullen om bestaande wachtwoord te houden");		
 define("LAN_USET_24", "Nieuw wachtwoord: ");						
 define("LAN_USET_25", "bevestig nieuw wachtwoord: ");			
@@ -57,7 +57,7 @@ define("LAN_USET_41", "Instellingen bijgewerkt en opgeslagen in de database.");
 define("LAN_USET_42", "Code niet correct");
 define("LAN_USET_43", "Gebruikersgegevens niet bijgewerkt");
 
-
+//TODO Move to usersettings.php with bcDefs() method.
 define("LAN_7", "Gebruikersnaam: ");
 define("LAN_8", "de naam die op de site wordt weergegeven");
 define("LAN_9", "Inlognaam: ");

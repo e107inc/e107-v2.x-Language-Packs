@@ -39,7 +39,7 @@ define("LAN_NEWS_86", "Vorige");
 define("LAN_NEWS_87", "Volgende");
 define("LAN_NEWS_462", "Geen nieuwsberichten in de opgegeven maand");
 
-define("LAN_NEWS_99", "Reacties");
+//define("LAN_NEWS_99", "Reacties");
 define("LAN_NEWS_100", "Op");
 define("LAN_NEWS_307", "Aantal berichten in deze categorie: ");
 

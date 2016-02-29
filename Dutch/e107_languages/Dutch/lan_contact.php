@@ -10,8 +10,8 @@
 +----------------------------------------------------------------------------+
 */
 
-define("PAGE_NAME",     "Contact Pagina");
-define("LANCONTACT_00", "Contact ");// contact met ons? of opnemen met ons? lijkt dit gewoon het simpelste
+//define("PAGE_NAME",     "Contact Pagina");
+define('LANCONTACT_00', 'Contact ');// contact met ons? of opnemen met ons? lijkt dit gewoon het simpelste vlgs code met enkele '
 define("LANCONTACT_01", "Contact details");
 define("LANCONTACT_02", "Contactformulier");
 define("LANCONTACT_03", "Invoeren naam:");
