@@ -63,7 +63,7 @@ define("LAN_EURL_MENU", "Site URL's");
 //define("LAN_EURL_MENU_CONFIG", "URL profielen");
 //define("LAN_EURL_MENU_ALIASES", "Aliassen");
 define("LAN_EURL_MENU_CONFIG", "Configuraties");
-define("LAN_EURL_MENU_ALIASES", "Profiel Aliassen")
+define("LAN_EURL_MENU_ALIASES", "Profiel Aliassen");
 define("LAN_EURL_MENU_SETTINGS", "Instellingen");
 define("LAN_EURL_MENU_HELP", "Help");
 //define("LAN_EURL_MENU_REDIRECTS", "Verwijzingen");
