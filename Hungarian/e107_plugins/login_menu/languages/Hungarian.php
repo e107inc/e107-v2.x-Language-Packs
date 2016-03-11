@@ -4,39 +4,39 @@
 // Generated for e107 v2.x by the Multi-Language Plugin
 // https://github.com/e107inc/multilan
 
-define("LAN_LOGINMENU_L1", "Felhasználónév: ");
-define("LAN_LOGINMENU_L2", "Jelszó: ");
-define("LAN_LOGINMENU_L3", "Regisztráció");
-define("LAN_LOGINMENU_L4", "Elfelejtett jelszó?");
-define("LAN_LOGINMENU_L5", "Üdvözlet");
-define("LAN_LOGINMENU_L6", "Adatok megjegyzése");
-define("LAN_LOGINMENU_L7", "Egyedi azonosító nem felismerhető (valószínűleg hibás cookie).<br /><a href=\"".e_BASE."index.php?logout\">Kattints ide</a> a cookie megsemmisítéséhez.");
-define("LAN_LOGINMENU_L9", "Bejelentkezési hiba");
-define("LAN_LOGINMENU_L10", "Karbantartás üzemmód bekapcsolva - A normál felhasználók csak a sitedown.php -t érhetik el. Kikapcsolható az admin részlegben");
-define("LAN_LOGINMENU_L11", "Admin");
-define("LAN_LOGINMENU_L13", "Profil");
-define("LAN_LOGINMENU_L14", "új hír");
-define("LAN_LOGINMENU_L15", "új hír");
-define("LAN_LOGINMENU_L16", "új chatbox üzenet");
-define("LAN_LOGINMENU_L17", "új chatbox üzenet");
-define("LAN_LOGINMENU_L18", "új hozzászólás");
-define("LAN_LOGINMENU_L19", "új hozzászólás");
-define("LAN_LOGINMENU_L20", "új fórum üzenet");
-define("LAN_LOGINMENU_L21", "új fórum üzenet");
-define("LAN_LOGINMENU_L22", "új tag");
-define("LAN_LOGINMENU_L23", "új tag");
-define("LAN_LOGINMENU_L24", "Kattints ide a listához");
-define("LAN_LOGINMENU_L25", "Utolsó látogatásod óta");
-define("LAN_LOGINMENU_L26", "nincs");
-define("LAN_LOGINMENU_L27", "és");
+define("LAN_LOGINMENU_1", "Felhasználónév: ");
+define("LAN_LOGINMENU_2", "Jelszó: ");
+define("LAN_LOGINMENU_3", "Regisztráció");
+define("LAN_LOGINMENU_4", "Elfelejtett jelszó?");
+define("LAN_LOGINMENU_5", "Üdvözlet");
+define("LAN_LOGINMENU_6", "Adatok megjegyzése");
+define("LAN_LOGINMENU_7", "Egyedi azonosító nem felismerhető (valószínűleg hibás cookie).<br /><a href=\"".e_BASE."index.php?logout\">Kattints ide</a> a cookie megsemmisítéséhez.");
+define("LAN_LOGINMENU_9", "Bejelentkezési hiba");
+define("LAN_LOGINMENU_10", "Karbantartás üzemmód bekapcsolva - A normál felhasználók csak a sitedown.php -t érhetik el. Kikapcsolható az admin részlegben");
+define("LAN_LOGINMENU_11", "Admin");
+define("LAN_LOGINMENU_13", "Profil");
+define("LAN_LOGINMENU_14", "új hír");
+define("LAN_LOGINMENU_15", "új hír");
+define("LAN_LOGINMENU_16", "új chatbox üzenet");
+define("LAN_LOGINMENU_17", "új chatbox üzenet");
+define("LAN_LOGINMENU_18", "új hozzászólás");
+define("LAN_LOGINMENU_19", "új hozzászólás");
+define("LAN_LOGINMENU_20", "új fórum üzenet");
+define("LAN_LOGINMENU_21", "új fórum üzenet");
+define("LAN_LOGINMENU_22", "új tag");
+define("LAN_LOGINMENU_23", "új tag");
+define("LAN_LOGINMENU_24", "Kattints ide a listához");
+define("LAN_LOGINMENU_25", "Utolsó látogatásod óta");
+define("LAN_LOGINMENU_26", "nincs");
+define("LAN_LOGINMENU_27", "és");
 
-define("LAN_LOGINMENU_L31", "Új hírek számának mutatása");
-define("LAN_LOGINMENU_L34", "Új hozzászólások számának mutatása");
-define("LAN_LOGINMENU_L36", "Új tagok számának mutatása");
+define("LAN_LOGINMENU_31", "Új hírek számának mutatása");
+define("LAN_LOGINMENU_34", "Új hozzászólások számának mutatása");
+define("LAN_LOGINMENU_36", "Új tagok számának mutatása");
 
-define("LAN_LOGINMENU_L39", "Admin elhagyása");
-define("LAN_LOGINMENU_L40", "Aktiváló Email Újraküldése");
-define("LAN_LOGINMENU_L41", "Login Menü Beállítások");
+define("LAN_LOGINMENU_39", "Admin elhagyása");
+define("LAN_LOGINMENU_40", "Aktiváló Email Újraküldése");
+define("LAN_LOGINMENU_41", "Login Menü Beállítások");
 
 define("LAN_LOGINMENU_37", "Mutat");
 define("LAN_LOGINMENU_38", "Login Menü - további linkek");

@@ -4,31 +4,38 @@
 // Generated for e107 v2.x by the Multi-Language Plugin
 // https://github.com/e107inc/multilan
 
-define("EMOLAN_1", "Emote aktiválás");
-define("EMOLAN_3", "Érzelem");
-define("EMOLAN_4", "Hangulatjelek aktiválni?");
-define("EMOLAN_5", "Kép");
-define("EMOLAN_6", "Emote kód");
-define("EMOLAN_7", "több bejegyzés szóközökkel");
-define("EMOLAN_11", "Hatékonnyá tesz a csomag");
-define("EMOLAN_13", "Telepített csomagok");
-define("EMOLAN_17", "Van egy hangulatjel csomag jelen szóközöket a nevet, amely nem engedélyezett!");
-define("EMOLAN_18", "Nevezze át az alább felsorolt, így már nem tartalmaznak szóközöket példányok");
+define("EMOLAN_1", "Hangulatjelek bekapcsolása");
+define("EMOLAN_3", "Hangulatjel");
+define("EMOLAN_4", "Hangulatjelek bekapcsolása?");
+
+define("EMOLAN_5", "Hangulatjel kép");
+define("EMOLAN_6", "Hangulatjel kód");
+define("EMOLAN_7", "összetett beíráshoz használj szóközt");
+
+define("EMOLAN_11", "Aktiválás");
+
+define("EMOLAN_13", "Telepített csoportok");
+
+define("EMOLAN_17", "Ha a hangulatjel csoport szóközt tartalmaz, akkor az nem lesz engedélyezve!");
+define("EMOLAN_18", "Nevezd át az alábbi listában lévőket, hogy ne tartalmazzanak szóközt");
 define("EMOLAN_20", "Hely");
-define("EMOLAN_21", "Csomag hiba");
-define("EMOLAN_22", "Új emote a található csomag");
-define("EMOLAN_23", "Új emote található xml-pack");
-define("EMOLAN_24", "Új emote php csomag található");
-define("EMOLAN_26", "Ré hang-átkutat pack");
-define("EMOLAN_27", "Hiba történt a csomag feldolgozása");
+define("EMOLAN_21", "Olvasási Hiba");
+
+define("EMOLAN_22", "Új hangulatjel csoport");
+define("EMOLAN_23", "Új hangulatjel XML csoport");
+define("EMOLAN_24", "Új hangulatjel PHP csoport");
+define("EMOLAN_26", "Csoport újraellenőrzése");
+define("EMOLAN_27", "Hiba történt a csoport feldolgozásában");
 define("EMOLAN_28", "XML létrehozása");
-define("EMOLAN_29", "Generált XML-fájl");
-define("EMOLAN_30", "Hiba az XML-fájl írása");
-define("EMOLAN_PAGE_TITLE", "Hangulatjelek");
-define("EMOLAN_31", "[X] teljes kép található");
-define("EMOLAN_32", "Kinyomoz ismeretlen Pack");
-define("EMOLAN_33", "Nem támogatott XML-fájlformátum");
-define("EMOLAN_34", "Pack a hiányzó fájlok");
-define("EMOLAN_35", "-töröl-ban adatbázis");
-define("EMOLAN_37", "Emote nincs beállítva");
-define("EMOLAN_38", "Üres emote érték");
+define("EMOLAN_29", "XML fájl létrehozva");
+define("EMOLAN_30", "Hiba az XML fájl írásakor");
+
+define("EMOLAN_PAGE_TITLE", " Hangulatjelek");
+
+define("EMOLAN_31", "Összesen [x] fájl");
+define("EMOLAN_32", "Ismeretlen csoport lett észlelve");
+define("EMOLAN_33", "Nem támogatott XML formátum");
+define("EMOLAN_34", "Hiányzó fájlok a csomagban");
+define("EMOLAN_35", " - törölve az adatbázisból");
+define("EMOLAN_37", "Hangulatjel nincs kiválasztva");
+define("EMOLAN_38", "Üres hangulatjel érték");

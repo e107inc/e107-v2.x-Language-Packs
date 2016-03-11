@@ -16,7 +16,7 @@ define("NWSLAN_10", "Нет категории новостей");
 define("SUBNEWSLAN_1", "Вы должны включить title.\\n");
 define("SUBNEWSLAN_2", "Вы должны включить текст в Новости пункт. \\n");
 define("SUBNEWSLAN_3", "Вложение должно быть либо jpg, gif или png файлов");
-define("SUBNEWSLAN_4", "Файл слишком велик");
+define("SUBNEWSLAN_4", "Файл слишком большой");
 define("SUBNEWSLAN_5", "Файл изображения");
 define("SUBNEWSLAN_6", "(jpg, gif или png)");
 define("SUBNEWSLAN_7", "Вы должны дать ваши имя и адрес электронной почты");

@@ -1,47 +1,41 @@
 <?php
-/*
-+---------------------------------------------------------------+
-|        e107 website content management system Norwegian Language File
-|        Released under the terms and conditions of the
-|        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/28 20:06:27
-|
-|        $Author: Administrador $
-+---------------------------------------------------------------+
-*/
 
-define("ADSTAT_L1", "Denne plugin'en kommer til å logge alle besøk på nettstedet og bygge detaljerte statistikkbilder basert på den innsamlede informasjonen.");
+// Bing-Translated Language file 
+// Generated for e107 v2.x by the Multi-Language Plugin
+// https://github.com/e107inc/multilan
+
+define("ADSTAT_L1", "Dette programtillegget vil logge alle besøk til nettstedet ditt, og bygge detaljert statistikken skjermer basert på informasjon.");
 define("ADSTAT_L2", "Statistikk loggeren er installert. For å aktivere, gå til skjermbildet config og klikk Aktiver.<br><b>Du må sette tillatelsene for mappen e107_plugins/log/logger til 777 (chmod 777)</b>");
-define("ADSTAT_L3", "Statistikklogging");
-define("ADSTAT_L4", "Aktiver statistikklogging");
-define("ADSTAT_L5", "Statistikktyper");
-define("ADSTAT_L6", "Weblesere");
-define("ADSTAT_L7", "Operativsystem");
-define("ADSTAT_L8", "Skjermoppløsninger / fargedybde");
-define("ADSTAT_L9", "Besøk fra land/domener");
-define("ADSTAT_L10", "Henvisninger");
-define("ADSTAT_L11", "Søkestrenger");
-define("ADSTAT_L12", "Nullstill statistikk");
+define("ADSTAT_L3", "Flygninger Logging");
+define("ADSTAT_L4", "Aktivere flygninger logging");
+define("ADSTAT_L5", "Typer");
+define("ADSTAT_L6", "Nettlesere");
+define("ADSTAT_L7", "Operativsystemer");
+define("ADSTAT_L8", "Skjermen resolutions / dypet");
+define("ADSTAT_L9", "Land/domener besøkt fra");
+define("ADSTAT_L10", "Referanser");
+define("ADSTAT_L11", "Søk");
+define("ADSTAT_L12", "Tilbakestille statistikken");
 define("ADSTAT_L13", "Dette vil slette all-time statistikk - forsiktig! Sletter statistikk til slutten av gårsdagens. Det er en egen meny for å slette valgte historikkdata");
-define("ADSTAT_L14", "Sideteller");
-define("ADSTAT_L16", "Nettstedsstatistikkinnstillinger");
-define("ADSTAT_L18", "Tillat tilgang til hovedstatistikksiden for...");
-define("ADSTAT_L19", "Nyeste besøkere");
-define("ADSTAT_L20", "Regn adminbesøk");
-define("ADSTAT_L21", "Maksimum poster å vise på statistikksiden");
-define("ADSTAT_L22", "Kjør oppdateringsrutine");
-define("ADSTAT_L23", "Logger fra en tidligere versjon av e107 er funnet, oppdater dem her");
-define("ADSTAT_L24", "Gå til oppdateringsskriptet");
-define("ADSTAT_L26", "Slett sideposter");
-define("ADSTAT_L27", "om statistikken har noen feilaktige sider kan du fjerne dem her");
-define("ADSTAT_L28", "Åpne siden");
-define("ADSTAT_L29", "Sidenavn");
-define("ADSTAT_L30", "Marker for å fjerne");
+define("ADSTAT_L14", "Antall sider");
+define("ADSTAT_L16", "Flygninger Områdeinnstillinger");
+define("ADSTAT_L18", "Gi tilgang til viktigste statistikk for å...");
+define("ADSTAT_L19", "Siste besøkende");
+define("ADSTAT_L20", "Antall admin besøk");
+define("ADSTAT_L21", "Maksimalt antall poster skal vises på statistikk side");
+define("ADSTAT_L22", "Kjør oppdatering rutine");
+define("ADSTAT_L23", "loggene fra en tidligere versjon av e107 påvist, oppdatere dem her");
+define("ADSTAT_L24", "Gå til oppdatere script");
+define("ADSTAT_L26", "Fjerne side oppføringer");
+define("ADSTAT_L27", "Hvis din begrunne har feil sider, kan du fjerne dem her");
+define("ADSTAT_L28", "Åpne side");
+define("ADSTAT_L29", "Navn");
+define("ADSTAT_L30", "Merk av for å fjerne");
 define("ADSTAT_L31", "Fjern valgte sider");
-define("ADSTAT_L32", "Rydd sider");
-define("ADSTAT_L35", "alternativ");
+define("ADSTAT_L32", "Siden ryddig");
+define("ADSTAT_L35", "Alternativer");
 define("ADSTAT_L36", "Dataeksport");
-define("ADSTAT_L38", "Du må sette filrettighetene på katalogen e107_plugins/log/logs til CHMOD 777");
+define("ADSTAT_L38", "Du må angi mappen e107_plugins/log/logger å være skrivbar");
 define("ADSTAT_L39", "Statistikk Logging funksjoner");
 define("ADSTAT_L40", "Eksportere loggdata");
 define("ADSTAT_L41", "Datovalg");
@@ -53,7 +47,7 @@ define("ADSTAT_L46", "Dato:");
 define("ADSTAT_L47", "Ugyldig dato valgt");
 define("ADSTAT_L48", "Månedlig og All-time");
 define("ADSTAT_L49", "All-time bare");
-define("ADSTAT_L50", "Ingenting");
+define("ADSTAT_L50", "Ingen");
 define("ADSTAT_L51", "Utdataene");
 define("ADSTAT_L52", "Siden Data");
 define("ADSTAT_L53", "Ingen valg er mulig");
@@ -88,6 +82,3 @@ define("ADSTAT_L82", "Følgende verdier nå satt:");
 define("ADSTAT_L83", "Etter ID loggoppføringer fjernet:");
 define("ADSTAT_L84", "");
 define("ADSTAT_L85", "");
-
-
-?>

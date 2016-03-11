@@ -1,12 +1,19 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Russian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/01/10 06:07:03
+|
+|        $Author: admin $
++---------------------------------------------------------------+
+*/
 
 define("LAN_UPDATE_2", "Действия");
 define("LAN_UPDATE_3", "Не требуется");
 define("LAN_UPDATE_4", "Обновить из [x] [y]");
+define("LAN_UPDATE_5", "Обновить ядро базы данных");
 define("LAN_UPDATE_7", "Исполнения [x]");
 define("LAN_UPDATE_12", "Одна из таблиц содержит повторяющиеся записи.");
 define("LAN_UPDATE_13", "Добавьте дополнительные/отсутствуют базовые параметры");
@@ -40,3 +47,6 @@ define("LAN_UPDATE_56", "Обновление системы");
 define("LAN_UPDATE_57", "Прежде чем продолжить, вручную удалите следующие устаревшие папки из вашей системы:");
 define("LAN_UPDATE_CAPTION_PLUGIN", "Модуль обновления");
 define("LAN_UPDATE_CAPTION_CORE", "Основные обновления");
+
+
+?>

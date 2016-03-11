@@ -1,14 +1,8 @@
 <?php
-/*
-+---------------------------------------------------------------+
-|        e107 website content management system Norwegian Language File
-|        Released under the terms and conditions of the
-|        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/28 20:06:37
-|
-|        $Author: Administrador $
-+---------------------------------------------------------------+
-*/
+
+// Bing-Translated Language file 
+// Generated for e107 v2.x by the Multi-Language Plugin
+// https://github.com/e107inc/multilan
 
 define("LAN_STAT_HELP_01", "Statistisk Logging");
 define("LAN_STAT_HELP_02", "Dette alternativet sletter historiske data fra databasen. Den påvirker ikke \'all-time\' tall.<br><br>Forsiktig! En gang fjernet, kan ikke denne informasjonen gjenopprettes. Sikkerhetskopiere og/eller eksportere dataene du behøver først.");
@@ -22,6 +16,3 @@ define("LAN_STAT_HELP_05", "<b>Aktiver statistikk Logging</b><br>Ingen logging s
 Hvis Månedlig statistikk blir samlet inn, kan du angi om bare gjeldende måned eller gjeldende måned og forrige måned, skal vises<br><br>
 <b>Tilbakestille statistikken</b><br>Tømmer valgte all-time data (til slutten av gårsdagens) til null. Slette dagens\ 's data, slette log*.php filer i mappen log/logger plugg<br><br>");
 define("LAN_STAT_HELP_06", "");
-
-
-?>

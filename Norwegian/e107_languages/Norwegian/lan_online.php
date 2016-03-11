@@ -1,64 +1,55 @@
 <?php
-/*
-+---------------------------------------------------------------+
-|        e107 website content management system Norwegian Language File
-|        Released under the terms and conditions of the
-|        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/28 19:50:51
-|
-|        $Author: Administrador $
-+---------------------------------------------------------------+
-*/
+
+// Bing-Translated Language file 
+// Generated for e107 v2.x by the Multi-Language Plugin
+// https://github.com/e107inc/multilan
 
 define("ONLINE_EL1", "Gjester:");
 define("ONLINE_EL2", "Medlemmer:");
 define("ONLINE_EL3", "På denne siden:");
-define("ONLINE_EL4", "Pålogget");
-define("ONLINE_EL5", "medlemmer");
+define("ONLINE_EL4", "Online");
+define("ONLINE_EL5", "Medlemmer");
 define("ONLINE_EL6", "Nyeste medlem");
-define("ONLINE_EL7", "ser på");
-define("ONLINE_EL8", "flest online samtidig:");
-define("ONLINE_EL9", "den");
-define("ONLINE_EL10", "Medlem");
-define("ONLINE_EL11", "Ser på siden");
-define("ONLINE_EL12", "Svarer på");
+define("ONLINE_EL7", "visning");
+define("ONLINE_EL8", "mest online:");
+define("ONLINE_EL9", "på");
+define("ONLINE_EL10", "Medlemsnavn");
+define("ONLINE_EL11", "Vise-siden");
+define("ONLINE_EL12", "Svare på");
 define("ONLINE_EL13", "Forum");
-define("ONLINE_EL14", "tråd");
-define("ONLINE_EL15", "Side");
+define("ONLINE_EL14", "Tråd");
+define("ONLINE_EL15", "Siden");
 define("ONLINE_EL16", "Informasjon ikke tilgjengelig");
-define("CLASSRESTRICTED", "Sperret side");
+define("CLASSRESTRICTED", "Klassen begrenset siden");
 define("CHAT", "Chat");
-define("DOWNLOAD", "Nedlastninger");
+define("DOWNLOAD", "Nedlastinger");
 define("EMAIL", "email.php");
-define("FORUM", "Hovedsiden for forumet");
-define("LINKS", "linker");
+define("FORUM", "Viktigste Forum Hovedsiden");
+define("LINKS", "Koblinger");
 define("NEWS", "Nyheter");
 define("OLDPOLLS", "Gamle avstemninger");
-define("POLLCOMMENT", "avstemning");
-define("PRINTPAGE", "Print");
-define("LOGIN", "Logger inn");
-define("SEARCH", "Søker");
-define("STATS", "Side statistikk");
-define("SUBMITNEWS", "Send inn nyhet");
-define("UPLOAD", "Opplastinger");
-define("USERPAGE", "Medlemsprofiler");
+define("POLLCOMMENT", "Poll");
+define("PRINTPAGE", "Skriv ut");
+define("LOGIN", "Logge på");
+define("SEARCH", "Søke");
+define("STATS", "Annonsestatistikker");
+define("SUBMITNEWS", "Sende nyheter");
+define("UPLOAD", "Laster opp");
+define("USERPAGE", "Brukerprofiler");
 define("USERSETTINGS", "Brukerinnstillinger");
-define("ONLINE", "Påloggede brukere");
-define("LISTNEW", "Liste over nyheter");
-define("USERPOSTS", "Medlems Poster");
-define("SUBCONTENT", "send innhold");
-define("TOP", "Topp postere / Mest aktive forumemner");
-define("ADMINAREA", "Admin området");
-define("BUGTRACKER", "Feilsporing");
-define("EVENT", "Liste over hendelser");
-define("CALENDAR", "Hendelseskalender");
+define("ONLINE", "Online-brukere");
+define("LISTNEW", "Nye elementer");
+define("USERPOSTS", "Brukeren innlegg");
+define("SUBCONTENT", "Sende innhold");
+define("TOP", "Toppen plakater/mest aktive tråder");
+define("ADMINAREA", "Admin område");
+define("BUGTRACKER", "Bugtracker");
+define("EVENT", "Hendelsesliste");
+define("CALENDAR", "Aktivitetskalender");
 define("FAQ", "FAQ");
-define("PM", "Private Meldinger");
+define("PM", "Private meldinger");
 define("SURVEY", "Undersøkelse");
 define("ARTICLE", "Artikkel");
-define("CONTENT", "Side");
-define("REVIEW", "Anmeldelse");
+define("CONTENT", "Innholdsside");
+define("REVIEW", "Gjennomgang");
 define("OTHER", "Andre sider:");
-
-
-?>

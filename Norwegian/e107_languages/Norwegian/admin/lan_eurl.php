@@ -4,7 +4,7 @@
 |        e107 website content management system Norwegian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/28 20:15:20
+|        Last Modified: 2016/01/31 22:31:59
 |
 |        $Author: Administrador $
 +---------------------------------------------------------------+
@@ -14,11 +14,11 @@ define("LAN_EURL_NAME", "Administrere webadresser");
 define("LAN_EURL_NAME_CONFIG", "Profiler");
 define("LAN_EURL_NAME_ALIASES", "Aliaser");
 define("LAN_EURL_NAME_SETTINGS", "Generelle innstillinger");
-define("LAN_EURL_NAME_HELP", "Hjelp");
+define("LAN_EURL_NAME_HELP", "hjelp");
 define("LAN_EURL_EMPTY", "Listen er tom");
 define("LAN_EURL_LEGEND_CONFIG", "Velg URL-profil per område");
 define("LAN_EURL_LEGEND_ALIASES", "Konfigurere Base URL aliaser per URL profil");
-define("LAN_EURL_DEFAULT", "standard");
+define("LAN_EURL_DEFAULT", "Standard");
 define("LAN_EURL_PROFILE", "Profil");
 define("LAN_EURL_INFOALT", "Info");
 define("LAN_EURL_PROFILE_INFO", "Profil info ikke tilgjengelig");
@@ -29,6 +29,8 @@ define("LAN_EURL_FORM_HELP_ALIAS_0", "Standardverdien er");
 define("LAN_EURL_FORM_HELP_ALIAS_1", "Alias i");
 define("LAN_EURL_FORM_HELP_EXAMPLE", "Basiswebadressen");
 define("LAN_EURL_ERR_ALIAS_MODULE", "Alias '%1\$s' kan ikke lagres - det er en system URL profil med samme navn. Velg en annen alias verdi for Systemprofil URL '%2\$s'");
+define("LAN_EURL_SURL_UPD", "&nbsp; SEF URLs ble oppdatert.");
+define("LAN_EURL_SURL_NUPD", " 	&nbsp; SEF URLs ble IKKE oppdatert.");
 define("LAN_EURL_SETTINGS_PATHINFO", "Fjerne filnavnet i URLen");
 define("LAN_EURL_SETTINGS_MAINMODULE", "Knytte rotnavneområdet");
 define("LAN_EURL_SETTINGS_MAINMODULE_HELP", "Velg hvilket område vil bli koblet med base Webadressen. Eksempel: Når nyheten er din rot-navneområdet http://yoursite.com/News-Item-Title knyttes nyheter (elementer visningsside blir løst)");
@@ -51,7 +53,7 @@ define("LAN_EURL_MENU", "Webadresser");
 define("LAN_EURL_MENU_CONFIG", "URL profiler");
 define("LAN_EURL_MENU_ALIASES", "Aliaser");
 define("LAN_EURL_MENU_SETTINGS", "Innstillinger");
-define("LAN_EURL_MENU_HELP", "Hjelp");
+define("LAN_EURL_MENU_HELP", "hjelp");
 define("LAN_EURL_MENU_REDIRECTS", "Omadresserer");
 define("LAN_EURL_UC", "Under bygging");
 define("LAN_EURL_CORE_MAIN", "Nettstedet rot Namespace - alias ikke er i bruk.");
@@ -66,10 +68,10 @@ define("LAN_EURL_NEWS_REWRITE_LABEL", "Adresser uten ID (ingen ytelse, mer vennl
 define("LAN_EURL_NEWS_REWRITE_DESCR", "Viser manuell link analyse og montering.");
 define("LAN_EURL_NEWS_REWRITEX_LABEL", "Adresser med ID (ytelse klok)");
 define("LAN_EURL_NEWS_REWRITEX_DESCR", "Viser automatisk kobling analyse og montering basert på forhåndsdefinerte rute regler.");
-define("LAN_EURL_CORE_USER", "brukere");
+define("LAN_EURL_CORE_USER", "Brukere");
 define("LAN_EURL_USER_REWRITE_LABEL", "Adresser");
 define("LAN_EURL_USER_REWRITE_DESCR", "Søk motor og bruker vennlig webadresser.");
-define("LAN_EURL_CORE_PAGE", "Egne sider");
+define("LAN_EURL_CORE_PAGE", "Tilpassede sider");
 define("LAN_EURL_PAGE_SEF_LABEL", "Adresser med ID (ytelse)");
 define("LAN_EURL_PAGE_SEF_DESCR", "Søk motor og bruker vennlig webadresser.");
 define("LAN_EURL_PAGE_SEFNOID_LABEL", "Adresser uten ID (ingen ytelse, mer vennlig)");
@@ -86,6 +88,7 @@ define("LAN_EURL_SYSTEM_REWRITE_LABEL", "Brukervennlig System nettadresser");
 define("LAN_EURL_SYSTEM_REWRITE_DESCR", "Nettadresser for sider som ikke finnes, tilgang, etc.");
 define("LAN_EURL_CORE_INDEX", "Forsiden");
 define("LAN_EURL_CORE_INDEX_INFO", "Foran siden kan ikke ha et alias.");
+define("LAN_EURL_REBUILD", "Gjenoppbygg");
 
 
 ?>
