@@ -6,7 +6,7 @@
 |        GNU General Public License (http://gnu.org).
 |        Last Modified: 2016/02/23 11:18:45
 |
-|        $Author: Torrentor $
+|        $Author: Yesszus $
 +---------------------------------------------------------------+
 */
 define("e_PAGETITLE", "Fórum");
