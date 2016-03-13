@@ -6,7 +6,7 @@
 |        GNU General Public License (http://gnu.org).
 |        Last Modified: 2016/02/23 11:38:44
 |
-|        $Author: Torrentor $
+|        $Author: Yesszus $
 +---------------------------------------------------------------+
 */
 define("ADSTAT_LAN_1", "A plugin minden látogatást naplózni fog, és részletes statisztikákat ad az összegyűjtött információk alapján.");
@@ -92,6 +92,4 @@ Kérjük, először mentse vagy exportálja az adatbázist.");
 define("ADSTAT_LAN_85", "[x] naplófájl található.
 Kattintson az alábbi gombra, a fájlok feldolgozásához.");
 define("ADSTAT_LAN_86", "Összes Találat");
-
-
 ?>
