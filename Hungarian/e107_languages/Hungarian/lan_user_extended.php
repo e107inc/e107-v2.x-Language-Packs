@@ -36,11 +36,11 @@ define("UE_LAN_BIRTHDAY_DESC", "Születésnap");
 define("UE_LAN_LANGUAGE", "Nyelv");
 define("UE_LAN_LANGUAGE_DESC", "Felhasználó nyelve");
 define("UE_LAN_COUNTRY", "Ország");
-define("UE_LAN_COUNTRY_DESC", "Felhasználó országa (includes db table)");
+define("UE_LAN_COUNTRY_DESC", "Felhasználó országa (db tábla hozzárendelés)");
 define("UE_LAN_TIMEZONE", "Időzóna");
-define("UE_LAN_TIMEZONE_DESC", "Felhasználó időzónája (előre definiált listából)");
+define("UE_LAN_TIMEZONE_DESC", "Felhasználó időzónája (az előre meghatározott listából)");
 
-define("LAN_UE_FAIL_HOMEPAGE", "Érvénytelen bejegyzés az főoldal beállításaihoz");
+define("LAN_UE_FAIL_HOMEPAGE", "Érvénytelen bejegyzés a főoldal beállításaihoz");
 
 define("UE_LAN_SKYPE", "Skype Cím");
 define("UE_LAN_SKYPE_DESC", "Skype Cím");
@@ -48,3 +48,4 @@ define("UE_LAN_GENDER", "Neme");
 define("UE_LAN_GENDER_DESC", "Neme");
 define("UE_LAN_MALE", "Férfi");
 define("UE_LAN_FEMALE", "Nő");
+?>
