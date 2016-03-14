@@ -11,3 +11,4 @@ define("LAN_MEMBERS_1", "Ez egy korlátozott terület.");
 define("LAN_MEMBERS_2", "A hozzáféréshez kérlek [jelentkezz be]");
 define("LAN_MEMBERS_3", "vagy [regisztrálj] egy felhasználói fiókot.");
 define("LAN_MEMBERS_4", "A főoldalra történő átirányításhoz kattints ide.");
+?>
