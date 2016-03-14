@@ -19,3 +19,4 @@ define("LAN_5", "Utolsó bejegyzés");
 define("LAN_6", "Témák");
 define("LAN_7", "Legaktívabb témák");
 define("LAN_8", "Legtöbb bejegyzést író");
+?>
