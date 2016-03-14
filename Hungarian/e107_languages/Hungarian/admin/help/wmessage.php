@@ -10,11 +10,11 @@
  *
  * $Source: /cvs_backup/e107_0.8/e107_languages/English/admin/help/wmessage.php,v $
  * $Revision$
- * $Date$
- * $Author$
+ * $ 2016.03.14 $
+ * $ Yesszus $
  */
 
 if (!defined('e107_INIT')) { exit; }
 
-$text = "This page allows you to set a message that will appear at the top of your front page all the time it's activated. You can set a different message for guests, registered/logged-in members and administrators.";
+$text = "Itt kezelhetjük a weboldalon megjelenő üdvözlő üzeneteket, amelyeket aktiválhatunk és kikapcsolhatunk. Üzeneteket jeleníthet meg a vendégek, regisztrált / bejelentkezett tagok, moderátorok és az adminok számára.";
 $ns -> tablerender("WMessage Help", $text);
