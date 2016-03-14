@@ -25,3 +25,4 @@ define("LAN_EMAIL_187", "Címzett e-mail címe");
 define("LAN_EMAIL_188", "Úgy gondolom téged érdekelne ez a hír...");
 define("LAN_EMAIL_189", "Úgy gondolom téged érdekelne ez a cikk...");
 define("LAN_EMAIL_190", "Írd be a látható kódot");
+?>
