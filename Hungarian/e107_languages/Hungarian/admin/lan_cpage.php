@@ -41,3 +41,4 @@ define("CUSLAN_75", "Hiányzó Menü-id észlelése:");
 define("CUSLAN_76", "Menü a következő útvonallal #");
 define("CUSLAN_77", "törölve");
 define("CUSLAN_78", "Nem lehet törölni a menüt ezzel az útvonallal ");
+?>
