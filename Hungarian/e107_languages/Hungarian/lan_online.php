@@ -19,7 +19,7 @@ define("ONLINE_EL12", "Válasz");
 define("ONLINE_EL13", "Fórum");
 define("ONLINE_EL14", "Téma");
 define("ONLINE_EL15", "Oldal");
-define("ONLINE_EL16", "Információ nem érhető el");
+define("ONLINE_EL16", "Nincs elérhető információ");
 
 define("CLASSRESTRICTED", "Felhasználói csoporthoz kötött oldal!");
 define("CHAT", "Társalgás");
@@ -50,7 +50,8 @@ define("CALENDAR", "Eseménynaptár");
 define("FAQ", "GYIK");
 define("PM", "Privát Üzenetek");
 define("SURVEY", "Szavazás");
-define("ARTICLE", "Cikk");
+define("ARTICLE", "Hír");
 define("CONTENT", "Tartalom oldal");
-define("REVIEW", "Leírás");
+define("REVIEW", "Ismertetés");
 define("OTHER", "Egyéb oldal: ");
+?>
