@@ -6,11 +6,11 @@
 
 define("PAGE_NAME", "Hiba");
 
-define("LAN_ERROR_1", "Hiba 401 - hozzáférés megtagadva");
+define("LAN_ERROR_1", "Hiba 401 - a hozzáférés megtagadva");
 define("LAN_ERROR_2", "Az általad kért URL-cím megtekintéséhez hitelesítési adatok megadása szükséges. Az általad megadott hitelesítési adatok érvénytelenek, vagy a böngésződ nem támogatja ezt a funkciót.");
 define("LAN_ERROR_3", "Ha úgy véled hogy az adott URL címet a weboldal hibája miatt nem sikerült elérned, úgy kérlek értesítsd az oldal adminisztrátorát.");
 
-define("LAN_ERROR_4", "Hiba 403 - hitelesítés nem sikerült");
+define("LAN_ERROR_4", "Hiba 403 - sikertelen hitelesítés");
 define("LAN_ERROR_5", "Nincs megfelelő jogosultságod az URL eléréséhez.");
 define("LAN_ERROR_6", "Ha úgy véled hogy az adott URL címet a weboldal hibája miatt nem sikerült elérned, úgy kérlek értesítsd az oldal adminisztrátorát.");
 
@@ -33,13 +33,13 @@ define("LAN_ERROR_23", "Hozzáférési kisérleted ");
 define("LAN_ERROR_24", " sikertelen volt.");
 
 define("LAN_ERROR_25", "[1]: Nem lehet kiolvasni a core beállításokat az adatbázisból - Core beállítások léteznek, de nem lehet végrehajtani. Kisérlet a core mentés visszaállítására ...");
-define("LAN_ERROR_26", "[2]: Nem lehet kiolvasni a core beállításokat az adatbázisból - nem-létező core beállítások.");
-define("LAN_ERROR_27", "[3]: Core beállítások elmentve - mentés készítés aktív.");
+define("LAN_ERROR_26", "[2]: Nem lehet kiolvasni a core beállításokat az adatbázisból - nem létező core beállítások.");
+define("LAN_ERROR_27", "[3]:A  Core beállítások elmentve - mentés készítés aktív.");
 define("LAN_ERROR_28", "[4]: Nincs core mentés. Ellenőrizd, hogy az adatbázisod rendelkezik-e tartalommal. ");
 define("LAN_ERROR_29", "[5]: Mező(k) maradtak üresen. Lépj vissza és töltsd ki a szükséges mezőket.");
-define("LAN_ERROR_30", "[6]: Nincs megfelelő kapcsolat a mySQL-hoz. Ellenőrizd az e107_config.php file-t, hogy megfelelő információkat tartalmaz-e.");
-define("LAN_ERROR_31", "[7]: mySQL fut, de az adatbázis [x] nem tud kapcsolódni hozzá.<br />Ellenőrizd az adatbázis létezését és az e107_config.php file tartalmát, hogy megfelelő információkat tartalmaz-e.");
-define("LAN_ERROR_32", "A frissítés befejezéséhez másold a következő szöveget az e107_config.php file-be:");
+define("LAN_ERROR_30", "[6]: Nincs megfelelő kapcsolat a mySQL-hoz. Ellenőrizd az e107_config.php fájlt, hogy megfelelő információkat tartalmaz-e.");
+define("LAN_ERROR_31", "[7]: mySQL fut, de az [x] adatbázis nem tud kapcsolódni hozzá.<br />Ellenőrizd az adatbázis létezését és az e107_config.php fájl tartalmát, hogy megfelelő információkat tartalmaz-e.");
+define("LAN_ERROR_32", "A frissítés befejezéséhez másold a következő szöveget az e107_config.php fájlba:");
 
 define("LAN_ERROR_33", "Folyamat hiba! Át foglak irányítani a kezdő oldalra.");
 define("LAN_ERROR_34", "Ismeretlen hiba! Informáld az oldal adminját a tapasztalt hibáról:");
@@ -56,3 +56,4 @@ define('LAN_ERROR_43', "Az oldal ideiglenesen nem elérhető");
 define('LAN_ERROR_44', "Oldal logo");
 
 define('LAN_ERROR_45', "Mit lehet most tenni?");
+?>
