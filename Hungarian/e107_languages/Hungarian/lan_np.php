@@ -15,7 +15,8 @@ define("LAN_NP_NEXT", "Következő");
 define("LAN_NP_URLNEXT", "Ugrás a következő oldalra");
 define("LAN_NP_LAST", "Utolsó");
 define("LAN_NP_URLLAST", "Ugrás az utolsó oldalra");
-define("LAN_NP_GOTO", "Ugrás az oldalra [x]");
+define("LAN_NP_GOTO", "Ugrás az [x] oldalra");
 define("LAN_NP_URLCURRENT", "Aktuális oldal");
 
-define("NP_CAPTION", "[x]. oldal, összes oldal: [y]");
+define("NP_CAPTION", "[x]. oldal. Összes oldal: [y]");
+?>
