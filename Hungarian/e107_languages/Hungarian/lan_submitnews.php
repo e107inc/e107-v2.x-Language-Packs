@@ -8,7 +8,7 @@ define("PAGE_NAME", "Hír beküldése");
 define("LAN_7", "Felhasználónév: ");
 define("LAN_112", "Email cím: ");
 define("LAN_133", "Köszönjük!");
-define("LAN_134", "A beküldött hírt rögzítettük. Amint tudjuk ellenõrizzük.");
+define("LAN_134", "A beküldött hírt rögzítettük. Amint tudjuk ellenőrizzük.");
 define("LAN_135", "Hír: ");
 define("LAN_136", "Hír beküldése");
 define("NWSLAN_6", "Kategória");
@@ -22,3 +22,4 @@ define("SUBNEWSLAN_5", "Képfájl");
 define("SUBNEWSLAN_6", "(jpg, gif vagy png)");
 define("SUBNEWSLAN_7", "Meg kell adnod a nevedet és email címedet");
 define("SUBNEWSLAN_8", "Kép feltöltési hiba");
+?>
