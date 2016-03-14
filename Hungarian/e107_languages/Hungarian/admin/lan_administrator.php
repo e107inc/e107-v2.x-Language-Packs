@@ -4,7 +4,7 @@
 // Generated for e107 v2.x by the Multi-Language Plugin
 // https://github.com/e107inc/multilan
 
-define("ADMSLAN_6", "fő adminisztrátor, nem lehet törölni.");
+define("ADMSLAN_6", " főadminisztrátort nem lehet törölni!");
 
 define("ADMSLAN_13", "Adminisztrátorok");
 
@@ -20,7 +20,7 @@ define("ADMSLAN_52", "Adminisztrátor frissítése");
 
 define("ADMSLAN_56", "Adminisztrátor");
 
-define("ADMSLAN_58", "Fő Adminisztrátor");
+define("ADMSLAN_58", "Főadminisztrátor");
 define("ADMSLAN_59", "Admin állapot törlése");
 
 define("ADMSLAN_61", "Adminisztrátor törölve");
@@ -33,3 +33,4 @@ define("ADMSLAN_72", "Adminisztrátor ID: --ID-- név: --NAME-- új jogosultság
 define("ADMSLAN_73", "Adminisztrátor ID: --ID-- név: --NAME--");
 
 define("ADMSLAN_74", "Általános");
+?>
