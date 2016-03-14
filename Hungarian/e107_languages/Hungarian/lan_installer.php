@@ -6,7 +6,7 @@
 |        GNU General Public License (http://gnu.org).
 |        Last Modified: 2016/02/22 13:26:40
 |
-|        $Author: Torrentor $
+|        $Author: Yesszus $
 +---------------------------------------------------------------+
 */
 define("LANINS_001", "Az e107 telepítése");
