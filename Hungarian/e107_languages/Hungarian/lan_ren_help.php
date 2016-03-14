@@ -65,3 +65,4 @@ define("LANHELP_51", "HTML sortörés tiltása: [nobr]szöveg[/nobr]");
 define("LANHELP_52", "HTML sortörés: [br]");
 define("LANHELP_53", "Sorkizárt: [justify]A szöveg sorkizárt lesz[/justify]");
 define("LANHELP_54", "HTML blokk (div tag): [block]A Tartalom, szöveg[/block]");
+?>
