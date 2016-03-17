@@ -28,7 +28,7 @@ define("LAN_ERROR_18", "Úgy tűnik, innen kerültél ide:");
 define("LAN_ERROR_19", "Sajnos ez a cím már régi, elavult, vagy egyszerűen csak hibás");
 define("LAN_ERROR_20", "A főoldalra való átirányításhoz kérlek kattints ide");
 define("LAN_ERROR_21", "A keresett URL-hez tartozó tartalom nem található. Lehet, hogy az általad használt link elavult.");
-define("LAN_ERROR_22", "A főoldalra való átirányításhoz kérlek kattints ide");
+define("LAN_ERROR_22", "Az oldalon történő kereséshez kattints ide");
 define("LAN_ERROR_23", "Hozzáférési kisérleted ");
 define("LAN_ERROR_24", " sikertelen volt.");
 
