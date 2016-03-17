@@ -215,8 +215,8 @@ define("LAN_AL_EUF_12", "Bővített felhasználó mező deaktiválva");
 
 define("LAN_AL_MENU_01", "Menü aktiválva");
 define("LAN_AL_MENU_02", "Menü - megjelenítés beállítás");
-define("LAN_AL_MENU_03", "Menü - változás terület");
-define("LAN_AL_MENU_04", "Menü deaktiválva");
+define("LAN_AL_MENU_03", "Menü - terület változtatás ");
+define("LAN_AL_MENU_04", "Menü deaktiválás");
 define("LAN_AL_MENU_05", "Menü - mozgatás a tetejére");
 define("LAN_AL_MENU_06", "Menü - mozgatás az aljára");
 define("LAN_AL_MENU_07", "Menü - mozgatás fel");
@@ -228,7 +228,7 @@ define("LAN_AL_UPLOAD_02", "Feltöltés beállítások megváltoztatva");
 
 define("LAN_AL_SEARCH_01", "Keresés beállítások frissítve");
 define("LAN_AL_SEARCH_02", "Keresés beállítások frissítve");
-define("LAN_AL_SEARCH_03", "Keresés paraméterek autómatikus frissítése");
+define("LAN_AL_SEARCH_03", "Keresés paraméterek automatikus frissítése");
 define("LAN_AL_SEARCH_04", "Kereshető területek frissítve");
 define("LAN_AL_SEARCH_05", "Keresés kezelő beállítások frissítve");
 define("LAN_AL_SEARCH_06", "");
@@ -285,3 +285,4 @@ define("LAN_AL_ADMINUI_03", "Admin-UI DB Tábla törlése: [x]");
 define("LAN_AL_ADMINUI_04", "Admin-UI DB Hiba: [x]");
 
 define("LAN_AL_BACKUP", "Adatbázis mentés");
+?>
