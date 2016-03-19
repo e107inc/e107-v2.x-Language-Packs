@@ -17,24 +17,24 @@ define("EPL_ADLAN_9", "SQL parancsok sikertelenek. Ellenőrizd, hogy minden fris
 define("EPL_ADLAN_10", "Név");
 define("EPL_ADLAN_11", "Verzió");
 define("EPL_ADLAN_13", "Kompatibilis");
-define("EPL_ADLAN_14", "Leírás");
+define("EPL_ADLAN_14", "Ismertetés");
 define("EPL_ADLAN_15", "Olvasd el README fájlt bővebb információkért");
 define("EPL_ADLAN_16", "Bővítmény részletezése");
-define("EPL_ADLAN_17", "További info...");
-define("EPL_ADLAN_18", "Adatbázis táblák létrehozása sikertelen.");
-define("EPL_ADLAN_19", "Adatbázis sikeresen létrehozva.");
+define("EPL_ADLAN_17", "További infó...");
+define("EPL_ADLAN_18", "Sikertelen adatbázis táblák létrehozása!");
+define("EPL_ADLAN_19", "Az adatbázis sikeresen létrehozva!");
 
 define("EPL_ADLAN_21", "A bővítmény már telepítve van.");
 define("EPL_ADLAN_22", "Telepítve");
 define("EPL_ADLAN_23", "Nincs telepítve");
 define("EPL_ADLAN_24", "Frissítés elérhető");
-define("EPL_ADLAN_25", "Telepítés nem szükséges");
+define("EPL_ADLAN_25", "Nem szükséges telepíteni");
 define("EPL_ADLAN_26", "... majd kattints ide az eltávolítási folyamat megkezdéséhez");
 define("EPL_ADLAN_27", "Sikertelen eltávolítás ");
-define("EPL_ADLAN_28", "Adatbázis táblák sikeresen törölve.");
-define("EPL_ADLAN_29", "Beállítások sikeresen eltávolítva.");
+define("EPL_ADLAN_28", "Az adatbázis táblák sikeresen törölve.");
+define("EPL_ADLAN_29", "A beállítások sikeresen eltávolítva.");
 define("EPL_ADLAN_30", "töröld manuálisan.");
-define("EPL_ADLAN_31", "Töröld a könyvtárt ");
+define("EPL_ADLAN_31", "Töröld a könyvtárat ");
 define("EPL_ADLAN_32", "és az összes benne lévő fájlt az eltávolítás befejezéséhez.");
 define("EPL_ADLAN_33", "A bővítmény sikeresen telepítve.");
 define("EPL_ADLAN_34", "A bővítmény sikeresen frissítve.");
@@ -43,17 +43,17 @@ define("EPL_ADLAN_36", "Értelmező kód beillesztése sikertelen, hibás formá
 
 define("EPL_ADLAN_37", "Bővítmény feltöltése (.zip formátum)");
 define("EPL_ADLAN_38", "Bővítmény feltöltése");
-define("EPL_ADLAN_39", "A file nem tölthető fel, mert a ".e_PLUGIN." könyvtár nem írható - adj rá írási jogot (CHMOD 777) és töltsd fel újra.");
+define("EPL_ADLAN_39", "A fájl nem tölthető fel, mert a ".e_PLUGIN." könyvtár nem írható - adj rá írási jogot (CHMOD 777) és töltsd fel újra.");
 define("EPL_ADLAN_40", "Admin üzenet");
-define("EPL_ADLAN_41", "A file nem tűnik ténylegesen .zip vagy .tar archívnak.");
-define("EPL_ADLAN_42", "Hiba: a file kicsomagolása nem sikerült");
+define("EPL_ADLAN_41", "A fájl nem tűnik ténylegesen .zip vagy .tar archívnak.");
+define("EPL_ADLAN_42", "Hiba: a fájl kicsomagolása nem sikerült");
 define("EPL_ADLAN_43", "A bővítmény feltöltése sikerült. Megtalálhatod azon bővítmények között, melyek még nem lettek telepítve.");
 define("EPL_ADLAN_44", "Az automatikus bővítmény-feltöltés és -kicsomagolás nem lehetséges, mert a(z) ".e_PLUGIN." könyvtár nem írható - adj rá írási jogot (CHMOD 777).");
 define("EPL_ADLAN_45", "A menü feltöltve és kicsomagolva, az aktiváláshoz lépj a <a href='".e_ADMIN."menu.php'>Menük oldalra</a>.");
 define("EPL_ADLAN_46", "PCLZIP kicsomagolási hiba:");
 define("EPL_ADLAN_47", "PCLTAR kicsomagolási hiba: ");
 define("EPL_ADLAN_48", "kód:");
-define('EPL_ADLAN_49', "Táblák nem lettek törölve az eltávolítás folyamatában");
+define('EPL_ADLAN_49', "A táblák nem lettek törölve az eltávolítás folyamatában");
 
 define("EPL_WEBSITE", "Weboldal");
 define("EPL_NOINSTALL", "Nincs szükség telepítésre, csak aktiváld a a menükezelő területről. Az eltávolításhoz töröld a ");
@@ -63,14 +63,14 @@ define("EPL_UPGRADE", "Frissítése");
 
 define("EPL_ADLAN_50", "Hozzászólások sikeresen törölve");
 
-define("EPL_ADLAN_53", "Könyvtár nem írható");
-define("EPL_ADLAN_54", "Kérlek válaszd ki, hogy hogyan szeretnéd a bővítményt eltávolítani:");
+define("EPL_ADLAN_53", "A könyvtár nem írható");
+define("EPL_ADLAN_54", "Kérlek válaszd ki, hogy hogyan szeretnéd eltávolítani a bővítményt: ");
 define("EPL_ADLAN_55", "Bővítmény eltávolítása");
 
 define("EPL_ADLAN_57", "Bővítmény táblák törlése");
-define("EPL_ADLAN_58", "Ha a táblák nem kerülnek törlésre, a bővítményt újra tudod telepíteni adatvesztés nélkül.  Az újratelepítés során a táblák létrehozása hibát fog jelezni. A törléshez manuálisan kell eltávolítani.");
-define("EPL_ADLAN_59", "Bővítmény fájljainak törlése");
-define("EPL_ADLAN_60", "e107 megkisérli az összes, a bővítményhez kapcsolódó fájl törlését.");
+define("EPL_ADLAN_58", "Ha a táblák nem kerülnek törlésre, a bővítményt újra tudod telepíteni adatvesztés nélkül. Az újratelepítés során a táblák létrehozása hibát fog jelezni. A törléshez manuálisan kell eltávolítani.");
+define("EPL_ADLAN_59", "A bővítmény fájljainak törlése");
+define("EPL_ADLAN_60", "Az e107 megkisérli az összes, a bővítményhez kapcsolódó fájl törlését.");
 define('EPL_ADLAN_62', "Kilépés");
 define('EPL_ADLAN_63', "Törlés:");
 define('EPL_ADLAN_64', "Könyvtár");
@@ -88,10 +88,10 @@ define ('EPL_ADLAN_80',"A bővítmény által létrehozott bővített felhaszná
 define ('EPL_ADLAN_81',"Xhtml (Extensible HyperText Markup Language)");
 define ('EPL_ADLAN_82',"Ikon");
 define ('EPL_ADLAN_83',"Megjegyzés");
-define ('EPL_ADLAN_84',"Kiválasztott telepítés");
-define ('EPL_ADLAN_85',"Kiválasztott eltávolítás");
-define ('EPL_ADLAN_86',"Az össze fájl törölve innen ");
-define ('EPL_ADLAN_87',"Fájl törlése sikertelen ");
+define ('EPL_ADLAN_84',"A kiválasztott telepítése");
+define ('EPL_ADLAN_85',"A kiválasztott eltávolítása");
+define ('EPL_ADLAN_86',"Az összes fájl törölve innen ");
+define ('EPL_ADLAN_87',"Sikertelen fájl törlés ");
 
 define ('EPL_ADLAN_88',"v2 részére");
 define ('EPL_ADLAN_89',"Online keresés");
@@ -107,10 +107,10 @@ define ('EPL_ADLAN_98',"Ismeretlen fájl:");
 define ('EPL_ADLAN_99',"Hiba üzenet a sor felett");
 define ('EPL_ADLAN_100',"katt ide a telepítéshez");
 define ('EPL_ADLAN_101',"Nincs telepített bővítmény - [x].");
-define ('EPL_ADLAN_102',"Ez a vrázsló létrehoz egy admin felületet a bővítmény részére és legenerál egy plugin.xml meta fájlt. Mielőtt indítod:");
+define ('EPL_ADLAN_102',"Ez a varázsló létrehoz egy admin felületet a bővítmény részére és legenerál egy plugin.xml meta fájlt. Mielőtt indítod:");
 define ('EPL_ADLAN_103',"Hozz létre egy új írható könyvtárat a [x] könyvtárban Pl.: [b]myplugin[/b]");
 define ('EPL_ADLAN_104',"Ha a bővítmény használni fogja a SQL táblákat, hozz létre egy új fájlt ebben a könyvtárban és nevezd el ugyanarra a névre, mint a könyvtár neve, de  [b]_sql.php[/b] mint egy sufix PL.: [b]myplugin_sql.php[/b]");
-define ('EPL_ADLAN_105',"Hozd létre a táblát a phpMyAdmin felületen és másolj bele az ő sql dump-ját és mentsd el. (látsd [i]e107_plugins/_blank/_blank_sql.php[/i] példaként)");
+define ('EPL_ADLAN_105',"Hozd létre a táblát a phpMyAdmin felületen és másold be az sql dump-ját és mentsd el. (látsd [i]e107_plugins/_blank/_blank_sql.php[/i] példaként)");
 define ('EPL_ADLAN_106',"Bővítmény könyvtárának kiválasztása a kezdéshez.");
 define ('EPL_ADLAN_107',"Admin terület és xml fájl felépítése ehhez:");
 define ('EPL_ADLAN_108',"Nyelvi fájlok ellenőrzése:");
@@ -143,15 +143,15 @@ define ('EPL_ADLAN_133',"[x] hiányzik!");
 define ('EPL_ADLAN_134',"Hozd létre a [b][x][/b] a bővítmény könyvtárában a következő tartalommal: [y]");
 define ('EPL_ADLAN_135',"A bővítmény neve. (Angol nyelven szükséges írni)");
 define ('EPL_ADLAN_136',"Ha rendelkezel nyelvi fájllal, írd be a LAN_XXX értket a bővítmény nevéhez");
-define ('EPL_ADLAN_137',"Bővítmény létrehozásának ideje");
+define ('EPL_ADLAN_137',"A bővítmény létrehozásának ideje");
 define ('EPL_ADLAN_138',"Bővítmény verziója. Formátum: x.x");
 define ('EPL_ADLAN_139',"Kompatibilitás az e107 ezen verziójával");
 define ('EPL_ADLAN_140',"Szerző neve");
 define ('EPL_ADLAN_141',"Szerző weboldalának URL-je");
-define ('EPL_ADLAN_142',"Egy rövid egysoros leírás");
+define ('EPL_ADLAN_142',"Egy rövid egysoros ismertetés");
 define ('EPL_ADLAN_143',"(Angol nyelven szükséges írni)");
 define ('EPL_ADLAN_144',"Kulcsszavak megadása a bővítményhez");
-define ('EPL_ADLAN_145',"A bővítmény részletes leírása");
+define ('EPL_ADLAN_145',"A bővítmény részletes ismertetése");
 define ('EPL_ADLAN_146',"Bővítmény kategóriába sorolása");
 
 define ('EPL_ADLAN_147',"beállítások");
@@ -163,10 +163,10 @@ define ('EPL_ADLAN_152',"egyéb");
 define ('EPL_ADLAN_153',"menü");
 define ('EPL_ADLAN_154',"róla");
 
-define ('EPL_ADLAN_155',"Mentés sikeres:");
-define ('EPL_ADLAN_156',"Mentés sikertelen:");
+define ('EPL_ADLAN_155',"Sikeres mentés:");
+define ('EPL_ADLAN_156',"Sikertelen mentés:");
 
-define ('EPL_ADLAN_157',"Fő terület");
+define ('EPL_ADLAN_157',"Főterület");
 define ('EPL_ADLAN_158',"Kategóriák");
 define ('EPL_ADLAN_159',"Egyéb 1");
 define ('EPL_ADLAN_160',"Egyéb 2");
@@ -234,7 +234,7 @@ define ('EPL_ADLAN_215',"Rejtett");
 define ('EPL_ADLAN_216',"Katt ide");
 define ('EPL_ADLAN_217',"[x] a legenerált admin terület meglátogatásához");
 define ('EPL_ADLAN_218',"Nem lehet írni ide [x]");
-define ('EPL_ADLAN_219',"Nem lettek fájlok létrehozva. Másold &amp; Illszd be a kódot lentebb a fájlokba.");
+define ('EPL_ADLAN_219',"A fájlok nem lettek létrehozva! Másold ki és illeszd be a kódot a lenti fájlokba.");
 
 define ('EPL_ADLAN_220',"Bővítmény keresése");
 define ('EPL_ADLAN_221',"Nyelvi fájl ellenőrzése");
@@ -250,6 +250,7 @@ define ('EPL_ADLAN_227',"Változások ellenőrzése");
 define ('EPL_ADLAN_228',"A bővítmények könyvtárának ellenőrzése minden [x]. percben megtörténik. Kattinst az alábbi gombra az azonnali ellenőrzéshez.");
 define ('EPL_ADLAN_229',"Frissítés");
 
-define('LAN_UPGRADE_SUCCESSFUL', "Frissítés sikeres");
-define('LAN_INSTALL_SUCCESSFUL', "Telepítés sikeres");
-define('LAN_INSTALL_FAIL', "Telepítés sikertelen");
+define('LAN_UPGRADE_SUCCESSFUL', "Sikeres frissítés");
+define('LAN_INSTALL_SUCCESSFUL', "Sikeres telepítés");
+define('LAN_INSTALL_FAIL', "Sikertelen telepítés");
+?>
