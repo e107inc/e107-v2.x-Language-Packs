@@ -36,13 +36,13 @@ define("CORE_LAN_MB", "MB");
 define("CORE_LAN_GB", "GB");
 define("CORE_LAN_TB", "TB");
 define("EMESSLAN_TITLE_INFO", "Systeem Informatie");
-define("EMESSLAN_TITLE_ERROR", "Error"); 
+define("EMESSLAN_TITLE_ERROR", "Fout"); 
 define("EMESSLAN_TITLE_SUCCESS", "Succes");
 define("EMESSLAN_TITLE_WARNING", "Waarschuwing");
 define("EMESSLAN_TITLE_DEBUG", "Systeem Debug");
 define("LAN_EDIT","Bewerk");
 define("LAN_DELETE","Verwijder");
-define("LAN_DEFAULT","Default");
+define("LAN_DEFAULT","Standaard");
 define("LAN_MORE", "Meer..");
 define("LAN_READ_MORE", "Lees meer..");
 define("LAN_GOPAGE", "Ga naar pagina");
@@ -73,6 +73,7 @@ define("LAN_SHARE", "Delen");
 define("LAN_BACK", "Terug");
 define("LAN_NAME", "Naam");
 define("LAN_CANCEL","Annuleer");
+define("LAN_DESCRIPTION", "Beschrijving");
 define("LAN_DATE","Datum");
 define("LAN_DATE_POSTED", "Datum geplaatst");
 define("LAN_JSCONFIRM","Ben je er zeker van?");
@@ -88,7 +89,6 @@ define("LAN_SETTINGS", "Instellingen");
 define("LAN_PASSWORD", "Wachtwoord");
 define("LAN_TYPE", "Type");
 define("LAN_SCREENSHOT", "Schermafdruk");
-define("LAN_DESCRIPTION", "Beschrijving");
 define("LAN_FILE", "Bestand");
 define("LAN_FILETYPES", "Bestandstypes");
 define("LAN_FILE_NOT_FOUND", "Bestand niet gevonden");
@@ -106,10 +106,16 @@ define("LAN_TITLE", "Titel");
 define("LAN_USER", "Gebruiker");
 define("LAN_EMAIL","E-mail adres");
 define("LAN_WROTE", "schreef"); // as in John wrote.."  ";
-define("LAN_SEARCH", "Zoeken");
+//define("LAN_SEARCH", "Zoeken");
 define("LAN_RE_ORDER", "Rangschikken");
+define("LAN_RELATED", "Gerelateerd");
 
 define("LAN_ENTER_USRNAME_EMAIL", "Vul je gebruikersnaam of email adres in"); 
 define("LAN_PWD_REQUIRED", "Wachtwoord is verplicht");
+define("LAN_SHOW", "Toon");
+define("LAN_GENERATE", "Genereer");
+define("LAN_SUMMARY", "Samenvatting");  // TODO   more files use summary replace
+
+
  
 ?>

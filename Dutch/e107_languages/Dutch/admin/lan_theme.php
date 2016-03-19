@@ -73,10 +73,44 @@ define("TPVLAN_55", "Standaard");
 define("TPVLAN_56", "Zichtbaarheid Filter"); 
 define("TPVLAN_57", "Compatibiliteit");
 
-define("TPVLAN_58", "Dit theme gebruikt reeds voor-geinstalleerde voorbeeldsinhoud (zoals pagina's en menu's) die mogelijk bruikbaar kunnen zijn op je website.");
-define("TPVLAN_59", "(Opletten!) Bedenk echter wel dat de voorbeeldsinhoud je huidige eigen inhoud zal [b]overschrijven[/b] met het volgende");
+define("TPVLAN_58", "Dit theme gebruikt reeds voor-geinstalleerde voorbeelds-inhoud (zoals pagina's en menu's) die mogelijk bruikbaar kunnen zijn op je website.");
+define("TPVLAN_59", "(Opletten!) Bedenk echter wel dat de voorbeelds-inhoud je huidige eigen inhoud zal [b]overschrijven[/b] met het volgende");
 define("TPVLAN_60", "[x] invoerrecord(s) in jouw [y] tabel");
-define("TPVLAN_61", "Wens je de huidge inhoud te [b]vervangen[/b] met de voorbeelds-inhoud van het door het theme aangeleverd materiaal?");
+define("TPVLAN_61", "Wens je de huidige inhoud te [b]vervangen[/b] met de voorbeelds-inhoud van het door het theme aangeleverd materiaal?");
+define("TPVLAN_62", "Vind Themes");
+define("TPVLAN_63", "Converteer");
+
+define("TPVLAN_64", "Deze hulpmodus zal een theme.xml meta bestand aanmaken voor jouw theme.");
+define("TPVLAN_65", "Voordat je begint : ");
+define("TPVLAN_66", "Overtuig je er van dat je theme's directorie beschrijfbaar is");
+define("TPVLAN_67", "Selecteer je theme map om te beginnen.");
+define("TPVLAN_68", "Selecteer je theme map");
+define("TPVLAN_69", "Beschikbaar voor Download");
+define("TPVLAN_70", "Voorbeeldweergave/Live-demo : ");
+define("TPVLAN_71", "Niet gespecificeerd");
+define("TPVLAN_72", "Stel paginas in welke automatisch gebruik maken van deze layout. Eén per regel.");
+define("TPVLAN_73", "Activeer Menus");
+define("TPVLAN_74", "Activeert de volgende:");
+
+
+//xmlinput conert + messages
+define("TPVLAN_CONV_1", "Stap 1");
+define("TPVLAN_CONV_2", "Stap 2");
+define("TPVLAN_CONV_3", "De naam van jouw theme (Dient in Engels te worden geschreven)");
+define("TPVLAN_CONV_4", "Als je een taalbestand hebt, gebruik dan LAN_XXX waarde voor de theme naam");
+define("TPVLAN_CONV_5", "Versienummer van jouw theme. Formaat : x.x");
+define("TPVLAN_CONV_6", "Aanmaakdatum van jouw theme");
+define("TPVLAN_CONV_7", "Compatibel met deze versie van e107");
+define("TPVLAN_CONV_8", "Naam Auteur");
+define("TPVLAN_CONV_9", "Auteur Website Url");
+define("TPVLAN_CONV_10", "Een korte omschrijving van het theme. (!@#$%^&* karakters niet toegestaan)(Dient in Engels geschreven)");
+define("TPVLAN_CONV_11", "Trefwoord/Tag voor dit theme (Dient in Engels geschreven)");
+define("TPVLAN_CONV_12", "Een volledige omschrijving van het theme (Dient in Engels geschreven)");
+define("TPVLAN_CONV_13", "Tot welke theme categorie behoort dit ?");
+define("TPVLAN_CONV_14", "Vink aan voor activatie van dit stylesheet als een kiesbare optie in Theme Manager.");
+define("TPVLAN_CONV_15", "Geef dit stylesheet een naam");
+
+
 
 
 ?>

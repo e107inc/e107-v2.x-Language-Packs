@@ -24,7 +24,7 @@ define("LAN_EMAIL_8",   "Reacties");
 define("LAN_EMAIL_9",   "Sorry - kan de e-mail niet versturen");
 define("LAN_EMAIL_10",  "e-mail verstuurd aan");
 define("LAN_EMAIL_11",  "e-mail verstuurd");
-define("LAN_EMAIL_12",  "Fout");
+//define("LAN_EMAIL_12",  "Fout");
 define("LAN_EMAIL_13",  "e-mail artikel aan een vriend");
 define("LAN_EMAIL_14",  "e-mail nieuwsbericht aan een vriend");
 define("LAN_EMAIL_15",  "Gebruikersnaam: ");

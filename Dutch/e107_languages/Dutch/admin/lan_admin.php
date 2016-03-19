@@ -245,7 +245,7 @@ define("LAN_USERCLASS", "Gebruikersklasse");
 
 define("LAN_HELP", "Help");
 define("LAN_CUSTOM", "Custom instellingen");
-define("LAN_MENULAYOUT", "Menu Layout");
+define("LAN_MENULAYOUT", "Menu Indeling"); //layout
 define("LAN_MEDIAMANAGER", "Media Manager");
 
 define("LAN_MOREINFO","Meer Informatie...");
@@ -258,7 +258,8 @@ define("LAN_STATUS", 	"Status");
 define("LAN_URL", 		"URL");
 
 define("LAN_OWNER", 	"Eigenaar");
-
+define("LAN_PURCHASE", "Koop ");
+define("LAN_DOWN_THEME", "Downloaden van");
 
 define("LAN_ID", 		"ID");
 
@@ -314,7 +315,7 @@ define("LAN_UI_403_TITLE_ERROR", 	"Toegang geweigerd");
 define("LAN_UI_FORM_METHOD_ERROR", 	"FATALE FOUT: De veldnaam [x] is niet toegestaan. Hernoem de sleutel [x] naar iets anders in je field array en database tabel (wanneer nodig).");
 
 define("LAN_UI_BATCH_UPDATE_SUCCESS", 	"[x] ingesteld voor [y] record(s).");
-define("LAN_UI_BATCH_REVERSED_SUCCESS", "[x] records succesvol tereggezet.");
+define("LAN_UI_BATCH_REVERSED_SUCCESS", "[x] records succesvol teruggezet.");
 define("LAN_UI_BATCH_BOOL_SUCCESS", 	"[x] records succesvol bijgewerkt.");
 define("LAN_UI_BATCH_DEATTACH_SUCCESS", "[x] verwijderd van [y] record(s).");
 
@@ -334,8 +335,15 @@ define("LAN_USER_QUICKADD",		"Lid snel toevoegen");
 define("LAN_USER_PRUNE", 		"Leden opschonen");
 define("LAN_USER_OPTIONS", 		"Leden opties");
 define("LAN_USER_RANKS", 		"Ledenstatus");
+define("LAN_GENERAL", "Algemeen");
+define("LAN_GEN_PW", "Genereer een w.w.");
+define("LAN_DISPL_PW", "Toon het w.w.");
 
-
-
+define("LAN_WILL_OVERWRITE_SEF", "Dit zal de bestaande SEF URL overschrijven.");
+define("LAN_CAPTION", "Titel");
+define("LAN_LIMIT", "Limiet");
+define("LAN_CONTROL_PANEL", "[x]'s Beheer Paneel");
+define("LAN_CUSTOM_URL", "Maatwerk URL");
+define("LAN_CUSTOM_URL_DISABLED", "Uitgeschakelde of maatwerk URL invoeren");
 // TODO - move e_form related LANS below, add new lan_form.php file (for both front/back-end)
 

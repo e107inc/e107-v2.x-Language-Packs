@@ -29,6 +29,7 @@ define("FRTLAN_53", "Gebruikers klasse");
 define("FRTLAN_PAGE_TITLE", "Startpagina");
 define("FRTLAN_56", "dupliceren definitie voor de klasse:");
 define("FRTLAN_57", "Software fout");
-define("FRTLAN_60", "Voorzijde");
+//define("FRTLAN_60", "Voorzijde");
+define("FRTLAN_61", "Maak keuze");
 
 ?>

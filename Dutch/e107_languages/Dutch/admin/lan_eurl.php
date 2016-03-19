@@ -34,6 +34,8 @@ define("LAN_EURL_FORM_HELP_ALIAS_1", "Alias wanneer in");
 define("LAN_EURL_FORM_HELP_EXAMPLE", "Basis URL");
 
 define("LAN_EURL_ERR_ALIAS_MODULE", "Alias '%1\$s' kan niet bewaard worden - er bestaat een systeem URL met een gelijke naam. Kies een andere alias waarde voor systeem URL profiel '%2\$s' ");
+define("LAN_EURL_SURL_UPD",    "&nbsp; SEF URLs werden geupdated.");
+define("LAN_EURL_SURL_NUPD",    "&nbsp; SEF URLs werden NIET geupdated.");
 
 define("LAN_EURL_SETTINGS_PATHINFO", "Verwijder bestandsnaam van de URL");
 define("LAN_EURL_SETTINGS_MAINMODULE", "Associëren Root naamruimte");
@@ -58,14 +60,17 @@ define("LAN_EURL_MODREWR_DESCR", "Verwijdert ingaande script bestandsnaam (index
 
 
 define("LAN_EURL_MENU", "Site URL's");
-define("LAN_EURL_MENU_CONFIG", "URL profielen");
-define("LAN_EURL_MENU_ALIASES", "Aliasen");
+//define("LAN_EURL_MENU_CONFIG", "URL profielen");
+//define("LAN_EURL_MENU_ALIASES", "Aliassen");
+define("LAN_EURL_MENU_CONFIG", "Configuraties");
+define("LAN_EURL_MENU_ALIASES", "Profiel Aliassen");
 define("LAN_EURL_MENU_SETTINGS", "Instellingen");
 define("LAN_EURL_MENU_HELP", "Help");
-define("LAN_EURL_MENU_REDIRECTS", "Verwijzingen");
+//define("LAN_EURL_MENU_REDIRECTS", "Verwijzingen");
+define("LAN_EURL_MENU_PROFILES", "Profielen");
 define("LAN_EURL_UC", "In voorbereiding");
 define("LAN_EURL_CORE_MAIN", "Naamsruimte Site oorsprong - alias niet in gebruik");
-
+define("LAN_EURL_REBUILD",    "Herbouwen");
 define("LAN_EURL_DEFAULT",    "Default");
 define("LAN_EURL_FRIENDLY", "Vriendelijk");
 define("LAN_EURL_LEGACY", "Oudere  directe URL");

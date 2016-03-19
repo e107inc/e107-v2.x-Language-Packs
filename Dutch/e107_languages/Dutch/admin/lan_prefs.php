@@ -61,10 +61,10 @@ define("PRFLAN_58", "Beperk de toegang tot deze website uitsluitend tot de leden
 define("PRFLAN_59", "aanzetten beperkt de toegang tot deze site, met uitzondering tot de hoofdpagina en de aanmeldfunctie, uitsluitend tot leden");
 define("PRFLAN_60", "Activeren SSL");
 define("PRFLAN_61", "activeer SSL alleen <b>als je zeker weet wat je doet!</b>");
-define("PRFLAN_76", "Activeren Image-code verificatie bij aanmelding.");
+define("PRFLAN_76", "Activeren afbeelding-code verificatie bij aanmelding.");
 define("PRFLAN_77", "Beheerpagina");
 define("PRFLAN_78", "niet invullen om niet te gebruiken");
-define("PRFLAN_81", "Activeren Image-code verificatie bij aanloggen.");
+define("PRFLAN_81", "Activeren afbeelding-code verificatie bij aanloggen.");
 define("PRFLAN_83", "voorbeeld");
 define("PRFLAN_87", "Reacties");
 define("PRFLAN_88", "Klik hier om de geneste reacties te zien");
@@ -111,9 +111,9 @@ define("PRFLAN_118", "Gebruik Geshi voor syntax markering");
 define("PRFLAN_119", "Geshi is een open source multi-language syntax markeerfunctie, bezoek [http://qbnz.com/highlighter/] voor meer informatie");
 define("PRFLAN_120", "Standaard Geshi syntax taal");
 define("PRFLAN_121", "als er geen taal is opgegeven in de code bbtag, wordt deze taal gebruikt voor markering");
-define("PRFLAN_122", "Activeren WYSIWYG textareas");
+define("PRFLAN_122", "Activeren WYSIWYG tekstvelden");
 define("PRFLAN_123", "toont alles in de what-you-see-is-what-you-get tekstverwerker in tekstgebieden als die beschikbaar zijn.");
-define("PRFLAN_124", "Gebruik de 'klassieke' vorig-volgend uiterlijk");
+define("PRFLAN_124", "Gebruik 'klassieke' vorig-volgend uiterlijk");
 define("PRFLAN_125", "dit stelt de vorige-volgende pagina´s in als 1 2 3 ... 21 22 23, in plaats van de nieuwe manier met de uitklaplijst.");
 define("PRFLAN_126", "Op de aanmeldpagina te tonen tekst");
 define("PRFLAN_127", "Maak URL´s aanklikbaar");
@@ -125,7 +125,7 @@ define("PRFLAN_134", "Verwijs alle aanvragen naar site URL");
 define("PRFLAN_135", "als bijvoorbeeld de URL van je site staat ingesteld op http://foo.com, dan wordt iedereen die http://www.foo.com opvraagt doorverwezen naar http://foo.com"); //FIXME HTML
 define("PRFLAN_136", "Maximaal toegestane aantal aanmeldingen van hetzelfde IP-adres.");
 define("PRFLAN_137", "Toon geheugengebruik");
-define("PRFLAN_138", "Activeren Afbeelding-code verificatie bij vergeten wachtwoord.");
+define("PRFLAN_138", "Activeren afbeelding-code verificatie bij vergeten wachtwoord.");
 define("PRFLAN_139", "Tonen waarschuwing als het wachtwoord van de hoofdbeheerder de laatste 30 dagen niet is gewijzigd");
 define("PRFLAN_140", "Te tonen tekst na het insturen van het aanmeldingsformulier.");
 define("PRFLAN_142", "Alleen Flood");
@@ -255,4 +255,11 @@ define("PRFLAN_254", "Email &amp; Contact Info");
 define("PRFLAN_255", "Bestand Uploading");
 define("PRFLAN_256", "Geavanceerde Opties");
 define("PRFLAN_257", "Javascript Framework");
+
+define("PRFLAN_258", "Contact Formulier zichtbaar voor");
+define("PRFLAN_259", "Aanmelden & Inloggen");
+define("PRFLAN_260", "Alleen Inloggen");
+define("PRFLAN_261", "Opties Velden");
+define("PRFLAN_262", "Wachtwoord in Email Bevestiging");
+define("PRFLAN_263", "Dient uniek te zijn voor deze website");
 ?>
