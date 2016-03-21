@@ -53,7 +53,7 @@ define("LAN_NONE", "Niets");
 define("LAN_WARNING",    "Waarschuwing!");
 define("LAN_ERROR",      "Fout");
 define("LAN_ANONYMOUS",  "Anoniem");
-define("LAN_EMAIL_SUBS", "-email-");
+define("LAN_EMAIL_SUBS", "-email-");  //this is a test
 define("LAN_YES", "Ja");
 define("LAN_NO", "Nee");
 define("LAN_OK", "OK");
