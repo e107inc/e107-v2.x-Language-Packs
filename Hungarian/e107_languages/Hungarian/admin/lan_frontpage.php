@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Hungarian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/03/23 14:24:46
+|
+|        $Author: Lóna Lore $
++---------------------------------------------------------------+
+*/
 
 define("FRTLAN_13", "Kezdőlap beállításai");
 define("FRTLAN_30", "Egyéni oldalak");
@@ -15,3 +21,7 @@ define("FRTLAN_51", "Egyéb");
 define("FRTLAN_PAGE_TITLE", "Kezdőlap");
 define("FRTLAN_56", "duplikált definíció ehhez a csoporthoz:");
 define("FRTLAN_57", "Szoftver hiba");
+define("FRTLAN_61", "Kiválasztás");
+
+
+?>

@@ -32,9 +32,9 @@ define("LAN_CRON_7", "Nem lehet importálni a idő beállításokat");
 define("LAN_CRON_8", "Importált idő beállítások ehhez ");
 
 define("LAN_CRON_9", "[x] perccel és [y] másodperccel ezelőtt.");
-define("LAN_CRON_10", "[y] perccel ezelőtt.");
+define("LAN_CRON_10", "[y] másodperccel ezelőtt.");
 
-define("LAN_CRON_11", "Cron-ok aktiválása");
+define("LAN_CRON_11", "Aktív feladatok");
 define("LAN_CRON_12", "Legutolsó cron frissítés");
 define("LAN_CRON_13", "Természetesen a cron.php fájlnak futathatónak kell lennie.");
 define("LAN_CRON_14", "Állítsd a CHMOD-t /cron.php 755-re.");

@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Hungarian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/03/23 14:55:20
+|
+|        $Author: Lóna Lore $
++---------------------------------------------------------------+
+*/
 
 define("COMLAN_0", "[admin által tiltott]");
 define("COMLAN_1", "Feloldás");
@@ -24,10 +30,9 @@ define("COMLAN_103", "Cikk");
 define("COMLAN_104", "Áttekintés");
 define("COMLAN_105", "Tartalom");
 define("COMLAN_106", "Letöltés");
-define("COMLAN_145", "Regisztrált: ");
+define("COMLAN_145", "Regisztrált:");
 define("COMLAN_194", "Vendég");
 define("COMLAN_195", "Regisztrált felhasználó");
-
 define("COMLAN_310", "Ez a felhasználónév már regisztrálva van. Ha mégis te vagy, kérlek jelentkezz be.");
 define("COMLAN_312", "Duplikált bejegyzés - nem lett elfogadva.");
 define("COMLAN_313", "Hely");
@@ -54,11 +59,11 @@ define("COMLAN_334", "Nem sikerült a hozzászólás jóváhagyása");
 define("COMLAN_335", "Jóváhagyott");
 define("COMLAN_336", "Kérlek, előbb írj valamit.");
 define("COMLAN_337", "Sikeresen frissítve.");
-
 define("COMLAN_400", "jóváhagyott");
 define("COMLAN_401", "blokkolt");
 define("COMLAN_402", "jóváhagyásra vár");
-
+define("COMLAN_403", "Írj egy hozzászólást...");
+define("COMLAN_404", "Jóváhagy");
 define("COMLAN_TYPE_1", "Hírek");
 define("COMLAN_TYPE_2", "Letöltés");
 define("COMLAN_TYPE_3", "gyakran feltett kérdések");
@@ -68,3 +73,8 @@ define("COMLAN_TYPE_6", "bugtrack");
 define("COMLAN_TYPE_7", "ötletek");
 define("COMLAN_TYPE_8", "USERPROFILE");
 define("COMLAN_TYPE_PAGE", "Tartalom");
+define("COMLAN_500", "Kérlek [jelentkezz be] ha hozzá szeretnél szólni.");
+define("COMLAN_501", "Ha még nem regisztráltál, [ide kattintva megteheted].");
+
+
+?>

@@ -1,14 +1,18 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Hungarian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/03/23 14:53:45
+|
+|        $Author: Lóna Lore $
++---------------------------------------------------------------+
+*/
 
 setlocale(LC_ALL,  'hu_HU.UTF-8', 'hu_HU.utf8', 'hug_hug.utf8', 'hu');
-
 define("CORE_LC", "hu");
 define("CORE_LC2", "HU");
-
 define("CORE_LAN1", "Hiba: az oldaltéma hiányzik.\\n\\nCseréld le a beállított témát (admin terület), vagy töltsd fel a jelenlegi téma fájljait a szerverre.");
 define("CORE_LAN4", "Töröld az install.php fájlt a szerverről");
 define("CORE_LAN5", "máskülönben az oldalad potenciális biztonsági kockázatnak van kitéve");
@@ -17,33 +21,29 @@ define("CORE_LAN7", "Kisérli a core helyreállítására az autómatikus bizton
 define("CORE_LAN8", "Core beállítások hiba");
 define("CORE_LAN9", "Kisérli a core helyreállítására az autómatikus biztonsági mentésbõl nem sikerült. Megszakítva.");
 define("CORE_LAN10", "Hibás cookie észlelése - Kiléptetve.");
-
 define("CORE_LAN11", "Renderelési idő:");
 define("CORE_LAN12", " másodperc (");
 define("CORE_LAN13", "%-a a lekérdezések)");
 define("CORE_LAN14", "%2.3F cpu sec (%2.2f%% load, %2.3f startup). Clock:");
-define("CORE_LAN15", "DB lekérdezések: ");
-define("CORE_LAN16", "Memória: ");
-
+define("CORE_LAN15", "DB lekérdezések:");
+define("CORE_LAN16", "Memória:");
 define("CORE_LAN17", "[ kép letiltva ]");
-define("CORE_LAN18", "Kép: ");
-
+define("CORE_LAN18", "Kép:");
 define("CORE_LAN_B", "B");
 define("CORE_LAN_KB", "kB");
 define("CORE_LAN_MB", "MB");
 define("CORE_LAN_GB", "GB");
 define("CORE_LAN_TB", "TB");
-
 define("EMESSLAN_TITLE_INFO", "Rendszerinformáció");
 define("EMESSLAN_TITLE_ERROR", "Hiba");
 define("EMESSLAN_TITLE_SUCCESS", "Végrehajtva");
 define("EMESSLAN_TITLE_WARNING", "Figyelmeztetés");
 define("EMESSLAN_TITLE_DEBUG", "Rendszer hibakeresés");
-
 define("LAN_EDIT", "Szerkesztés");
 define("LAN_DELETE", "Törlés");
 define("LAN_DEFAULT", "Alapértelmezett");
 define("LAN_MORE", "Tovább...");
+define("LAN_LESS", "...kevesebb");
 define("LAN_READ_MORE", "Tovább olvasom...");
 define("LAN_GOPAGE", "Ugrás az oldalra");
 define("LAN_GOTOPAGEX", "Ugrás az oldalra [x]");
@@ -87,6 +87,7 @@ define("LAN_LOGIN", "Bejelentkezés");
 define("LAN_LOGOUT", "Kijelentkezés");
 define("LAN_SETTINGS", "Beállítások");
 define("LAN_PASSWORD", "Jelszó");
+define("LAN_INCORRECT_PASSWORD", "Érvénytelen jelszó");
 define("LAN_TYPE", "Típus");
 define("LAN_SCREENSHOT", "Képernyőkép");
 define("LAN_FILE", "Fájl");
@@ -107,6 +108,13 @@ define("LAN_USER", "Felhasználó");
 define("LAN_EMAIL", "Email cím");
 define("LAN_WROTE", "Írta");
 define("LAN_RE_ORDER", "Újra-rendezés");
-
+define("LAN_RELATED", "Kiemelt");
 define("LAN_ENTER_USRNAME_EMAIL", "Kérjük, add meg a felhasználóneved vagy email címed");
 define("LAN_PWD_REQUIRED", "Jelszó szükséges");
+define("LAN_SHOW", "Mutat");
+define("LAN_GENERATE", "Generálás");
+define("LAN_SUMMARY", "Összegzés");
+define("LAN_REQUIRED_BLANK", "Kötelező mező maradt üresen.");
+
+
+?>
