@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/03/01 19:14:36
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("BANLAN_2", "Ingen forbud i listen.");
 define("BANLAN_3", "Eksisterende forbud");
@@ -16,7 +22,7 @@ define("BANLAN_12", "Merk: Omvendt DNS er for øyeblikket deaktivert. Det må ak
 define("BANLAN_13", "Merk: For å forby en bruker brukernavn, gå til siden for brukere-admin:");
 define("BANLAN_14", "Forbud liste");
 define("BANLAN_15", "Meldinger/forbud perioder");
-define("BANLAN_16", "Banning");
+define("BANLAN_16", "Forby");
 define("BANLAN_17", "Forbud dato");
 define("BANLAN_18", "Forbud utløper");
 define("BANLAN_19", "Notater");
@@ -117,3 +123,6 @@ define("BANLAN_122", "Svarteliste");
 define("BANLAN_123", "Legg til i svarteliste");
 define("BANLAN_124", "Utløper");
 define("BANLAN_125", "Bruk meg IP");
+
+
+?>

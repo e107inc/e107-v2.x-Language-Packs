@@ -1,13 +1,22 @@
 <?php
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/03/19 22:36:33
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("TRACKBACK_L7", "Aktivere trackback");
-define("TRACKBACK_L8", "Trackback URL tekst");
-define("TRACKBACK_L10", "Trackbacks");
-define("TRACKBACK_L11", "Trackback-adresse for dette innlegget:");
+define("TRACKBACK_L7", "Aktivere Tilbakesporing");
+define("TRACKBACK_L8", "Tilbakesporings URL tekst");
+define("TRACKBACK_L10", "Tilbakesporinger");
+define("TRACKBACK_L11", "Tilbakesporings-adresse for dette innlegget:");
 define("TRACKBACK_L12", "Ingen Tilbakesporinger for dette elementet");
-define("TRACKBACK_L13", "Moderat Tilbakesporinger");
-define("TRACKBACK_L16", "Trackback");
+define("TRACKBACK_L13", "Moderer Tilbakesporinger");
+define("TRACKBACK_L16", "Tilbakesporing");
+
+
+?>

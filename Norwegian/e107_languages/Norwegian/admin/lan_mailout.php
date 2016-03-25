@@ -1,10 +1,16 @@
 <?php
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/03/01 19:28:31
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("CORE_DATE_ORDER", "dmy");
+define("CORE_DATE_ORDER", "dmå");
 define("LAN_MAILOUT_01", "Fra navn");
 define("LAN_MAILOUT_02", "Fra e-post");
 define("LAN_MAILOUT_03", "Til");
@@ -19,7 +25,7 @@ define("LAN_MAILOUT_11", "Sett inn variabler");
 define("LAN_MAILOUT_12", "Alle brukere");
 define("LAN_MAILOUT_13", "Alle ubekreftede brukere");
 define("LAN_MAILOUT_14", "Visningsnavn");
-define("LAN_MAILOUT_15", "Mailout");
+define("LAN_MAILOUT_15", "Utsendelse");
 define("LAN_MAILOUT_16", "Brukernavn");
 define("LAN_MAILOUT_17", "Signup lenken");
 define("LAN_MAILOUT_18", "Bruker-ID");
@@ -53,7 +59,7 @@ define("LAN_MAILOUT_47", "inneholder");
 define("LAN_MAILOUT_48", "er lik");
 define("LAN_MAILOUT_51", "Emne");
 define("LAN_MAILOUT_52", "Siste mod");
-define("LAN_MAILOUT_53", "Admins");
+define("LAN_MAILOUT_53", "Administratorer");
 define("LAN_MAILOUT_54", "Selv");
 define("LAN_MAILOUT_55", "Brukerklasse");
 define("LAN_MAILOUT_56", "Siste besøk (dd-mm-yy)");
@@ -125,7 +131,7 @@ define("LAN_MAILOUT_131", "Sende startet");
 define("LAN_MAILOUT_132", "Sending fullført");
 define("LAN_MAILOUT_133", "Kilde");
 define("LAN_MAILOUT_134", "Prioritet");
-define("LAN_MAILOUT_136", "Mailout Status");
+define("LAN_MAILOUT_136", "Utsendelses Status");
 define("LAN_MAILOUT_137", "E Ref");
 define("LAN_MAILOUT_138", "E-status");
 define("LAN_MAILOUT_139", "Dato aktiv");
@@ -138,7 +144,7 @@ define("LAN_MAILOUT_145", "Ny email lagret");
 define("LAN_MAILOUT_146", "Feil under lagring av e-post");
 define("LAN_MAILOUT_147", "E-post som er oppdatert");
 define("LAN_MAILOUT_148", "Bruker verdier");
-define("LAN_MAILOUT_149", "Sender Email");
+define("LAN_MAILOUT_149", "Senders E-post");
 define("LAN_MAILOUT_150", "Avsenderens navn");
 define("LAN_MAILOUT_151", "Kopiere til");
 define("LAN_MAILOUT_152", "Blindkopi til");
@@ -250,3 +256,6 @@ define("LAN_HOLD", "Hold");
 define("LAN_MAILOUT_260", "Bruker-Type");
 define("LAN_BASIC", "Grunnleggende");
 define("LAN_ADVANCED", "Avansert");
+
+
+?>

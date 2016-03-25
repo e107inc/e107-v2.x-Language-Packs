@@ -1,9 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/03/01 19:26:10
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 define("EPL_ADLAN_0", "Installere");
 define("EPL_ADLAN_1", "Avinstaller");
 define("EPL_ADLAN_2", "Er du sikker på at du vil avinstallere denne plugin?");
@@ -108,10 +113,9 @@ define("EPL_ADLAN_106", "Velg plugin brosjyre å begynne.");
 define("EPL_ADLAN_107", "Bygge en admin-området og xml-fil for:");
 define("EPL_ADLAN_108", "Sjekk språkfiler:");
 define("EPL_ADLAN_109", "Grunnleggende Info.");
-define("EPL_ADLAN_111", "Generere");
 define("EPL_ADLAN_112", "Se gjennom alle felt og endre om nødvendig.");
 define("EPL_ADLAN_113", "Se gjennom alle kategoriene før du klikker på 'Generer'.");
-define("EPL_ADLAN_114", "Plugin Builder");
+define("EPL_ADLAN_114", "Programtillegg Bygger");
 define("EPL_ADLAN_115", "Trinn 2");
 define("EPL_ADLAN_116", "Tekstboks");
 define("EPL_ADLAN_117", "Tekstboks (nummer)");
@@ -171,9 +175,9 @@ define("EPL_ADLAN_170", "Filter");
 define("EPL_ADLAN_171", "Innebygd");
 define("EPL_ADLAN_172", "Validere");
 define("EPL_ADLAN_173", "Skjerm");
-define("EPL_ADLAN_174", "HelpTip");
-define("EPL_ADLAN_175", "ReadParms");
-define("EPL_ADLAN_176", "WriteParms");
+define("EPL_ADLAN_174", "Hjelpe Tips");
+define("EPL_ADLAN_175", "Lese parametre");
+define("EPL_ADLAN_176", "Skrive parametre");
 define("EPL_ADLAN_177", "Feltet er obligatorisk fylles");
 define("EPL_ADLAN_178", "Som standard vises");
 define("EPL_ADLAN_179", "Tekstboks");
@@ -229,3 +233,6 @@ define("EPL_ADLAN_229", "Oppdater");
 define("LAN_UPGRADE_SUCCESSFUL", "Oppgradering vellykket");
 define("LAN_INSTALL_SUCCESSFUL", "Installasjon vellykket");
 define("LAN_INSTALL_FAIL", "Instalation mislyktes");
+
+
+?>

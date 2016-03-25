@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/03/19 22:46:37
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("LAN_LOGINMENU_1", "Brukernavn:");
 define("LAN_LOGINMENU_2", "Passord:");
@@ -42,10 +48,13 @@ define("LAN_LOGINMENU_43", "Posisjon");
 define("LAN_LOGINMENU_44", "missing link tittel");
 define("LAN_LOGINMENU_45", "kobling(er)-");
 define("LAN_LOGINMENU_45a", "");
-define("LAN_LOGINMENU_45b", "plugin");
+define("LAN_LOGINMENU_45b", "tillegg");
 define("LAN_LOGINMENU_46", "siste elementer-");
 define("LAN_LOGINMENU_47", "Logg inn meny - nye plugin tillegg");
 define("LAN_LOGINMENU_48", "Menyen Config");
 define("LAN_LOGINMENU_49", "Epost:");
 define("LAN_LOGINMENU_50", "Brukernavn eller emailadresse:");
 define("LAN_LOGINMENU_51", "logg inn");
+
+
+?>

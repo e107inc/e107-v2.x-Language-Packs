@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/03/19 22:47:57
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("ADSTAT_L1", "Dette programtillegget vil logge alle besøk til nettstedet ditt, og bygge detaljert statistikken skjermer basert på informasjon.");
 define("ADSTAT_L2", "Statistikk loggeren er installert. For å aktivere, gå til skjermbildet config og klikk Aktiver.<br><b>Du må sette tillatelsene for mappen e107_plugins/log/logger til 777 (chmod 777)</b>");
@@ -42,7 +48,7 @@ define("ADSTAT_L41", "Datovalg");
 define("ADSTAT_L42", "Endagsritt");
 define("ADSTAT_L43", "Daglig for en måned");
 define("ADSTAT_L44", "Månedlig i ett år");
-define("ADSTAT_L45", "All-time");
+define("ADSTAT_L45", "Hele perioden");
 define("ADSTAT_L46", "Dato:");
 define("ADSTAT_L47", "Ugyldig dato valgt");
 define("ADSTAT_L48", "Månedlig og All-time");
@@ -82,3 +88,6 @@ define("ADSTAT_L82", "Følgende verdier nå satt:");
 define("ADSTAT_L83", "Etter ID loggoppføringer fjernet:");
 define("ADSTAT_L84", "");
 define("ADSTAT_L85", "");
+
+
+?>

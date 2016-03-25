@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/03/19 22:34:08
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("PAGE_NAME", "Feil");
 define("LAN_ERROR_1", "Feil 401 - godkjenning mislyktes");
@@ -49,3 +55,7 @@ define("LAN_ERROR_42", "Ekstra feilinformasjon:");
 define("LAN_ERROR_43", "Nettstedet tilgjengelig midlertidig");
 define("LAN_ERROR_44", "Områdelogo");
 define("LAN_ERROR_45", "Hva kan du gjøre nå?");
+define("LAN_ERROR_46", "Sjekk logg for detaljer.");
+
+
+?>

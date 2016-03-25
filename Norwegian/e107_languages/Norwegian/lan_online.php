@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/29 23:32:01
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("ONLINE_EL1", "Gjester:");
 define("ONLINE_EL2", "Medlemmer:");
@@ -27,8 +33,8 @@ define("EMAIL", "email.php");
 define("FORUM", "Viktigste Forum Hovedsiden");
 define("LINKS", "Koblinger");
 define("NEWS", "Nyheter");
-define("OLDPOLLS", "Gamle avstemninger");
-define("POLLCOMMENT", "Poll");
+define("OLDPOLLS", "Gamle spørreundersøkelser");
+define("POLLCOMMENT", "Spørreundersøkelse");
 define("PRINTPAGE", "Skriv ut");
 define("LOGIN", "Logge på");
 define("SEARCH", "Søke");
@@ -53,3 +59,6 @@ define("ARTICLE", "Artikkel");
 define("CONTENT", "Innholdsside");
 define("REVIEW", "Gjennomgang");
 define("OTHER", "Andre sider:");
+
+
+?>
