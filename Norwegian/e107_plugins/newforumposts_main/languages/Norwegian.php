@@ -1,14 +1,20 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/03/19 22:45:58
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("NFPM_LAN_1", "Tråd");
 define("NFPM_LAN_2", "Plakat");
 define("NFPM_LAN_3", "Visninger");
 define("NFPM_LAN_4", "Svar");
-define("NFPM_LAN_5", "Lastpost");
+define("NFPM_LAN_5", "Siste post");
 define("NFPM_LAN_6", "Tråder");
 define("NFPM_LAN_7", "ved");
 define("NFPM_L1", "Denne plugin viser en liste over nye innlegg på forsiden");
@@ -35,3 +41,6 @@ define("NFPM_L21", "Prioritert tråd");
 define("NFPM_L22", "Lukket prioritert tråd");
 define("NFPM_L23", "Kunngjøring");
 define("NFPM_L24", "Stengt tråd");
+
+
+?>

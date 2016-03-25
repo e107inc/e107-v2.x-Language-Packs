@@ -9,7 +9,6 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-
 define("LAN_EURL_NAME", "Administrere webadresser");
 define("LAN_EURL_NAME_CONFIG", "Profiler");
 define("LAN_EURL_NAME_ALIASES", "Aliaser");
@@ -20,7 +19,7 @@ define("LAN_EURL_LEGEND_CONFIG", "Velg URL-profil per område");
 define("LAN_EURL_LEGEND_ALIASES", "Konfigurere Base URL aliaser per URL profil");
 define("LAN_EURL_DEFAULT", "Standard");
 define("LAN_EURL_PROFILE", "Profil");
-define("LAN_EURL_INFOALT", "Info");
+define("LAN_EURL_INFOALT", "Informasjon");
 define("LAN_EURL_PROFILE_INFO", "Profil info ikke tilgjengelig");
 define("LAN_EURL_LOCATION", "Profilplassering");
 define("LAN_EURL_LOCATION_NONE", "Konfigurasjonsfilen er ikke tilgjengelig");
@@ -29,8 +28,8 @@ define("LAN_EURL_FORM_HELP_ALIAS_0", "Standardverdien er");
 define("LAN_EURL_FORM_HELP_ALIAS_1", "Alias i");
 define("LAN_EURL_FORM_HELP_EXAMPLE", "Basiswebadressen");
 define("LAN_EURL_ERR_ALIAS_MODULE", "Alias '%1\$s' kan ikke lagres - det er en system URL profil med samme navn. Velg en annen alias verdi for Systemprofil URL '%2\$s'");
-define("LAN_EURL_SURL_UPD", "&nbsp; SEF URLs ble oppdatert.");
-define("LAN_EURL_SURL_NUPD", " 	&nbsp; SEF URLs ble IKKE oppdatert.");
+define("LAN_EURL_SURL_UPD", "  SEF URLs ble oppdatert.");
+define("LAN_EURL_SURL_NUPD", " 	  SEF URLs ble IKKE oppdatert.");
 define("LAN_EURL_SETTINGS_PATHINFO", "Fjerne filnavnet i URLen");
 define("LAN_EURL_SETTINGS_MAINMODULE", "Knytte rotnavneområdet");
 define("LAN_EURL_SETTINGS_MAINMODULE_HELP", "Velg hvilket område vil bli koblet med base Webadressen. Eksempel: Når nyheten er din rot-navneområdet http://yoursite.com/News-Item-Title knyttes nyheter (elementer visningsside blir løst)");
@@ -42,19 +41,19 @@ define("LAN_EURL_SETTINGS_SEFTRTYPE_NONE", "Rettferdig sikre det");
 define("LAN_EURL_SETTINGS_SEFTRTYPE_DASHL", "dasherize-til-små");
 define("LAN_EURL_SETTINGS_SEFTRTYPE_DASHC", "Dasherize-til-kamelen-saken");
 define("LAN_EURL_SETTINGS_SEFTRTYPE_DASH", "Dasherize-med-no-sak-endring");
-define("LAN_EURL_SETTINGS_SEFTRTYPE_UNDERSCOREL", "underscore_to_lower_case");
-define("LAN_EURL_SETTINGS_SEFTRTYPE_UNDERSCOREC", "Underscore_To_Camel_Case");
-define("LAN_EURL_SETTINGS_SEFTRTYPE_UNDERSCORE", "Underscore_with_no_case_CHANGE");
-define("LAN_EURL_SETTINGS_SEFTRTYPE_PLUSL", "Plus + skilletegn + til + lavere + case");
-define("LAN_EURL_SETTINGS_SEFTRTYPE_PLUSC", "Plus + skilletegn + til + Camel + Case");
-define("LAN_EURL_SETTINGS_SEFTRTYPE_PLUS", "Plus + skilletegn + med ingen + case + endre");
+define("LAN_EURL_SETTINGS_SEFTRTYPE_UNDERSCOREL", "understrek_til_små_bokstaver");
+define("LAN_EURL_SETTINGS_SEFTRTYPE_UNDERSCOREC", "Understrek_Til_Camel_Case");
+define("LAN_EURL_SETTINGS_SEFTRTYPE_UNDERSCORE", "Understrek_uten_tegn_ENDRING");
+define("LAN_EURL_SETTINGS_SEFTRTYPE_PLUSL", "Plus+skilletegn+til+lavere+case");
+define("LAN_EURL_SETTINGS_SEFTRTYPE_PLUSC", "Plus+skilletegn+til+Camel+Case");
+define("LAN_EURL_SETTINGS_SEFTRTYPE_PLUS", "Plus+skilletegn+uten+tegn+ENDRING");
 define("LAN_EURL_MODREWR_DESCR", "Fjerner oppføringsnavnet på skriptfilen (index.php/) fra nettadressen. Du må mod_rewrite installert og kjører på serveren (Apache Web Server). Etter aktivering av denne innstillingen gå til ditt nettsted rotmappe, gi htaccess.txt .htaccess og modifgy <em>'RewriteBase'</em> direktivet om nødvendig.");
 define("LAN_EURL_MENU", "Webadresser");
 define("LAN_EURL_MENU_CONFIG", "URL profiler");
 define("LAN_EURL_MENU_ALIASES", "Aliaser");
 define("LAN_EURL_MENU_SETTINGS", "Innstillinger");
-define("LAN_EURL_MENU_HELP", "hjelp");
-define("LAN_EURL_MENU_REDIRECTS", "Omadresserer");
+define("LAN_EURL_MENU_HELP", "Hjelp");
+define("LAN_EURL_MENU_PROFILES", "Profiler");
 define("LAN_EURL_UC", "Under bygging");
 define("LAN_EURL_CORE_MAIN", "Nettstedet rot Namespace - alias ikke er i bruk.");
 define("LAN_EURL_FRIENDLY", "Vennlig");

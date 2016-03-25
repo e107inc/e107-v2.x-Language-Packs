@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/03/01 19:04:48
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("UPLLAN_1", "Last fjernet fra listen.");
 define("UPLLAN_2", "Innstillinger er lagret i databasen");
@@ -43,6 +49,9 @@ define("UPLLAN_62", "Last ned plugin er ikke installert - aktivisering ikke muli
 define("UPLLAN_63", "Post flyttet til nedlastinger. [x]");
 define("UPLLAN_64", "Administrere nedlasting");
 define("UPLLAN_66", "Banen Nedlastingsfeil");
-define("UPLLAN_68", "SQL Error:");
+define("UPLLAN_68", "SQL feil:");
 define("UPLLAN_69", "");
 define("UPLLAN_70", "");
+
+
+?>

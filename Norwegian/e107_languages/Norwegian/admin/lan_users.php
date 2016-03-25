@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/03/01 19:06:18
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("USRLAN_1", "Alternativer lagret.");
 define("USRLAN_3", "nå oppført Administrator - angi tillatelser kan du gå til den");
@@ -20,7 +26,7 @@ define("USRLAN_16", "Bekreft sletting");
 define("USRLAN_17", "Bekrefte Slett bruker");
 define("USRLAN_30", "Forbud");
 define("USRLAN_32", "Aktivere");
-define("USRLAN_33", "Unban");
+define("USRLAN_33", "Opphev utestenging");
 define("USRLAN_34", "Fjerne admin status");
 define("USRLAN_35", "Gjøre admin");
 define("USRLAN_36", "Angi klasse");
@@ -49,7 +55,7 @@ define("USRLAN_68", "Du tomt nødvendig felt");
 define("USRLAN_69", "Det synes ikke å være en gyldig e-postadresse");
 define("USRLAN_78", "Brukernavn");
 define("USRLAN_79", "Status");
-define("USRLAN_80", "Info");
+define("USRLAN_80", "Informasjon");
 define("USRLAN_84", "Det er");
 define("USRLAN_85", "brukere som ikke har aktivert sin konto - Klikk nedenfor for å slette.");
 define("USRLAN_86", "Brukeren bekreftet");
@@ -70,7 +76,7 @@ define("USRLAN_117", "Klikk knappen nedenfor for å teste følgende e:");
 define("USRLAN_118", "Test epost");
 define("USRLAN_119", "Test [x]");
 define("USRLAN_120", "Angi klasser");
-define("USRLAN_121", "Mailing");
+define("USRLAN_121", "Utsendelse");
 define("USRLAN_122", "Velkommen til");
 define("USRLAN_123", "Registreringen er mottatt og opprettet.");
 define("USRLAN_124", "Kontoen din er merket som inaktive, aktivere kontoen du gå kan til følgende link");
@@ -211,3 +217,6 @@ define("USFLAN_7", "Brukerinformasjon");
 define("USRLAN_AS_1", "Logg inn som [x]");
 define("USRLAN_AS_2", "Varesymbol fra [x] konto");
 define("USRLAN_AS_3", "Du er allerede logget på som en annen brukerkonto. Vennligst logg først.");
+
+
+?>

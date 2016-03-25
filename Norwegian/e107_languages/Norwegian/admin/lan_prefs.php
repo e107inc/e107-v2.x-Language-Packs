@@ -9,7 +9,6 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-
 define("PRFLAN_1", "Områdeinformasjon");
 define("PRFLAN_2", "Områdenavn");
 define("PRFLAN_3", "Område-URL");
@@ -18,7 +17,7 @@ define("PRFLAN_5", "Nettstedet slagord");
 define("PRFLAN_6", "Beskrivelse");
 define("PRFLAN_7", "Hovednettstedet admin");
 define("PRFLAN_8", "Hovednettstedet admin epost");
-define("PRFLAN_9", "Site Disclaimer");
+define("PRFLAN_9", "Ansvarsfraskrivelse for nettstedet");
 define("PRFLAN_13", "Vise informasjon");
 define("PRFLAN_14", "Vise temainformasjon?");
 define("PRFLAN_15", "Display gjengivelse?");

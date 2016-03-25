@@ -1,14 +1,20 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/29 23:36:44
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("UE_LAN_1", "Tekstboks");
 define("UE_LAN_2", "Alternativknapper");
 define("UE_LAN_3", "Rullegardinmenyen");
 define("UE_LAN_4", "DB tabellfelt");
-define("UE_LAN_5", "Textarea");
+define("UE_LAN_5", "Tekstområde");
 define("UE_LAN_6", "Heltall");
 define("UE_LAN_8", "Språk");
 define("UE_LAN_9", "Forhåndsdefinert liste");
@@ -44,3 +50,6 @@ define("UE_LAN_GENDER", "Kjønn");
 define("UE_LAN_GENDER_DESC", "Kjønn");
 define("UE_LAN_MALE", "Mann");
 define("UE_LAN_FEMALE", "Kvinne");
+
+
+?>

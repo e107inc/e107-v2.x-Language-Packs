@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/03/19 22:56:09
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("LAN_DL_OPTIONS", "Alternativer");
 define("LAN_DL_DOWNLOAD_OPT_GENERAL", "Generelt");
@@ -49,7 +55,7 @@ define("DOWLAN_62", "Stigende");
 define("DOWLAN_63", "Synkende");
 define("DOWLAN_64", "Oppdateringsalternativer");
 define("DOWLAN_65", "Alternativer for oppdatert");
-define("DOWLAN_66", "Filesize");
+define("DOWLAN_66", "Filesstørrelse");
 define("DOWLAN_68", "Fil mangler!");
 define("DOWLAN_100", "Aktivere nedlasting avtale");
 define("DOWLAN_101", "Avtalen tekst");
@@ -78,7 +84,7 @@ define("DOWLAN_131", "Velg lokal fil");
 define("DOWLAN_132", "Angi speil å bruke, så ta for å laste ned og filstørrelse");
 define("DOWLAN_133", "Speilet oppdatert i databasen");
 define("DOWLAN_134", "Speilet lagret i database");
-define("DOWLAN_135", "Speilet slettet");
+define("DOWLAN_135", "Speil slettet");
 define("DOWLAN_136", "bilde");
 define("DOWLAN_137", "Er du sikker på at du vil slette dette speilet?");
 define("DOWLAN_138", "Eksisterende speil");
@@ -141,3 +147,6 @@ define("DOWLAN_HELP_7", "Hjelp for speil");
 define("DOWLAN_HELP_8", "Hjelp for opplastingslisten");
 define("DOWLAN_HELP_9", "Hjelp for opplasting typer");
 define("DOWLAN_HELP_10", "Hjelp for opplasting alternativer");
+
+
+?>

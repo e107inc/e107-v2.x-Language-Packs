@@ -9,7 +9,7 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-define("e_PAGETITLE", "Forum");
+define("e_PAGETITLE", "Diskusjonsforum");
 define("LAN_FORUM_0002", "Emner");
 define("LAN_FORUM_0003", "Svar");
 define("LAN_FORUM_0004", "Siste innlegg");
@@ -82,7 +82,7 @@ define("LAN_FORUM_0073", "Sporede emner");
 define("LAN_FORUM_0074", "Skrevet av");
 define("LAN_FORUM_0075", "Nye emner");
 define("LAN_FORUM_1001", "Forum");
-define("LAN_FORUM_1002", "Sub-forum");
+define("LAN_FORUM_1002", "Under-forum");
 define("LAN_FORUM_1003", "Emnet");
 define("LAN_FORUM_1004", "Starter");
 define("LAN_FORUM_1005", "Visninger");
@@ -96,13 +96,13 @@ define("LAN_FORUM_1012", "Klissete/lukket");
 define("LAN_FORUM_1013", "Kunngjøring");
 define("LAN_FORUM_1014", "Stengt emnet");
 define("LAN_FORUM_1015", "[bruker slettet]");
-define("LAN_FORUM_1016", "Poll");
-define("LAN_FORUM_1017", "gå til");
+define("LAN_FORUM_1016", "Avstemming");
+define("LAN_FORUM_1017", "Gå til");
 define("LAN_FORUM_1018", "Nytt emne");
 define("LAN_FORUM_1020", "Endre");
 define("LAN_FORUM_2001", "Forrige emne");
 define("LAN_FORUM_2002", "Neste emne");
-define("LAN_FORUM_2003", "Moderator(s)");
+define("LAN_FORUM_2003", "Moderator(er)");
 define("LAN_FORUM_2004", "Dette emnet er nå stengt");
 define("LAN_FORUM_2005", "Opprette et nytt emne");
 define("LAN_FORUM_2006", "Legge inn et svar");
@@ -138,7 +138,7 @@ define("LAN_FORUM_2037", "Innlegget slettet");
 define("LAN_FORUM_2038", "Grunn");
 define("LAN_FORUM_2041", "Tilbud");
 define("LAN_FORUM_2042", "Flytte");
-define("LAN_FORUM_2043", "Split");
+define("LAN_FORUM_2043", "Splitt");
 define("LAN_FORUM_2044", "E-post");
 define("LAN_FORUM_2045", "Skriv ut");
 define("LAN_FORUM_2046", "Rapporten");

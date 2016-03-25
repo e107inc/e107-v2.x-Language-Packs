@@ -9,10 +9,9 @@
 |        $Author: admin $
 +---------------------------------------------------------------+
 */
-
 define("LANHELP_1", "Svart");
 define("LANHELP_2", "Blå");
-define("LANHELP_3", "Brown");
+define("LANHELP_3", "Brun");
 define("LANHELP_4", "Cyan");
 define("LANHELP_5", "Mørk blå");
 define("LANHELP_6", "Mørk rød");
@@ -29,7 +28,7 @@ define("LANHELP_16", "Liten");
 define("LANHELP_17", "Normal");
 define("LANHELP_18", "Store");
 define("LANHELP_19", "Større");
-define("LANHELP_20", "Massive");
+define("LANHELP_20", "Massiv");
 define("LANHELP_21", "Klikk for å åpne dialogboksen for farge...");
 define("LANHELP_22", "Klikk for å åpne dialogboksen for størrelse...");
 define("LANHELP_23", "Sett inn kobling: \n [link]http://mysite.com[/link] eller [link=http://yoursite.com] besøker mitt område [/link]");
@@ -42,7 +41,7 @@ define("LANHELP_29", "Venstrejuster: \n [left] denne teksten vil stå justert [/
 define("LANHELP_30", "Høyrejustere: \n [right] denne teksten blir riktig justert [/right]");
 define("LANHELP_31", "Blockquote tekst: [blockquote] denne teksten er blockquoted (innrykk) [/blockquote]");
 define("LANHELP_32", "Kode - forhåndsformatert tekst: [code] \$foo = bah; [/code]");
-define("LANHELP_33", "HTML - fjerner kun linjeskift fra tekst: [html]&lt;table&gt;&lt;tr&gt;&lt;td&gt; etc[/html]");
+define("LANHELP_33", "HTML - fjerner kun linjeskift fra tekst: [html]<table><tr><td> etc[/html]");
 define("LANHELP_34", "[nyside] eller [nyside = tittel] sette nyside tag, deler artikkelen i flere sider");
 define("LANHELP_35", "Hyperlink URLs");
 define("LANHELP_36", "Sorterte: [liste] linje1 * linje2 * Linje3 [/ list] bestilt: [listen = type] linje1 * linje2 * Linje3 [/ list]");
