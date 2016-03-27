@@ -9,7 +9,7 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-setlocale(LC_ALL, 'sk_SK.UTF-8');
+setlocale(LC_ALL,  'sk_SK.UTF-8', 'sk_SK.utf8', 'sk_sk.utf8', 'sk');    
 define("CORE_LC", "sk");
 define("CORE_LC2", "sk");
 define("CORE_LAN1", "");
@@ -33,10 +33,10 @@ define("CORE_LAN_KB", "kB");
 define("CORE_LAN_MB", "MB");
 define("CORE_LAN_GB", "sk");
 define("CORE_LAN_TB", "TB");
-define("EMESSLAN_TITLE_INFO", "");
-define("EMESSLAN_TITLE_ERROR", "chyba");
-define("EMESSLAN_TITLE_SUCCESS", "");
-define("EMESSLAN_TITLE_WARNING", "varovanie");
+define("EMESSLAN_TITLE_INFO", "Info");
+define("EMESSLAN_TITLE_ERROR", "Chyba");
+define("EMESSLAN_TITLE_SUCCESS", "Podarilo sa");
+define("EMESSLAN_TITLE_WARNING", "Varovanie");
 define("EMESSLAN_TITLE_DEBUG", "");
 define("LAN_EDIT", "Editovať");
 define("LAN_DELETE", "Zmazať");
