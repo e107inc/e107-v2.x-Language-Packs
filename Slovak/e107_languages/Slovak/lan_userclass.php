@@ -10,9 +10,9 @@
 +---------------------------------------------------------------+
 */
 define("UC_LAN_0", "Každý (verejná)");
-define("UC_LAN_1", "hostí");
+define("UC_LAN_1", "Hostí");
 define("UC_LAN_2", "Nikto (neaktívna)");
-define("UC_LAN_3", "členov");
+define("UC_LAN_3", "Členov");
 define("UC_LAN_4", "Len pre čítanie");
 define("UC_LAN_5", "Administrátori");
 define("UC_LAN_6", "Hlavný administrátor");
