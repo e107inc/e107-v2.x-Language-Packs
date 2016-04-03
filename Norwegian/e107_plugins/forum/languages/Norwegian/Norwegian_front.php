@@ -100,6 +100,7 @@ define("LAN_FORUM_1016", "Avstemming");
 define("LAN_FORUM_1017", "Gå til");
 define("LAN_FORUM_1018", "Nytt emne");
 define("LAN_FORUM_1020", "Endre");
+define("LAN_FORUM_1021", "Ingen svar");
 define("LAN_FORUM_2001", "Forrige emne");
 define("LAN_FORUM_2002", "Neste emne");
 define("LAN_FORUM_2003", "Moderator(er)");

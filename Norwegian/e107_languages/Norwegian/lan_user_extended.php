@@ -9,7 +9,6 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-
 define("UE_LAN_1", "Tekstboks");
 define("UE_LAN_2", "Alternativknapper");
 define("UE_LAN_3", "Rullegardinmenyen");
@@ -50,6 +49,8 @@ define("UE_LAN_GENDER", "Kjønn");
 define("UE_LAN_GENDER_DESC", "Kjønn");
 define("UE_LAN_MALE", "Mann");
 define("UE_LAN_FEMALE", "Kvinne");
+define("UE_LAN_COMMENT", "KOmmentarer");
+define("UE_LAN_COMMENT_DESC", "Kommentarboks");
 
 
 ?>

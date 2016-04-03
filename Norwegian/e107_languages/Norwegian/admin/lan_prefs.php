@@ -244,6 +244,9 @@ define("PRFLAN_260", "Kun Innlogging");
 define("PRFLAN_261", "Feltalternativer");
 define("PRFLAN_262", "Passord i e-post bekreftelsen");
 define("PRFLAN_263", "Bør være unik for denne hjemmesiden");
+define("PRFLAN_264", "Forsiden er login side (login.php)");
+define("PRFLAN_265", "Forsiden er splash side (membersonly.php)");
+define("PRFLAN_266", "Når logget ut, hvilken side skal brukeren dirigeres til?");
 
 
 ?>
