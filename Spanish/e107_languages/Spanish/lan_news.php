@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/24 17:40:44
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("PAGE_NAME", "Noticias");
 define("LAN_NEWS_1", "Noticias específicos solo para miembros");
@@ -16,7 +22,7 @@ define("LAN_NEWS_14", "<br>Período de activación:");
 define("LAN_NEWS_15", "Longitud del cuerpo:");
 define("LAN_NEWS_16", "b. largo:");
 define("LAN_NEWS_17", "b.");
-define("LAN_NEWS_18", "Info:");
+define("LAN_NEWS_18", "Información:");
 define("LAN_NEWS_19", "Ahora");
 define("LAN_NEWS_23", "Categorías de noticias");
 define("LAN_NEWS_24", "crear pdf de esta noticia");
@@ -30,3 +36,6 @@ define("LAN_NEWS_87", "Noticias más recientes");
 define("LAN_NEWS_462", "No hay noticias para el mes especificado");
 define("LAN_NEWS_100", "En");
 define("LAN_NEWS_307", "Total entradas en esta categoría:");
+
+
+?>

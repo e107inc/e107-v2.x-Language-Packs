@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/24 18:24:49
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("EPL_ADLAN_0", "Instalar");
 define("EPL_ADLAN_1", "Desinstalar");
@@ -108,7 +114,6 @@ define("EPL_ADLAN_106", "Seleccione la carpeta del plugin para comenzar.");
 define("EPL_ADLAN_107", "Construir un archivo de área de administración y xml para:");
 define("EPL_ADLAN_108", "Comprobar archivos de idioma:");
 define("EPL_ADLAN_109", "Información básica.");
-define("EPL_ADLAN_111", "Generar");
 define("EPL_ADLAN_112", "Revise todos los campos y modificar si es necesario.");
 define("EPL_ADLAN_113", "Revisar todas las fichas antes de pulsar en 'Generate'.");
 define("EPL_ADLAN_114", "Plugin generador");
@@ -171,9 +176,9 @@ define("EPL_ADLAN_170", "Filtro");
 define("EPL_ADLAN_171", "En línea");
 define("EPL_ADLAN_172", "Validar");
 define("EPL_ADLAN_173", "Pantalla");
-define("EPL_ADLAN_174", "HelpTip");
-define("EPL_ADLAN_175", "ReadParms");
-define("EPL_ADLAN_176", "WriteParms");
+define("EPL_ADLAN_174", "Punta de Ayuda");
+define("EPL_ADLAN_175", "Parámetros para Leer");
+define("EPL_ADLAN_176", "Parámetros para Escribir");
 define("EPL_ADLAN_177", "Se requiere para llenar el campo");
 define("EPL_ADLAN_178", "Aparece por defecto");
 define("EPL_ADLAN_179", "Cuadro de texto");
@@ -229,3 +234,6 @@ define("EPL_ADLAN_229", "Actualización");
 define("LAN_UPGRADE_SUCCESSFUL", "Actualización exitosa");
 define("LAN_INSTALL_SUCCESSFUL", "Instalación exitosa");
 define("LAN_INSTALL_FAIL", "Error de instalación");
+
+
+?>

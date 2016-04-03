@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/06 18:45:01
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("FORLAN_2", "Por favor, seleccione Borrar mensajes podados totalmente o hacer inactivo (no borrados pero no visible en los foros)");
 define("FORLAN_7", "Foro opciones");
@@ -102,3 +108,8 @@ define("FORLAN_184", "Autorización de creación del hilo de rosca");
 define("FORLAN_185", "Indica que puede crear nuevos subprocesos");
 define("FORLAN_186", "Hilos por página");
 define("FORLAN_187", "Número de hilos que se muestran por página");
+define("FORLAN_188", "Últimas publicaciones");
+define("FORLAN_189", "Haga clic en el botón 'Eliminar' para eliminar el informe.<br /><br />Haga clic en el botón 'Ver' para ver el tema/hilo");
+
+
+?>

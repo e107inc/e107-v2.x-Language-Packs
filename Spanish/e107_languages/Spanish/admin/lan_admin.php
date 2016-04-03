@@ -1,9 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/11/13 22:26:58
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 define("ADLAN_0", "Noticias");
 define("ADLAN_1", "Administrar noticias");
 define("ADLAN_2", "Crear noticia");
@@ -16,14 +21,14 @@ define("ADLAN_8", "Administradores de");
 define("ADLAN_9", "Agregar o eliminar administradores");
 define("ADLAN_10", "Contraseña de administrador");
 define("ADLAN_11", "Cambiar la contraseña");
-define("ADLAN_12", "Docs");
+define("ADLAN_12", "Documentos");
 define("ADLAN_13", "Documentación del sistema");
 define("ADLAN_25", "Gestionar descargas");
 define("ADLAN_28", "Mensaje de bienvenida");
 define("ADLAN_29", "Mensaje de bienvenida static set");
 define("ADLAN_30", "Administrador de archivos");
 define("ADLAN_31", "Administrar/subir archivos");
-define("ADLAN_34", "Banlist");
+define("ADLAN_34", "Lista sobre los prohibidos");
 define("ADLAN_35", "Visitantes de la prohibición");
 define("ADLAN_36", "Usuarios de");
 define("ADLAN_37", "Miembros del sitio moderado");
@@ -45,7 +50,7 @@ define("ADLAN_58", "Emoticonos");
 define("ADLAN_59", "Configurar iconos gestuales");
 define("ADLAN_60", "Portada");
 define("ADLAN_61", "Configurar el contenido de la página delantera");
-define("ADLAN_66", "Meta Tags");
+define("ADLAN_66", "Etiquetas meta");
 define("ADLAN_67", "Añadir/editar etiquetas meta sitio");
 define("ADLAN_68", "Información de PHP");
 define("ADLAN_69", "Página de información de PHP");
@@ -63,7 +68,7 @@ define("ADLAN_91", "Inicia sesión");
 define("ADLAN_92", "Por favor conéctese para proceder al área de administración...");
 define("ADLAN_93", "Funciones de administración");
 define("ADLAN_95", "Administración de plugin");
-define("ADLAN_98", "Plugin Manager");
+define("ADLAN_98", "Gestor de Plugins");
 define("ADLAN_99", "Haga clic aquí para instalar, mantener y configurar los plugins que proporcionan características adicionales en su sitio.");
 define("ADLAN_102", "Hace ya más de 30 días cambiaron la contraseña del administrador principal-");
 define("ADLAN_103", "Haga clic aquí para cambiar ahora");
@@ -81,12 +86,12 @@ define("ADLAN_120", "Hay una actualización de la base de datos disponible, por 
 define("ADLAN_121", "Instalar");
 define("ADLAN_132", "Idioma");
 define("ADLAN_133", "por defecto");
-define("ADLAN_135", "Admin Log");
+define("ADLAN_135", "Registros de Admin");
 define("ADLAN_136", "Correo");
 define("ADLAN_137", "Configuración de correo electrónico y salgan");
 define("ADLAN_138", "Vínculos a sitios");
 define("ADLAN_139", "Añadir, editar o eliminar enlaces");
-define("ADLAN_140", "Theme Manager");
+define("ADLAN_140", "Gestor de Temas");
 define("ADLAN_141", "Haga clic aquí para instalar y configurar themes, que controlan la apariencia de su sitio.");
 define("ADLAN_143", "Configuración de búsqueda");
 define("ADLAN_144", "Usted está en modo de vista simple, para cambiar a vista avanzada");
@@ -114,7 +119,7 @@ define("ADLAN_CL_4", "COMS");
 define("ADLAN_CL_5", "Archivos");
 define("ADLAN_CL_6", "Herramientas");
 define("ADLAN_CL_7", "Plugins");
-define("ADLAN_CL_8", "Misc");
+define("ADLAN_CL_8", "Diverso");
 define("ADLAN_LAT_1", "Más reciente");
 define("ADLAN_LAT_2", "Noticias presentadas");
 define("ADLAN_LAT_5", "Enlaces enviados");
@@ -145,7 +150,6 @@ define("LAN_CREATED_FAILED", "Creación sin éxito");
 define("LAN_DELETED_FAILED", "Supresión fracasada");
 define("LAN_UPDATED_FAILED", "Actualización fracasada");
 define("LAN_NO_CHANGE", "Nada actualizado ya no se realizan cambios.");
-define("LAN_REQUIRED_BLANK", "Obligatorios a la izquierda en blanco.");
 define("LAN_TRY_AGAIN", "Por favor, inténtelo de nuevo.");
 define("LAN_NEVER", "Nunca");
 define("LAN_PRUNE", "Ciruela pasa");
@@ -161,7 +165,7 @@ define("LAN_CONFDELETE", "Confirmar borrar");
 define("LAN_PLUGIN", "Plugin");
 define("LAN_ORDER", "Orden");
 define("LAN_SELECT", "Seleccione...");
-define("LAN_ADMIN", "Admin");
+define("LAN_ADMIN", "Administrador");
 define("LAN_DISPLAYOPT", "Editar opciones de visualización");
 define("LAN_DATESTAMP", "Fecha");
 define("LAN_OPTIONAL", "opcional");
@@ -192,11 +196,11 @@ define("LAN_NEWVERSION", "Nueva versión disponible");
 define("LAN_CHECKALL", "Marque todas las");
 define("LAN_UNCHECKALL", "Desmarcar todos");
 define("LAN_DELCHECKED", "Comprobada la cancelación");
-define("LAN_USERCLASS", "Userclass");
+define("LAN_USERCLASS", "Clase de usuario");
 define("LAN_HELP", "Ayuda");
 define("LAN_CUSTOM", "Configuración personalizada");
 define("LAN_MENULAYOUT", "Diseño de menús");
-define("LAN_MEDIAMANAGER", "Media Manager");
+define("LAN_MEDIAMANAGER", "Gestor de Medios");
 define("LAN_MOREINFO", "Más información...");
 define("LAN_COMMENTMAN", "Administrador de comentarios");
 define("LAN_LIST", "Lista");
@@ -204,12 +208,14 @@ define("LAN_FILTER", "Filtro");
 define("LAN_STATUS", "Estado");
 define("LAN_URL", "URL");
 define("LAN_OWNER", "Propietario");
+define("LAN_PURCHASE", "Compra");
+define("LAN_DOWN_THEME", "Descargando");
 define("LAN_ID", "ID");
 define("LAN_VISIBILITY", "Visibilidad");
 define("LAN_ICON", "Icono");
 define("LAN_LOADING", "Cargando...");
 define("LAN_RUN", "Ejecutar");
-define("LAN_SEFURL", "SEF URL");
+define("LAN_SEFURL", "URL SEF");
 define("LAN_COPY", "Copia");
 define("LAN_KEYWORDS", "Palabras clave");
 define("LAN_TEMPLATE", "Plantilla");
@@ -261,3 +267,17 @@ define("LAN_USER_QUICKADD", "Rápido agregar usuario");
 define("LAN_USER_PRUNE", "Usuarios de ciruela pasa");
 define("LAN_USER_OPTIONS", "Opciones de usuario");
 define("LAN_USER_RANKS", "Rangos de usuario");
+define("LAN_CONTROL_PANEL", "Control Panel de [x]");
+define("LAN_CUSTOM_URL", "URL personalizada");
+define("LAN_CUSTOM_URL_DISABLED", "Discapacitados o Entra URL personalizada");
+define("LAN_GENERAL", "General");
+define("LAN_GEN_PW", "Generar una contraseña");
+define("LAN_DISPL_PW", "Mostrar la contraseña");
+define("LAN_WILL_OVERWRITE_SEF", "Esto sobrescribirá su URL SEF existente.");
+define("LAN_CAPTION", "Subtítulo");
+define("LAN_LIMIT", "Limite");
+define("LAN_BASIC", "Básico");
+define("LAN_ADVANCED", "Avanzado");
+
+
+?>

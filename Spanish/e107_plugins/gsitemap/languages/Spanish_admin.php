@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/24 18:38:54
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("GSLAN_1", "Vínculo a sitio");
 define("GSLAN_2", "¿De importación?");
@@ -22,8 +28,8 @@ define("GSLAN_21", "Instrucciones");
 define("GSLAN_22", "Crear nueva entrada");
 define("GSLAN_23", "Importación");
 define("GSLAN_24", "Entradas de Google Sitemap");
-define("GSLAN_27", "Lastmod");
-define("GSLAN_28", "Freq.");
+define("GSLAN_27", "Última Modificacíon");
+define("GSLAN_28", "Frequencia");
 define("GSLAN_29", "Configuración de Google Sitemap");
 define("GSLAN_32", "Cómo utilizar Google Sitemaps");
 define("GSLAN_33", "Instrucciones de GSiteMap");
@@ -33,3 +39,6 @@ define("GSLAN_36", "También puede introducir enlaces individuales manualmente h
 define("GSLAN_37", "Una vez que tengas algunas entradas, ir a [URL] y escriba la dirección URL siguiente-> <b>'. SITEURL.' gsitemap.php</b> - si este enlace no se ve bien a usted, por favor asegúrese de que su url del sitio es correcta en admin-> preferencias");
 define("GSLAN_38", "Para obtener más información sobre protocolo Google Sitemap, vaya a [URL].");
 define("GSLAN_39", "¿No hay enlaces en el mapa del sitio - importar sitelinks?");
+
+
+?>

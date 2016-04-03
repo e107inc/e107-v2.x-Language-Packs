@@ -1,9 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/11/08 15:33:59
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 define("DBLAN_1", "Configuración base respaldada en base de datos.");
 define("DBLAN_4", "Seleccione esta opción para comprobar la validez de la base de datos de e107");
 define("DBLAN_5", "Comprobar validez de la base de datos");
@@ -12,8 +17,7 @@ define("DBLAN_7", "Optimizar base de datos SQL");
 define("DBLAN_8", "Seleccione copia de seguridad de la configuración del núcleo");
 define("DBLAN_9", "Copia de seguridad base");
 define("DBLAN_10", "Utilidades de base de datos");
-define("DBLAN_11", "Base de datos MySQL");
-define("DBLAN_12", "optimizado");
+define("DBLAN_11", "Base de datos MySQL [x] optimalizado");
 define("DBLAN_15", "Seleccione esta opción para comprobar las actualizaciones disponibles de db");
 define("DBLAN_16", "Comprobar actualizaciones");
 define("DBLAN_17", "Nombre de Pref.");
@@ -102,3 +106,7 @@ define("DBLAN_107", "[carpeta] no es escribible");
 define("DBLAN_108", "Creado:");
 define("DBLAN_109", "Copiado:");
 define("DBLAN_110", "No copiar:");
+define("DBLAN_111", "Tablas parecen estar bien!");
+
+
+?>

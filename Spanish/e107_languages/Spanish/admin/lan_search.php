@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/24 18:28:16
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("SEALAN_1", "Configuración de búsqueda");
 define("SEALAN_3", "Método de tipo de búsqueda:");
@@ -18,7 +24,7 @@ define("SEALAN_19", "Permiten a los usuarios más de un área de búsqueda a la 
 define("SEALAN_20", "Configuración general");
 define("SEALAN_21", "Áreas de búsqueda");
 define("SEALAN_23", "Alternativa");
-define("SEALAN_25", "Userclass");
+define("SEALAN_25", "Clase de Usuarios");
 define("SEALAN_26", "Texto del pre-título");
 define("SEALAN_30", "Destacar palabras claves en que se refiere a la página:");
 define("SEALAN_31", "PHP se limita a");
@@ -37,3 +43,6 @@ define("SEALAN_46", "Número de caracteres en el Resumen de resultados de búsqu
 define("SEALAN_47", "Coincidir sólo palabras completas:");
 define("SEALAN_48", "Esta configuración sólo se aplica cuando el método de tipo de búsqueda es PHP. Si su sitio incluye Idiomas ideográficos como chino y japonés debe tener esto desactivado.");
 define("SEALAN_49", "Si su sitio incluye Idiomas ideográficos como chino y japonés, se debe utilizar el método de tipo PHP.");
+
+
+?>

@@ -1,9 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/01/31 21:58:45
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 define("LAN_EURL_NAME", "Administrar sitio URL");
 define("LAN_EURL_NAME_CONFIG", "Perfiles de");
 define("LAN_EURL_NAME_ALIASES", "Alias de");
@@ -23,6 +28,8 @@ define("LAN_EURL_FORM_HELP_ALIAS_0", "El valor predeterminado es");
 define("LAN_EURL_FORM_HELP_ALIAS_1", "Alias en");
 define("LAN_EURL_FORM_HELP_EXAMPLE", "URL base");
 define("LAN_EURL_ERR_ALIAS_MODULE", "Alias '%1\$s' no se puede guardar, porque hay un perfil de enlace de sistema con el mismo nombre. Por favor, elija otro valor de alias para Perfil de enlace de sistema '%2\$s'");
+define("LAN_EURL_SURL_UPD", "  URLs de SEF se actualizaron.");
+define("LAN_EURL_SURL_NUPD", "  URLs de SEF no se actualizaron.");
 define("LAN_EURL_SETTINGS_PATHINFO", "Quitar nombre de archivo de la URL");
 define("LAN_EURL_SETTINGS_MAINMODULE", "Espacio de nombres raíz asociado");
 define("LAN_EURL_SETTINGS_MAINMODULE_HELP", "Elegir qué zona se conectará con su URL del sitio base. Ejemplo: Cuando la noticia es su raíz nombres http://yoursite.com/News-Item-Title estará asociado con noticias (ver la página de artículo será resuelta)");
@@ -46,7 +53,7 @@ define("LAN_EURL_MENU_CONFIG", "Perfiles de URL");
 define("LAN_EURL_MENU_ALIASES", "Alias de");
 define("LAN_EURL_MENU_SETTINGS", "Configuración");
 define("LAN_EURL_MENU_HELP", "Ayuda");
-define("LAN_EURL_MENU_REDIRECTS", "Vuelve a dirigir");
+define("LAN_EURL_MENU_PROFILES", "Perfiles");
 define("LAN_EURL_UC", "En construcción");
 define("LAN_EURL_CORE_MAIN", "Sitio web Root Namespace - alias no esté en uso.");
 define("LAN_EURL_FRIENDLY", "Amistoso");
@@ -80,3 +87,7 @@ define("LAN_EURL_SYSTEM_REWRITE_LABEL", "Sistema amistoso URLs");
 define("LAN_EURL_SYSTEM_REWRITE_DESCR", "URLs de páginas como no encontrado, acceso denegado, etc..");
 define("LAN_EURL_CORE_INDEX", "Portada");
 define("LAN_EURL_CORE_INDEX_INFO", "Frontal página no puede tener un alias.");
+define("LAN_EURL_REBUILD", "Reconstruir");
+
+
+?>

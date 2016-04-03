@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/04/01 21:33:16
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("UE_LAN_1", "Cuadro de texto");
 define("UE_LAN_2", "Botones de radio");
@@ -44,3 +50,8 @@ define("UE_LAN_GENDER", "Género");
 define("UE_LAN_GENDER_DESC", "Género");
 define("UE_LAN_MALE", "Hombre");
 define("UE_LAN_FEMALE", "Mujer");
+define("UE_LAN_COMMENT", "Commentarios");
+define("UE_LAN_COMMENT_DESC", "Caja de Commentarios");
+
+
+?>

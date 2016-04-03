@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/03/19 23:34:49
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("ADLAN_PM_1", "Para activar por favor vaya a la pantalla de menús y seleccione el private_msg en una de sus áreas de menú.<br><br>Si usted necesita convertir los mensajes de una versión anterior, por favor vaya a la Página principal de configuración para este plugin y seleccione el enlace de 'convertir'.");
 define("ADLAN_PM_3", "PM configuración no encontrado, conjunto de valores por defecto");
@@ -37,7 +43,7 @@ define("ADLAN_PM_31", "Userclass permitidas enviar a userclass");
 define("ADLAN_PM_33", "Inactivo (sin límites)");
 define("ADLAN_PM_34", "Cuentas de PM");
 define("ADLAN_PM_35", "Tamaños de caja de PM");
-define("ADLAN_PM_36", "Userclass");
+define("ADLAN_PM_36", "Clase de usuario");
 define("ADLAN_PM_37", "Cuenta límites");
 define("ADLAN_PM_38", "Límites de tamaño (en KB)");
 define("ADLAN_PM_39", "Bandeja de entrada");
@@ -69,3 +75,6 @@ define("ADLAN_PM_79", "--HUÉRFANOS--sin usar archivos adjuntos eliminados. --FA
 define("ADLAN_PM_80", "Formatos de preferencia actualizados");
 define("ADLAN_PM_81", "Número máximo de PMs para enviar inmediatamente");
 define("ADLAN_PM_82", "Si envía más de esto, son añadidos a una cola y enviados mediante la tarea de cron");
+
+
+?>

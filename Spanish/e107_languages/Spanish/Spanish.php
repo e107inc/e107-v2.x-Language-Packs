@@ -1,10 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/11/08 15:26:39
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 setlocale(LC_ALL,  'es_ES.UTF-8', 'es_ES.utf8', 'es.utf8', 'es');
 define("CORE_LC", "es");
 define("CORE_LC2", "es");
@@ -38,10 +42,11 @@ define("LAN_EDIT", "Editar");
 define("LAN_DELETE", "Eliminar");
 define("LAN_DEFAULT", "Por defecto");
 define("LAN_MORE", "Más...");
+define("LAN_LESS", "..Menos");
 define("LAN_READ_MORE", "Leer más...");
 define("LAN_GOPAGE", "Ir a la página");
 define("LAN_GOTOPAGEX", "Ir a página [x]");
-define("LAN_GO", "Go");
+define("LAN_GO", "Ir");
 define("LAN_SUBMIT", "Enviar");
 define("LAN_NONE", "Ninguno");
 define("LAN_WARNING", "¡ ADVERTENCIA!");
@@ -81,6 +86,7 @@ define("LAN_LOGIN", "Inicio de sesión");
 define("LAN_LOGOUT", "Cierre de sesión");
 define("LAN_SETTINGS", "Configuración");
 define("LAN_PASSWORD", "Contraseña");
+define("LAN_INCORRECT_PASSWORD", "Contraseña incorrecta");
 define("LAN_TYPE", "Tipo");
 define("LAN_SCREENSHOT", "Captura de pantalla");
 define("LAN_FILE", "Archivo");
@@ -101,5 +107,13 @@ define("LAN_USER", "Usuario");
 define("LAN_EMAIL", "Dirección de correo electrónico");
 define("LAN_WROTE", "escribió");
 define("LAN_RE_ORDER", "Cambiar el orden");
+define("LAN_RELATED", "Relacionada");
 define("LAN_ENTER_USRNAME_EMAIL", "Por favor ingrese su nombre de usuario o correo electrónico");
 define("LAN_PWD_REQUIRED", "Se requiere contraseña");
+define("LAN_SHOW", "Mostrar");
+define("LAN_GENERATE", "Generar");
+define("LAN_SUMMARY", "Resumen");
+define("LAN_REQUIRED_BLANK", "Los campos necesario (s) era dejado en blanco.");
+
+
+?>
