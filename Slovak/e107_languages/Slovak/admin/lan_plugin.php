@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:34:37
+|        Last Modified: 2016/04/08 18:47:23
 |
 |        $Author: Jimako $
 +---------------------------------------------------------------+
@@ -37,8 +37,8 @@ define("EPL_ADLAN_26", "... kliknite sem pre pokračovanie v inštalácií");
 define("EPL_ADLAN_27", "Nie je možné zmazanie");
 define("EPL_ADLAN_28", "Tabuľky databázy úspešne zmazané");
 define("EPL_ADLAN_29", "Nastavenia konfigurácie úspešne zmazané.");
-define("EPL_ADLAN_30", "prosím, zmažte to manuálne.");
-define("EPL_ADLAN_31", "Prosím, zmažte teraz adresár");
+define("EPL_ADLAN_30", "Zmažte to manuálne.");
+define("EPL_ADLAN_31", "Teraz zmažte adresár");
 define("EPL_ADLAN_32", "a všetky súbory, ktoré obsahuje, pre dokončenie odinštalácie.");
 define("EPL_ADLAN_33", "Plugin inštalovaný.");
 define("EPL_ADLAN_34", "Plugin aktualizovaný.");
@@ -46,12 +46,12 @@ define("EPL_ADLAN_35", "Nastavenia syntaktického analyzátora pridané.");
 define("EPL_ADLAN_36", "Chyba kódu analyzátora, nepovolené formátovanie.");
 define("EPL_ADLAN_37", "");
 define("EPL_ADLAN_38", "Uploadovať plugin");
-define("EPL_ADLAN_39", "Súbor nemôže byť uploadovaný do adresára ".e_PLUGIN." , pretože nemá dostatočné práva - prosím, zmeňte prístupové práva adresára na CHMOD 777 a uploadujte súbor znovu.");
+define("EPL_ADLAN_39", "Súbor nemôže byť uploadovaný do adresára ".e_PLUGIN." , pretože nemá dostatočné práva - zmeňte prístupové práva adresára na CHMOD 777 a uploadujte súbor znovu.");
 define("EPL_ADLAN_40", "Správa administrátora");
 define("EPL_ADLAN_41", "Tento súbor nie je korektný .zip alebo .tar archív");
 define("EPL_ADLAN_42", "Chyba, nie je možné dekomprimovať archív");
 define("EPL_ADLAN_43", "");
-define("EPL_ADLAN_44", "Auto upload a dekompresia pluginov je vypnutá, pretože váš adresár pluginov nemá dostatočné prístupové práva - prosím, zmente prístupové práva adresára na CHMOD 777.");
+define("EPL_ADLAN_44", "Auto upload a dekompresia pluginov je vypnutá, pretože váš adresár pluginov nemá dostatočné prístupové práva - zmeňte prístupové práva adresára na CHMOD 777.");
 define("EPL_ADLAN_45", "");
 define("EPL_ADLAN_46", "chyba rozbaľovania PCLZIP:");
 define("EPL_ADLAN_47", "chyba rozbaľovania PCLTAR:");

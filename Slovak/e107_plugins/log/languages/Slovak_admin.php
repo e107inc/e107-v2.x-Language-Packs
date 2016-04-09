@@ -4,13 +4,13 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 17:00:51
+|        Last Modified: 2016/04/08 18:47:23
 |
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
 define("ADSTAT_LAN_1", "Tento plugin zaznamenáva návštevy vašej stránky a vyvtvára detailné štatistiky v grafickom prevedení.");
-define("ADSTAT_LAN_2", "Plugin štatistík je úspešne nainštalovaný. Pre prevod vašich doterajších záznamov choďte, prosím, <a href='".e_PLUGIN."log/update_routine.php'>na stránku s updatovacím skriptom</a>.");
+define("ADSTAT_LAN_2", "Plugin štatistík je úspešne nainštalovaný. Pre prevod vašich doterajších záznamov choďte <a href='".e_PLUGIN."log/update_routine.php'>na stránku s updatovacím skriptom</a>.");
 define("ADSTAT_LAN_3", "Štatistiky");
 define("ADSTAT_LAN_4", "Aktivovať zaznamenávanie štatistík");
 define("ADSTAT_LAN_5", "Druhy štatistík");

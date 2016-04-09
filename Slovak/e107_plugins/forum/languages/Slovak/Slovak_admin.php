@@ -4,12 +4,12 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:52:02
+|        Last Modified: 2016/04/08 18:47:23
 |
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("FORLAN_2", "Prosím, vyberte či chcete fórum po údržbe úplne vymazať alebo ho uviesť do stavu neaktivity (fórum sa nezmaže, len sa mu nastaví stav neviditeľnosti.");
+define("FORLAN_2", "Zvoľte či chcete fórum po údržbe úplne vymazať alebo ho uviesť do stavu neaktivity (fórum sa nezmaže, len sa mu nastaví stav neviditeľnosti.");
 define("FORLAN_7", "Nastavenia fóra");
 define("FORLAN_8", "Fóra po údržbe.");
 define("FORLAN_9", "Údržba nie je potrebná.");
@@ -32,7 +32,7 @@ define("FORLAN_55", "Hranica pre populárne vlákna");
 define("FORLAN_56", "Počet príspevkov vo vlákne potrebný na to, aby bolo označené ako populárne");
 define("FORLAN_57", "Príspevkov na stránku");
 define("FORLAN_58", "Počet zobrazených príspevkov na jednu stránku");
-define("FORLAN_60", "Táto funkcia môže zmazať všetky vlákna, ktoré boli neaktívne dlhšiu dobu ako vami zvolený počet dní. <br /><b>Prosím, buďte pri používaní tejto funkcie opatrný!</b>");
+define("FORLAN_60", "Táto funkcia môže zmazať všetky vlákna, ktoré boli neaktívne dlhšiu dobu ako vami zvolený počet dní. <br /><b>Buďte pri používaní tejto funkcie opatrný!</b>");
 define("FORLAN_65", "Názov fóra");
 define("FORLAN_66", "nenainštalované");
 define("FORLAN_70", "Povoliť súborové / obrázkové prílohy");

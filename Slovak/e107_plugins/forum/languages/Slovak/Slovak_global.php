@@ -10,7 +10,7 @@
 +---------------------------------------------------------------+
 */
 define("LAN_PLUGIN_FORUM_NAME", "Fórum");
-define("LAN_PLUGIN_FORUM_DESC", "Toto rozšírenie je plne funkčný systém pre vytvorenie diskusného fóra.");
+define("LAN_PLUGIN_FORUM_DESC", "Tento plugin je plne funkčný systém pre vytvorenie diskusného fóra.");
 define("LAN_PLUGIN_FORUM_POSTS", "príspevkov fóra");
 define("LAN_PLUGIN_FORUM_ALLFORUMS", "Všetky fóra");
 define("FORUM_LAN_URL_DEFAULT_LABEL", "Východzie URL pre fórum");

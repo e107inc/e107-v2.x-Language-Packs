@@ -15,7 +15,7 @@ define("RATELAN_2", "Ako hodnotíte túto položku?");
 define("RATELAN_3", "Ďakujeme za váš hlas!");
 define("RATELAN_4", "Nehodnotené");
 define("RATELAN_5", "Hodnotiť toto:");
-define("RATELAN_6", "Prihláste sa prosím, aby ste mohli hodnotiť.");
+define("RATELAN_6", "Prihláste sa, aby ste mohli hodnotiť.");
 define("RATELAN_POOR", "Slabé");
 define("RATELAN_FAIR", "Slušné");
 define("RATELAN_GOOD", "Dobré");

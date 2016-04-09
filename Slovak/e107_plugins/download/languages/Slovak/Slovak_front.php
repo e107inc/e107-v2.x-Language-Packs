@@ -33,7 +33,7 @@ define("LAN_dl_49", "Vrátiť sa na sťahovanie");
 define("LAN_dl_50", "Nahlásené nefunkčné sťahovanie");
 define("LAN_dl_51", "Hlásené sťahovanie:");
 define("LAN_dl_53", "Zobraziť súbor na stiahnutie");
-define("LAN_dl_54", "Administrátor bude upovedomený o tomto sťahovaní, prosím, ak považujete za nutné, zanechajte správu.");
+define("LAN_dl_54", "Administrátor bude upovedomený o tomto sťahovaní, ak to považujete za nutné, zanechajte správu.");
 define("LAN_dl_55", "Tento formulár používajte len na určený účel a nekontaktujte pomocou neho admina z iných dôvodov.");
 define("LAN_dl_57", "zaslané od");
 define("LAN_dl_58", "Táto správa bola zaslaná zo stránky");
@@ -49,7 +49,7 @@ define("LAN_dl_73", "Stiahnuť z tohto servera:");
 define("LAN_dl_74", "Celkom stiahnutí z tohto servera:");
 define("LAN_dl_75", "žiadny dostupný obrázok");
 define("LAN_dl_77", "Stiahnutia");
-define("LAN_dl_78", "Toto stiahnutie zablokované alebo prerušené. Skontrolujte prosím [downloads area]  pre novšie verzie.");
+define("LAN_dl_78", "Toto stiahnutie zablokované alebo prerušené. Skontrolujte [downloads area]  pre novšie verzie.");
 
 
 ?>

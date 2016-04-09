@@ -10,7 +10,7 @@
 +---------------------------------------------------------------+
 */
 define("LAN_LASTSEEN_1", "Menu Naposledy videné");
-define("LAN_ONLINE_TRACKING_MESSAGE", "Aktuálne nie je sledovanie online používateľov povolené, povoľte ho prosím [tu]");
+define("LAN_ONLINE_TRACKING_MESSAGE", "Aktuálne nie je sledovanie online používateľov povolené, povoľte ho [tu]");
 define("LAN_ONLINE_1", "hostí:");
 define("LAN_ONLINE_2", "členov:");
 define("LAN_ONLINE_3", "Na tejto stránke:");

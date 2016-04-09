@@ -4,15 +4,15 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:47:29
+|        Last Modified: 2016/04/08 18:47:23
 |
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
 define("NLLAN_04", "");
-define("NLLAN_05", "Zatial nie sú zadefinované žiadne novinky");
+define("NLLAN_05", "Zatial nie sú zadefinované žiadne články");
 define("NLLAN_07", "Odberateľ");
-define("NLLAN_10", "Existujúce novinky");
+define("NLLAN_10", "Existujúce články");
 define("NLLAN_11", "");
 define("NLLAN_12", "Vydanie");
 define("NLLAN_13", "[ Parent ID ] Predmet/Nadpis");
@@ -23,7 +23,7 @@ define("NLLAN_19", "Ste si istý, že chcete zmazať toto vydanie novín?");
 define("NLLAN_20", "Existujúce vydania");
 define("NLLAN_23", "Hlavička");
 define("NLLAN_24", "Pätička");
-define("NLLAN_30", "Novinky");
+define("NLLAN_30", "Články");
 define("NLLAN_31", "Predmet / Nadpis");
 define("NLLAN_32", "Číslo vydania");
 define("NLLAN_33", "Text");
@@ -32,10 +32,10 @@ define("NLLAN_37", "Vytvorte vydanie novín");
 define("NLLAN_39", "");
 define("NLLAN_40", "");
 define("NLLAN_41", "");
-define("NLLAN_44", "Úvodná strana noviniek");
-define("NLLAN_45", "Vytvor novinky");
+define("NLLAN_44", "Úvodná strana článkov");
+define("NLLAN_45", "Vytvorte článok");
 define("NLLAN_46", "Vytvorte Mailing");
-define("NLLAN_47", "Možnosti noviniek");
+define("NLLAN_47", "Možnosti článkov");
 define("NLLAN_48", "");
 define("NLLAN_49", "");
 define("NLLAN_54", "Odosielanie");

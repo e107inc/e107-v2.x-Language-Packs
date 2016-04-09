@@ -20,7 +20,7 @@ define("LANCONTACT_07", "Odoslať kópiu na email:");
 define("LANCONTACT_08", "Odoslať");
 define("LANCONTACT_09", "Vaša správa bola odoslaná");
 define("LANCONTACT_10", "Pri odosielaní došlo k chybe");
-define("LANCONTACT_11", "Zdá sa, že je vaša emailová adresa neplatná. \\nSkontrolujte ju prosím a skúste ju zadať znova.");
+define("LANCONTACT_11", "Zdá sa, že je vaša emailová adresa neplatná. \\nSkontrolujte ju a skúste ju zadať znova.");
 define("LANCONTACT_12", "Vaša správa je príliš krátka");
 define("LANCONTACT_13", "Zadajte predmet");
 define("LANCONTACT_14", "Odoslať správu:");

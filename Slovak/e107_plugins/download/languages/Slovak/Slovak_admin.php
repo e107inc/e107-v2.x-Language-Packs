@@ -9,13 +9,13 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("LAN_DL_OPTIONS", "nastavenia");
-define("LAN_DL_DOWNLOAD_OPT_GENERAL", "Hlavné štatistiky");
-define("LAN_DL_DOWNLOAD_OPT_BROKEN", "");
-define("LAN_DL_DOWNLOAD_OPT_AGREE", "");
-define("LAN_DL_UPLOAD", "uploadovať");
-define("LAN_DL_USE_PHP", "");
-define("LAN_DL_USE_PHP_INFO", "");
+define("LAN_DL_OPTIONS", "Nastavenia");
+define("LAN_DL_DOWNLOAD_OPT_GENERAL", "Všeobecné");
+define("LAN_DL_DOWNLOAD_OPT_BROKEN", "Nahlásenia");
+define("LAN_DL_DOWNLOAD_OPT_AGREE", "Súhlasy");
+define("LAN_DL_UPLOAD", "Nahrať");
+define("LAN_DL_USE_PHP", "Použiť PHP");
+define("LAN_DL_USE_PHP_INFO", "Checking this will send all download requests through PHP");
 define("LAN_DL_SUBSUB_CAT", "");
 define("LAN_DL_SUBSUB_CAT_INFO", "");
 define("LAN_DL_SUBSUB_COUNT", "");

@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:21:07
+|        Last Modified: 2016/04/08 18:47:23
 |
 |        $Author: Jimako $
 +---------------------------------------------------------------+
@@ -14,12 +14,12 @@ define("COMLAN_1", "Odblokovať");
 define("COMLAN_2", "Blokovať");
 define("COMLAN_4", "Info");
 define("COMLAN_5", "Komentáre ...");
-define("COMLAN_6", "Musíte byť prihlásení, aby ste mohli zasielať komentáre - prosím prihláste alebo zaregistrujte sa");
+define("COMLAN_6", "Musíte byť prihlásení, aby ste mohli zasielať komentáre - prihláste alebo zaregistrujte sa");
 define("COMLAN_7", "Hlavný administrátor");
 define("COMLAN_8", "komentár");
 define("COMLAN_9", "Pridať komentár");
 define("COMLAN_10", "Administrátor");
-define("COMLAN_11", "Nepodarilo sa zapísať komentár do databázy - prosím, prepíšte komentár a vynechajte všetky neštandardné znaky.");
+define("COMLAN_11", "Nepodarilo sa zapísať komentár do databázy - prepíšte komentár a vynechajte všetky neštandardné znaky.");
 define("COMLAN_12", "Užívateľ");
 define("COMLAN_16", "Meno užívateľa:");
 define("COMLAN_100", "Články");
@@ -34,7 +34,7 @@ define("COMLAN_194", "Hosť");
 define("COMLAN_195", "Registrovaný člen");
 define("COMLAN_310", "Nemožnosť odoslania príspevku s týmto užívateľským menom, pretože je registrované - ak je to vaše užívateľské meno, prosí, prihláste sa.");
 define("COMLAN_312", "Dvojitý komentár, nie je možné uložiť.");
-define("COMLAN_313", "Bydlisko");
+define("COMLAN_313", "Lokalita");
 define("COMLAN_314", "moderovať komentáre");
 define("COMLAN_315", "Spätné odkazy");
 define("COMLAN_316", "Žiadne spätné odkazy pre tento príspevok.");
@@ -52,24 +52,28 @@ define("COMLAN_328", "Komentáre sú zamknuté");
 define("COMLAN_329", "Neautorizované");
 define("COMLAN_330", "IP:");
 define("COMLAN_331", "Komentár ešte nebol schválený");
-define("COMLAN_332", "");
-define("COMLAN_333", "");
-define("COMLAN_334", "");
-define("COMLAN_335", "");
-define("COMLAN_336", "");
-define("COMLAN_337", "");
-define("COMLAN_400", "");
+define("COMLAN_332", "Nepodarilo sa vymazať komentár");
+define("COMLAN_333", "Komentár schválený");
+define("COMLAN_334", "Nepodarilo sa schváliť komentár");
+define("COMLAN_335", "Schválený");
+define("COMLAN_336", "Niečo najprv napíšte.");
+define("COMLAN_337", "Aktualizácia úspešná.");
+define("COMLAN_400", "schvalené");
 define("COMLAN_401", "blokované");
-define("COMLAN_402", "");
+define("COMLAN_402", "čakajúce");
+define("COMLAN_403", "Nechajte odkaz...");
+define("COMLAN_404", "Schváliť");
 define("COMLAN_TYPE_1", "Články");
 define("COMLAN_TYPE_2", "Stiahnutia");
 define("COMLAN_TYPE_3", "FAQ");
-define("COMLAN_TYPE_4", "anketa");
+define("COMLAN_TYPE_4", "Anketa");
 define("COMLAN_TYPE_5", "Dokumenty");
 define("COMLAN_TYPE_6", "Sledovanie bugov");
 define("COMLAN_TYPE_7", "Nápadov");
 define("COMLAN_TYPE_8", "užívateľský profil");
 define("COMLAN_TYPE_PAGE", "Článok");
+define("COMLAN_500", "Prihláste sa tu [sign in], ak chcete komentovať.");
+define("COMLAN_501", "Ak ešte nie ste zaregistrovaný, môžete sa zaregistrovať  [tu].");
 
 
 ?>

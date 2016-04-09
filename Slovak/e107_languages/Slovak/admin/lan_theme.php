@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:33:12
+|        Last Modified: 2016/04/08 18:47:23
 |
 |        $Author: Jimako $
 +---------------------------------------------------------------+
@@ -21,18 +21,18 @@ define("TPVLAN_11", "Verzia");
 define("TPVLAN_12", "Neprístupný žiadny náhľad");
 define("TPVLAN_13", "Uploadovať tému (.zip alebo .tar.gz formát)");
 define("TPVLAN_14", "Uploadovať tému");
-define("TPVLAN_15", "Súbor sa nepodarilo nahrať, pretože ".e_THEME.", adresár nemá potrebné prístupové práva - prosím nastavte práva na CHMOD 777 a nahrajte súbor znovu.");
+define("TPVLAN_15", "Súbor sa nepodarilo nahrať, pretože ".e_THEME.", adresár nemá potrebné prístupové práva - nastavte práva na CHMOD 777 a nahrajte súbor znovu.");
 define("TPVLAN_16", "Správa administrátora");
 define("TPVLAN_17", "Tento súbor nie je korektný .zip alebo .tar archív");
 define("TPVLAN_18", "Chyba, nie je možné dekomprimovať archív");
 define("TPVLAN_19", "Vaša téma bola nahraná a rozpakovaná.");
-define("TPVLAN_20", "Automatické nahratie a dekomprimácia vašej témy neprebehla v poriadku, pretože adresár tém nemá nastavené potrebné prístupové práva - prosím, zmeňte práva adresára e107_themes na CHMOD 777.");
+define("TPVLAN_20", "Automatické nahratie a dekomprimácia vašej témy neprebehla v poriadku, pretože adresár tém nemá nastavené potrebné prístupové práva - zmeňte práva adresára e107_themes na CHMOD 777.");
 define("TPVLAN_21", "Toto je práve zvolená hlavná téma");
 define("TPVLAN_22", "Kaskádové štýly");
 define("TPVLAN_23", "predvolený štýl");
 define("TPVLAN_24", "neuvedené");
 define("TPVLAN_26", "Manažér tém");
-define("TPVLAN_27", "Zvoľte prosím používaný štýl");
+define("TPVLAN_27", "Zvoľte používaný štýl");
 define("TPVLAN_28", "zapnuté");
 define("TPVLAN_29", "vypnuté");
 define("TPVLAN_30", "Preload obrázkov témy");
@@ -46,7 +46,7 @@ define("TPVLAN_37", "Nastavenia témy uložené");
 define("TPVLAN_38", "Nahrať tému");
 define("TPVLAN_39", "Dostupné témy");
 define("TPVLAN_40", "Téma administrácie nastavená na");
-define("TPVLAN_41", "Prosím, zvoľte štýl rozloženia administrácie");
+define("TPVLAN_41", "Zvoľte štýl rozloženia administrácie");
 define("TPVLAN_42", "Uložiť nastavenia admina");
 define("TPVLAN_43", "Nastavenia admina uložené");
 define("TPVLAN_46", "chyba rozbaľovania PCLZIP:");
@@ -56,7 +56,7 @@ define("TPVLAN_49", "");
 define("TPVLAN_50", "Rozloženia:");
 define("TPVLAN_51", "Zmeniť tému");
 define("TPVLAN_52", "Názov");
-define("TPVLAN_53", "Odporúčané rozšírenia");
+define("TPVLAN_53", "Odporúčané pluginy");
 define("TPVLAN_54", "");
 define("TPVLAN_55", "predvolený");
 define("TPVLAN_56", "Filter viditeľnosti");

@@ -49,6 +49,8 @@ define("UE_LAN_GENDER", "Pohlavie");
 define("UE_LAN_GENDER_DESC", "Pohlavie");
 define("UE_LAN_MALE", "Muž");
 define("UE_LAN_FEMALE", "Žena");
+define("UE_LAN_COMMENT", "Komentáre");
+define("UE_LAN_COMMENT_DESC", "Box s komentármi");
 
 
 ?>

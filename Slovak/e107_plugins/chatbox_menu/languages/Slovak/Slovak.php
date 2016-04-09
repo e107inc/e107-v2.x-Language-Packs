@@ -4,13 +4,13 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:51:14
+|        Last Modified: 2016/04/08 18:47:23
 |
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
 define("CHATBOX_L1", "Nemožnosť odoslania príspevku s týmto užívateľským menom, pretože je registrované - ak je to vaše užívateľské meno, prosí, prihláste sa.");
-define("CHATBOX_L3", "Musíte byť pihlásený, ak chcete na tejto stránke odosielať komentáre - príhláste sa prosím alebo ak nie ste registrovaný, kliknite <a href='".e_SIGNUP."'>sem</a> a zaregistrujte sa.");
+define("CHATBOX_L3", "Musíte byť pihlásený, ak chcete na tejto stránke odosielať komentáre - príhláste sa alebo ak nie ste registrovaný, kliknite <a href='".e_SIGNUP."'>sem</a> a zaregistrujte sa.");
 define("CHATBOX_L4", "Odoslať novú správu");
 define("CHATBOX_L5", "Reset");
 define("CHATBOX_L6", "[blokované adminom]");

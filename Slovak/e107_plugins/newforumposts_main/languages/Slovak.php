@@ -18,7 +18,7 @@ define("NFPM_LAN_6", "Vlákna");
 define("NFPM_LAN_7", "autor:");
 define("NFPM_L1", "Tento plugin zobrazuje na vašej úvodnej strane zoznam nových príspevkov do fóra ");
 define("NFPM_L2", "Posledné príspevky fóra");
-define("NFPM_L3", "Pre konfiguráciu, kliknite prosím na link v sekcii pluginov na hlavnej administračnej stránke");
+define("NFPM_L3", "Pre konfiguráciu, kliknite na link v sekcii pluginov na hlavnej administračnej stránke");
 define("NFPM_L4", "Aktivovať v ktorej oblasti?");
 define("NFPM_L5", "Neaktívne");
 define("NFPM_L6", "Horná časť stránky");

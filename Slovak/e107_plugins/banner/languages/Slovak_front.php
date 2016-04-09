@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/09 18:36:07
+|        Last Modified: 2016/04/08 18:47:23
 |
 |        $Author: Jimako $
 +---------------------------------------------------------------+
@@ -12,8 +12,8 @@
 define("PAGE_NAME", "Banner");
 define("BANNERLAN_16", "Meno užívateľa:");
 define("BANNERLAN_17", "Heslo:");
-define("BANNERLAN_19", "Pre pokračovanie zadajte vaše klientské užívateľské meno a heslo, prosím.");
-define("BANNERLAN_20", "Prepáčte, ale vaše údaje neboli nájdené v databáze. Kontaktujte, prosím, hlavného administrátora.");
+define("BANNERLAN_19", "Pre pokračovanie zadajte vaše klientské užívateľské meno a heslo");
+define("BANNERLAN_20", "Prepáčte, ale vaše údaje neboli nájdené v databáze. Kontaktujte hlavného administrátora.");
 define("BANNERLAN_21", "Štatistiky bannerov");
 define("BANNERLAN_22", "Klient");
 define("BANNERLAN_23", "ID bannera");
