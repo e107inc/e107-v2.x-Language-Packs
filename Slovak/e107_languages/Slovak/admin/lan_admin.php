@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/04/08 18:47:23
+|        Last Modified: 2015/12/10 12:32:21
 |
 |        $Author: Jimako $
 +---------------------------------------------------------------+
@@ -94,7 +94,7 @@ define("ADLAN_139", "+/e/- odkazov");
 define("ADLAN_140", "Manažér tém");
 define("ADLAN_141", "Sem kliknite, ak chcete nainštalovať a nastaviť témy, pomocou ktorých kontrolujete vzhľad vašej stránky.");
 define("ADLAN_143", "Konfigurácia vyhľadávania");
-define("ADLAN_144", "Ste v jednoduchom zobrazovacom móde, pre prepnutie do rozšíreného módu ");
+define("ADLAN_144", "Ste v jednoduchom zobrazovacom móde, pre prepnutie do rozšíreného módu");
 define("ADLAN_145", "kliknite sem");
 define("ADLAN_146", "Neúspešné prihlásenia");
 define("ADLAN_147", "Inšpektor súborov");
@@ -272,8 +272,8 @@ define("LAN_DISPL_PW", "Zobraziť heslo");
 define("LAN_WILL_OVERWRITE_SEF", "Týmto prepíšete svoju existujúce SEF URL");
 define("LAN_CAPTION", "Nadpis");
 define("LAN_LIMIT", "Limit");
-define("LAN_BASIC", "Základný");
-define("LAN_ADVANCED", "Rozšírený");
+define("LAN_BASIC", "Základné");
+define("LAN_ADVANCED", "Rozšírené");
 
 
 ?>
