@@ -108,6 +108,8 @@ define("LAN_EMAIL", "Dirección de correo electrónico");
 define("LAN_WROTE", "escribió");
 define("LAN_RE_ORDER", "Cambiar el orden");
 define("LAN_RELATED", "Relacionada");
+define("LAN_CLOSE", "Cerrar");
+define("LAN_EXPAND", "Expandir");
 define("LAN_ENTER_USRNAME_EMAIL", "Por favor ingrese su nombre de usuario o correo electrónico");
 define("LAN_PWD_REQUIRED", "Se requiere contraseña");
 define("LAN_SHOW", "Mostrar");

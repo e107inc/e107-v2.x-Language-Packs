@@ -67,7 +67,7 @@ define("ADSTAT_LAN_63", "Los conjuntos de datos disponibles");
 define("ADSTAT_LAN_64", "Registros de la base de datos:");
 define("ADSTAT_LAN_65", "Cadena de filtro del base de datos:");
 define("ADSTAT_LAN_66", "Mostrar Conjuntos de Datos");
-define("ADSTAT_LAN_67", "Generate a CSV (Comma Separated Variable) file of historical statistics which meets the specified criteria");
+define("ADSTAT_LAN_67", "Generar un archivo CSV (separados por comas variable) de las estadísticas históricas que cumpla los criterios especificados");
 define("ADSTAT_LAN_68", "Mostrar las entradas de bases de datos estadísticas que en realidad existen y cumplir con los criterios de selección");
 define("ADSTAT_LAN_69", "Eliminar los datos históricos");
 define("ADSTAT_LAN_70", "Borrar datos anteriores a:");

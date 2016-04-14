@@ -33,8 +33,6 @@ define("LAN_PM_21", "Añadiendo este PM superará su máximo tamaño, PM no publ
 define("LAN_PM_22", "Upload de archivos no pudo");
 define("LAN_PM_23", "No se permite enviar archivos adjuntos");
 define("LAN_PM_24", "Eliminación de PM");
-define("LAN_PM_25", "Bandeja de entrada");
-define("LAN_PM_26", "Bandeja de salida");
 define("LAN_PM_27", "No leídos");
 define("LAN_PM_28", "N / A");
 define("LAN_PM_29", "Mensaje enviado");
@@ -90,6 +88,7 @@ define("LAN_PM_107", "Estaba leyendo el mensaje privado enviado a {UNAME}");
 define("LAN_PM_108", "Mensaje:");
 define("LAN_PM_109", "Nuevo mensaje (s)");
 define("LAN_PM_111", "Leer");
+define("LAN_PM_112", "Usuario(s)");
 
 
 ?>

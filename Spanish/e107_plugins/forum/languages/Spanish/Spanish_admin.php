@@ -9,7 +9,6 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-
 define("FORLAN_2", "Por favor, seleccione Borrar mensajes podados totalmente o hacer inactivo (no borrados pero no visible en los foros)");
 define("FORLAN_7", "Foro opciones");
 define("FORLAN_8", "Foros de poda.");
@@ -108,8 +107,11 @@ define("FORLAN_184", "Autorización de creación del hilo de rosca");
 define("FORLAN_185", "Indica que puede crear nuevos subprocesos");
 define("FORLAN_186", "Hilos por página");
 define("FORLAN_187", "Número de hilos que se muestran por página");
-define("FORLAN_188", "Últimas publicaciones");
 define("FORLAN_189", "Haga clic en el botón 'Eliminar' para eliminar el informe.<br /><br />Haga clic en el botón 'Ver' para ver el tema/hilo");
+define("FORLAN_200", "Tema de seguimiento");
+define("FORLAN_201", "Permitir que esto permitirá a sus usuarios el seguimiento de los temas.");
+define("FORLAN_202", "Notificaciones por correo electrónico de seguimiento del tema");
+define("FORLAN_203", "Activar esta opción para permitir que sus usuarios reciban notificaciones por correo electrónico cuando otros respuesta a un tema de seguimiento.");
 
 
 ?>

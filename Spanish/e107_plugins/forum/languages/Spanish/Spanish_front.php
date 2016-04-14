@@ -172,6 +172,7 @@ define("LAN_FORUM_3028", "Agregar Encuesta");
 define("LAN_FORUM_3038", "Normal");
 define("LAN_FORUM_3039", "Desactivar emoticonos por este post");
 define("LAN_FORUM_3040", "Habilitar correo electrónico (correo electrónico enviado al contestar es publicada) de seguimiento");
+define("LAN_FORUM_3041", "Activar/desactivar el seguimiento de este tema");
 define("LAN_FORUM_3043", "Gracias");
 define("LAN_FORUM_3045", "La encuesta ha sido publicada con éxito.");
 define("LAN_FORUM_3046", "Haga clic aquí para ver la votación");
@@ -234,6 +235,8 @@ define("LAN_FORUM_8001", "Una nueva entrada ha sido hecha por [x] en el tema [y]
 define("LAN_FORUM_8002", "Por favor, haga clic en el siguiente enlace para ver el post completo ...");
 define("LAN_FORUM_8003", "Notificaciones por correo electrónico para este tema están ahora activados.");
 define("LAN_FORUM_8004", "Notificaciones por correo electrónico para este tema están ahora desactivados.");
+define("LAN_FORUM_8005", "Ahora está realizando el seguimiento de este tema.");
+define("LAN_FORUM_8006", "Ya no se está realizando el seguimiento de este tema.");
 
 
 ?>
