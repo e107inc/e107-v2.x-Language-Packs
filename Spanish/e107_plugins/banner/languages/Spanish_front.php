@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/24 18:32:35
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("PAGE_NAME", "Bandera");
 define("BANNERLAN_16", "Nombre de usuario:");
@@ -18,9 +24,12 @@ define("BANNERLAN_26", "Impresiones");
 define("BANNERLAN_27", "Comprada de impresiones");
 define("BANNERLAN_28", "Impresiones izquierda");
 define("BANNERLAN_29", "No hay banners");
-define("BANNERLAN_30", "Unlimited");
+define("BANNERLAN_30", "Ilimitado");
 define("BANNERLAN_31", "No es aplicable");
 define("BANNERLAN_34", "Termina:");
 define("BANNERLAN_35", "Direcciones IP de clickthrough");
 define("BANNERLAN_36", "Activo:");
 define("BANNERLAN_37", "Comienza:");
+
+
+?>

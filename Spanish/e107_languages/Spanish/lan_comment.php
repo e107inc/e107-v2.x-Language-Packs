@@ -1,9 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/28 01:36:40
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 define("COMLAN_0", "[bloqueado por admin]");
 define("COMLAN_1", "Desbloquear");
 define("COMLAN_2", "Bloque");
@@ -31,9 +36,9 @@ define("COMLAN_310", "No se puede aceptar puesto username es registrado - si es 
 define("COMLAN_312", "Post duplicado - no podemos aceptar.");
 define("COMLAN_313", "Ubicación");
 define("COMLAN_314", "Comentario moderado");
-define("COMLAN_315", "Trackbacks");
-define("COMLAN_316", "No hay trackbacks para este newspost.");
-define("COMLAN_317", "Trackbacks moderados");
+define("COMLAN_315", "Rastreas");
+define("COMLAN_316", "No hay rastreas para este newspost.");
+define("COMLAN_317", "Moderados rastreas");
 define("COMLAN_318", "Editar comentario");
 define("COMLAN_319", "editado");
 define("COMLAN_320", "Comentario de actualización");
@@ -41,7 +46,7 @@ define("COMLAN_321", "aquí");
 define("COMLAN_322", "para inscribirse");
 define("COMLAN_323", "¡ Error!");
 define("COMLAN_324", "Asunto");
-define("COMLAN_325", "Re:");
+define("COMLAN_325", "Respecto a:");
 define("COMLAN_326", "Contestar a este");
 define("COMLAN_328", "Se bloquean comentarios");
 define("COMLAN_329", "No autorizado");
@@ -56,12 +61,19 @@ define("COMLAN_337", "Actualizado correctamente.");
 define("COMLAN_400", "aprobado");
 define("COMLAN_401", "bloqueado");
 define("COMLAN_402", "pendiente");
-define("COMLAN_TYPE_1", "Noticias");
+define("COMLAN_403", "Deja un mensaje...");
+define("COMLAN_404", "Aprobar");
+define("COMLAN_TYPE_1", "noticias");
 define("COMLAN_TYPE_2", "descargar");
 define("COMLAN_TYPE_3", "Preguntas más frecuentes");
 define("COMLAN_TYPE_4", "encuesta");
-define("COMLAN_TYPE_5", "docs");
+define("COMLAN_TYPE_5", "documentos");
 define("COMLAN_TYPE_6", "Informe");
 define("COMLAN_TYPE_7", "ideas");
-define("COMLAN_TYPE_8", "userprofile");
+define("COMLAN_TYPE_8", "perfil de usuario");
 define("COMLAN_TYPE_PAGE", "Contenido");
+define("COMLAN_500", "Por favor,  [inicia sesión] para dejar un comentario.");
+define("COMLAN_501", "Si aún no está registrado, es posible que [haga clic aquí para registrarse].");
+
+
+?>

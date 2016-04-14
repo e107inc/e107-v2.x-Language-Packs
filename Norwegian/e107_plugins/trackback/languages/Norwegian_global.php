@@ -1,8 +1,17 @@
 <?php
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/03/19 22:36:46
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("LAN_PLUGIN_TRACKBACK_NAME", "Trackback");
+define("LAN_PLUGIN_TRACKBACK_NAME", "Tilbakesporing");
 define("LAN_PLUGIN_TRACKBACK_DESCRIPTION", "Dette programtillegget kan du bruke trackback i nyheter innleggene.");
+
+
+?>

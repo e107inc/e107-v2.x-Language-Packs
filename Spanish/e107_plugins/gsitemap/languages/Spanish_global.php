@@ -1,8 +1,17 @@
 <?php
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/24 18:39:40
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+define("LAN_PLUGIN_GSITEMAP_NAME", "Google Mapa de Sitio");
+define("LAN_PLUGIN_GSITEMAP_DESCRIPTION", "Genera un Google Mapa de Sitio");
 
-define("LAN_PLUGIN_GSITEMAP_NAME", "Google Sitemap");
-define("LAN_PLUGIN_GSITEMAP_DESCRIPTION", "Genera un Google Sitemap");
+
+?>

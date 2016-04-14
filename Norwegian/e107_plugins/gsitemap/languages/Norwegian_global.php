@@ -1,8 +1,17 @@
 <?php
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/03/19 22:51:27
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+define("LAN_PLUGIN_GSITEMAP_NAME", "Google Nettstedskart");
+define("LAN_PLUGIN_GSITEMAP_DESCRIPTION", "Genererer et Google Nettstedskart");
 
-define("LAN_PLUGIN_GSITEMAP_NAME", "Google Sitemap");
-define("LAN_PLUGIN_GSITEMAP_DESCRIPTION", "Genererer en Google Sitemap");
+
+?>

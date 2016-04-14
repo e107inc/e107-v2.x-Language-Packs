@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/04/13 21:09:45
+|
+|        $Author: Norwayman $
++---------------------------------------------------------------+
+*/
 
 define("ADSTAT_L1", "Este plugin se registro todas las visitas a su sitio y construir pantallas de Estadística detallada basadas en la información recopilada.");
 define("ADSTAT_L2", "El registrador de estadísticas se ha instalado correctamente. Para activar, vaya a la pantalla de configuración y haga clic en activar.<br><b>Debe establecer los permisos de la carpeta logs de registro de e107_plugins a 777 (chmod 777)</b>");
@@ -13,7 +19,7 @@ define("ADSTAT_L6", "Navegadores");
 define("ADSTAT_L7", "Sistemas operativos");
 define("ADSTAT_L8", "Las resoluciones de pantalla / profundidades");
 define("ADSTAT_L9", "Dominios de países visitados de");
-define("ADSTAT_L10", "Referrers");
+define("ADSTAT_L10", "Enlaces origen");
 define("ADSTAT_L11", "Consultas de búsqueda");
 define("ADSTAT_L12", "RESET stats");
 define("ADSTAT_L13", "Esto borrará las estadísticas de todos los tiempos - cuidadosos! Borra las estadísticas hasta el final de ayer. Hay una opción de menú separado para eliminar datos históricos seleccionados");
@@ -82,3 +88,6 @@ define("ADSTAT_L82", "Siguientes valores establece ahora:");
 define("ADSTAT_L83", "Siguiendo las entradas de identificación del registro eliminado:");
 define("ADSTAT_L84", "");
 define("ADSTAT_L85", "");
+
+
+?>

@@ -1,9 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/10/03 23:53:01
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 define("LANINS_001", "Instalación de e107");
 define("LANINS_002", "Paso");
 define("LANINS_003", "1");
@@ -30,7 +35,7 @@ Si tienes permisos de superusuario puede crear una nueva base de datos seleccion
 Si usted tiene sólo una base de datos use un prefijo para que otros scripts pueden compartir la misma base de datos.
 Si no conoces tus datos de MySQL en contacto con su Hosting.");
 define("LANINS_024", "Servidor MySQL:");
-define("LANINS_025", "MySQL Username:");
+define("LANINS_025", "Nombre de Usuario de MySQL:");
 define("LANINS_026", "Contraseña de MySQL:");
 define("LANINS_027", "Base de datos MySQL:");
 define("LANINS_028", "¿Crear base de datos?");
@@ -52,11 +57,11 @@ define("LANINS_044", "Ha creado correctamente la base de datos.");
 define("LANINS_045", "Haga clic en el botón proceder al siguiente paso.");
 define("LANINS_046", "5");
 define("LANINS_047", "Datos de administrador");
+define("LANINS_048", "Extensión EXIF");
 define("LANINS_049", "Las dos contraseñas que ha introducido no son lo mismo. Por favor, regrese e inténtelo de nuevo.");
 define("LANINS_050", "Extensión XML");
 define("LANINS_051", "Instalado");
 define("LANINS_052", "No instalado");
-define("LANINS_053", "e107 v2.x requiere la extensión XML de PHP ser instalado. Por favor, póngase en contacto con su anfitrión o leer la información en [x] antes de continuar");
 define("LANINS_055", "Confirmación de instalar");
 define("LANINS_056", "6");
 define("LANINS_057", "e107 ahora tiene toda la información que necesita para completar la instalación.
@@ -113,3 +118,14 @@ define("LANINS_126", "Por razones de seguridad debe ahora establecer los permiso
 define("LANINS_127", "La base de datos [x] ya existe. ¿Desea sobrescribirlo? (los datos existentes se perderán)");
 define("LANINS_128", "Sobrescribir");
 define("LANINS_129", "Base de datos no encontrado.");
+define("LANINS_134", "Instalación");
+define("LANINS_135", "de");
+define("LANINS_136", "Eliminar base de datos existente");
+define("LANINS_137", "Encontrado base de datos existente");
+define("LANINS_141", "Rellene el siguiente formulario con sus datos de MySQL. Si no conoce esta información, póngase en contacto con su proveedor de hosting. Es posible que se ciernen sobre cada campo para obtener información adicional.");
+define("LANINS_142", "IMPORTANTE: cambiar el nombre de e107.htaccess a .htaccess");
+define("LANINS_144", "IMPORTANTE: Por favor, copie y pegue el contenido del [b] e107.htaccess [/ b] en el [b] .htaccess [b /] archivo. Por favor, tenga cuidado de no sobrescribir los datos existentes que pueden estar en ella.");
+define("LANINS_145", "El versión v2.x de e107 requiere el PHP [x] para que se instale. Por favor, póngase en contacto con su proveedor de alojamiento o leer la información en [y] antes de continuar.");
+
+
+?>

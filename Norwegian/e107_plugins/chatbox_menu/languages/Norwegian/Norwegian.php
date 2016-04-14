@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/03/19 22:56:46
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("CHATBOX_L1", "Kan ikke godta innlegg som dette brukernavnet er registrert - hvis det er brukernavnet Logg bokføre.");
 define("CHATBOX_L3", "Du må være logget inn for å legge inn kommentarer på dette nettstedet - vennligst logg inn eller hvis du ikke er registrert Klikk <a href=''.e_SIGNUP.''>her</a> å kvittere");
@@ -10,7 +16,7 @@ define("CHATBOX_L4", "Post ny melding");
 define("CHATBOX_L5", "Tilbakestille");
 define("CHATBOX_L6", "[blokkert av admin]");
 define("CHATBOX_L7", "Oppheve");
-define("CHATBOX_L8", "Info");
+define("CHATBOX_L8", "Informasjon");
 define("CHATBOX_L9", "Blokk");
 define("CHATBOX_L11", "Ingen meldinger ennå.");
 define("CHATBOX_L12", "Se alle innlegg");
@@ -25,3 +31,6 @@ define("CHATBOX_L22", "på");
 define("CHATBOX_L24", "Du har ikke riktige tillatelser til å vise denne siden.");
 define("CHATBOX_L25", "[dette innlegget er blokkert av admin]");
 define("LAN_CHATBOX_100", "Skriv inn meldingen her.");
+
+
+?>

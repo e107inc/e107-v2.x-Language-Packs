@@ -1,9 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/06 18:46:48
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 define("e_PAGETITLE", "Foro");
 define("LAN_FORUM_0002", "Temas");
 define("LAN_FORUM_0003", "Respuestas");
@@ -13,7 +18,7 @@ define("LAN_FORUM_0006", "Este foro está restringido a los miembros de");
 define("LAN_FORUM_0007", "Este es un foro sólo lectura");
 define("LAN_FORUM_0008", "Esto es un foro restringido de clase");
 define("LAN_FORUM_0009", "Información");
-define("LAN_FORUM_0010", "Top Posters");
+define("LAN_FORUM_0010", "Los mejores carteles");
 define("LAN_FORUM_0011", "Temas más activos");
 define("LAN_FORUM_0012", "Mis Posts");
 define("LAN_FORUM_0013", "Mi configuración");
@@ -94,9 +99,11 @@ define("LAN_FORUM_1015", "[usuario borrado]");
 define("LAN_FORUM_1016", "Encuesta");
 define("LAN_FORUM_1017", "Vete a");
 define("LAN_FORUM_1018", "Nuevo tema");
+define("LAN_FORUM_1020", "Cambiar");
+define("LAN_FORUM_1021", "No respuestas");
 define("LAN_FORUM_2001", "Tema previo");
 define("LAN_FORUM_2002", "Tema siguiente");
-define("LAN_FORUM_2003", "Moderator(s)");
+define("LAN_FORUM_2003", "Moderador (s)");
 define("LAN_FORUM_2004", "Este tema ya está cerrado");
 define("LAN_FORUM_2005", "Crear un nuevo tema");
 define("LAN_FORUM_2006", "Publicar una respuesta");
@@ -132,7 +139,7 @@ define("LAN_FORUM_2037", "Post eliminado en");
 define("LAN_FORUM_2038", "Razón");
 define("LAN_FORUM_2041", "Citar");
 define("LAN_FORUM_2042", "Movimiento");
-define("LAN_FORUM_2043", "Split");
+define("LAN_FORUM_2043", "División");
 define("LAN_FORUM_2044", "Correo electrónico");
 define("LAN_FORUM_2045", "Imprimir");
 define("LAN_FORUM_2046", "Informe");
@@ -165,6 +172,7 @@ define("LAN_FORUM_3028", "Agregar Encuesta");
 define("LAN_FORUM_3038", "Normal");
 define("LAN_FORUM_3039", "Desactivar emoticonos por este post");
 define("LAN_FORUM_3040", "Habilitar correo electrónico (correo electrónico enviado al contestar es publicada) de seguimiento");
+define("LAN_FORUM_3041", "Activar/desactivar el seguimiento de este tema");
 define("LAN_FORUM_3043", "Gracias");
 define("LAN_FORUM_3045", "La encuesta ha sido publicada con éxito.");
 define("LAN_FORUM_3046", "Haga clic aquí para ver la votación");
@@ -223,3 +231,12 @@ define("LAN_FORUM_7006", "Resultado");
 define("LAN_FORUM_7007", "Encontrado en hilo");
 define("LAN_FORUM_7008", "NO SE ENCONTRÓ");
 define("LAN_FORUM_7009", "No subidos archivos encontrados");
+define("LAN_FORUM_8001", "Una nueva entrada ha sido hecha por [x] en el tema [y] en [z].");
+define("LAN_FORUM_8002", "Por favor, haga clic en el siguiente enlace para ver el post completo ...");
+define("LAN_FORUM_8003", "Notificaciones por correo electrónico para este tema están ahora activados.");
+define("LAN_FORUM_8004", "Notificaciones por correo electrónico para este tema están ahora desactivados.");
+define("LAN_FORUM_8005", "Ahora está realizando el seguimiento de este tema.");
+define("LAN_FORUM_8006", "Ya no se está realizando el seguimiento de este tema.");
+
+
+?>

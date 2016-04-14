@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/06 18:43:29
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("CACLAN_1", "Estado del sistema de memoria caché");
 define("CACLAN_2", "Estado de caché de sistema");
@@ -26,3 +32,9 @@ define("CACLAN_24", "Caché de estructura vacía DB");
 define("CACLAN_25", "Vaciar caché miniatura");
 define("CACLAN_26", "Vaciar el caché de todos");
 define("CACLAN_27", "Caché del navegador vacía");
+define("CACLAN_28", "JS/CSS Cache");
+define("CACLAN_29", "Consolidar y almacenar en caché los archivos javascript y archivos de hojas de estilo en cascada.");
+define("CACLAN_30", "Vaciar JS/CSS Cache");
+
+
+?>

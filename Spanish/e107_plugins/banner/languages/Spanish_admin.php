@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/24 18:32:03
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("BNRLAN_00", "No hay banners creados todavía.");
 define("BNRLAN_01", "Banner ID no encontrado.");
@@ -11,7 +17,7 @@ define("BNRLAN_8", "N / A");
 define("BNRLAN_9", "Comienza");
 define("BNRLAN_10", "Termina");
 define("BNRLAN_11", "Campaña");
-define("BNRLAN_12", "Client Login");
+define("BNRLAN_12", "Acceso Clientes");
 define("BNRLAN_13", "Contraseña de cliente");
 define("BNRLAN_14", "Banner imagen");
 define("BNRLAN_15", "Haga clic en URL");
@@ -39,3 +45,7 @@ define("BNRLAN_45", "Una campaña en un único menú");
 define("BNRLAN_46", "Todas las campañas en un solo menú");
 define("BNRLAN_47", "Todas las campañas en menús separados");
 define("BNRLAN_48", "Todas las campañas (no representación de la caja)");
+define("BNRLAN_49", "Descripción/Punta de la herramienta");
+
+
+?>

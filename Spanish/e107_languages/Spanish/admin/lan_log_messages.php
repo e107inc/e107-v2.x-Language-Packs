@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/24 18:16:32
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("LAN_AUDIT_LOG_001", "Acceso por usuario prohibida");
 define("LAN_AUDIT_LOG_002", "Protección de la inundación activado");
@@ -245,5 +251,8 @@ define("LAN_AL_PING_01", "Ping al servicio");
 define("LAN_AL_ADMINUI_01", "Admin-UI DB tabla Insert: [x]");
 define("LAN_AL_ADMINUI_02", "Actualización de tabla de DB admin-UI: [x]");
 define("LAN_AL_ADMINUI_03", "Admin-UI DB tabla borrar: [x]");
-define("LAN_AL_ADMINUI_04", "Admin-UI DB Error: [x]");
+define("LAN_AL_ADMINUI_04", "Error en Admin-UI DB: [x]");
 define("LAN_AL_BACKUP", "Backup de base de datos");
+
+
+?>
