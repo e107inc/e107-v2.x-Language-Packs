@@ -27,7 +27,7 @@ define("LAN_NEWS_23", "Kategórie článkov");
 define("LAN_NEWS_24", "vytvor pdf z tohto článku");
 define("LAN_NEWS_31", "Zvýrazniť článok");
 define("LAN_NEWS_82", "Články - Kategória");
-define("LAN_NEWS_83", "Žiadne články... skúste neskôr.");
+define("LAN_NEWS_83", "Žiadne články... skúste prosím neskôr.");
 define("LAN_NEWS_84", "Spať na prehľad článkov");
 define("LAN_NEWS_85", "Späť na prehľad kategórii");
 define("LAN_NEWS_86", "Staršie články");

@@ -33,8 +33,6 @@ define("LAN_PM_21", "Pridanie tejto SS prekročí maximum veľkosti odoslanej po
 define("LAN_PM_22", "Zlyhal upload súboru");
 define("LAN_PM_23", "Nemáte povolenie posielať prílohy");
 define("LAN_PM_24", "Mazanie SS");
-define("LAN_PM_25", "Došlá pošta");
-define("LAN_PM_26", "Odoslaná pošta");
 define("LAN_PM_27", "Neprečítané");
 define("LAN_PM_28", "Nedostupné");
 define("LAN_PM_29", "Správa odoslaná");
@@ -90,6 +88,9 @@ define("LAN_PM_107", "Súkromná správa, ktorú ste poslali {UNAME} bola preč�
 define("LAN_PM_108", "Správa poslaná dňa:");
 define("LAN_PM_109", "Nová správa/y");
 define("LAN_PM_111", "Čítať");
+define("LAN_PM_112", "User(s)");
+define("LAN_PM_113", "Read Message");
+define("LAN_PM_114", "You do not have access to send to this user.");
 
 
 ?>

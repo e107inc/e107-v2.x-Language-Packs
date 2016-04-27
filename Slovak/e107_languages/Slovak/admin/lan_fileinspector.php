@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/04/08 18:47:23
+|        Last Modified: 2015/12/09 18:28:10
 |
 |        $Author: Jimako $
 +---------------------------------------------------------------+
@@ -46,7 +46,7 @@ define("FR_LAN_12", "Može sa jednať o jedne z mnohý dôvodov chyby, ako napr�
 define("FR_LAN_13", "Súbor je neplatný");
 define("FR_LAN_14", "Ak je súbor pochádza zo staršej verzie e107, než akú používatekontrola integrity bude vždy neúspešná. Overte si, či ste uploadovali najnovšiu verziu súboru.");
 define("FR_LAN_15", "Súbor bol editovaný");
-define("FR_LAN_16", "Ak ste súbor editovali, v každom prípade skončí kontrola integrity chybou. Ak ste tento súbor editovali zámerne, berte tento výsledok kontroly integrity za bezpredmetný. Ale ak bol súbor editovaný niektým iným bez autorizávie k prístupu k vašm dátam, nahrajte tento súbor znovu z najnovšieho zip archívu e107.");
+define("FR_LAN_16", "Ak ste súbor editovali, v každom prípade skončí kontrola integrity chybou. Ak ste tento súbor editovali zámerne, berte tento výsledok kontroly integrity za bezpredmetný. Ale ak bol súbor editovaný niektým iným bez autorizávie k prístupu k vašm dátam, uploadujte, prosím, tento súbor znovuz najnovšieho zip archívu e107.");
 define("FR_LAN_17", "Ak ste CVS užívateľ");
 define("FR_LAN_18", "Ak ste užívateľom e107 CVS verzie a skúšate túto verziu namiesto oficiálnej stabilnej verzie e107, chyby integrity sa vyskytnú takmer vždy, pretože súbory boli nedávno editované vývojovým týmom e107.");
 define("FR_LAN_19", "chybných súborov");

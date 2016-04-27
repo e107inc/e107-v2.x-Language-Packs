@@ -1,0 +1,151 @@
+<?php
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Slovak Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/09 18:51:32
+|
+|        $Author: Jimako $
++---------------------------------------------------------------+
+*/
+define("LAN_DL_OPTIONS", "nastavenia");
+define("LAN_DL_DOWNLOAD_OPT_GENERAL", "Hlavné štatistiky");
+define("LAN_DL_DOWNLOAD_OPT_BROKEN", "");
+define("LAN_DL_DOWNLOAD_OPT_AGREE", "");
+define("LAN_DL_UPLOAD", "uploadovať");
+define("LAN_DL_USE_PHP", "");
+define("LAN_DL_USE_PHP_INFO", "");
+define("LAN_DL_SUBSUB_CAT", "");
+define("LAN_DL_SUBSUB_CAT_INFO", "");
+define("LAN_DL_SUBSUB_COUNT", "");
+define("LAN_DL_SUBSUB_COUNT_INFO", "");
+define("DOWLAN_1", "Sťahovanie uložené.");
+define("DOWLAN_2", "Sťahovanie aktualizované.");
+define("DOWLAN_5", "Neexistuje žiadna kategória sťahovaní. Musíte najskôr definovať aspoň jednu kategóriu sťahovaní.");
+define("DOWLAN_8", "");
+define("DOWLAN_9", "");
+define("DOWLAN_10", "Uploady");
+define("DOWLAN_11", "Kategória");
+define("DOWLAN_12", "Meno");
+define("DOWLAN_13", "súbor");
+define("DOWLAN_15", "Autor");
+define("DOWLAN_16", "Email autora");
+define("DOWLAN_17", "Web autora");
+define("DOWLAN_18", "Popis");
+define("DOWLAN_19", "Hlavný obrázok");
+define("DOWLAN_20", "Náhľad");
+define("DOWLAN_21", "Status");
+define("DOWLAN_22", "");
+define("DOWLAN_23", "");
+define("DOWLAN_24", "Aktualizovať sťahovanie");
+define("DOWLAN_25", "Uložiť sťahovanie");
+define("DOWLAN_27", "Stiahnutia");
+define("DOWLAN_28", "Žiadne");
+define("DOWLAN_31", "Kategórie");
+define("DOWLAN_32", "Stahnutia");
+define("DOWLAN_33", "Ste si istý, že chcete zmazať toto sťahovanie?");
+define("DOWLAN_42", "Zobraziť obrázky");
+define("DOWLAN_43", "Viditeľné pre");
+define("DOWLAN_55", "Počet sťahovaní zobrazených na stránku");
+define("DOWLAN_56", "zoradiť podľa");
+define("DOWLAN_59", "Meno súboru");
+define("DOWLAN_62", "vzostupne");
+define("DOWLAN_63", "zostupne");
+define("DOWLAN_64", "Aktualizovať nastavenia");
+define("DOWLAN_65", "Možnosti boli aktualizované");
+define("DOWLAN_66", "Veľkosť súboru");
+define("DOWLAN_68", "Súbor chýba!");
+define("DOWLAN_100", "Aktivovať overovanie sťahovaní");
+define("DOWLAN_101", "Text overenia");
+define("DOWLAN_102", "Povoliť komentáre?");
+define("DOWLAN_103", "Odstrániť z uploadov");
+define("DOWLAN_104", "bol odstránený z miesta pre nahrávanie verejných súborov");
+define("DOWLAN_105", "Späť na nahrané verejné súbory");
+define("DOWLAN_106", "Môže byť stiahnutý");
+define("DOWLAN_107", "Obmedziť počet stiahnutí súboru");
+define("DOWLAN_108", "Obmedziť rýchlosť sťahovania súboru");
+define("DOWLAN_109", "vždy");
+define("DOWLAN_110", "dni");
+define("DOWLAN_111", "kB");
+define("DOWLAN_112", "Obmedzenia");
+define("DOWLAN_113", "Užívateľská trieda");
+define("DOWLAN_114", "Pridať nové obmedzenie");
+define("DOWLAN_115", "Aktualizovať obmedzenia");
+define("DOWLAN_122", "Neaktívne");
+define("DOWLAN_123", "Aktívny - Na stiahnutie súboru majú vplyv limity pre sťahovanie");
+define("DOWLAN_124", "Neaktívny - Na sťahovanie súboru nemajú vplyv limity pre sťahovanie");
+define("DOWLAN_125", "Limity sťahovaní aktívne");
+define("DOWLAN_128", "Zrkadlové servery");
+define("DOWLAN_129", "nechajte prázdne, ak sa nemajú použiť zrkadlové servery");
+define("DOWLAN_130", "Pridať ďalší zrkadlový server");
+define("DOWLAN_131", "Vybrať lokálny súbor");
+define("DOWLAN_132", "");
+define("DOWLAN_133", "Zrkadlový server aktualizovaný");
+define("DOWLAN_134", "Zrkadlový server uložený do databázy");
+define("DOWLAN_135", "Zrkadlový server zmazaný");
+define("DOWLAN_136", "Obrázok");
+define("DOWLAN_137", "Ste si istý, že chcete zmazať tento zrkadlový server?");
+define("DOWLAN_138", "Existujúce zrkadlové servery");
+define("DOWLAN_139", "Adresa");
+define("DOWLAN_140", "");
+define("DOWLAN_141", "Bydlisko");
+define("DOWLAN_142", "Aktualizovať zrkadlový server");
+define("DOWLAN_143", "Vytvoriť zrkadlový server");
+define("DOWLAN_144", "Nie sú definované žiadne zrkadlové servere.");
+define("DOWLAN_145", "Sťahovanie je viditeľné pre");
+define("DOWLAN_146", "Vlastná správa o nepovolenom sťahovaní alebo URL");
+define("DOWLAN_148", "Zaškrtnite, ak sa má nastaviť aktuálny čas");
+define("DOWLAN_149", "Url");
+define("DOWLAN_150", "Pošle email adminovi, keď bude ohlásený neplatný link na sťahovanie");
+define("DOWLAN_151", "Hlásenie na neplatný link na sťahovanie je dostupné");
+define("DOWLAN_152", "");
+define("DOWLAN_153", "Presunúť súboru do zložky na sťahovanie");
+define("DOWLAN_154", "ak používate zrkadlové servere, vyberte, ako budú zobrazené");
+define("DOWLAN_155", "Druh zobrazenia zrkadla:");
+define("DOWLAN_156", "zobraziť zoznam zrkadiel, umožniť užívateľovi vybrať si zrkadlo");
+define("DOWLAN_157", "použiť náhodné zrkadlo - užívateľ nemá na výber");
+define("DOWLAN_160", "");
+define("DOWLAN_161", "");
+define("DOWLAN_164", "");
+define("DOWLAN_165", "");
+define("DOWLAN_166", "");
+define("DOWLAN_167", "");
+define("DOWLAN_168", "");
+define("DOWLAN_169", "Neaktívne");
+define("DOWLAN_171", "");
+define("DOWLAN_172", "");
+define("DOWLAN_173", "");
+define("DOWLAN_174", "");
+define("DOWLAN_175", "");
+define("DOWLAN_176", "");
+define("DOWLAN_178", "");
+define("DOWLAN_179", "");
+define("DOWLAN_180", "");
+define("DOWLAN_181", "");
+define("DOWLAN_182", "");
+define("DOWLAN_185", "");
+define("DOWLAN_186", "");
+define("DOWLAN_187", "");
+define("DOWLAN_188", "");
+define("DOWLAN_189", "");
+define("DOWLAN_190", "");
+define("DOWLAN_191", "");
+define("DOWLAN_192", "");
+define("DOWLAN_193", "");
+define("DOWLAN_195", "");
+define("DOWLAN_196", "zoznam");
+define("DOWLAN_197", "");
+define("DOWLAN_HELP_1", "Nápoveda");
+define("DOWLAN_HELP_2", "");
+define("DOWLAN_HELP_3", "");
+define("DOWLAN_HELP_4", "");
+define("DOWLAN_HELP_5", "");
+define("DOWLAN_HELP_6", "");
+define("DOWLAN_HELP_7", "");
+define("DOWLAN_HELP_8", "");
+define("DOWLAN_HELP_9", "");
+define("DOWLAN_HELP_10", "");
+
+
+?>

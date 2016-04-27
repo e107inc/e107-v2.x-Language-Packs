@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/04/08 18:47:23
+|        Last Modified: 2015/12/09 18:32:58
 |
 |        $Author: Jimako $
 +---------------------------------------------------------------+
@@ -29,7 +29,7 @@ define("UPLLAN_33", "Maximálna veľkosť súboru");
 define("UPLLAN_34", "");
 define("UPLLAN_37", "Práva");
 define("UPLLAN_38", "Zvoľte oprávnenú triedu užívateľov");
-define("UPLLAN_41", "Upozornenie - uploady súborov sú vypnuté v súbore php.ini, pokiaľ upload nepovolíte tam, nebude možný.");
+define("UPLLAN_41", "Prosím, všimnite si - uploady súborov sú vypnuté v súbore php.ini, pokiaľ upload nepovolíte tam, nebude možný.");
 define("UPLLAN_45", "Ste si istý, že chcete zmazať tento upload?");
 define("UPLAN_COPYTODLM", "kopírovať do manažéra downloadov");
 define("UPLAN_IS", "je");

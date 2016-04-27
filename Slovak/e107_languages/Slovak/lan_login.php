@@ -12,7 +12,7 @@
 define("LAN_LOGIN_1", "Uživatelské meno");
 define("LAN_LOGIN_2", "Užívateľské heslo");
 define("LAN_LOGIN_3", "Chránený server");
-define("LAN_LOGIN_4", "Prihláste sa");
+define("LAN_LOGIN_4", "Prosím prihláste sa");
 define("LAN_LOGIN_5", "Kliknite sem pre registráciu");
 define("LAN_LOGIN_6", "Momentálne nie je možná registrácia nových členov");
 define("LAN_LOGIN_7", "Vložte znázornený kód");
@@ -21,7 +21,7 @@ define("LAN_LOGIN_9", "Prihlásiť");
 define("LAN_LOGIN_10", "Kliknite pre prihlásenie");
 define("LAN_LOGIN_11", "Registrovať ako nového užívateľa");
 define("LAN_LOGIN_12", "Zabudnuté heslo");
-define("LAN_LOGIN_13", "Zadajte text z obrázku");
+define("LAN_LOGIN_13", "Prosím, zadajte text z obrázku");
 define("LAN_LOGIN_14", "Pokus užívateľa prihlásiť sa s neplatným menom");
 define("LAN_LOGIN_15", "Pokus užívateľa prihlísiť sa s neplatným heslom");
 define("LAN_LOGIN_16", "Pokus užívateľa prihlásiť sa s kombináciou neplatného užívateľského mena a hesla");
@@ -30,7 +30,7 @@ define("LAN_LOGIN_18", "Automatický zákaz: viac než [x] neúspešných pokuso
 define("LAN_LOGIN_19", "> ako 10 zaznamenaných neúspešných pokusov prihlásiť sa");
 define("LAN_LOGIN_20", "Prázdne povinné polia");
 define("LAN_LOGIN_21", "Nesprávne prihlásenie. Zadané údaje sa nezhodujú so žiadnym registrovaným užívateľom. Skontrolujte, či nemáte zapnutý CAPS-LOCK, keďže prihlásenie na tejto stránke je citlivé na veľké písmená.");
-define("LAN_LOGIN_22", "Ešte ste neaktivovali svoj účet. Mali by ste dostať email s pokynmi ako svoj účet potvrdiť. Ak ste ho nedostali, kliknite [here].");
+define("LAN_LOGIN_22", "Ešte ste neaktivovali svoj účet. Mali by ste dostať email s pokynmi ako svoj účet potvrdiť. Ak nie, kliknite prosím [here].");
 define("LAN_LOGIN_23", "Zadaný kód nesúhlasí.");
 define("LAN_LOGIN_24", "Táto kombinácia meno/heslo je už zaregistrovana.");
 define("LAN_LOGIN_25", "Pokúsil sa prihlásiť zakázaný užívateľ");

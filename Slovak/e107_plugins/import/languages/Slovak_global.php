@@ -9,8 +9,8 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("LAN_PLUGIN_IMPORT_NAME", "");
-define("LAN_PLUGIN_IMPORT_DESCRIPTION", "");
+define("LAN_PLUGIN_IMPORT_NAME", "Import into e107");
+define("LAN_PLUGIN_IMPORT_DESCRIPTION", "Import data from Wordpress, Joomla, Drupal, Blogpost, RSS and other formats.");
 
 
 ?>

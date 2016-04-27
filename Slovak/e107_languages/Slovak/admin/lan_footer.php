@@ -21,14 +21,14 @@ define("FOOTLAN_9", "Server");
 define("FOOTLAN_10", "host");
 define("FOOTLAN_11", "PHP verzia");
 define("FOOTLAN_12", "MySQL");
-define("FOOTLAN_13", "Informácie o stránke");
-define("FOOTLAN_14", "Zobraziť dokumentáciu");
+define("FOOTLAN_13", "Informácie o portály");
+define("FOOTLAN_14", "Ukázať dokumenty");
 define("FOOTLAN_15", "Dokumentácia");
 define("FOOTLAN_16", "Databáza");
 define("FOOTLAN_17", "Kódovanie");
 define("FOOTLAN_18", "Štýl stránok");
-define("FOOTLAN_19", "Čas servera");
-define("FOOTLAN_20", "Stupeň zabezpečenia");
+define("FOOTLAN_19", "");
+define("FOOTLAN_20", "Stupeň zabezpečení");
 
 
 ?>

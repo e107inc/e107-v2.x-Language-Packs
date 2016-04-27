@@ -18,15 +18,15 @@ define("NU_LAN_4", "Prihlásenie užívateľa");
 define("NU_LAN_5", "Odhlásenie užívateľa");
 define("NS_LAN_1", "Bezpečnostné udalosti");
 define("NS_LAN_2", "Zákaz IP útočiacej stránky");
-define("NN_LAN_1", "Udalosti článkov");
-define("NN_LAN_2", "Článok zaslaný užívateľom");
-define("NN_LAN_3", "Článok uložený administrátorom");
-define("NN_LAN_4", "Článok editovaný administrátorom");
-define("NN_LAN_5", "Článok zmazaný administrátorom");
-define("NM_LAN_1", "Udalosti emailu");
-define("NM_LAN_2", "Hromadný email dobehol kompletne");
+define("NN_LAN_1", "Udalosti noviniek");
+define("NN_LAN_2", "Novinka zaslané užívateľom");
+define("NN_LAN_3", "Novinka uložená administrátorom");
+define("NN_LAN_4", "Novinka editovaná administrátorom");
+define("NN_LAN_5", "Novinka zmazaná administrátorom");
+define("NM_LAN_1", "");
+define("NM_LAN_2", "");
 define("NF_LAN_1", "Udalosti súboru");
-define("NF_LAN_2", "Súbor nahraný užívateľom");
+define("NF_LAN_2", "Súbor uploadovaný užívateľom");
 define("LAN_NOTIFY_01", "Udalosti");
 
 

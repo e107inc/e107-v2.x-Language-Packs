@@ -93,7 +93,7 @@ define("LIST_ADMIN_LAN_30", "Použiť defaultné odrážky vzhľadu, pokiaľ nie
 define("LIST_ADMIN_LAN_32", "História: počet dní");
 define("LIST_ADMIN_LAN_33", "maximum dní, o koľko sa užívatelia môžu vrátiť");
 define("LIST_ADMIN_LAN_35", "dni");
-define("LIST_ADMIN_LAN_36", "");
+define("LIST_ADMIN_LAN_36", "časový interval");
 define("LIST_ADMIN_LAN_37", "Zobraziť zoznam s výberom koľko dní zobrazovať?");
 define("LIST_ADMIN_LAN_39", "otvoriť, ak existujú záznamy");
 define("LIST_ADMIN_LAN_40", "mali by byť sekcie, ktoré obsahujú záznamy, defaultne otvorené");

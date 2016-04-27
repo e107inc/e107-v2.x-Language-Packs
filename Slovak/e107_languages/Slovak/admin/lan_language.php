@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/04/08 18:47:23
+|        Last Modified: 2015/12/09 18:33:55
 |
 |        $Author: Jimako $
 +---------------------------------------------------------------+
@@ -31,7 +31,7 @@ define("LANG_LAN_21", "Jazykové nástroje");
 define("LANG_LAN_25", "");
 define("LANG_LAN_26", "");
 define("LANG_LAN_27", "");
-define("LANG_LAN_EML", "Jazykový balíček zašlite jazykový balíček na:");
+define("LANG_LAN_EML", "Prosím zašlete mailom jazykový balíček na:");
 define("LANG_LAN_32", "Inštalované jazyky");
 define("LANG_LAN_33", "Zobraziť iba chyby nájdené počas overovania");
 define("LANG_LAN_50", "");

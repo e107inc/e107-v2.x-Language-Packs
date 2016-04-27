@@ -4,7 +4,7 @@
 |        e107 website content management system Slovak Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/04/08 18:47:23
+|        Last Modified: 2015/12/09 18:34:08
 |
 |        $Author: Jimako $
 +---------------------------------------------------------------+
@@ -210,11 +210,11 @@ define("LAN_AL_SEARCH_04", "");
 define("LAN_AL_SEARCH_05", "");
 define("LAN_AL_SEARCH_06", "");
 define("LAN_AL_NOTIFY_01", "");
-define("LAN_AL_NEWS_01", "Článok zmazaný");
+define("LAN_AL_NEWS_01", "Novinka zmazaná");
 define("LAN_AL_NEWS_02", "");
 define("LAN_AL_NEWS_03", "");
 define("LAN_AL_NEWS_04", "");
-define("LAN_AL_NEWS_05", "Kategória článkov aktualizovaná");
+define("LAN_AL_NEWS_05", "Kategória noviniek aktualizovaná");
 define("LAN_AL_NEWS_06", "");
 define("LAN_AL_NEWS_07", "");
 define("LAN_AL_NEWS_08", "");
