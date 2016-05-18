@@ -35,4 +35,6 @@ define("CACLAN_27", "Böngésző gyorsítótárának ürítése");
 define("CACLAN_28", "JS/CSS Cache");
 define("CACLAN_29", "A cache javascript fájlok és CSS fájlok megerősítése.");
 define("CACLAN_30", "JS/CSS Cache Ürítése");
+
+
 ?>

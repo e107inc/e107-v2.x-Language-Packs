@@ -9,7 +9,6 @@
 |        $Author: Yesszus $
 +---------------------------------------------------------------+
 */
-
 define("ADLAN_0", "Hírek");
 define("ADLAN_1", "Hozzáadás/módosítás/törlés");
 define("ADLAN_2", "Hír létrehozása");
@@ -62,7 +61,7 @@ define("ADLAN_75", "Cache beállítása");
 define("ADLAN_78", "Bővített felhasználói mezők");
 define("ADLAN_79", "Módosítás");
 define("ADLAN_86", "Tiltott terület");
-define("ADLAN_87", "Hozzáférés megtagadva!");
+define("ADLAN_87", "A hozzáférés megtagadva!");
 define("ADLAN_89", "Admin név");
 define("ADLAN_90", "Admin jelszó");
 define("ADLAN_91", "Bejelentkezés");
@@ -122,12 +121,12 @@ define("ADLAN_CL_6", "Eszközök");
 define("ADLAN_CL_7", "Bővítmények");
 define("ADLAN_CL_8", "Egyéb");
 define("ADLAN_LAT_1", "Legújabb");
-define("ADLAN_LAT_2", "Beküldött hír");
-define("ADLAN_LAT_5", "Beküldött link");
-define("ADLAN_LAT_6", "Bejelentett fórumüzenet");
-define("ADLAN_LAT_7", "Feltöltött fájl");
+define("ADLAN_LAT_2", "Beküldött hírek");
+define("ADLAN_LAT_5", "Beküldött linkek");
+define("ADLAN_LAT_6", "Bejelentett fórumüzenetek");
+define("ADLAN_LAT_7", "Feltöltött fájlok");
 define("ADLAN_LAT_8", "Megtekintendő adminisztrátor üzenetek érhetőek el");
-define("ADLAN_LAT_9", "Függőben lévő hozzászólások");
+define("ADLAN_LAT_9", "Függő hozzászólások");
 define("ADLAN_ERR_3", "Egy vagy több fájl található a publikus feltöltések könyvtárban, melyek nincsennek az általad engedélyezett fájl tipusok listájában. Ezeket egy rosszindulatú felhasználó (támadó) helyezte ide és [b]azonnal[/b] törölni kell. [b]Ne[/b] nyisd meg ezeket a fájlokat, mert képesek rosszindulatú kódokat futtatni, melyek a fájlban bújnak meg. Pl.: ne nyisd meg a böngészővel.
 
 Ha ezeket a fájlokat jogosnak itéled meg és megfelelőnek tartod, akkor pontosítsd az engedélyezett fájl tipusokat. Ha egy általad engedélyezett fájl tipus a továbbiakban nem szerepel az engedélyezett fájl tipusok listájában, akkor hozzá kell adni (látsd admin => Feltöltések). Ne engedélyezd .html, .txt, ...stb. feltöltését, mert ezek tartalmazhatnak rosszindulatú javascript-et. És természetesen ne engedélyezd .php fájl feltöltését, mely egy másik tipusa a végrehajtó script-eknek.
@@ -140,18 +139,17 @@ define("LAN_ADD", "Hozzáadás");
 define("LAN_SAVE", "Mentés");
 define("LAN_SAVED", "Elmentve");
 define("LAN_SETSAVED", "A beállítások elmentve");
-define("LAN_NOCHANGE_NOTSAVED", "Nem történt változtatás - nincs elmentve");
+define("LAN_NOCHANGE_NOTSAVED", "Nem történt változtatás - nincs elmentve!");
 define("LAN_CONFIRMDEL", "Erősítsd meg a törlést");
 define("LAN_OPTIONS", "Opciók");
 define("LAN_PREFS", "Beállítások");
-define("LAN_DELETED", "Sikeresen törölve");
-define("LAN_UPDATED", "Sikeresen frissítve");
-define("LAN_CREATED", "Sikeresen létrehozva");
-define("LAN_CREATED_FAILED", "Sikertelen létrehozás");
-define("LAN_DELETED_FAILED", "Sikertelen törlés");
-define("LAN_UPDATED_FAILED", "Sikertelen frissítés");
+define("LAN_DELETED", "Sikeresen törölve!");
+define("LAN_UPDATED", "Sikeresen frissítve!");
+define("LAN_CREATED", "Sikeresen létrehozva!");
+define("LAN_CREATED_FAILED", "Sikertelen létrehozás!");
+define("LAN_DELETED_FAILED", "Sikertelen törlés!");
+define("LAN_UPDATED_FAILED", "Sikertelen frissítés!");
 define("LAN_NO_CHANGE", "Sikertelen frissítés vagy nem történt változtatás.");
-define("LAN_REQUIRED_BLANK", "Kötelező mező(k) maradtak üresen.");
 define("LAN_TRY_AGAIN", "Próbáld újra.");
 define("LAN_NEVER", "Soha");
 define("LAN_PRUNE", "Eltávolítás");
@@ -194,7 +192,7 @@ define("LAN_PRESET_CONFIRMSAVE", "Elmentse a jelenlegi értékeket alapértelmez
 define("LAN_CONFIGURE", "Beállítás");
 define("LAN_NOPERMISSION", "nincsennek jogosultságok");
 define("LAN_CREDITS", "Szerzők");
-define("LAN_NEWVERSION", "Új Verzió elérhető");
+define("LAN_NEWVERSION", "Elérhető az új verzió");
 define("LAN_CHECKALL", "Összes kijelölése");
 define("LAN_UNCHECKALL", "Kijelölések törlése");
 define("LAN_DELCHECKED", "Kijelöltek törlése");
@@ -276,4 +274,10 @@ define("LAN_GENERAL", "Általános");
 define("LAN_GEN_PW", "Jelszó generálása");
 define("LAN_DISPL_PW", "Jelszó megjelenítése");
 define("LAN_WILL_OVERWRITE_SEF", "A meglévő SEF URL cím felülírása.");
+define("LAN_CAPTION", "Felirat");
+define("LAN_LIMIT", "Korlát");
+define("LAN_BASIC", "Alap");
+define("LAN_ADVANCED", "Haladó");
+define("LAN_FOLDER", "Könyvtár");
+
 ?>

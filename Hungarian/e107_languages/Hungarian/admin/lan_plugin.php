@@ -110,7 +110,7 @@ define ('EPL_ADLAN_101',"Nincs telepített bővítmény - [x].");
 define ('EPL_ADLAN_102',"Ez a varázsló létrehoz egy admin felületet a bővítmény részére és legenerál egy plugin.xml meta fájlt. Mielőtt indítod:");
 define ('EPL_ADLAN_103',"Hozz létre egy új írható könyvtárat a [x] könyvtárban Pl.: [b]myplugin[/b]");
 define ('EPL_ADLAN_104',"Ha a bővítmény használni fogja a SQL táblákat, hozz létre egy új fájlt ebben a könyvtárban és nevezd el ugyanarra a névre, mint a könyvtár neve, de  [b]_sql.php[/b] mint egy sufix PL.: [b]myplugin_sql.php[/b]");
-define ('EPL_ADLAN_105',"Hozd létre a táblát a phpMyAdmin felületen és másold be az sql dump-ját és mentsd el. (látsd [i]e107_plugins/_blank/_blank_sql.php[/i] példaként)");
+define ('EPL_ADLAN_105',"Hozd létre a táblát a phpMyAdmin felületen és másold be az sql dump-ját és mentsd el. (látsd [b]e107_plugins/_blank/_blank_sql.php[/b] példaként)");
 define ('EPL_ADLAN_106',"Bővítmény könyvtárának kiválasztása a kezdéshez.");
 define ('EPL_ADLAN_107',"Admin terület és xml fájl felépítése ehhez:");
 define ('EPL_ADLAN_108',"Nyelvi fájlok ellenőrzése:");
@@ -253,4 +253,3 @@ define ('EPL_ADLAN_229',"Frissítés");
 define('LAN_UPGRADE_SUCCESSFUL', "Sikeres frissítés");
 define('LAN_INSTALL_SUCCESSFUL', "Sikeres telepítés");
 define('LAN_INSTALL_FAIL', "Sikertelen telepítés");
-?>

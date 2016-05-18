@@ -33,4 +33,3 @@ define("ADMSLAN_72", "Adminisztrátor ID: --ID-- név: --NAME-- új jogosultság
 define("ADMSLAN_73", "Adminisztrátor ID: --ID-- név: --NAME--");
 
 define("ADMSLAN_74", "Általános");
-?>

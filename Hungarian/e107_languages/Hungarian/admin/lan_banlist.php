@@ -122,5 +122,7 @@ define("BANLAN_121", "Feketelista bejegyzés");
 define("BANLAN_122", "Feketelista");
 define("BANLAN_123", "Hozzáadást");
 define("BANLAN_124", "Lejáratok");
-define("BANLAN_125", "A saját IP címem használata");
+define("BANLAN_125", "Az én IP címem használata");
+
+
 ?>

@@ -94,4 +94,3 @@ define("RL_LAN_123", "Felhasználó ellenőrzési nyomvonal csoport");
 define("RL_LAN_124", "Felhasználó ellenőrzési nyomvonal műveletek");
 define("RL_LAN_125", "Rendszer Naplózás karbantartása");
 define("RL_LAN_126", "Összesen [x] bejegyzés található, amely megegyezik a keresési feltétellel");
-?>

@@ -131,4 +131,6 @@ define("LAN_NEWS_92", "Pl.: news.php?all vagy news.php?cat.1 vagy news.php?tag=x
 define("LAN_NEWS_93", "Lista-nézet tartalma");
 define("LAN_NEWS_94", "A listában a Hírek az itt választott sablonnal jelennek majd meg.");
 define("LAN_NEWS_95", "Egy másik hír elem használja a SEF URL: [x]");
+
+
 ?>

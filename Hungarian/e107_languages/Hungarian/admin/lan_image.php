@@ -5,12 +5,12 @@
 // https://github.com/e107inc/multilan
 
 define("LAN_IMA_M_01", "Médiatár");
-define("LAN_IMA_M_02", "Média fletöltés/Importálás");
+define("LAN_IMA_M_02", "Feltöltés/Importálás");
 define("LAN_IMA_M_03", "Média kategóriák");
 define("LAN_IMA_M_04", "Kategória létrehozása");
 define("LAN_IMA_M_05", "Avatarok");
 
-define("LAN_IMA_001", "Módosítás nem engedélyezett.");
+define("LAN_IMA_001", "A módosítás nem engedélyezett!");
 define("LAN_IMA_002", "Nincs elég engedélyezett memória az elforgatáshoz");
 define("LAN_IMA_003", "Elforgatva");
 define("LAN_IMA_004", "Átméretezés");
@@ -30,7 +30,7 @@ define("IMALAN_5", "Az ImageMagick elérési útja (ha ezt választottad)");
 define("IMALAN_6", "Az ImageMagick Convert teljes elérési útja");
 define("IMALAN_7", "Képbeállítások");
 define("IMALAN_8", "Képbeállítások frissítése");
-define("IMALAN_9", "Képbeállítások frissítve");
+define("IMALAN_9", "A képbeállítások frissítve!");
 define("IMALAN_10", "Képek megtekintése");
 define("IMALAN_11", "Felhasználók korlátozása, hogy kik láthatják a képeket (ha fentebb engedélyezve van)");
 define("IMALAN_12", "Letiltott kép kezelése");
@@ -38,8 +38,8 @@ define("IMALAN_13", "Mi a teendő a képekkel, ha a kép tiltott");
 define("IMALAN_14", "Kép útvonalának megjelenítése");
 define("IMALAN_15", "Nem mutat semmit");
 define("IMALAN_18", "Feltöltött Avatar képek");
-define('IMALAN_20', "Nem történt változtatás");
-define("IMALAN_21", "Használja");
+define('IMALAN_20', "Nem történt változtatás!");
+define("IMALAN_21", "Használ");
 define("IMALAN_22", "A kép nincs használatban");
 define("IMALAN_23", "Avatarok");
 define("IMALAN_24", "Fotó");

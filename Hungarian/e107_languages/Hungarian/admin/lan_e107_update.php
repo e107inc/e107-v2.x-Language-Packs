@@ -6,7 +6,7 @@
 |        GNU General Public License (http://gnu.org).
 |        Last Modified: 2016/02/22 13:09:44
 |
-|        $Author: Torrentor $
+|        $Author: Yesszus $
 +---------------------------------------------------------------+
 */
 
@@ -47,4 +47,6 @@ define("LAN_UPDATE_56", "Rendszer frissítés");
 define("LAN_UPDATE_57", "Mielőtt folytatnád, manuálisan töröld a következő elavult mappákat a rendszerből:");
 define("LAN_UPDATE_CAPTION_PLUGIN", "Bővítmény-frissítések");
 define("LAN_UPDATE_CAPTION_CORE", "Rendszer-frissítések");
+
+
 ?>

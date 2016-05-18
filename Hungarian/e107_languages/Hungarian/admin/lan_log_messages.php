@@ -76,7 +76,7 @@ define("LAN_AL_BANLIST_12", "Lejárt kitiltások megtisztítva");
 define("LAN_AL_COMMENT_01", "Hozzászólások törölve");
 
 define("LAN_ROLL_LOG_01", "Üres felhasználónév és/vagy jelszó");
-define("LAN_ROLL_LOG_02", "Hibás a beírt kód");
+define("LAN_ROLL_LOG_02", "Hibás beírt kód");
 define("LAN_ROLL_LOG_03", "Hibás felhasználónév/jelszó kombináció");
 define("LAN_ROLL_LOG_04", "Hibás felhasználónév");
 define("LAN_ROLL_LOG_05", "Bejelentkezési kisérlet, pedig még nem teljes a regisztráció");
@@ -213,7 +213,7 @@ define("LAN_AL_EUF_10", "Bővített felhasználó mező kategória törölve");
 define("LAN_AL_EUF_11", "Bővített felhasználó mező aktiválva");
 define("LAN_AL_EUF_12", "Bővített felhasználó mező deaktiválva");
 
-define("LAN_AL_MENU_01", "Menü aktiválva");
+define("LAN_AL_MENU_01", "Menü aktiválás");
 define("LAN_AL_MENU_02", "Menü - megjelenítés beállítás");
 define("LAN_AL_MENU_03", "Menü - terület változtatás ");
 define("LAN_AL_MENU_04", "Menü deaktiválás");
@@ -285,4 +285,3 @@ define("LAN_AL_ADMINUI_03", "Admin-UI DB Tábla törlése: [x]");
 define("LAN_AL_ADMINUI_04", "Admin-UI DB Hiba: [x]");
 
 define("LAN_AL_BACKUP", "Adatbázis mentés");
-?>

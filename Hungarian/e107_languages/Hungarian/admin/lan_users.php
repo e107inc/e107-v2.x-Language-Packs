@@ -7,7 +7,7 @@
 define("USRLAN_1", "Beállítások elmentve.");
 define("USRLAN_3", "adminisztrátor - a jogosultságok beállításához menj az");
 define("USRLAN_4", "adminisztrátorok oldalra");
-define("USRLAN_5", "A fõadmin jogosultságai nem vonhatóak vissza");
+define("USRLAN_5", "A főadmin jogosultságai nem vonhatóak vissza");
 define("USRLAN_6", "admin jogai megvonva.");
 define("USRLAN_7", "A fõadmin nem tiltható ki");
 define("USRLAN_8", "Felhasználó kitiltva.");
@@ -29,12 +29,12 @@ define("USRLAN_36", "Csoport beállítása");
 define("USRLAN_44", "Tagok tölthetnek fel avatart?");
 
 define("USRLAN_47", "Maxiális avatar szélesség (pixel)");
-define("USRLAN_48", "Aalapértelmezett: 120");
+define("USRLAN_48", "Alapértelmezett: 120");
 define("USRLAN_49", "Maximális avatar magasság (pixel)");
 define("USRLAN_50", "Alapértelmezett: 100");
 define("USRLAN_51", "Mehet");
 define("USRLAN_52", "Tagok beállítása");
-define("USRLAN_53", "Fotó feltöltése engedélyezve a tagoknak?");
+define("USRLAN_53", "Fotó feltöltés engedélyezése a tagoknak?");
 define("USRLAN_54", "Inaktív felhasználó törlése");
 define("USRLAN_55", "Törlés");
 define("USRLAN_56", "Törölve");
@@ -48,14 +48,14 @@ define("USRLAN_64", "Email cím");
 define("USRLAN_65", "A megjelenő név nem fogadható el, válassz egy másikat");
 define("USRLAN_66", "A megjelenő név már létezik az adatbázisban, válassz másikat");
 define("USRLAN_67", "A két jelszó nem egyezik");
-define("USRLAN_68", "Kötelezõ mezõk maradtak üresen");
-define("USRLAN_69", "Ez nem tûnik valós e-mail címnek");
+define("USRLAN_68", "Kötelezõ mezők maradtak üresen");
+define("USRLAN_69", "Ez nem tűnik valós e-mail címnek");
 define("USRLAN_78", "Felhasználónév");
 define("USRLAN_79", "Állapot");
 define("USRLAN_80", "Információ");
 
 define("USRLAN_84", "Van");
-define("USRLAN_85", "tag, aki még nem erõsítette meg a regisztrációját - kattints a lenti gombra a törléshez.");
+define("USRLAN_85", "tag, aki még nem erősítette meg a regisztrációját - kattints a lenti gombra a törléshez.");
 define("USRLAN_86", "Felhasználó megerősítve");
 define("USRLAN_87", "Felhasználó beállítások frissítve");
 define("USRLAN_88", "Csoportok frissítve");
@@ -65,15 +65,15 @@ define("USRLAN_91", "Csoport");
 define("USRLAN_92", "Tiltott karakterek a felhasználónévben");
 
 define("USRLAN_93", "Megerősítés nélküli felhasználók törlése");
-define("USRLAN_94", "Regisztráció törlése, ha adott idõtartam alatt nincs megerõsítve - Hagyd üresen, ha nem akarod használni ezt a lehetõséget <br />Ezt az opciót nem veszi figyelembe, ha a regisztráció admin jóváhagyással történik");
+define("USRLAN_94", "Regisztráció törlése, ha adott időtartam alatt nincs megerősítve - Hagyd üresen, ha nem akarod használni ezt a lehetőséget <br />Ezt az opciót nem veszi figyelembe, ha a regisztráció admin jóváhagyással történik");
 define("USRLAN_95", "perc");
 
 define("USRLAN_112", "Email újraküldése");
 define("USRLAN_113", "Regisztrációs adatok:");
 define("USRLAN_114", "Kedves");
 define("USRLAN_115", "Köszönjük a regisztrációt.");
-define("USRLAN_116", "Erõsítsd meg, hogy újra akarod küldetni az aktiváláshoz szükséges emailt a következõnek:");
-define("USRLAN_117", "Kattints az alábbi gombra a következõ email cím tesztelésére:");
+define("USRLAN_116", "Erősítsd meg, hogy újra akarod küldetni az aktiváláshoz szükséges emailt a következőnek:");
+define("USRLAN_117", "Kattints az alábbi gombra a következő email cím tesztelésére:");
 define("USRLAN_118", "Teszt e-mail küldése");
 define("USRLAN_119", "Teszt [x]");
 
@@ -100,15 +100,15 @@ define("USRLAN_135", "Nem található IP cím a felhasználó információban, I
 define("USRLAN_136", "Több felhasználó azonos IP címmel ennél az {IP} címnél, IP nincs kitiltva.");
 define("USRLAN_137", "Felhasználó IP cím kitiltva ezzel az {IP} címmel.");
 
-define("USRLAN_138", "Nem ellenõrzött felhasználók");
+define("USRLAN_138", "Ellenőrizetlen felhasználók");
 define("USRLAN_139", "Hozzáférésed aktiválva.\n\nLátogass el a(z) {SITEURL} oldalra és lépj be az általad megadott felhasználói adatokkal.");
 
-define("USRLAN_140", "Aktiváló email újraküldve a következõnek");
-define("USRLAN_141", "Email újraküldése sikertelen a következõnek");
-define("USRLAN_142", "a következõ aktiváló linkkel");
+define("USRLAN_140", "Aktiváló email újraküldve a következőnek");
+define("USRLAN_141", "Email újraküldése sikertelen a következőnek");
+define("USRLAN_142", "a következő aktiváló linkkel");
 
-define("USRLAN_143", "Visszautasított email ellenõrzése");
-define("USRLAN_144", "Megerõsítõ email újraküldése mindenkinek");
+define("USRLAN_143", "Visszautasított email ellenőrzése");
+define("USRLAN_144", "Megerõsítő email újraküldése mindenkinek");
 define("USRLAN_145", "Visszautasított felhasználók");
 define("USRLAN_146", "Tag információk engedélyezése a következőnek");
 
@@ -179,8 +179,8 @@ define("USRLAN_216", "--válassz képet--");
 
 define("USRLAN_219", "Régebbi, mint 30 nap");
 
-define("LAN_MAINADMIN","Fõadmin");
-define("LAN_NOTVERIFIED","Nincs Ellenõrizve");
+define("LAN_MAINADMIN","Főadmin");
+define("LAN_NOTVERIFIED","Nincs Ellenőrizve");
 define("LAN_BANNED","Kitiltva");
 define("LAN_BOUNCED","Visszautasítva");
 
@@ -201,7 +201,7 @@ define("USRLAN_232", "Aktiváló kód hiányzik.");
 define("USRLAN_233", "Érvényes");
 define("USRLAN_234", "Érvénytelen");
 define("USRLAN_235", "A felhasználót ellenőrizni kell.");
-define("USRLAN_236", "Művelet sikertelen.");
+define("USRLAN_236", "Sikertelen művelet!");
 define("USRLAN_237", "A bejelentkezőnév és a megjelenő név nem lehet különböző (az oldal beállítások alapján). Megjelenő név beállítása erre [b][x][/b].");
 define("USRLAN_238", "Jelenlegi állapotod [b]Aktív[/b]");
 

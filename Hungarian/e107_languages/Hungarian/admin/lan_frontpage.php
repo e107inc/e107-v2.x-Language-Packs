@@ -22,4 +22,6 @@ define("FRTLAN_PAGE_TITLE", "Kezdőlap");
 define("FRTLAN_56", "duplikált definíció ehhez a csoporthoz:");
 define("FRTLAN_57", "Szoftver hiba");
 define("FRTLAN_61", "Kiválasztás");
+
+
 ?>

@@ -6,7 +6,7 @@
 |        GNU General Public License (http://gnu.org).
 |        Last Modified: 2016/02/27 21:28:48
 |
-|        $Author: Torrentor $
+|        $Author: Yesszus $
 +---------------------------------------------------------------+
 */
 define("DBLAN_1", "Core beállítások elmentve az adatbázisban.");
@@ -35,7 +35,7 @@ define("DBLAN_29", "Bővítmények ellenőrzése");
 define("DBLAN_30", "Ha egy bővítmény egy hibát mutat, ellenőrizd a PHP kezdő/záró tag-eken kívül eső karaktereket.");
 define("DBLAN_31", "Viszgálat kész");
 define("DBLAN_33", "Elérhetetlen");
-define("DBLAN_34", "Nem ellenörzött");
+define("DBLAN_34", "Nem ellenőrzött");
 define("DBLAN_35", "e107 adatbázis bejegyzések ellenőrzése");
 define("DBLAN_36", "Adatbázis bejegyzések ellenőrzése");
 define("DBLAN_37", "Táblák ellenőrzése");
@@ -108,4 +108,5 @@ define("DBLAN_108", "Létrehozva:");
 define("DBLAN_109", "Másolva:");
 define("DBLAN_110", "Nem lehet másolni:");
 define("DBLAN_111", "Úgy tűnik minden rendben van a kiválasztott táblával/táblákkal!");
+
 ?>

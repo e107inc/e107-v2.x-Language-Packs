@@ -81,4 +81,3 @@ define("FS_LAN_9", "Pillanatkép");
 define("FS_LAN_10", "Pillanatkép kész");
 define("FS_LAN_11", "A pillanatkép sikeresen létrehozva.");
 define("FS_LAN_12", "Vissza a főoldalra");
-?>

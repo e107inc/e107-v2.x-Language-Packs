@@ -17,7 +17,7 @@ define("TPVLAN_3", "Az oldal témája megváltoztatva.");
 define("TPVLAN_5", "Weboldal");
 define("TPVLAN_6", "Kiadás dátuma");
 define("TPVLAN_7", "Információ");
-define("TPVLAN_9", "Sablon előnézete");
+define("TPVLAN_9", "A sablon előnézete");
 define("TPVLAN_10", "Beállítás az oldal témájaként");
 define("TPVLAN_11", "Verzió");
 define("TPVLAN_12", "Nincs elérhető előnézet");
@@ -30,7 +30,7 @@ define("TPVLAN_18", "Hiba: a fájl kicsomagolása nem sikerült");
 define("TPVLAN_19", "A sablon feltöltve és kicsomagolva.");
 define("TPVLAN_20", "Az automatikus feltöltés és kicsomagolás nem lehetséges, mert a themes könyvtár nem írható - adj rá írási jogot (CHMOD 777).");
 define("TPVLAN_21", "Jelenleg ez a beállított sablon");
-define("TPVLAN_22", "a sablon több stíluslapot is tartalmaz");
+define("TPVLAN_22", "A sablon több stíluslapot tartalmaz");
 define("TPVLAN_23", "alapértelmezett stíluslap");
 define("TPVLAN_24", "nincs információ");
 define("TPVLAN_26", "Sablon kezelő");
@@ -59,9 +59,9 @@ define("TPVLAN_50", "Elrendezések");
 define("TPVLAN_51", "Sablon cseréje");
 define("TPVLAN_52", "Név");
 define("TPVLAN_53", "Javasolt bővítmények");
-define("TPVLAN_54", "Menü előbeállítások");
+define("TPVLAN_54", "Előre beállított menük");
 define("TPVLAN_55", "Alapértelmezett");
-define("TPVLAN_56", "Megjelenítés szűrő");
+define("TPVLAN_56", "Szűrés megjelenítés");
 define("TPVLAN_57", "Kompatibilitás");
 define("TPVLAN_58", "Ez a sablon előtelepített példa tartalmat tartalmaz (úgy mint oldalak és menük) amelyeket használhat a weboldalán.");
 define("TPVLAN_59", "Figyelj arra, hogy ezek a példa tartalmak [b]felülírják[/b] a saját jelenlegi tartalmat a következőkkel");
@@ -98,4 +98,6 @@ define("TPVLAN_CONV_12", "A sablon teljes ismertetése (Angol nyelven)");
 define("TPVLAN_CONV_13", "Milyen kategóriába tartozik ez a sablon?");
 define("TPVLAN_CONV_14", "Engedélyezi választható opcióként a stíluslapot  a Theme Kezelőben.");
 define("TPVLAN_CONV_15", "Adja meg a stíluslap nevét");
+
+
 ?>
