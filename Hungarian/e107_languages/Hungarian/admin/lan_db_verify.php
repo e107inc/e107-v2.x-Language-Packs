@@ -1,10 +1,16 @@
 <?php
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Hungarian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/05/17 21:28:48
+|
+|        $Author: Yesszus $
++---------------------------------------------------------------+
+*/
 
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("DBVLAN_1", "SQL adatfile beolvasása sikertelen<br /><br />Ellenőrizd, hogy a [b]core_sql.php[/b] fájl megtalálható az [b]/admin/sql[/b] könyvtárban.");
+define("DBVLAN_1", "Sikertelen SQL adatfájl beolvasás!<br /><br />Ellenőrizd, hogy a [b]core_sql.php[/b] fájl megtalálható az [b]/admin/sql[/b] könyvtárban.");
 
 define("DBVLAN_4", "Tábla");
 define("DBVLAN_5", "Mező");
@@ -28,3 +34,4 @@ define("DBVLAN_23", "Adatbázis programok");
 define("DBVLAN_24", "Válaszd ki műveletet.");
 define("DBVLAN_25", "Index hiányzik!");
 define("DBVLAN_26", "[x] tábla hibás.");
+?>
