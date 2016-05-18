@@ -107,4 +107,3 @@ define("LAN_SEARCH_98", "Hírek");
 define("LAN_SEARCH_201", "Határozd meg újra a keresés feltételét");
 
 define("LAN_SEARCH_202", "Váltás részletes módra");
-?>

@@ -17,4 +17,3 @@ define("UC_LAN_9","Új Tagok");
 define("UC_LAN_10", "Kereső Robotok");
 define("UC_LAN_INVERT", "Nem --CLASS--");
 define("UC_LAN_INVERTLABEL", "Mindenki, kivéve..");
-?>

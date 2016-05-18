@@ -22,4 +22,3 @@ define("LANUPLOAD_16", "Ismeretlen hiba");
 define("LANUPLOAD_17", "A feltöltött fájl érvénytelen fájl név");
 define("LANUPLOAD_18", "A feltöltött fájl túllépte a megengedett határértéket.");
 define("LANUPLOAD_19", "Túl sok a feltöltött fájl - többlet törölve.");
-?>

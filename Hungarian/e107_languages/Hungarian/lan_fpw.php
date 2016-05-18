@@ -41,4 +41,3 @@ define('LAN_FPW21', "A felhasználó rákattintott a jelszó törlés linkre");
 define("LAN_FPW_100", "Új jelszó kérése");
 define("LAN_FPW_101", "Semmi gond. Csak add meg az email címedet, és elküldjük a további teendőket.");
 define("LAN_FPW_102", "Jelszó törlése");
-?>

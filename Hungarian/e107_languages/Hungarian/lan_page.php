@@ -20,4 +20,3 @@ define("LAN_PAGE_13", "Oldal");
 define("LAN_PAGE_14", "<!--Egyéb Oldalak-->");
 define("LAN_PAGE_15", "Oldalak");
 define("LAN_PAGE_16", "Ebben a könyvben jelenleg nem található egyetlen fejezet sem");
-?>

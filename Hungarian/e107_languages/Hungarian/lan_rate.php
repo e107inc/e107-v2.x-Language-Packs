@@ -17,4 +17,3 @@ define("RATELAN_FAIR", "Hmmm, elmegy!");
 define("RATELAN_GOOD", "Egész jó!");
 define("RATELAN_VERYGOOD", "Nagyon jó!");
 define("RATELAN_EXCELLENT", "Wow, kitűnő!");
-?>

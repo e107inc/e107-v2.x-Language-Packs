@@ -22,4 +22,3 @@ define("SUBNEWSLAN_5", "Képfájl");
 define("SUBNEWSLAN_6", "(jpg, gif vagy png)");
 define("SUBNEWSLAN_7", "Meg kell adnod a nevedet és email címedet");
 define("SUBNEWSLAN_8", "Kép feltöltési hiba");
-?>

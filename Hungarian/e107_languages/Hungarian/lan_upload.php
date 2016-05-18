@@ -7,7 +7,7 @@
 define("PAGE_NAME", "Feltöltés");
 
 define("LAN_UL_001","Érvénytelen email cím");
-define("LAN_UL_002", "Nincs jogosultságod fájl feltöltésére erre a szerverre.");
+define("LAN_UL_002", "Nincs jogosultságod fájl feltöltésre erre a szerverre.");
 
 define("LAN_UL_020", "Hiba");
 define("LAN_UL_021", "Sikertelen feltöltés");
@@ -46,4 +46,3 @@ define("LAN_418", "Maximális fájlméret: ");
 define("DOWLAN_11", "Kategória");
 define("LAN_419", "Engedélyezett fájltípusok:");
 define("LAN_420", "mezők kitöltése kötelező");
-?>

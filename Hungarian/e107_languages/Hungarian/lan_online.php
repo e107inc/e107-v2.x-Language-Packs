@@ -54,4 +54,3 @@ define("ARTICLE", "Hír");
 define("CONTENT", "Tartalom oldal");
 define("REVIEW", "Ismertetés");
 define("OTHER", "Egyéb oldal: ");
-?>

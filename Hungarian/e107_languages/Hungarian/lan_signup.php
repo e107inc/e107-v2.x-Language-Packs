@@ -109,4 +109,3 @@ define("LAN_SIGNUP_109", "Kis- és nagybetűk, de nem tartalmazhat szóközt.");
 define("LAN_SIGNUP_110", "Teljes név");
 define("LAN_SIGNUP_111", "Írja be a kép URL elérését vagy válasszon a meglévő avatarok közül.");
 define("LAN_SIGNUP_112", "Bejelentkezés, mint Főadminisztrátor.");
-?>

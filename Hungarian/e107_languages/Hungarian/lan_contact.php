@@ -27,4 +27,6 @@ define("LANCONTACT_13", "Kérlek, adj meg egy témát az üzenet elküldéséhez
 define("LANCONTACT_14", "Üzenet küldése neki(k):");
 define("LANCONTACT_15", "Hibás kódot adtál meg");
 define("LANCONTACT_16", "Az üzeneted elküldéséhez [registered] és jelentkezz be.");
+
+
 ?>

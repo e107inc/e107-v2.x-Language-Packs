@@ -22,4 +22,3 @@ define("UP_LAN_12", "Keresés");
 define("UP_LAN_14", "Fórum bejegyzések");
 define("UP_LAN_15", "Válasz");
 define("UP_LAN_16", "IP Cím");
-?>

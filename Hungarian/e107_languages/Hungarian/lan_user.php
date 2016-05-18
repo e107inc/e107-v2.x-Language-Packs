@@ -83,4 +83,5 @@ define("LAN_USER_84", "Ez megakadályozza, hogy az email cím megjelenjen az old
 define("LAN_USER_85", "Ha meg akarod változtatni a felhasználónevedet, lépj kapcsolatba az oldal adminisztrátorával!");
 define("LAN_USER_86", "Maximális avatar méret --WIDTH-- x --HEIGHT-- pixel-ben.");
 
+
 ?>

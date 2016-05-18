@@ -57,10 +57,6 @@ define("LANINS_049", "A két, általad beírt jelszó nem azonos. Lépj vissza �
 define("LANINS_050", "XML Kiterjesztés");
 define("LANINS_051", "Telepítve");
 define("LANINS_052", "Nincs telepítve");
-define("LANINS_053", "Az e107 v2.x-hez szükséges a PHP XML kiterjesztés telepítése. Lépj kapcsolatba a kiszolgálóval vagy oldasd el az erről szóló információkat [x] mielőtt folytatod");
-define("LANINS_054", "Az e107 v2.x igényli PHP EXIF kiterjesztés telepítését.
-Kérjük, forduljon a hosting szolgáltatójához,
-vagy olvassa el az információkat [x] a folytatás előtt");
 define("LANINS_055", "Telepítés megerősítése");
 define("LANINS_056", "6. lépés");
 define("LANINS_057", " Az e107 rendelkezik a telepítéshez szükséges összes információval.
@@ -70,7 +66,7 @@ define("LANINS_060", "Sikertelen SQL fájl olvasás!
 Ellenőrizd a [b]core_sql.php[/b] fájl létezését az [b]/e107_core/sql[/b] könyvtárban.");
 define("LANINS_061", "Az e107 nem tudta létrehozni az összes, szükséges adatbázis táblát.
 Töröld az adatbázist, az ismételt telepítés előtt javítani kell a problémát.");
-define("LANINS_069", "Az e107 telepítése sikeres!
+define("LANINS_069", "Az e107 telepítése sikeresen végbement!
 A biztonságos működés érdekében állítsd az [b]e107_config.php[/b] fájl jogosultságát 644-re. Ne feledkezz meg az install.php törléséről a szerverről a lenti gomb megnyomása után.");
 define("LANINS_070", "Az e107 nem tudja elmenteni a konfigurációs fájlt a szerverre.
 Ellenőrizd, hogy az [b]e107_config.php[/b] fájl a megfelelő jogosultsággal rendelkezik-e");
@@ -118,7 +114,6 @@ define("LANINS_134", "Telepítés");
 define("LANINS_135", "a");
 define("LANINS_136", "Létező adatbázis törlése");
 define("LANINS_137", "Már létezik az adatbázis");
-define("LANINS_138", "Verzió");
 define("LANINS_141", "Adja meg a MySQL adatokat.
 Ha root jogosultsággal rendelkezel, akkor létre tudsz hozni új adatbázist a jelölődoboz bejelölésével.
 Ha nem szükséges vagy már létezik, ne jelöld be.
@@ -128,4 +123,7 @@ define("LANINS_142", "MEGJEGYZÉS:
 nevezze át az e107.htaccess fájlt erre: .htaccess");
 define("LANINS_144", "FONTOS: Kérjük, másolja ki és illessze be az [b]e107.htaccess[/b] tartalmát a [b].htaccess[/b] fájlba.
 Kérjük, vigyázzon, nehogy felülírja a meglévő adatokat a fájlban.");
+define("LANINS_145", "Az e107 v2.x használatához szükséges a telepített PHP [x] . Kérjük, vegye fel a kapcsolatot az ön tárhely szolgáltatójával vagy olvassa el [y] információkat mielőtt folytatná.");
+
+
 ?>

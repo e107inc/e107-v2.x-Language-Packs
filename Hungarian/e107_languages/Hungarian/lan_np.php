@@ -19,4 +19,3 @@ define("LAN_NP_GOTO", "Ugrás az [x] oldalra");
 define("LAN_NP_URLCURRENT", "Aktuális oldal");
 
 define("NP_CAPTION", "[x]. oldal. Összes oldal: [y]");
-?>

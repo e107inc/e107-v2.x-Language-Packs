@@ -80,4 +80,3 @@ define("LAN_435", "XML Felhasználó Protokoll fájl");
 define("LAN_CUSTOMTITLE", "Egyedi elnevezés");
 define("LAN_USET_5", "Feliratkozás ide: ");
 define("LAN_USET_6", "Feliratkozás a levelezőlistánkra és/vagy az oldal egyes részeire.");
-?>

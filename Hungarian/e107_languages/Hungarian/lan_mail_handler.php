@@ -11,4 +11,3 @@ define("LANMAILH_4", "A kiszolgáló elutasította a címet");
 define("LANMAILH_5", "Nem érkezett válasz a kiszolgálótól");
 define("LANMAILH_6", "Nem található E-mail kiszolgáló.");
 define("LANMAILH_7", " érvényesnek tűnik.");
-?>

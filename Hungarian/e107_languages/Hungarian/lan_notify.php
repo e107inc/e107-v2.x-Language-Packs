@@ -28,4 +28,3 @@ define("NT_LAN_NU_1", "Frissítve!");
 
 define("NT_LAN_ND_1", "A hír törölve!");
 define("NT_LAN_ND_2", "Törölt hír ID");
-?>

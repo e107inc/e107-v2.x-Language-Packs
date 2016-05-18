@@ -9,7 +9,6 @@
 |        $Author: Yesszus $
 +---------------------------------------------------------------+
 */
-
 define("COMLAN_0", "[admin által letiltva]");
 define("COMLAN_1", "Feloldás");
 define("COMLAN_2", "Tiltás");
@@ -74,4 +73,8 @@ define("COMLAN_TYPE_6", "bugtrack");
 define("COMLAN_TYPE_7", "ötletek");
 define("COMLAN_TYPE_8", "Felhasználó profilja");
 define("COMLAN_TYPE_PAGE", "Tartalom");
+define("COMLAN_500", "Kérjük, hogy [jelentkezzen be] a hozzászólás beküldéséhez!");
+define("COMLAN_501", "Ön még nem regisztrált [IDE] kattintva megteheti!");
+
+
 ?>

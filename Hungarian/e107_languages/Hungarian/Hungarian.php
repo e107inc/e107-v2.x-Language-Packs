@@ -1,9 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Hungarian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/22 13:15:43
+|
+|        $Author: Yesszus $
++---------------------------------------------------------------+
+*/
 setlocale(LC_ALL,  'hu_HU.UTF-8', 'hu_HU.utf8', 'hug_hug.utf8', 'hu');
 define("CORE_LC", "hu");
 define("CORE_LC2", "HU");
@@ -37,6 +42,7 @@ define("LAN_EDIT", "Szerkesztés");
 define("LAN_DELETE", "Törlés");
 define("LAN_DEFAULT", "Alapértelmezett");
 define("LAN_MORE", "Tovább...");
+define("LAN_LESS", "...kevesebb");
 define("LAN_READ_MORE", "Tovább olvasom...");
 define("LAN_GOPAGE", "Ugrás az oldalra");
 define("LAN_GOTOPAGEX", "Ugrás az [x] oldalra");
@@ -80,6 +86,7 @@ define("LAN_LOGIN", "Bejelentkezés");
 define("LAN_LOGOUT", "Kijelentkezés");
 define("LAN_SETTINGS", "Beállítások");
 define("LAN_PASSWORD", "Jelszó");
+define("LAN_INCORRECT_PASSWORD", "Érvénytelen jelszó");
 define("LAN_TYPE", "Típus");
 define("LAN_SCREENSHOT", "Képernyőkép");
 define("LAN_FILE", "Fájl");
@@ -101,9 +108,14 @@ define("LAN_EMAIL", "Email cím");
 define("LAN_WROTE", "Írta");
 define("LAN_RE_ORDER", "Újra-rendezés");
 define("LAN_RELATED", "Kapcsolódó");
+define("LAN_CLOSE", "Bezár");
+define("LAN_EXPAND", "Kinyit");
 define("LAN_ENTER_USRNAME_EMAIL", "Kérjük, add meg a felhasználóneved vagy az email címed");
 define("LAN_PWD_REQUIRED", "Jelszó szükséges");
 define("LAN_SHOW", "Mutasd");
 define("LAN_GENERATE", "Létrehozás");
 define("LAN_SUMMARY", "Összefoglalás");
+define("LAN_REQUIRED_BLANK", "Szükséges mező(k) maradt(ak) üresen!");
+
+
 ?>

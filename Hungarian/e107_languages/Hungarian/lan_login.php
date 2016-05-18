@@ -35,4 +35,3 @@ define("LAN_LOGIN_28", "E-mail");
 define("LAN_LOGIN_29", "Felhasználónév vagy E-mail");
 define("LAN_LOGIN_30", "Hiba: Nem sikerült létrehozni a (alt_auth) felhasználót az adatbázisban");
 define("LAN_LOGIN_31", "A hitelesítő adatokat nem sikerült hozzáadni a rendszerhez");
-?>

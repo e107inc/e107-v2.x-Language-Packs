@@ -32,4 +32,3 @@ define("LAN_NEWS_462", "Ebben a hónapban nem található hír.");
 
 define("LAN_NEWS_100", " - ");
 define("LAN_NEWS_307", "Összes bejegyzés ebben a kategóriában: ");
-?>
