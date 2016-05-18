@@ -1,18 +1,14 @@
 <?php
 /*
- * e107 website system
- *
- * Copyright (C) 2008-2009 e107 Inc (e107.org)
- * Released under the terms and conditions of the
- * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
- *
- *
- *
- * $Source: /cvs_backup/e107_0.8/e107_languages/English/admin/help/admin_log.php,v $
- * $Revision$
- * $Date$
- * $Author$
- */
++---------------------------------------------------------------+
+|        e107 website content management system Hungarian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/04/22 13:08:21
+|
+|        $Author: Yesszus $
++---------------------------------------------------------------+
+*/
 
 if (!defined('e107_INIT')) { exit; }
 

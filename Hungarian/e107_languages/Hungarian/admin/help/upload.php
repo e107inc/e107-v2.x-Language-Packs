@@ -1,18 +1,14 @@
 <?php
 /*
- * e107 website system
- *
- * Copyright (C) 2008-2009 e107 Inc (e107.org)
- * Released under the terms and conditions of the
- * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
- *
- *
- *
- * $Source: /cvs_backup/e107_0.8/e107_languages/English/admin/help/upload.php,v $
- * $Revision$
- * $Date$
- * $Author$
- */
++---------------------------------------------------------------+
+|        e107 website content management system Hungarian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/04/22 13:08:21
+|
+|        $Author: Yesszus $
++---------------------------------------------------------------+
+*/
 
 if (!defined('e107_INIT')) { exit; }
 if (e_QUERY) list($action,$junk) = explode('.',e_QUERY); else $action = 'list';
@@ -34,6 +30,6 @@ switch ($action)
 	break;
   case 'view' :
   default :
-	$text = "This page lists any submitted uploads. You may choose to delete them, transfer them to downloads, or post them to news";
+	$text = "Ezen az oldalon lehet a fájl feltöltésekkel kapcsolatos engedélyeket beállítani, valamint a tagok által feltöltött fájlokat adminisztrálni.";
 }
-$ns -> tablerender("Public Uploads Help", $text);
+$ns -> tablerender("Publikus feltöltések Súgó", $text);

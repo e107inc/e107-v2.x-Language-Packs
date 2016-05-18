@@ -1,22 +1,18 @@
 <?php
 /*
- * e107 website system
- *
- * Copyright (C) 2008-2009 e107 Inc (e107.org)
- * Released under the terms and conditions of the
- * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
- *
- *
- *
- * $Source: /cvs_backup/e107_0.8/e107_languages/English/admin/help/banlist.php,v $
- * $Revision$
- * $Date$
- * $Author$
- */
++---------------------------------------------------------------+
+|        e107 website content management system Hungarian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/04/22 13:08:21
+|
+|        $Author: Yesszus $
++---------------------------------------------------------------+
+*/
 
 if (!defined('e107_INIT')) { exit; }
 
-$caption = "Banning users from your site";
+$caption = "Kitiltások súgó";
 if (e_QUERY) list($action,$junk) = explode('-',e_QUERY.'-'); else $action = 'list';		// Non-standard separator in query
 
 switch ($action)
@@ -56,18 +52,17 @@ case 'options' :
   break;
 case 'edit' :
 case 'add' :
-$text = "You can ban users from your site at this screen.<br />
-Either enter their full IP address or use a wildcard to ban a range of IP addresses. You can also enter an email address to stop a user registering as a member on your site.<br /><br />
-<b>Banning by IP address:</b><br />
-Entering the IP address 123.123.123.123 will stop the user with that address visiting your site.<br />
-Entering an IP address with one or more wildcards in the end blocks, such as 123.123.123.* or 214.098.*.*, will stop anyone in that IP range from visiting your 
-site. (Note that there must be exactly four groups of digits or asterisks)<br /><br />
-IPV6 format addresses are also supported, including '::' to represent a block of zero values. Each pair of digits in the end fields may be a separate wildcard<br /><br />
-<b>Banning by email address</b><br />
-Entering the email address foo@bar.com will stop anyone using that email address from registering as a member on your site.<br />
-Entering the email address *@bar.com will stop anyone using that email domain from registering as a member on your site.<br /><br />
-<b>Banning by user name</b><br />
-This is done from the user administration page.<br /><br />";
+$text = "Kitilthatsz felhasználókat az oldalról itt.<br />
+Add meg a teljes IP címet, vagy használj *-ot egy IP cím tartomány kitiltásához.<br /><br />
+<b>Kitiltás IP címmel:</b><br />
+Az 123.123.123.123 IP cím megadásával letiltod az erről a címről érkező felhasználókat.<br />
+Az 123.123.123.* IP cím megadásával letiltod az erről az IP cím tartományról érkező 
+felhasználókat.<br /><br />
+<b>Kitiltás email címmel</b><br />
+A foo@bar.com email cím megadása letiltja ennek az email címnek a használatát, így e címmel senki nem fog tudni regisztrálni.<br />
+Az *@bar.com cím megadása a bar.com domain-t tiltja le, így e domainről semmilyen email címmel senki nem fog tudni regisztrálni.<br /><br />
+<b>Kitiltás felhasználónévvel</b><br />
+Ezt végrehajthatod a felhasználók adminisztrációs oldalról.<br /><br />";
   break;
 case 'whadd' :
 case 'whedit' :

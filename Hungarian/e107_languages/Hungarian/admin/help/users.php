@@ -1,22 +1,18 @@
 <?php
 /*
- * e107 website system
- *
- * Copyright (C) 2008-2009 e107 Inc (e107.org)
- * Released under the terms and conditions of the
- * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
- *
- *
- *
- * $Source: /cvs_backup/e107_0.8/e107_languages/English/admin/help/users.php,v $
- * $Revision$
- * $Date$
- * $Author$
- */
++---------------------------------------------------------------+
+|        e107 website content management system Hungarian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/04/22 13:08:21
+|
+|        $Author: Yesszus $
++---------------------------------------------------------------+
+*/
 
 if (!defined('e107_INIT')) { exit; }
 
-$caption = "User Management";
+$caption = "Felhasználók Kezelése";
 if (e_QUERY) list($action,$junk) = explode('.',e_QUERY); else $action = 'list';
 
 switch ($action)
@@ -52,8 +48,7 @@ switch ($action)
     break;
 
   default :
-	$text = "This page shows a list of your registered members. You can update their settings, give them administrator status and set their user class 
-	among other things.<br /><br />
+	$text = "Itt a regisztrált felhasználókra vonatkozó beállításokat tudod módosítani. Módosíthatod a beállításaikat, adminisztrátori jogot adhatsz nekik, új csoportba sorolhatod őket, stb...<br /><br />
 	The sort order can be changed by clicking on the column heading.<br />
 	The displayed columns can be changed by clicking on 'Edit Display Options', selecting the required columns, then clicking on 'Search/Refresh'<br /><br />
 	<b>Info</b><br />
@@ -66,7 +61,7 @@ switch ($action)
 	This activates a user who would normally have replied to the activation email.<br /><br />
 	<b>Resend Email</b><br />
 	Resends the activation email to the user.<br /><br />
-	<b>Test email</b><br />
+	<b>Teszt email</b><br />
 	Check user's email address for validity (doesn't send an email)<br /><br />
 	<b>Set Class</b><br />
 	Set class membership for a user<br /><br />

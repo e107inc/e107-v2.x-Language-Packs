@@ -1,21 +1,17 @@
 <?php
 /*
- * e107 website system
- *
- * Copyright (C) 2008-2009 e107 Inc (e107.org)
- * Released under the terms and conditions of the
- * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
- *
- *
- *
- * $Source: /cvs_backup/e107_0.8/e107_languages/English/admin/help/ugflag.php,v $
- * $Revision$
- * $Date$
- * $Author$
- */
++---------------------------------------------------------------+
+|        e107 website content management system Hungarian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/04/22 13:08:21
+|
+|        $Author: Yesszus $
++---------------------------------------------------------------+
+*/
 
 if (!defined('e107_INIT')) { exit; }
 
-$text = "If you are upgrading e107 or just need your site to be offline for a while just tick the maintenance box and your visitors will be redirected to a page explaining the site is down for repair. After you've finished un-tick the box to return site to normal.";
+$text = "A webhely karbantartásakor, vagy az e107 frissítések során előfordulhat, hogy az oldalt ideiglenesen át kell kapcsolni karbantartás üzemmódra. Ebben a módban a látogatók át lesznek irányítva egy információs oldalra, ahol arról értesülnek, hogy a webhely karbantartás alatt áll. Ebben az üzemmódban a bejelentkezés csak az adminisztrátoroknak lehetséges az e107_admin/admin.php oldalon. A karbantartás kikapcsolásakor az oldal visszatér a normál működéséhez.";
 
-$ns -> tablerender("Maintenance", $text);
+$ns -> tablerender("Karbantartás Súgó", $text);

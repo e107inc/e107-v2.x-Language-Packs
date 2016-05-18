@@ -1,22 +1,18 @@
 <?php
 /*
- * e107 website system
- *
- * Copyright (C) 2008-2009 e107 Inc (e107.org)
- * Released under the terms and conditions of the
- * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
- *
- *
- *
- * $Source: /cvs_backup/e107_0.8/e107_languages/English/admin/help/userclass2.php,v $
- * $Revision$
- * $Date$
- * $Author$
- */
++---------------------------------------------------------------+
+|        e107 website content management system Hungarian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/04/22 13:08:21
+|
+|        $Author: Yesszus $
++---------------------------------------------------------------+
+*/
 
 if (!defined('e107_INIT')) { exit; }
 
-$caption = "User Class Help";
+$caption = "Felhasználó csoportok súgó";
 
 if (!($action = vartrue($_GET['action'])))
 {
@@ -57,9 +53,7 @@ switch ($action)
 	break;
   case 'edit' :
   case 'config' :
-	$text = "You can create classes, or edit existing classes from this page.<br />
-         This is useful for restricting users to certain parts of your site. For example, you could create a class called TEST, 
-		 then create a forum which only allowed users in the TEST class to access it.<br /><br />
+	$text = "Új  csoportokat hozhatsz itt létre, illetve módosíthatod/törölheted a meglévőket.<br />Ez hasznos, ha a felhasználók egy csoportját az oldal egy részére akarod korlátozni. Például létrehozhatsz egy TESZT nevű csoportot, majd egy fórumot, ahol beállítod, hogy csak a TESZT nevű csoport tagjai érhessék el.<br /><br />
 		 The class name is displayed in drop-down lists and the like; in some places the more detailed description is also displayed.<br /><br />
 		 The class icon may be displayed in various places on the site, if one is set.<br /><br />
 		 To allow users to determine whether they can be a member of a class, allow them to manage it. If you set 'no-one' here, only the admins

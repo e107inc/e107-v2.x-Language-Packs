@@ -1,37 +1,33 @@
 <?php
 /*
- * e107 website system
- *
- * Copyright (C) 2008-2009 e107 Inc (e107.org)
- * Released under the terms and conditions of the
- * GNU General Public License (http://www.gnu.org/licenses/gpl.txt)
- *
- *
- *
- * $Source: /cvs_backup/e107_0.8/e107_languages/English/admin/help/newspost.php,v $
- * $Revision$
- * $Date$
- * $Author$
- */
++---------------------------------------------------------------+
+|        e107 website content management system Hungarian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/04/22 13:08:21
+|
+|        $Author: Yesszus $
++---------------------------------------------------------------+
+*/
 
 if (!defined('e107_INIT')) { exit; }
 
-$caption = "Newspost Help";
+$caption = "Új hír - Súgó";
 if (e_QUERY) list($action,$junk) = explode('.',e_QUERY); else $action = 'list';
 switch ($action)
 {
   case 'create' :
-	$text = "<b>General</b><br />
-Body will be displayed on the main page; extended will be readable by clicking a 'Read More' link.
+	$text = "<b>Általános</b><br />
+A törzs a főoldalon fog megjelenni, míg a bővített a 'Tovább' linkre kattintva lesz olvasható.
 <br />
 <br />
-<b>Show title only</b>
+<b>Csak a cím mutatása</b>
 <br />
-Enable this to show the news title only on front page, with clickable link to full story.
+Ennek engedélyezésekor a főoldalon csak a hír címe jelenik meg,egy kattintható linkkel a teljes szöveghez.
 <br /><br />
-<b>Activation</b>
+<b>Aktiválás</b>
 <br />
-If you set a start and/or end date your news item will only be displayed between these dates.
+Ha megadsz egy kezdési és/vagy befejezési dátumot, akkor a cikk csak a két időpont közt jelenik meg.
 ";
 	break;
   case 'cat' :
