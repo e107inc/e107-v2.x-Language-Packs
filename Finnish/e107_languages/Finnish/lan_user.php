@@ -1,0 +1,78 @@
+<?php
+
+// Bing-Translated Language file 
+// Generated for e107 v2.x by the Multi-Language Plugin
+// https://github.com/e107inc/multilan
+
+define("LAN_USER_01", "Näyttönimi");
+define("LAN_USER_02", "Käyttäjätunnus");
+define("LAN_USER_03", "Oikea nimi");
+define("LAN_USER_04", "Mukautettu otsikko");
+define("LAN_USER_06", "Valokuva");
+define("LAN_USER_07", "Avatar");
+define("LAN_USER_09", "Allekirjoitus");
+define("LAN_USER_10", "Piilota sähköpostiosoite");
+define("LAN_USER_12", "Käyttäjäluokka");
+define("LAN_USER_13", "TUNNUS");
+define("LAN_USER_14", "Liity päivämäärä");
+define("LAN_USER_15", "Viimeinen vierailu");
+define("LAN_USER_16", "Vierailun");
+define("LAN_USER_18", "IP-osoite");
+define("LAN_USER_19", "Ban");
+define("LAN_USER_20", "Prefs");
+define("LAN_USER_21", "Vierailut");
+define("LAN_USER_22", "Admin");
+define("LAN_USER_23", "Permanentit");
+define("LAN_USER_24", "Salasanan vaihto");
+define("LAN_USER_31", "Pääsivuston järjestelmänvalvoja");
+define("LAN_USER_32", "Sivuston järjestelmänvalvoja");
+define("LAN_USER_33", "ei tietoja");
+define("LAN_USER_34", "sitten");
+define("LAN_USER_35", "[piilotettu pyynnöstä]");
+define("LAN_USER_36", "Klikkaa tästä Katso kommentit");
+define("LAN_USER_37", "Klikkaa tästä Katso Forum Posts");
+define("LAN_USER_38", "Klikkaa tästä päivittääksesi tietosi");
+define("LAN_USER_39", "Klikkaa tästä muokataksesi tämän käyttäjän tiedot");
+define("LAN_USER_40", "Edellinen jäsen");
+define("LAN_USER_41", "seuraavan");
+define("LAN_USER_42", "ei kuvaa");
+define("LAN_USER_43", "Poista valokuva");
+define("LAN_USER_44", "Sekalaiset");
+define("LAN_USER_45", "DESC");
+define("LAN_USER_46", "ASC");
+define("LAN_USER_49", "Ei ole tietoa kyseisen käyttäjän, koska niitä ei ole rekisteröity klo");
+define("LAN_USER_50", "Jäsenprofiili");
+define("LAN_USER_51", "Tämä ei ole kelvollinen käyttäjä.");
+define("LAN_USER_52", "Rekisteröityneet jäsenet");
+define("LAN_USER_53", "Ei rekisteröityneitä jäseniä vielä.");
+define("LAN_USER_54", "Taso");
+define("LAN_USER_55", "Sinulla ei ole oikeus tarkastella sivua.");
+define("LAN_USER_56", "Rekisteröityneet jäsenet:");
+define("LAN_USER_57", "Järjestys:");
+define("LAN_USER_58", "Jäsen");
+define("LAN_USER_59", "Liittyi");
+define("LAN_USER_60", "Sähköpostiosoite:");
+define("LAN_USER_62", "Lähetä yksityinen viesti");
+define("LAN_USER_63", "Oikea nimi:");
+define("LAN_USER_64", "Sivustotilastot");
+define("LAN_USER_65", "Viimeinen käynti");
+define("LAN_USER_66", "Vierailut sivustoon rekisteröitymisestä");
+define("LAN_USER_67", "Chatbox viestejä");
+define("LAN_USER_68", "Kommentteja");
+define("LAN_USER_69", "Foorumin postitukset");
+define("LAN_USER_71", "Allekirjoitus:");
+define("LAN_USER_72", "Avatar:");
+define("LAN_USER_73", "valinta sisältöä-sähköpostilistat");
+define("LAN_USER_74", "Mukautettu otsikko");
+define("LAN_USER_75", "Sinun--johonkin--tarvitaan");
+define("LAN_USER_76", "Tilannut");
+define("LAN_USER_77", "Salasanasi on oltava vähintään--kreivi--merkkiä.");
+define("LAN_USER_78", "Min.");
+define("LAN_USER_79", "merkkiä.");
+define("LAN_USER_80", "nimi näkyy sivuston");
+define("LAN_USER_81", "Käyttäjätunnus:");
+define("LAN_USER_82", "nimi, jolla kirjautua sivustolle");
+define("LAN_USER_83", "Piilota sähköpostiosoite?:");
+define("LAN_USER_84", "Tämä estää sähköpostiosoitteesi sivustolla oleva");
+define("LAN_USER_85", "Jos haluat vaihtaa käyttäjänimesi, sinun täytyy kysyä sivuston järjestelmänvalvoja");
+define("LAN_USER_86", "Suurin avatar koko on--leveys--x--korkeus--pikseliä");

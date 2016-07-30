@@ -1,14 +1,8 @@
 <?php
-/*
-+---------------------------------------------------------------+
-|        e107 website content management system Norwegian Language File
-|        Released under the terms and conditions of the
-|        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/28 20:05:07
-|
-|        $Author: Administrador $
-+---------------------------------------------------------------+
-*/
+
+// Bing-Translated Language file 
+// Generated for e107 v2.x by the Multi-Language Plugin
+// https://github.com/e107inc/multilan
 
 define("LAN_CONVERT_03", "Du må starte med en ren E107 database enn viktigste admin brukeren (ID = 1)");
 define("LAN_CONVERT_04", "Felt stå tomt, gå tilbake og angi verdiene på nytt.");
@@ -32,7 +26,7 @@ define("LAN_CONVERT_21", "Passord for database");
 define("LAN_CONVERT_22", "Databasenavn");
 define("LAN_CONVERT_23", "Database tabell prefiks");
 define("LAN_CONVERT_24", "Områder for å importere");
-define("LAN_CONVERT_25", "brukere");
+define("LAN_CONVERT_25", "Brukere");
 define("LAN_CONVERT_26", "Forum definisjoner");
 define("LAN_CONVERT_27", "Avstemninger");
 define("LAN_CONVERT_28", "Nyheter");
@@ -55,7 +49,7 @@ define("LAN_CONVERT_44", "Spørringen installasjonsfeil for");
 define("LAN_CONVERT_45", "Kan ikke lese koden importfil");
 define("LAN_CONVERT_46", "Feil:--ERRNUM--under skriving til - DB - databasen, linje");
 define("LAN_CONVERT_47", "Satsvis - blokk - import fullført. -LINJER - lese lagt - brukere -, - feil - feil");
-define("LAN_CONVERT_48", "forum poster");
+define("LAN_CONVERT_48", "Foruminnlegg");
 define("LAN_CONVERT_49", "Drupal");
 define("LAN_CONVERT_50", "Grunnleggende import");
 define("LAN_CONVERT_51", "Versjonen av målrettet Drupal.");
@@ -64,6 +58,3 @@ define("LAN_CONVERT_53", "Base URL av Drupal nettsted (f.eks http://mydrupalsite
 define("LAN_CONVERT_54", "Drupal Basiswebadressen");
 define("LAN_CONVERT_55", "Base URL-banen (dvs. directory) av Drupal installasjonen (f.eks/drupal /).");
 define("LAN_CONVERT_56", "Drupal basisbanen");
-
-
-?>

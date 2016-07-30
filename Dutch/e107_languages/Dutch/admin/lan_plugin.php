@@ -119,10 +119,10 @@ define ("EPL_ADLAN_103","Maak een nieuwe beschrijfbare map aan in de [x] directo
 define ("EPL_ADLAN_104","Wanneer je plugin l tabellen gebruikt, maak een nieuw bestand aan in deze map en geef het de gelijke naam als de directorie, maar met[b]_sql.php[/b] als extensie vb. [b]myplugin_sql.php[/b]");
 define ("EPL_ADLAN_105","Maak je tabel aan in phpMyAdmin en plak een sql dump van deze in je bestand an sla op. (bekijk [i]e107_plugins/_blank/_blank_sql.php[/i] als voorbeeld)");
 define ("EPL_ADLAN_106","Selecteer je plugin's map om te beginnen.");
-define ("EPL_ADLAN_107","Creër an beheer-gebied en xml bestand voor:");
+define ("EPL_ADLAN_107","Creeër een beheer-gebied en xml bestand voor:");
 define ("EPL_ADLAN_108","Controleer taal bestanden:");
 define ("EPL_ADLAN_109","Basis Info.");
-define ("EPL_ADLAN_111","Genereer");
+//define ("EPL_ADLAN_111","Genereer"); //LAN_GENERATE
 define ("EPL_ADLAN_112","Beoordeel alle velden en pas aan indien nodig.");
 define ("EPL_ADLAN_113","Beoordeel ALLE tabs voordat je klikt op 'Genereer'.");
 define ("EPL_ADLAN_114","Plugin Builder");
@@ -264,9 +264,9 @@ define ("EPL_ADLAN_227","Scan op veranderingen");
 define ("EPL_ADLAN_228","Plugin mappen worden elke [x] minuten gescand op wijzigingen. Klik op onderstaande knop om nu te scannen.");
 define ("EPL_ADLAN_229","Verversen");
 
-define("LAN_UPGRADE_SUCCESSFUL", "Upgrade Succesvol");
-define("LAN_INSTALL_SUCCESSFUL", "Installatie Succesvol");
-define("LAN_INSTALL_FAIL", "Installatie Mislukt");
+define("LAN_UPGRADE_SUCCESSFUL", "Upgrade succesvol");
+define("LAN_INSTALL_SUCCESSFUL", "Installatie succesvol");
+define("LAN_INSTALL_FAIL", "Installatie mislukt");
 
 
 ?>

@@ -42,7 +42,7 @@ else
 $frm = e107::getForm();
 
 $text = "Met de Menu-Manager kan je bepalen waar je menu&acute;s zichtbaar zijn binnen je je gebruikte thema. 
-[u]Hover[/u] over de deelgebieden om de instellinegn van bestaande menu items te wijzigen. 
+[u]Beweeg muis[/u] over de deelgebieden om de instellingen van bestaande menu items te wijzigen. 
 
 Als je niet meteen het resultaat ziet, druk dan even op de onderstaande 'refresh' knop.
 [html]

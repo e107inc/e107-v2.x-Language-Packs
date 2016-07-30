@@ -1,29 +1,20 @@
 <?php
-/*
-+---------------------------------------------------------------+
-|        e107 website content management system Norwegian Language File
-|        Released under the terms and conditions of the
-|        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/28 19:51:48
-|
-|        $Author: Administrador $
-+---------------------------------------------------------------+
-*/
 
-define("TOP_LAN_0", "Flest poster i forumet");
-define("TOP_LAN_1", "User Name");
-define("TOP_LAN_2", "innlegg");
-define("TOP_LAN_3", "Flest kommentarer postet");
-define("TOP_LAN_5", "Flest poster i chatboksen");
-define("TOP_LAN_6", "Rangering");
-define("LAN_1", "tråd");
-define("LAN_2", "Forfatter");
+// Bing-Translated Language file 
+// Generated for e107 v2.x by the Multi-Language Plugin
+// https://github.com/e107inc/multilan
+
+define("TOP_LAN_0", "Toppen Forum plakater");
+define("TOP_LAN_1", "Brukernavn");
+define("TOP_LAN_2", "Innlegg");
+define("TOP_LAN_3", "Toppen kommentar plakater");
+define("TOP_LAN_5", "Topp praterommet plakater");
+define("TOP_LAN_6", "Området vurdering");
+define("LAN_1", "Tråd");
+define("LAN_2", "Plakat");
 define("LAN_3", "Visninger");
 define("LAN_4", "Svar");
-define("LAN_5", "Nyeste innlegg");
+define("LAN_5", "Lastpost");
 define("LAN_6", "Tråder");
 define("LAN_7", "Mest aktive tråder");
-define("LAN_8", "Flest innlegg");
-
-
-?>
+define("LAN_8", "Toppen plakater");

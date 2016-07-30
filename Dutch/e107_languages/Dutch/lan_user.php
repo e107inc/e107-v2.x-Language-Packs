@@ -51,8 +51,8 @@ define("LAN_USER_43", "verwijder foto");
 define("LAN_USER_44", "Diversen");
 define("LAN_USER_45", "AFLOPEND");
 define("LAN_USER_46", "OPLOPEND");
-define("LAN_USER_47", "Ga");
-define("LAN_USER_48", "Fout");
+//define("LAN_USER_47", "Ga");
+//define("LAN_USER_48", "Fout");
 define("LAN_USER_49", "Er is geen informatie over dit lid omdat deze nog niet is geregistreerd op");
 define("LAN_USER_50", "Gebruiker Profiel");
 define("LAN_USER_51", "Dit is geen bestaand lid.");
@@ -74,7 +74,7 @@ define("LAN_USER_66", "Bezocht sinds registratie");
 define("LAN_USER_67", "Chatbox berichten");
 define("LAN_USER_68", "Reacties");
 define("LAN_USER_69", "Forum berichten");
-define("LAN_USER_70", "Laat zien");
+//define("LAN_USER_70", "Laat zien");
 define("LAN_USER_71", "Onderschrift: ");
 define("LAN_USER_72", "Avatar: ");
 define("LAN_USER_73", "Kies Content/Mail-lists");
@@ -117,6 +117,7 @@ if (!defined("USER_ERR_21")) { define("USER_ERR_21","Afbeelding te hoog");  }
 if (!defined("USER_ERR_22")) { define("USER_ERR_22","Niet nader gespecificeerde fout");  }
 if (!defined("USER_ERR_23")) { define("USER_ERR_23","Waarde niet toegestaan (exact gelijk)");  }
 
+/*
 define("LAN_112", "Email Adres");
 define("LAN_138", "Geregistreerde leden: ");
 define("LAN_139", "Volgorde: ");
@@ -132,5 +133,5 @@ define("LAN_404", "Laatste bezoek");
 define("LAN_406", "Waardering");
 define("LAN_419", "Laat zien");
 define("LAN_425", "Stuur prive bericht");
-
+*/
 ?>

@@ -1,0 +1,78 @@
+<?php
+
+// Bing-Translated Language file 
+// Generated for e107 v2.x by the Multi-Language Plugin
+// https://github.com/e107inc/multilan
+
+define("PAGE_NAME", "Ustawienia użytkownika");
+define("MAX_AVWIDTH", "Jest maksymalna avatar Wymiary (szer.)");
+define("MAX_AVHEIGHT", "x");
+define("LAN_USET_1", "Awatar jest zbyt szeroka");
+define("LAN_USET_2", "Maksymalna dopuszczalna szerokość jest");
+define("LAN_USET_3", "Awatar jest zbyt wysoka");
+define("LAN_USET_4", "Maksymalna dopuszczalna wysokość jest");
+define("LAN_USET_7", "Różne");
+define("LAN_USET_8", "Podpis użytkownika");
+define("LAN_USET_9", "Niektóre wymagane pola (oznaczone *) brakuje w ustawieniach.");
+define("LAN_USET_10", "Proszę zaktualizować ustawienia teraz, aby kontynuować.");
+define("LAN_USET_11", "Nazwa użytkownika nie może być akceptowane jako prawidłowe, wybierz nazwę innego użytkownika");
+define("LAN_USET_12", "Że nazwa wyświetlana jest zbyt krótki. Proszę wybrać inny");
+define("LAN_USET_13", "Nieprawidłowe znaki w Username. Proszę wybrać inny");
+define("LAN_USET_14", "Nazwa logowania jest zbyt długa. Proszę wybrać inny");
+define("LAN_USET_15", "Nazwa wyświetlana jest zbyt długi. Proszę wybrać inny");
+define("LAN_USET_16", "Pole wyboru, aby usunąć istniejące zdjęcie bez przesyłania innym");
+define("LAN_USET_17", "Nazwa wyświetlana jest już używany. Proszę wybrać inny");
+define("LAN_USET_18", "Dane użytkownika zmieniony przez admin:--ID--, nazwa logowania:--LOGNAME--");
+define("LAN_USET_20", "Należy także zmienić hasło użytkownika, jeśli zmieniasz ich logowania Nazwa lub adres e-mail");
+define("LAN_USET_21", "Sprawdź poprawność zmian, ponownie wprowadzając hasło:");
+define("LAN_USET_23", "Pozostaw puste, aby zachować istniejące hasło");
+define("LAN_USET_24", "Nowe hasło:");
+define("LAN_USET_25", "Wpisz ponownie nowe hasło:");
+define("LAN_USET_26", "Przesłać avatar");
+define("LAN_USET_27", "Prześlij swoje zdjęcie");
+define("LAN_USET_28", "To pojawi się na Twojej stronie profilu");
+define("LAN_USET_30", "Co to jest?");
+define("LAN_USET_31", "Informacje rejestracyjne");
+define("LAN_USET_32", "Uwaga: każdy obraz przesłany do tego serwera, który jest uznawany przez administratorów będą natychmiast usuwane.");
+define("LAN_USET_33", "Wybierz awatara przechowywane w witrynie");
+define("LAN_USET_34", "Użycie zdalnego avatar");
+define("LAN_USET_35", "Proszę wpisz pełny adres do obrazu");
+define("LAN_USET_36", "Kliknij przycisk, aby zobaczyć avatary przechowywane na tej stronie");
+define("LAN_USET_37", "Zapisz ustawienia");
+define("LAN_USET_38", "Wybierz awatara");
+define("LAN_USET_39", "Aktualizacja ustawień użytkownika");
+define("LAN_USET_40", "Dwa hasła nie pasują");
+define("LAN_USET_41", "Ustawienia aktualizacji i zapisane do bazy danych.");
+define("LAN_USET_42", "Niezgodność na klucz sprawdzania poprawności");
+define("LAN_USET_43", "Błąd aktualizacji danych użytkownika");
+define("LAN_7", "Nazwa wyświetlana:");
+define("LAN_8", "Nazwa wyświetlana na stronie");
+define("LAN_9", "Nazwa użytkownika:");
+define("LAN_10", "Nazwa służy do logowania się do serwisu");
+define("LAN_112", "Adres e-mail:");
+define("LAN_113", "Ukryć adres e-mail?:");
+define("LAN_114", "Pozwoli to uniknąć adres e-mail są wyświetlane na stronie");
+define("LAN_120", "Podpis:");
+define("LAN_122", "Strefa czasowa:");
+define("LAN_152", "Nowe hasło:");
+define("LAN_153", "Wpisz ponownie nowe hasło:");
+define("LAN_154", "Zapisz ustawienia");
+define("LAN_308", "Prawdziwe nazwisko:");
+define("LAN_401", "Pozostaw puste, aby zachować istniejące hasło");
+define("LAN_404", "Uwaga: każdy obraz przesłany do tego serwera, który jest uznawany przez administratorów będą natychmiast usuwane.");
+define("LAN_414", "Prześlij swoje zdjęcie");
+define("LAN_415", "Przesłać avatar");
+define("LAN_418", "Informacje rejestracyjne");
+define("LAN_420", "Avatar");
+define("LAN_421", "Wybierz awatara przechowywane w witrynie");
+define("LAN_422", "Użycie zdalnego avatar");
+define("LAN_423", "Proszę wpisz pełny adres do obrazu");
+define("LAN_424", "Kliknij przycisk, aby zobaczyć avatary przechowywane na tej stronie");
+define("LAN_425", "Zdjęcie");
+define("LAN_426", "To pojawi się na Twojej stronie profilu");
+define("LAN_433", "Adres URL do pliku XUP");
+define("LAN_434", "Co to jest?");
+define("LAN_435", "Plik XML użytkownika protokołu");
+define("LAN_CUSTOMTITLE", "Niestandardowy tytuł");
+define("LAN_USET_5", "Przyłącza się do");
+define("LAN_USET_6", "Zapisz się do naszej mailing-wykaz lub wykazy i/lub części niniejszej witryny.");

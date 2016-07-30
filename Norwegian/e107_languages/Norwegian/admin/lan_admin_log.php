@@ -1,14 +1,8 @@
 <?php
-/*
-+---------------------------------------------------------------+
-|        e107 website content management system Norwegian Language File
-|        Released under the terms and conditions of the
-|        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/28 19:53:35
-|
-|        $Author: Administrador $
-+---------------------------------------------------------------+
-*/
+
+// Bing-Translated Language file 
+// Generated for e107 v2.x by the Multi-Language Plugin
+// https://github.com/e107inc/multilan
 
 define("RL_LAN_002", "Rullende Logg");
 define("RL_LAN_005", "Konfigurere/vise systemlogg");
@@ -29,7 +23,7 @@ define("RL_LAN_025", "Event-tittel");
 define("RL_LAN_026", "Klasse for hvilke brukerhandlinger logget");
 define("RL_LAN_028", "Oppdatere filtre");
 define("RL_LAN_029", "Event type-filteret");
-define("RL_LAN_030", "Admin Logg");
+define("RL_LAN_030", "Loggen");
 define("RL_LAN_031", "Handlinger logge");
 define("RL_LAN_032", "PRI");
 define("RL_LAN_033", "Ytterligere informasjon");
@@ -37,9 +31,9 @@ define("RL_LAN_044", "Logger hendelser å vise per side");
 define("RL_LAN_045", "Slette admin logghendelser som er eldre enn");
 define("RL_LAN_046", "dager");
 define("RL_LAN_047", "Bekrefte slette admin logghendelser eldre enn");
-define("RL_LAN_049", "Slett gamle hendelser");
-define("RL_LAN_050", "Parameterfeil - ingentilg er slettet");
-define("RL_LAN_052", "Admin Logg");
+define("RL_LAN_049", "Slett gamle oppføringer");
+define("RL_LAN_050", "Parameterfeil - ingenting slettet");
+define("RL_LAN_052", "Loggen");
 define("RL_LAN_053", "Overvåkingsloggen for brukeren");
 define("RL_LAN_054", "Ingenting å slette eller databasefeil");
 define("RL_LAN_057", "-hendelser som er eldre enn - gamle--(- NUM - oppføringer) slettet");
@@ -60,7 +54,7 @@ define("RL_LAN_073", "Påloggings-/ avloggingskobling");
 define("RL_LAN_075", "Endre visningsnavn");
 define("RL_LAN_076", "Endre passord");
 define("RL_LAN_077", "Endre e-postadresse");
-define("RL_LAN_078", "Resetting av passord");
+define("RL_LAN_078", "Tilbakestilling av passord");
 define("RL_LAN_079", "Endre andre brukerinnstillingene");
 define("RL_LAN_080", "Admin raskt legge til bruker");
 define("RL_LAN_081", "E transittstopp");
@@ -79,7 +73,7 @@ define("RL_LAN_101", "PID");
 define("RL_LAN_103", "Emne");
 define("RL_LAN_104", "UID");
 define("RL_LAN_106", "Type");
-define("RL_LAN_107", "Seksjoner");
+define("RL_LAN_107", "Kommentar");
 define("RL_LAN_108", "BK");
 define("RL_LAN_109", "LK");
 define("RL_LAN_110", "Del");
@@ -88,7 +82,7 @@ define("RL_LAN_112", "Slettede - nummer - kommentarer");
 define("RL_LAN_113", "Feil ved sletting av kommentarer!");
 define("RL_LAN_114", "Fjern filtre");
 define("RL_LAN_115", "Brukere-Admin");
-define("RL_LAN_116", "Sted");
+define("RL_LAN_116", "Beliggenhet");
 define("RL_LAN_117", "PgCnt");
 define("RL_LAN_118", "Flagg");
 define("RL_LAN_120", "Brukere online");
@@ -97,6 +91,3 @@ define("RL_LAN_123", "Tilsynet løypa klasse");
 define("RL_LAN_124", "Tilsynet løypa brukerhandlinger");
 define("RL_LAN_125", "Logger systemvedlikehold");
 define("RL_LAN_126", "Totalt [x] oppføringer matchende søkevilkår");
-
-
-?>

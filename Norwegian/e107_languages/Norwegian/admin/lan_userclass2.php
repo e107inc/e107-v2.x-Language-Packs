@@ -1,30 +1,24 @@
 <?php
-/*
-+---------------------------------------------------------------+
-|        e107 website content management system Norwegian Language File
-|        Released under the terms and conditions of the
-|        GNU General Public License (http://gnu.org).
-|        Last Modified: 2015/12/28 19:59:26
-|
-|        $Author: Administrador $
-+---------------------------------------------------------------+
-*/
 
-define("UCSLAN_3", "Gruppen er slettet.");
-define("UCSLAN_5", "Gruppe oppdatert.");
-define("UCSLAN_6", "Gruppen er nå lagret i databasen.");
-define("UCSLAN_7", "Enda ingen brukergrupper.");
-define("UCSLAN_8", "Eksisterende grupper");
+// Bing-Translated Language file 
+// Generated for e107 v2.x by the Multi-Language Plugin
+// https://github.com/e107inc/multilan
+
+define("UCSLAN_3", "Klassen slettet.");
+define("UCSLAN_5", "Klassen oppdatert.");
+define("UCSLAN_6", "Klassen lagret databasen.");
+define("UCSLAN_7", "Ingen brukerklasser ennå.");
+define("UCSLAN_8", "Eksisterende klasser");
 define("UCSLAN_9", "Ingen ikon");
 define("UCSLAN_10", "Klasse ble ikke slettet - det er en kjerne klasse, eller brukes i definisjonen av en annen klasse, som forelder eller Rediger klasse");
-define("UCSLAN_11", "marker for å bekrefte");
-define("UCSLAN_12", "Gruppenavn");
-define("UCSLAN_13", "Beskrivelse");
-define("UCSLAN_14", "Oppdater gruppen");
-define("UCSLAN_15", "Lag en ny gruppe");
-define("UCSLAN_18", "Rens gruppen");
-define("UCSLAN_20", "Klasse");
-define("UCSLAN_21", "Gruppe innstillinger");
+define("UCSLAN_11", "tick å bekrefte");
+define("UCSLAN_12", "Klassenavn");
+define("UCSLAN_13", "Klassen beskrivelse");
+define("UCSLAN_14", "Oppdatere klasse");
+define("UCSLAN_15", "Opprette ny klasse");
+define("UCSLAN_18", "Fjern klasse");
+define("UCSLAN_20", "klassen");
+define("UCSLAN_21", "Klassen brukerinnstillinger");
 define("UCSLAN_24", "Klassen Manager");
 define("UCSLAN_25", "Opprette og redigere klasser");
 define("UCSLAN_26", "Klassen medlemskap");
@@ -41,10 +35,10 @@ define("UCSLAN_37", "Du må angi et navn for klassen");
 define("UCSLAN_38", "Første klasse");
 define("UCSLAN_39", "Ingen klasser som kan settes");
 define("UCSLAN_40", "Angi innledende klasser");
-define("UCSLAN_41", "Innstillingene er oppdatert");
+define("UCSLAN_41", "Innstillingene oppdatert");
 define("UCSLAN_42", "Ikke noe forandret - ikke oppdatert");
 define("UCSLAN_43", "Eksisterende klasser:");
-define("UCSLAN_44", "Ingenting");
+define("UCSLAN_44", "Ingen");
 define("UCSLAN_45", "Punktet der klassene satt:");
 define("UCSLAN_46", "(ignorert hvis ingen bekreftelse)");
 define("UCSLAN_47", "Første registrering");
@@ -76,7 +70,7 @@ define("UCSLAN_72", "Gjenoppbygge Klassehierarki");
 define("UCSLAN_73", "(Dette kan være nødvendig hvis databasen korrupsjon oppstår)");
 define("UCSLAN_74", "Administratorer og moderatorer");
 define("UCSLAN_75", "Registrerte og innloggede medlemmer");
-define("UCSLAN_76", "Nettstedsadministratorer");
+define("UCSLAN_76", "Områdeadministratorer");
 define("UCSLAN_77", "Hovednettstedet administratorer");
 define("UCSLAN_78", "Moderatorer for forumet og andre områder");
 define("UCSLAN_79", "Klassetype");
@@ -92,7 +86,4 @@ define("UCSLAN_88", "Identifiserte søkeroboter");
 define("UCSLAN_89", "Sjekket er medlemmer av gruppen");
 define("UCSLAN_90", "Du kan ikke redigere visse systemet brukerklasser!");
 define("UCSLAN_91", "");
-define("UCSLAN_UPDATE", "Oppdater");
-
-
-?>
+define("UCSLAN_UPDATE", "Oppdatering");
