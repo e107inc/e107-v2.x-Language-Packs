@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Russian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/07/30 03:03:08
+|
+|        $Author: Administrator $
++---------------------------------------------------------------+
+*/
 
 define("PAGE_NAME", "Новости");
 define("LAN_NEWS_1", "Новости для конкретных членов только");
@@ -28,5 +34,9 @@ define("LAN_NEWS_85", "В категории Обзор");
 define("LAN_NEWS_86", "Старые новости");
 define("LAN_NEWS_87", "Новые новости");
 define("LAN_NEWS_462", "Нет новостей за указанный месяц");
+define("LAN_NEWS_463", "Нет новостей в выбранной категории - пожалуйста проверьте позже.");
 define("LAN_NEWS_100", "На");
 define("LAN_NEWS_307", "Всего сообщений в этой категории:");
+
+
+?>

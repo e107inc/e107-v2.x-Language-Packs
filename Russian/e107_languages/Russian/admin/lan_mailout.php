@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Russian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/08/14 18:15:58
+|
+|        $Author: Dmitri Poterianski $
++---------------------------------------------------------------+
+*/
 
 define("CORE_DATE_ORDER", "ДМГ");
 define("LAN_MAILOUT_01", "От имени");
@@ -27,7 +33,7 @@ define("LAN_MAILOUT_19", "Указанный адрес электронной �
 define("LAN_MAILOUT_20", "Sendmail путь");
 define("LAN_MAILOUT_21", "Массовой рассылки записей");
 define("LAN_MAILOUT_22", "Есть в настоящее время нет сохраненных записей");
-define("LAN_MAILOUT_23", "userclass:");
+define("LAN_MAILOUT_23", "класс пользователя:");
 define("LAN_MAILOUT_24", "Email(s) готовы к отправке");
 define("LAN_MAILOUT_25", "Массовая рассылка элементов управления");
 define("LAN_MAILOUT_26", "Приостановить массовой рассылки каждый");
@@ -55,8 +61,8 @@ define("LAN_MAILOUT_51", "Тема");
 define("LAN_MAILOUT_52", "Последний mod");
 define("LAN_MAILOUT_53", "Администраторы");
 define("LAN_MAILOUT_54", "Самоуправления");
-define("LAN_MAILOUT_55", "Userclass");
-define("LAN_MAILOUT_56", "Последний визит (дд мм гг)");
+define("LAN_MAILOUT_55", "Класс пользователя");
+define("LAN_MAILOUT_56", "Последний визит");
 define("LAN_MAILOUT_57", "Отправить навалом SMTP писем в блоках");
 define("LAN_MAILOUT_67", "Не удалось отправить по электронной почте. Пожалуйста просмотрите параметры SMTP, или выберите другой метод рассылки и повторите попытку.");
 define("LAN_MAILOUT_68", "Зарегистрированные пользователи");
@@ -244,9 +250,10 @@ define("LAN_MAILOUT_254", "Просмотр шаблона электронно�
 define("LAN_MAILOUT_255", "Шаблонизированные электронной почты ID:");
 define("LAN_MAILOUT_256", "Возвращение");
 define("LAN_MAILOUT_257", "Созданный шаблон");
-define("LAN_MAILOUT_259", "");
 define("LAN_SEND", "Отправить");
 define("LAN_HOLD", "Удерживайте");
 define("LAN_MAILOUT_260", "Тип пользователя");
-define("LAN_BASIC", "Основные");
-define("LAN_ADVANCED", "Расширенный");
+define("LAN_MAILOUT_261", "Порт SMTP");
+
+
+?>

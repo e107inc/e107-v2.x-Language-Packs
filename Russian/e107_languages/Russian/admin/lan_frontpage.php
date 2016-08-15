@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Russian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/08/14 18:14:15
+|
+|        $Author: Dmitri Poterianski $
++---------------------------------------------------------------+
+*/
 
 define("FRTLAN_13", "Текущие параметры первой странице");
 define("FRTLAN_30", "Пользовательские страницы");
@@ -15,3 +21,7 @@ define("FRTLAN_51", "Другие");
 define("FRTLAN_PAGE_TITLE", "Главная страница");
 define("FRTLAN_56", "повторяющиеся определение класса:");
 define("FRTLAN_57", "Ошибка программного обеспечения");
+define("FRTLAN_61", "Выделенное");
+
+
+?>

@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Russian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/07/30 03:12:13
+|
+|        $Author: Administrator $
++---------------------------------------------------------------+
+*/
 
 define("LAN_USER_01", "Отображаемое имя");
 define("LAN_USER_02", "Имя входа");
@@ -60,7 +66,6 @@ define("LAN_USER_66", "Посещение сайта после регистра
 define("LAN_USER_67", "Сообщения чата");
 define("LAN_USER_68", "Комментариев");
 define("LAN_USER_69", "Сообщения на форуме");
-define("LAN_USER_70", "Показать");
 define("LAN_USER_71", "Подпись:");
 define("LAN_USER_72", "Аватар:");
 define("LAN_USER_73", "Выбор содержания/Mail списков");
@@ -77,3 +82,12 @@ define("LAN_USER_83", "Скрыть адрес электронной почты
 define("LAN_USER_84", "Это позволит предотвратить ваш адрес электронной почты отображается на сайте");
 define("LAN_USER_85", "Если вы хотите изменить ваше имя пользователя, вы должны попросить администратора сайта");
 define("LAN_USER_86", "Размер максимального аватара является--ширина--x--высота--пикселей");
+define("LAN_XUP_ERRM_01", "Регистрация не удалась! Эта функция отключена.");
+define("LAN_XUP_ERRM_02", "Регистрация не удалась! Неверный провайдер.");
+define("LAN_XUP_ERRM_03", "Вход не удался! Неверный провайдер.");
+define("LAN_XUP_ERRM_04", "Регистрация не удалась! Пользователь уже введен.");
+define("LAN_XUP_ERRM_05", "Регистрация не удалась! Пользователь уже введен. Пожалуйста пользуйтесь кнопкой 'вход'.");
+define("LAN_XUP_ERRM_06", "Регистрация не удалась! Недоступен адрес электронной почты - невозможно зарегистрироваться без этого адреса.");
+
+
+?>

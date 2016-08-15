@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Russian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/07/30 02:23:00
+|
+|        $Author: Administrator $
++---------------------------------------------------------------+
+*/
 
 define("LAN_EMAIL_1", "От:");
 define("LAN_EMAIL_2", "IP-адрес отправителя:");
@@ -25,3 +31,7 @@ define("LAN_EMAIL_187", "Адрес электронной почты для о�
 define("LAN_EMAIL_188", "Я думал, что вы можете быть заинтересованы в этой новости от");
 define("LAN_EMAIL_189", "Я думал, что вы можете быть заинтересованы в этой статье от");
 define("LAN_EMAIL_190", "Введите код видна");
+define("LAN_SOCIAL_LINK_CHK", "Взгляните на эту ссылку:");
+
+
+?>

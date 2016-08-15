@@ -9,7 +9,6 @@
 |        $Author: admin $
 +---------------------------------------------------------------+
 */
-
 setlocale(LC_ALL,  'ru_RU.UTF-8', 'ru_RU.utf8', 'ru');
 define("CORE_LC", "ru");
 define("CORE_LC2", "ru");
@@ -29,7 +28,7 @@ define("CORE_LAN15", "Запросов БД:");
 define("CORE_LAN16", "Память:");
 define("CORE_LAN17", "[изображение инвалидов]");
 define("CORE_LAN18", "Изображение:");
-define("CORE_LAN_B", "B");
+define("CORE_LAN_B", "Б");
 define("CORE_LAN_KB", "КБ");
 define("CORE_LAN_MB", "МБ");
 define("CORE_LAN_GB", "ГБ");
@@ -43,6 +42,7 @@ define("LAN_EDIT", "Редактировать");
 define("LAN_DELETE", "Удалить");
 define("LAN_DEFAULT", "По умолчанию");
 define("LAN_MORE", "Более...");
+define("LAN_LESS", "..Менее");
 define("LAN_READ_MORE", "Подробнее...");
 define("LAN_GOPAGE", "Перейти на страницу");
 define("LAN_GOTOPAGEX", "Перейти на страницу [x]");
@@ -86,6 +86,7 @@ define("LAN_LOGIN", "Логин");
 define("LAN_LOGOUT", "Выход");
 define("LAN_SETTINGS", "Параметры");
 define("LAN_PASSWORD", "Пароль");
+define("LAN_INCORRECT_PASSWORD", "Неверный Пароль");
 define("LAN_TYPE", "Тип");
 define("LAN_SCREENSHOT", "Скриншот");
 define("LAN_FILE", "Файл");
@@ -107,8 +108,14 @@ define("LAN_EMAIL", "Адрес электронной почты");
 define("LAN_WROTE", "написал");
 define("LAN_RE_ORDER", "Возобновления заказа");
 define("LAN_RELATED", "Имеет отношение");
+define("LAN_CLOSE", "Закрыть");
+define("LAN_EXPAND", "Раскрыть");
 define("LAN_ENTER_USRNAME_EMAIL", "Пожалуйста, введите ваше имя пользователя или по электронной почте");
 define("LAN_PWD_REQUIRED", "Требуется пароль");
+define("LAN_SHOW", "Показать");
+define("LAN_GENERATE", "Генерировать");
+define("LAN_SUMMARY", "Конспект");
+define("LAN_REQUIRED_BLANK", "Нужные поля были оставлены пустыми.");
 
 
 ?>

@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Russian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/07/30 03:13:25
+|
+|        $Author: Administrator $
++---------------------------------------------------------------+
+*/
 
 define("UE_LAN_1", "Текстовое поле");
 define("UE_LAN_2", "Радио-кнопки");
@@ -44,3 +50,8 @@ define("UE_LAN_GENDER", "Пол");
 define("UE_LAN_GENDER_DESC", "Пол");
 define("UE_LAN_MALE", "Мужчины");
 define("UE_LAN_FEMALE", "Девушки");
+define("UE_LAN_COMMENT", "Комментарии");
+define("UE_LAN_COMMENT_DESC", "Поле Комментарий");
+
+
+?>

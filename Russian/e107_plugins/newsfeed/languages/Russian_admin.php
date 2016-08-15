@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Russian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/08/14 01:56:42
+|
+|        $Author: Dmitri Poterianski $
++---------------------------------------------------------------+
+*/
 
 define("NFLAN_03", "Настройка новостного подкастинга");
 define("NFLAN_04", "Newsfeeds плагин успешно установлен. Для добавления новостей и настройки, вернитесь на страницу главный администратор и нажмите на иконку новостей в разделе плагин.");
@@ -46,3 +52,7 @@ define("LAN_AL_NEWSFD_02", "Новости обновление");
 define("LAN_AL_NEWSFD_03", "Новостная лента удалены");
 define("LAN_AL_NEWSFD_04", "");
 define("LAN_AL_NEWSFD_05", "");
+define("NFLAN_50", "Последние Обновление");
+
+
+?>

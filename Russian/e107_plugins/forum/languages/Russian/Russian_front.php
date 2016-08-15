@@ -1,9 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Russian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/08/14 16:32:02
+|
+|        $Author: Dmitri Poterianski $
++---------------------------------------------------------------+
+*/
 define("e_PAGETITLE", "Форум");
 define("LAN_FORUM_0002", "Темы");
 define("LAN_FORUM_0003", "Ответы");
@@ -94,6 +99,8 @@ define("LAN_FORUM_1015", "[пользователь удален]");
 define("LAN_FORUM_1016", "Опрос");
 define("LAN_FORUM_1017", "Перейти к");
 define("LAN_FORUM_1018", "Новая тема");
+define("LAN_FORUM_1020", "Редактировать");
+define("LAN_FORUM_1021", "Нет Ответов");
 define("LAN_FORUM_2001", "Предыдущая тема");
 define("LAN_FORUM_2002", "Следующая тема");
 define("LAN_FORUM_2003", "Moderator(s)");
@@ -165,12 +172,17 @@ define("LAN_FORUM_3028", "Добавить опрос");
 define("LAN_FORUM_3038", "Нормальный");
 define("LAN_FORUM_3039", "Отключить смайлики на этот пост");
 define("LAN_FORUM_3040", "Включение электронной почты слежения (электронной почты, отправляемое, когда написал ответ)");
+define("LAN_FORUM_3041", "Вкл./выкл. отслеживание этой темы");
+define("LAN_FORUM_3042", "Новая Тема");
 define("LAN_FORUM_3043", "Спасибо");
 define("LAN_FORUM_3045", "Ваш опрос был успешно опубликован.");
 define("LAN_FORUM_3046", "Нажмите здесь, чтобы посмотреть ваш опрос");
 define("LAN_FORUM_3047", "Ваше сообщение было успешно добавлено.");
 define("LAN_FORUM_3048", "Нажмите здесь, чтобы просмотреть ваше сообщение");
 define("LAN_FORUM_3049", "Ваш ответ был успешно опубликован.");
+define("LAN_FORUM_3050", "Место разделения");
+define("LAN_FORUM_3051", "Новая локация");
+define("LAN_FORUM_3052", "Разделить Тему");
 define("LAN_FORUM_4001", "Непрочитанное сообщение существует");
 define("LAN_FORUM_4002", "Нет непрочитанных сообщений");
 define("LAN_FORUM_4003", "Новые должности на популярные темы");
@@ -223,3 +235,12 @@ define("LAN_FORUM_7006", "Результат");
 define("LAN_FORUM_7007", "Найдено в потоке");
 define("LAN_FORUM_7008", "НЕ НАЙДЕН");
 define("LAN_FORUM_7009", "Загруженные файлы не найдены");
+define("LAN_FORUM_8001", "Новое сообщение в теме [y] от [x] в [z].");
+define("LAN_FORUM_8002", "Пожалуйста нажмите на следующею ссылку чтобы прочетать целое сообщение ...");
+define("LAN_FORUM_8003", "Сообщение по электронной почте для этой темы включены.");
+define("LAN_FORUM_8004", "Сообщение по электронной почте для этой темы теперь выключены.");
+define("LAN_FORUM_8005", "Вы следите за этой темой.");
+define("LAN_FORUM_8006", "Вы больше не следите за этой темой.");
+
+
+?>

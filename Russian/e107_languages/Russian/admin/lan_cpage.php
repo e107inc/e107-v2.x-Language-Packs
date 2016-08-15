@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Russian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/08/14 18:10:46
+|
+|        $Author: Dmitri Poterianski $
++---------------------------------------------------------------+
+*/
 
 define("CUSLAN_9", "Текст");
 define("CUSLAN_11", "Мета-описания");
@@ -40,3 +46,7 @@ define("CUSLAN_75", "Отсутствуют-идентификатор меню 
 define("CUSLAN_76", "Меню с пути #");
 define("CUSLAN_77", "удалены");
 define("CUSLAN_78", "Не удается удалить меню с пути");
+define("CUSLAN_79", "Вы должны ввести либо имя страницы, либо имя меню.");
+
+
+?>
