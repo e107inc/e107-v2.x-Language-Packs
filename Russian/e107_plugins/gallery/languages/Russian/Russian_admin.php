@@ -6,7 +6,7 @@
 |        GNU General Public License (http://gnu.org).
 |        Last Modified: 2016/08/12 19:03:13
 |
-|        $Author: Administrator $
+|        $Author: admin $
 +---------------------------------------------------------------+
 */
 define("LAN_GALLERY_ADMIN_01", "[x] активировано. Просто загрузите изображение, и присвойте их к категориям, используя [y]");

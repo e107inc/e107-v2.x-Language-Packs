@@ -6,7 +6,7 @@
 |        GNU General Public License (http://gnu.org).
 |        Last Modified: 2016/08/14 16:32:02
 |
-|        $Author: Dmitri Poterianski $
+|        $Author: admin $
 +---------------------------------------------------------------+
 */
 define("e_PAGETITLE", "Форум");

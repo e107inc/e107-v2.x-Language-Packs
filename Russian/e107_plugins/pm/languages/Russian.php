@@ -6,7 +6,7 @@
 |        GNU General Public License (http://gnu.org).
 |        Last Modified: 2016/08/14 02:01:20
 |
-|        $Author: Dmitri Poterianski $
+|        $Author: admin $
 +---------------------------------------------------------------+
 */
 

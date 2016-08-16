@@ -6,7 +6,7 @@
 |        GNU General Public License (http://gnu.org).
 |        Last Modified: 2016/08/14 02:29:09
 |
-|        $Author: Dmitri Poterianski $
+|        $Author: admin $
 +---------------------------------------------------------------+
 */
 define("CLOCK_MENU_L1", "Конфигурация меню часов сохранена");

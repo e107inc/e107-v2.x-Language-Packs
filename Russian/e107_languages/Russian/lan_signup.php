@@ -6,7 +6,7 @@
 |        GNU General Public License (http://gnu.org).
 |        Last Modified: 2016/07/30 03:04:01
 |
-|        $Author: Administrator $
+|        $Author: admin $
 +---------------------------------------------------------------+
 */
 

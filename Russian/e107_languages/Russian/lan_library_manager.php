@@ -6,7 +6,7 @@
 |        GNU General Public License (http://gnu.org).
 |        Last Modified: 2016/07/30 02:39:43
 |
-|        $Author: Administrator $
+|        $Author: admin $
 +---------------------------------------------------------------+
 */
 define("LAN_LIBRARY_MANAGER_01", "Библиотека [x], от которой зависит библиотека [y] не установлена.");

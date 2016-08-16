@@ -6,7 +6,7 @@
 |        GNU General Public License (http://gnu.org).
 |        Last Modified: 2016/08/14 19:50:52
 |
-|        $Author: Dmitri Poterianski $
+|        $Author: admin $
 +---------------------------------------------------------------+
 */
 define("LAN_SOCIAL_ADMIN_SUMM", "Добавляет виджеты Facebook, Twitter, и других соцсетей в e107.");
