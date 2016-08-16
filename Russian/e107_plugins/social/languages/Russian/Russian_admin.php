@@ -47,6 +47,7 @@ define("LAN_SOCIAL_ADMIN_33", "Ширина в пикселях");
 define("LAN_SOCIAL_ADMIN_34", "Количество изображенных твитов");
 define("LAN_SOCIAL_ADMIN_35", "Светлое");
 define("LAN_SOCIAL_ADMIN_36", "Темное");
+define("LAN_SOCIAL_ADMIN_37", "Открыть График-Мета");
 
 
 ?>
