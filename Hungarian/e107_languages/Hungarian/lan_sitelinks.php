@@ -6,4 +6,3 @@
 
 define("LAN_SITELINKS_183", "Főmenü");
 define("LAN_SITELINKS_502", "Admin terület");
-?>

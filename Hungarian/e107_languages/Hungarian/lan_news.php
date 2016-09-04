@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Hungarian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/07/22 13:15:43
+|
+|        $Author: Yesszus $
++---------------------------------------------------------------+
+*/
 
 define("PAGE_NAME", "Hírek");
 
@@ -29,6 +35,7 @@ define("LAN_NEWS_85", "Vissza a Kategória áttekintő oldalra");
 define("LAN_NEWS_86", "Korábbi hírek");
 define("LAN_NEWS_87", "Legutóbbi hírek");
 define("LAN_NEWS_462", "Ebben a hónapban nem található hír.");
+define("LAN_NEWS_463", "Ebben a kategóriában még nincs hír közzétéve - kérlek nézz vissza később.");
 
 define("LAN_NEWS_100", " - ");
 define("LAN_NEWS_307", "Összes bejegyzés ebben a kategóriában: ");

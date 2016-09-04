@@ -16,4 +16,3 @@ define("LAN_PRINT_306", "A hír megtalálható itt: ");
 define("LAN_PRINT_307", "Oldal nyomtatása");
 
 define("LAN_PRINT_1", "Nyomtatóbarát változat");
-?>

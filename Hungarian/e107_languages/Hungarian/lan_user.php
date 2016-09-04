@@ -82,6 +82,12 @@ define("LAN_USER_83", "Email cím elrejtése?:");
 define("LAN_USER_84", "Ez megakadályozza, hogy az email cím megjelenjen az oldalon");
 define("LAN_USER_85", "Ha meg akarod változtatni a felhasználónevedet, lépj kapcsolatba az oldal adminisztrátorával!");
 define("LAN_USER_86", "Maximális avatar méret --WIDTH-- x --HEIGHT-- pixel-ben.");
-
+// social plugin
+define("LAN_XUP_ERRM_01", "Sikertelen regisztráció! A szolgáltatás letiltva.");
+define("LAN_XUP_ERRM_02", "Sikertelen regisztráció! Rossz szolgáltató.");
+define("LAN_XUP_ERRM_03", "Sikertelen bejelentkezés! Rossz szolgáltató.");
+define("LAN_XUP_ERRM_04", "Sikertelen regisztráció! A felhasználó már regisztrált.");
+define("LAN_XUP_ERRM_05", "Sikertelen regisztráció! A felhasználó már létezik. Kérjük jelentkezzen be.");
+define("LAN_XUP_ERRM_06", "Sikertelen regisztráció! Nem elérhető a felhasználó email címe - a regisztráció email cím megadása nélkül történt.");
 
 ?>

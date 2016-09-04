@@ -1,13 +1,19 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Hungarian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/06/06 13:15:43
+|
+|        $Author: Yesszus $
++---------------------------------------------------------------+
+*/
 
 define("PAGE_NAME", "Regisztráció");
 
 define("LAN_EMAIL_01", "Kedves");
-define("LAN_EMAIL_04", "Őrizze meg ezt a levelet, mivel az adataidat ez tartalmazza.");
+define("LAN_EMAIL_04", "Őrizze meg ezt a levelet, mivel ez tartalmazza az adatait.");
 define("LAN_EMAIL_05", "A jelszava titkosítva tárolódik, ezért nem kérhető ki, ha elfelejtette.<br>Ebben az esetben természetesen kérhet új jelszót.");
 define("LAN_EMAIL_06", "Köszönjük, hogy regisztrált!");
 
@@ -38,13 +44,13 @@ define("LAN_SIGNUP_30", "Ha nem akarja megjeleníteni az email címét az oldalo
 define("LAN_SIGNUP_34", "Megjegyzés: Ha a szerverre feltöltött fájlt az Adminisztrátor helytelennek tartja, akkor azonnal törölni fogja.");
 define("LAN_SIGNUP_36", "Hiba keletkezett a felhasználói információkban, lépjen kapcsolatba az oldal adminisztrátorával");
 define("LAN_SIGNUP_37", "A regisztráció ezen része kész. Az oldal Adminja fogja jóváhagyni a tagságát.  Ezzel egyidőben egy megerősítő email-t fog kapni, hogy a tagságát elfogadták.");
-define("LAN_SIGNUP_38", "Eltérő email címet írt be. Adja meg az érvényes email címet mindkét mezőben");
+define("LAN_SIGNUP_38", "Eltérő email címet írt be! Mindkét mezőben az érvényes email címét adja meg.");
 define("LAN_SIGNUP_39", "Adja meg újra az Email Címet:");
-define("LAN_SIGNUP_40", "Aktiválás nem szükséges");
-define("LAN_SIGNUP_41", "Hozzáférése már aktiválva van.");
+define("LAN_SIGNUP_40", "Nem szükséges aktiválni");
+define("LAN_SIGNUP_41", "A hozzáférése már aktiválva van.");
 define("LAN_SIGNUP_42", "Probléma merült fel! A regisztrációs mail nem lett elküldve, lépjen kapcsolatba az oldal adminisztrátorával.");
 define("LAN_SIGNUP_43", "Az Email Elküldve");
-define("LAN_SIGNUP_44", "Az aktiváló email elküldve a következőnek:");
+define("LAN_SIGNUP_44", "Az aktiváló email elküldve ide:");
 define("LAN_SIGNUP_45", "Ellenőrizze a bejövő levelesládáját.");
 define("LAN_SIGNUP_47", "Aktiváló Email Újraküldése");
 define("LAN_SIGNUP_48", "Felhasználónév vagy Email");
@@ -67,7 +73,7 @@ define("LAN_SIGNUP_67", "Ezt fogja a rendszer hozzárendelni regisztráció utá
 define("LAN_SIGNUP_69", "");
 define("LAN_SIGNUP_70", "");
 define("LAN_SIGNUP_71", "Elérte az engedélyezett regisztrációk maximális számát. Jelentkezzen be egy másik, már létező felhasználói fiókkal.");
-define("LAN_SIGNUP_72", "[oldalnév] köszöni a regisztrációját! Elküldtünk egy megerősítő email-t a következő [email] email címre. A regisztráció befejezéséhez és a hozzáférése aktiválásához kattintson az email-ban lévő megerősítő linkre.");
+define("LAN_SIGNUP_72", "[sitename] köszöni a regisztrációját! Elküldtünk egy megerősítő email-t a következő [email] email címre. A regisztráció befejezéséhez és a hozzáférése aktiválásához kattintson az email-ban lévő megerősítő linkre.");
 define("LAN_SIGNUP_73", "Köszönjük!");
 define("LAN_SIGNUP_74", "Hozzáférése aktiválva, kérjük");
 define("LAN_SIGNUP_75", "Regisztrációja aktiválva");
@@ -109,3 +115,4 @@ define("LAN_SIGNUP_109", "Kis- és nagybetűk, de nem tartalmazhat szóközt.");
 define("LAN_SIGNUP_110", "Teljes név");
 define("LAN_SIGNUP_111", "Írja be a kép URL elérését vagy válasszon a meglévő avatarok közül.");
 define("LAN_SIGNUP_112", "Bejelentkezés, mint Főadminisztrátor.");
+define("LAN_SIGNUP_113", "Feliratkozások");
