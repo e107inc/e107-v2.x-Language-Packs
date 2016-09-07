@@ -253,6 +253,6 @@ define("LAN_MAILOUT_259", "Címzettek");
 define("LAN_SEND", "Küldés");
 define("LAN_HOLD", "Tartás");
 define("LAN_MAILOUT_260", "Felhasználó-típus");
-
+define("LAN_MAILOUT_261", "SMTP Port");
 
 ?>

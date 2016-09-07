@@ -253,3 +253,5 @@ define ('EPL_ADLAN_229',"Frissítés");
 define('LAN_UPGRADE_SUCCESSFUL', "Sikeres frissítés");
 define('LAN_INSTALL_SUCCESSFUL', "Sikeres telepítés");
 define('LAN_INSTALL_FAIL', "Sikertelen telepítés");
+define('LAN_UNINSTALL_FAIL', "Nem lehet eltávolítani!");
+define('LAN_PLUGIN_IS_USED', "A [x] plugin-t használja:");

@@ -262,5 +262,8 @@ define("PRFLAN_264", "Főoldal bejelentkező oldal (login.php)");
 define("PRFLAN_265", "Kezdőlap oldal (membersonly.php)");
 define("PRFLAN_266", "Kijelentkezés után melyik oldalra legyen átirányítva a felhasználó?");
 define("PRFLAN_267", "Email metódus");
-
+define("PRFLAN_268", "Kezdőlap szerkesztése");
+define("PRFLAN_269", "Az adminok és a megfelelő adminisztrátori hozzáféréssel rendelkező felhasználók közvetlenül szerkeszthetik a kezdőlap html területet.");
+define("PRFLAN_270", "Kapcsolat Form Szűrés");
+define("PRFLAN_271", "Szavak vagy kifejezések figyelmen kívűl hagyása. Egy szó vagy kifejezés per sor.");
 ?>
