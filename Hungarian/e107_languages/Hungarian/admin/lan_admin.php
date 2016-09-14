@@ -1,12 +1,12 @@
 <?php
 /*
 +---------------------------------------------------------------+
-|        e107 website content management system Hungarian Language File
-|        Released under the terms and conditions of the
-|        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/03/23 14:32:18
+| e107 website content management system Hungarian Language File
+| Released under the terms and conditions of the
+| GNU General Public License (http://gnu.org).
+| Last Modified: 2016/03/23 14:32:18
 |
-|        $Author: Lóna Lore $
+| $Author: Lóna Lore $
 +---------------------------------------------------------------+
 */
 
@@ -128,11 +128,7 @@ define("ADLAN_LAT_6", "Jelentett fórumüzenet");
 define("ADLAN_LAT_7", "Feltöltött fájl");
 define("ADLAN_LAT_8", "Megtekintendő adminisztrátor üzenetek érhetőek el");
 define("ADLAN_LAT_9", "Függőben lévő hozzászólások");
-define("ADLAN_ERR_3", "Egy vagy több file található a publikus feltöltések könyvtárban, melyek nincsennek az általad engedélyezett file tipusok listájában. Ezeket egy rosszindulatú felhasználó (támadó) helyezte ide és [b]azonnal[/b] törölni kell. [b]Ne[/b] nyisd meg ezeket a file-ket, mert képesek rosszindulatú kódokat futtatni, melyek a file-ben bújnak meg. Pl.: ne nyisd meg a böngészővel.
-
-Ha ezeket a file-ket jogosnak itéled meg és megfelelőnek tartod, akkor pontosítsd az engedélyezett file tipusokat. Ha egy általad engedélyezett file tipus a továbbiakban nem szerepel az engedélyezett file tipusok listájában, akkor hozzá kell adni (látsd admin => Feltöltések). Ne engedélyezd .html, .txt, ...stb. feltöltését, mert ezek tartalmazhatnak rosszindulatú javascript-et. És természetesen ne engedélyezd .php file feltöltését, mely egy másik tipusa a végrehajtó script-eknek.
-
-Lentebb láthatod azoknak a file-knek a listáját, melyek potenciálisan fenyegetőek:");
+define("ADLAN_ERR_3", "Egy vagy több file található a publikus feltöltések könyvtárban, melyek nincsennek az általad engedélyezett file tipusok listájában. Ezeket egy rosszindulatú felhasználó (támadó) helyezte ide és [b]azonnal[/b] törölni kell. [b]Ne[/b] nyisd meg ezeket a file-ket, mert képesek rosszindulatú kódokat futtatni, melyek a file-ben bújnak meg. Pl.: ne nyisd meg a böngészővel. Ha ezeket a file-ket jogosnak itéled meg és megfelelőnek tartod, akkor pontosítsd az engedélyezett file tipusokat. Ha egy általad engedélyezett file tipus a továbbiakban nem szerepel az engedélyezett file tipusok listájában, akkor hozzá kell adni (látsd admin => Feltöltések). Ne engedélyezd .html, .txt, ...stb. feltöltését, mert ezek tartalmazhatnak rosszindulatú javascript-et. És természetesen ne engedélyezd .php file feltöltését, mely egy másik tipusa a végrehajtó script-eknek. Lentebb láthatod azoknak a file-knek a listáját, melyek potenciálisan fenyegetőek:");
 define("LAN_CREATE", "Létrehozás");
 define("LAN_MANAGE", "Kezelő");
 define("LAN_UPDATE", "Frissítés");
@@ -164,17 +160,30 @@ define("LAN_EMPTY", "Nincsenek bejegyzések az adatbázisban");
 define("LAN_EXISTING", "Jelenlegi bejegyzések");
 define("LAN_CONFDELETE", "Törlés megerősítése");
 define("LAN_PLUGIN", "Beépülő modul");
+define("LAN_THEMES", "Sminkek");
+define("LAN_LATEST_e107_NEWS", "Legutóbbi e107 hírek");
+define("LAN_WEBSITE_STATUS", "Weboldal állapota");
+define("LAN_STATS", "Statisztika");
+define("LAN_ONLINE", "Online");
 define("LAN_ORDER", "Sorrend");
 define("LAN_SELECT", "Kiválasztás ...");
 define("LAN_ADMIN", "Adminisztrátor");
 define("LAN_DISPLAYOPT", "Megjelenő beállítások módosítása");
 define("LAN_DATESTAMP", "Dátumbélyeg");
+define("LAN_TIMESTAMP", "Időbélyeg");
+define("LAN_IP", "IP");
+define("LAN_PAGE", "OLDAL");
+define("LAN_AGENT", "ÜGYNÖK");
+define("LAN_LANG", "Nyelv");
+define("LAN_APPROVE", "Jóváhagy");
 define("LAN_OPTIONAL", "Opcionális");
 define("LAN_INACTIVE", "Inaktív");
 define("LAN_ACTIVE", "Aktív");
 define("LAN_ACCEPT", "Elfogadás");
 define("LAN_PENDING", "Függőben");
 define("LAN_SUBMITTED", "Beküldve");
+define("LAN_POSTED_BY_X", "Beküldte: [x] [y]");
+define("LAN_VIEW_ALL", "Összes");
 define("LAN_BAN", "Kitiltás");
 define("LAN_UPLOAD", "Feltöltés");
 define("LAN_UPLOADS", "Feltöltés");
@@ -265,6 +274,7 @@ define("LAN_UI_TOTAL_RECORDS", "Összes bejegyzés: [x]");
 define("LAN_USER_MANAGEALL", "Összes Tag, felhasználó csoport, bővített felhasználói mező beállítások kezelése");
 define("LAN_USER_LIST", "Tagok listája");
 define("LAN_USER_QUICKADD", "Tag hozzáadása");
+define("LAN_USER_NOT_FOUND", "Felhasználó nem található.");
 define("LAN_USER_PRUNE", "Tagok törlése");
 define("LAN_USER_OPTIONS", "Tagok beállítása");
 define("LAN_USER_RANKS", "Tag rangok");
@@ -279,6 +289,4 @@ define("LAN_CAPTION", "Cím");
 define("LAN_LIMIT", "Limit");
 define("LAN_BASIC", "Alap");
 define("LAN_ADVANCED", "Haladó");
-
-
-?>
+define("LAN_FOLDER", "Mappa");
