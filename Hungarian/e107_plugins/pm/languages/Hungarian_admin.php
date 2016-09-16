@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Hungarian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/04/09 15:47:20
+|
+|        $Author: Yesszus $
++---------------------------------------------------------------+
+*/
 
 define("ADLAN_PM_1", "Az aktiváláshoz lépj a menük felületre és válaszd ki a private_msg majd helyezd valamelyik menüterületre. <br /><br />Ha szükséges az előző verzió üzeneteinek konvertálása, akkor lépj a plugin Fő beállítások oldalára és válaszd a 'Konvertálás' linket.");
 define("ADLAN_PM_3", "PM beállítások nem találhatóak, alapértelmezett beállítások kiválasztva");
@@ -71,3 +77,9 @@ define("ADLAN_PM_79", "--ORPHANS-- elárvult melléklet lett törölve. --MISSIN
 define("ADLAN_PM_80", "Előnyben részesített formátumok frissítve lettek");
 define("ADLAN_PM_81", "Egyidejűleg küldhető PM-ek maximális száma");
 define("ADLAN_PM_82", "Ha ennél több lesz elküldve, a rendszer az üzeneteket sorba fogja állítani, és ütemeve, az időzített futtatás segítségével küldi el őket.");
+define("ADLAN_PM_83", "A felhasználók csak üzenetet küldhetnek a felhasználóknak ebben a csoportban");
+define("ADLAN_PM_84", "Üzenet maximum hossza");
+define("ADLAN_PM_85", "0 = korlátlan");
+define("ADLAN_PM_86", "VIP Csoport");
+define("ADLAN_PM_87", "A csoport felhasználói csak üzeneteket fogadhatnak ebben acsoportban. Felülírja a fenti beállításokat.");
+?>
