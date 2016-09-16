@@ -93,7 +93,7 @@ define("FORLAN_166", "Fórum eszközök");
 define("FORLAN_167", "Újraszámlálás megtörtént");
 define("FORLAN_168", "Utolsó bejegyzéshez tartozó információk frissítése megtörtént");
 define("FORLAN_169", "Bejegyések újraszámlálása megtörtént");
-define("FORLAN_170", "Jelentések");
+define("FORLAN_170", "Bejelentések");
 define("FORLAN_171", "Fórum bejegyzés");
 define("FORLAN_172", "Jelentés törlése");
 define("FORLAN_173", "Téma címe");
