@@ -293,5 +293,8 @@ define("LAN_LIMIT", "Korlát");
 define("LAN_BASIC", "Alap");
 define("LAN_ADVANCED", "Haladó");
 define("LAN_FOLDER", "Könyvtár");
-
+define("LAN_PERSONALIZE_ICONS", "Ikonok személyreszabása");
+define("LAN_PERSONALIZE_MENUS", "Menük személyreszabása");
+define("LAN_LATEST_COMMENTS", "Új hozzászólások");
+define("LAN_PERSONALIZE", "Személyreszabás");
 ?>

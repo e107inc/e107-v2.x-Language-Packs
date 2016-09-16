@@ -108,5 +108,15 @@ define("DBLAN_108", "Létrehozva:");
 define("DBLAN_109", "Másolva:");
 define("DBLAN_110", "Nem lehet másolni:");
 define("DBLAN_111", "Úgy tűnik minden rendben van a kiválasztott táblával/táblákkal!");
+define("DBLAN_112", "Github Frissítés");
+define("DBLAN_113", "Fájlok Felülírása");
+define("DBLAN_114", "Csak Fejlesztőknek");
+define("DBLAN_115", "A saját fájlok felülíródnak a github-ról letöltött fájlokkal.");
+define("DBLAN_116", "A github-ról letöltődnek a legutóbbi frissítések egy .zip fájlban az");
+define("DBLAN_117", "mappába.<br />Kibontódik és a szerveren található fájlok felülíródnak a github-ról letöltött fájlokkal.<br />Vegye figyelembe, hogy az egyéni mappákat az e107_config.php fájlban lehet beállítani.");
+define("DBLAN_118", "A .zip fájlt nem lehet letölteni!");
+define("DBLAN_119", "Biztonsági mentés létrehozása");
+define("DBLAN_120", "Biztonsági mentés létrehozása....");
+define("DBLAN_121", "Áthelyezve [x] ide [y].");
 
 ?>
