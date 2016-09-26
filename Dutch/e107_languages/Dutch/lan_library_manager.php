@@ -6,7 +6,7 @@
  */
 
 define('LAN_LIBRARY_MANAGER_01', 'Het [x] script, welke het [y] script nodig heeft is niet geinstalleerd.');
-define('LAN_LIBRARY_MANAGER_02', 'TDe versie [x] van de [y] scripts is niet compatible met het [z] script.');
+define('LAN_LIBRARY_MANAGER_02', 'De versie [x] van de [y] scripts is niet compatible met het [z] script.');
 define('LAN_LIBRARY_MANAGER_03', 'Het [x] script kon niet gevonden worden.');
 define('LAN_LIBRARY_MANAGER_04', 'De versie van het [x] script kon niet gevonden worden.');
 define('LAN_LIBRARY_MANAGER_05', 'De geinstalleerde versie [x] van het [y] script wordt niet ondersteund.');
