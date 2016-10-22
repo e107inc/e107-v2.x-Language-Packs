@@ -6,7 +6,7 @@
 |     $URL:$
 |     $Revision:$
 |     $Date:$
-|     $Author: Erje, Yvalni, Tgtje $
+|     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
 */
 
@@ -117,14 +117,14 @@ define ("EPL_ADLAN_101","Geen plugins geinstalleerd - [x].");
 define ("EPL_ADLAN_102","Deze Wizard zal een plugin xml bestand aanmaken, en een beheergebied voor jouw plugin. Voordat je start:");
 define ("EPL_ADLAN_103","Maak een nieuwe beschrijfbare map aan in de [x] directorie vb. [b]myplugin[/b]");
 define ("EPL_ADLAN_104","Wanneer je plugin l tabellen gebruikt, maak een nieuw bestand aan in deze map en geef het de gelijke naam als de directorie, maar met[b]_sql.php[/b] als extensie vb. [b]myplugin_sql.php[/b]");
-define ("EPL_ADLAN_105","Maak je tabel aan in phpMyAdmin en plak een sql dump van deze in je bestand an sla op. (bekijk [i]e107_plugins/_blank/_blank_sql.php[/i] als voorbeeld)");
+define ("EPL_ADLAN_105","Maak je tabel aan in phpMyAdmin in dezelfde database als e107 en met dezelfde tabel prefix bv. [b]e107_myplugin[/b] en plak een sql dump van deze in je bestand en sla op. (bekijk [i]e107_plugins/_blank/_blank_sql.php[/i] als voorbeeld)");
 define ("EPL_ADLAN_106","Selecteer je plugin's map om te beginnen.");
-define ("EPL_ADLAN_107","Creeër een beheer-gebied en xml bestand voor:");
+define ("EPL_ADLAN_107","Cre&euml;er een beheer-gebied en xml bestand voor:");
 define ("EPL_ADLAN_108","Controleer taal bestanden:");
 define ("EPL_ADLAN_109","Basis Info.");
 //define ("EPL_ADLAN_111","Genereer"); //LAN_GENERATE
-define ("EPL_ADLAN_112","Beoordeel alle velden en pas aan indien nodig.");
-define ("EPL_ADLAN_113","Beoordeel ALLE tabs voordat je klikt op 'Genereer'.");
+define ("EPL_ADLAN_112","Controleer alle velden en pas aan indien nodig.");
+define ("EPL_ADLAN_113","Controleer ALLE tabs voordat je klikt op 'Genereer'.");
 define ("EPL_ADLAN_114","Plugin Builder");
 define ("EPL_ADLAN_115","Stap 2");
 
@@ -267,6 +267,7 @@ define ("EPL_ADLAN_229","Verversen");
 define("LAN_UPGRADE_SUCCESSFUL", "Upgrade succesvol");
 define("LAN_INSTALL_SUCCESSFUL", "Installatie succesvol");
 define("LAN_INSTALL_FAIL", "Installatie mislukt");
-
+define('LAN_UNINSTALL_FAIL', "De-installatie niet mogelijk!");
+define('LAN_PLUGIN_IS_USED', "[x] plugin wordt gebruikt door:");
 
 ?>

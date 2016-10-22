@@ -6,7 +6,7 @@
 |     $URL:$
 |     $Revision:$
 |     $Date:$
-|     $Author: Erje, Yvalni, Tgtje $
+|     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
 */
 
@@ -38,6 +38,7 @@ define("LAN_NEWS_85", "Terug naar het categorie overzicht");
 define("LAN_NEWS_86", "Vorige");
 define("LAN_NEWS_87", "Volgende");
 define("LAN_NEWS_462", "Geen nieuwsberichten in de opgegeven maand");
+define("LAN_NEWS_463", "Er zijn geen nieuwsberichten in de opgegeven categorie - neem regelmatig een kijkje.");
 
 //define("LAN_NEWS_99", "Reacties");
 define("LAN_NEWS_100", "Op");

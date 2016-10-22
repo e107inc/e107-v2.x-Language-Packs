@@ -6,7 +6,7 @@
 |     $URL:$
 |     $Revision:$
 |     $Date:$
-|     $Author: Erje, Yvalni, Tgtje $
+|     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
 */
 define("NFLAN_03", "Configureren newsfeeds");
@@ -63,6 +63,8 @@ define("LAN_AL_NEWSFD_02","Nieuws Feed bijgewerkt");
 define("LAN_AL_NEWSFD_03","Nieuws Feed verwijderd");
 define("LAN_AL_NEWSFD_04","");
 define("LAN_AL_NEWSFD_05","");
+
+define("NFLAN_50", "Laatste verversing");
 
 
 ?>

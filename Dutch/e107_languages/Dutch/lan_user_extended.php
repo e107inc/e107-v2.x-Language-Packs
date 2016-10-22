@@ -6,7 +6,7 @@
 |     $URL:$
 |     $Revision:$
 |     $Date:$
-|     $Author: Erje, Yvalni, Tgtje $
+|     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
 */
 
@@ -56,5 +56,7 @@ define("UE_LAN_GENDER","Geslacht");
 define("UE_LAN_GENDER_DESC","Geslacht");
 define("UE_LAN_MALE","Man");
 define("UE_LAN_FEMALE","Vrouw");
+define("UE_LAN_COMMENT", "Commentaren/reacties");
+define("UE_LAN_COMMENT_DESC", "Commentaar/Reactie Box");
 
 ?>

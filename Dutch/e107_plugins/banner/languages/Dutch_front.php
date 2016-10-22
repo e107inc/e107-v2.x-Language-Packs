@@ -6,7 +6,7 @@
 |     $URL:$
 |     $Revision:$
 |     $Date:$
-|     $Author: Erje, Yvalni, Tgtje $
+|     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
 */
 
@@ -32,5 +32,6 @@ define("BANNERLAN_34", "Eindigd:");
 define("BANNERLAN_35", "Doorgeklikte IP adressen");
 define("BANNERLAN_36", "Actief:");
 define("BANNERLAN_37", "Begint:");
+define("BANNERLAN_39", "Geen afbeelding aan deze banner toegewezen.");
 
 ?>

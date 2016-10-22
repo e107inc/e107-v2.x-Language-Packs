@@ -6,7 +6,7 @@
 |     $URL:$
 |     $Revision:$
 |     $Date:$
-|     $Author: Erje, Yvalni, Tgtje $
+|     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
 */
 
@@ -34,8 +34,8 @@ define("LAN_EURL_FORM_HELP_ALIAS_1", "Alias wanneer in");
 define("LAN_EURL_FORM_HELP_EXAMPLE", "Basis URL");
 
 define("LAN_EURL_ERR_ALIAS_MODULE", "Alias '%1\$s' kan niet bewaard worden - er bestaat een systeem URL met een gelijke naam. Kies een andere alias waarde voor systeem URL profiel '%2\$s' ");
-define("LAN_EURL_SURL_UPD",    "&nbsp; SEF URLs werden geupdated.");
-define("LAN_EURL_SURL_NUPD",    "&nbsp; SEF URLs werden NIET geupdated.");
+define("LAN_EURL_SURL_UPD",    "&nbsp; SEF URLs werden bijgewerkt.");
+define("LAN_EURL_SURL_NUPD",    "&nbsp; SEF URLs werden NIET bijgewerkt.");
 
 define("LAN_EURL_SETTINGS_PATHINFO", "Verwijder bestandsnaam van de URL");
 define("LAN_EURL_SETTINGS_MAINMODULE", "Associëren Root naamruimte");

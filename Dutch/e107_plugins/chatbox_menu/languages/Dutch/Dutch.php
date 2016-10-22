@@ -6,13 +6,14 @@
 |     $URL:$
 |     $Revision:$
 |     $Date:$
-|     $Author: Erje, Yvalni, Tgtje $
+|     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
 */
 
 define("CHATBOX_L1",  "Kan dit bericht niet plaatsen omdat deze gebruikersnaam in gebruik is door een lid - als dit jouw gebruikersnaam is, log dan eerst in.");
 define("CHATBOX_L2",  "Chatbox");
-define("CHATBOX_L3",  "Je moet ingelogd zijn om commentaar te kunnen plaatsen. Log in of, als je nog geen lid bent, <a href='".e_SIGNUP."'>meld je hier aan</a>");
+define("CHATBOX_L3", "Je moet ingelogd zijn om een berichtje te kunnen plaatsen. Log [hier] in. ");
+define("CHATBOX_L3b", "Nog geen lid? klik dan [hier] om je aan te melden.");
 define("CHATBOX_L4",  "Plaats");
 define("CHATBOX_L5",  "Herstel");
 define("CHATBOX_L6",  "[geblokkeerd door beheerder]");
