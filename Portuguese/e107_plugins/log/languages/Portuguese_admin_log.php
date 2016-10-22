@@ -1,3 +1,28 @@
+<?php
+
+// Bing-Translated Language file 
+// Generated for e107 v2.x by the Multi-Language Plugin
+// https://github.com/e107inc/multilan
+
+define("ADSTAT_L1", "Este plugin irá registrar todas as visitas ao seu site e construir telas detalhadas de estatística com base em informações recolhidas.");
+define("ADSTAT_L2", "O agente de log de estatísticas tiver sido instalado com êxito. Para ativar, por favor, vá para a tela de configuração e clique em ativar.<br><b>Você deve definir as permissões da pasta e107_plugins/log/logs para 777 (chmod 777)</b>");
+define("ADSTAT_L3", "Log de estatística");
+define("ADSTAT_L4", "Ativar log de estatística");
+define("ADSTAT_L5", "Tipos de estatística");
+define("ADSTAT_L6", "Navegadores");
+define("ADSTAT_L7", "Sistemas operacionais");
+define("ADSTAT_L8", "Resoluções de tela / profundidades");
+define("ADSTAT_L9", "Domínios/países visitados de");
+define("ADSTAT_L10", "Referenciadores");
+define("ADSTAT_L11", "Consultas de pesquisa");
+define("ADSTAT_L12", "Repor estatísticas");
+define("ADSTAT_L13", "Isto apagará as estatísticas de todos os tempos - cuidadosos! Exclui estatísticas ao final de ontem. Há uma opção de menu separado para excluir dados históricos selecionados");
+define("ADSTAT_L14", "Contagens de páginas");
+define("ADSTAT_L16", "Configurações de estatística de site");
+define("ADSTAT_L18", "Permita o acesso à página principal de estatísticas para...");
+define("ADSTAT_L19", "Visitantes recentes");
+define("ADSTAT_L20", "Admin de contagem de visitas");
+define("ADSTAT_L21", "Máximos registros a serem exibidos na página de estatísticas");
 define("ADSTAT_L22", "Executar a rotina de atualização");
 define("ADSTAT_L23", "foram detectados os logs de uma versão anterior do e107, atualizá-los aqui");
 define("ADSTAT_L24", "Vá para atualizar o roteiro");
