@@ -151,7 +151,7 @@ define ("EPL_ADLAN_134","Maak aub[b][x][/b] in je plugin directorie aan met de v
 define ("EPL_ADLAN_135","De naam van jouw plugin. (Moet een Engelse naam hebben)");
 define ("EPL_ADLAN_136","Als je een taal bestand hebt, gebruik dan de LAN_XXX waarde voor de naam van plugin");
 define ("EPL_ADLAN_137","Aanmaakdatum van jouw plugin");
-define ("EPL_ADLAN_138","De versie van jouw plugin. Formaat: x.x");
+define ("EPL_ADLAN_138","De versie van jouw plugin. Formaat: x.x of x.x.x.");
 define ("EPL_ADLAN_139","Compatibel met deze versie van e107");
 define ("EPL_ADLAN_140","Naam Auteur");
 define ("EPL_ADLAN_141","Website URL Auteur");
@@ -195,7 +195,7 @@ define ("EPL_ADLAN_173","Display");
 define ("EPL_ADLAN_174","HulpTip");
 define ("EPL_ADLAN_175","Lees parameters");
 define ("EPL_ADLAN_176","Schrijf parameters");
-define ("EPL_ADLAN_177","In te vullen Veld is verplicht");
+define ("EPL_ADLAN_177","In te vullen veld is verplicht");
 define ("EPL_ADLAN_178","Als standaard getoond");
 
 // date, datetime
@@ -263,11 +263,31 @@ define ("EPL_ADLAN_226","Plugin Taal-bestands Controle");
 define ("EPL_ADLAN_227","Scan op veranderingen");
 define ("EPL_ADLAN_228","Plugin mappen worden elke [x] minuten gescand op wijzigingen. Klik op onderstaande knop om nu te scannen.");
 define ("EPL_ADLAN_229","Verversen");
+define ("EPL_ADLAN_230", "Ophalen en installeren: ");
+define ("EPL_ADLAN_231", "Verwijder iconen uit de Media-Manager");
+define ("EPL_ADLAN_232", "Maak bestanden");
+define ("TPVLAN_81", "Ophalen...");
+define ("TPVLAN_82", "Ophalen afgerond!");
+define ("EPL_ADLAN_235", "Automatisch ophalen niet mogelijk.");
+define ("EPL_ADLAN_236", "Handmatig ophalen aub.");
+define ("EPL_ADLAN_237", "Download");
+define ("EPL_ADLAN_238","Installatie gereed!");
+define ("EPL_ADLAN_239","Tabel toevoegen:");
+define ("EPL_ADLAN_240","Tabel verwijderen:");
+define ("EPL_ADLAN_241","Voeg instelling toe:"); 
+define ("EPL_ADLAN_242","Verwijder instelling:");
+define ("EPL_ADLAN_243","Instelling bijwerken:");
+define ("EPL_ADLAN_244","Tijdens installatie zijn er maar 3 Media Categorieen toegestaan. 1 voor afbeeldingen en 1 voor bestanden.");  
+
+define ("LAN_RELEASED", "Uitgebracht");
+define ("LAN_REPAIR_PLUGIN_SETTINGS", "Repareer plugin instellingen");
+define ("LAN_SYNC_WITH_GIT_REPO", "Synchroniseer met Git Repo");
+define ("LAN_ADDONS", "Toevoegingen");
 
 define("LAN_UPGRADE_SUCCESSFUL", "Upgrade succesvol");
 define("LAN_INSTALL_SUCCESSFUL", "Installatie succesvol");
 define("LAN_INSTALL_FAIL", "Installatie mislukt");
-define('LAN_UNINSTALL_FAIL', "De-installatie niet mogelijk!");
-define('LAN_PLUGIN_IS_USED', "[x] plugin wordt gebruikt door:");
+define("LAN_UNINSTALL_FAIL", "De-installatie niet mogelijk!");
+define("LAN_PLUGIN_IS_USED", "[x] plugin wordt gebruikt door:");
 
 ?>
