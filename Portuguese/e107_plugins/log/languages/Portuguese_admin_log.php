@@ -82,3 +82,4 @@ define("ADSTAT_L82", "Agora valores a seguir definidos:");
 define("ADSTAT_L83", "Entradas de ID de log a seguir removido:");
 define("ADSTAT_L84", "");
 define("ADSTAT_L85", "");
+?>
