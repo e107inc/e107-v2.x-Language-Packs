@@ -13,6 +13,8 @@ define("LAN_PLUGIN_PM_NAME", "Súkromné správy (SS)");
 define("LAN_PLUGIN_PM_DESCRIPTION", "Tento plugin plne rozširuje systém Súkromných správ.");
 define("LAN_PLUGIN_PM_URL_DEFAULT_LABEL", "predvolený");
 define("LAN_PLUGIN_PM_URL_DEFAULT_DESCR", "predvolený");
+define("LAN_PLUGIN_PM_INBOX", "Inbox");
+define("LAN_PLUGIN_PM_OUTBOX", "Outbox");
 
 
 ?>

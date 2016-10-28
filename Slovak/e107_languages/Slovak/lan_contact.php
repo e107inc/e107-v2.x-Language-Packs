@@ -25,7 +25,7 @@ define("LANCONTACT_12", "Vaša správa je príliš krátka");
 define("LANCONTACT_13", "Zadajte predmet");
 define("LANCONTACT_14", "Odoslať správu:");
 define("LANCONTACT_15", "Vložený nesprávny kód");
-define("LANCONTACT_16", "Musíte byť [registrovaní] a prihlásený, aby ste mohli použiť tento formulár.");
+define("LANCONTACT_16", "Musíte byť [registrovaný] a prihlásený, aby ste mohli použiť tento formulár.");
 
 
 ?>

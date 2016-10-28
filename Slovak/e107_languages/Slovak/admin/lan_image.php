@@ -25,7 +25,7 @@ define("LAN_IMA_O_004", "");
 define("LAN_IMA_O_005", "");
 define("LAN_IMA_O_006", "");
 define("IMALAN_1", "Povoliť zasielanie obrázkov");
-define("IMALAN_2", "Zobrazovať obrázky, použije sa pre celý web (i v komentároch, apod.), ktoré boli vložené  pomocou [img] BBCode")");
+define("IMALAN_2", "Zobrazovať obrázky, použije sa pre celý web (i v komentároch, apod.), ktoré boli vložené  pomocou [img] BBCode");
 define("IMALAN_3", "Metóda zmeny veľkosti");
 define("IMALAN_4", "Metóda používaná pre zmenu veľkosti obrázkov, buď GD1/2 library alebo ImageMagick");
 define("IMALAN_5", "Cesta k ImageMagick (ak je zvolené)");

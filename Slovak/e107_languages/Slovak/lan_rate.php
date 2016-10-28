@@ -11,16 +11,16 @@
 */
 define("RATELAN_0", "hlas");
 define("RATELAN_1", "hlasy");
-define("RATELAN_2", "jak hodnotíte tuto položku?");
-define("RATELAN_3", "");
-define("RATELAN_4", "Nehodnoceno");
-define("RATELAN_5", "");
-define("RATELAN_6", "");
-define("RATELAN_POOR", "");
-define("RATELAN_FAIR", "");
-define("RATELAN_GOOD", "");
-define("RATELAN_VERYGOOD", "");
-define("RATELAN_EXCELLENT", "");
+define("RATELAN_2", "Ako hodnotíte túto položku?");
+define("RATELAN_3", "Ďakujeme za váš hlas!");
+define("RATELAN_4", "Nehodnotené");
+define("RATELAN_5", "Hodnotiť toto:");
+define("RATELAN_6", "Prihláste sa prosím, aby ste mohli hodnotiť.");
+define("RATELAN_POOR", "Slabé");
+define("RATELAN_FAIR", "Slušné");
+define("RATELAN_GOOD", "Dobré");
+define("RATELAN_VERYGOOD", "Veľmi dobré");
+define("RATELAN_EXCELLENT", "Vynikajúce");
 
 
 ?>

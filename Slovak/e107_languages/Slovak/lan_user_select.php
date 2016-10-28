@@ -9,12 +9,12 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("US_LAN_1", "Vybrat uživatele");
-define("US_LAN_2", "Vybrat uživatelskou skupinu");
-define("US_LAN_3", "Všichni uživatelé");
-define("US_LAN_4", "Hledat uživatelské jméno");
-define("US_LAN_5", "Nalezení uživatelé");
-define("US_LAN_6", "hledat");
+define("US_LAN_1", "Vybrať užívateľa");
+define("US_LAN_2", "Vybrať užívateľskú skupinu");
+define("US_LAN_3", "Všetci užívatelia");
+define("US_LAN_4", "Hľadať užívateľské meno");
+define("US_LAN_5", "Nájdení užívatelia");
+define("US_LAN_6", "Hľadať");
 
 
 ?>

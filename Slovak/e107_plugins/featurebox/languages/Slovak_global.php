@@ -10,13 +10,13 @@
 +---------------------------------------------------------------+
 */
 define("LAN_PLUGIN_FEATUREBOX_NAME", "Feature Box");
-define("LAN_PLUGIN_FEATUREBOX_DESCRIPTION", "");
-define("LAN_PLUGIN_FEATUREBOX_BATCH", "");
-define("FBLAN_INSTALL_01", "");
-define("FBLAN_INSTALL_02", "");
-define("FBLAN_INSTALL_03", "");
-define("FBLAN_INSTALL_04", "");
-define("FBLAN_INSTALL_05", "");
+define("LAN_PLUGIN_FEATUREBOX_DESCRIPTION", "Displays an animated area on the top of your page with news-items and other content you would like to feature.");
+define("LAN_PLUGIN_FEATUREBOX_BATCH", "Create Featurebox Item");
+define("FBLAN_INSTALL_01", "Adding Default category table data.");
+define("FBLAN_INSTALL_02", "Adding Default table data.");
+define("FBLAN_INSTALL_03", "Unassigned");
+define("FBLAN_INSTALL_04", "Carousel");
+define("FBLAN_INSTALL_05", "Tabs");
 
 
 ?>
