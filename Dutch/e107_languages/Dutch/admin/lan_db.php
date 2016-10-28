@@ -6,7 +6,7 @@
 |     $URL:$
 |     $Revision:$
 |     $Date:$
-|     $Author: Erje, Yvalni, Tgtje $
+|     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
 */
 
@@ -58,7 +58,7 @@ define("DBLAN_50", "Sql Record Validatie");
 define("DBLAN_51", "Geselecteerde uitvoeren");
 define("DBLAN_52", "Verwijder Duplicaat"); //plugin scan
 define("DBLAN_53", "selecteer een actie.");
-define("DBLAN_54", "Geen Validatie fouten gevonden.");
+define("DBLAN_54", "Geen validatie fouten gevonden.");
 define("DBLAN_55", "Selecteer om de shortcode/override map op nieuwe shortcodes scannen");
 define("DBLAN_56", "Scan override map");
 define("DBLAN_57", "shortcode Override lijst ingesteld op");
@@ -81,7 +81,7 @@ define("DBLAN_69", "Backup Site");
 define("DBLAN_70", "Dit zal een database dump aanmaken en een ingepakte (zip) backup maken van alle niet-core plugins, je site theme, je media bestanden en systeem logs");
 define("DBLAN_71", "Even wachten aub...");
 define("DBLAN_72", "Mappen en Bestands permissies werden geupdated");
-define("DBLAN_73", "Corrigeren Bestands en Firectorie permissies");
+define("DBLAN_73", "Corrigeren Bestands en Directorie permissies");
 define("DBLAN_74", "Verbinden met server");
 define("DBLAN_75", "Aanmaken van Database");
 define("DBLAN_76", "Kiezen van database");
@@ -125,4 +125,14 @@ define("DBLAN_108", "Aangemaakt:");
 define("DBLAN_109", "Gekopiëerd:");
 define("DBLAN_110", "Kon niet kopiëren:");
 define("DBLAN_111", "Tabellen lijken in orde!");
+define("DBLAN_112", "Synchroniseer met Github");
+define("DBLAN_113", "Overschrijf bestanden");
+define("DBLAN_114", "Alleen Ontwikkelaars Modus");
+define("DBLAN_115", "Overschrijf lokale bestanden met de laatst nieuwe van Github.");
+define("DBLAN_116", "Dit download het nieuwste .zip bestand vanaf Github naar");
+define("DBLAN_117", ",extraheert het bestand , en overschrijft elk bestaand bestand dat het vind op de server. Het houdt rekening met eigen maatwerk mappen/namen die ingesteld staan in je e107_config.php.");
+define("DBLAN_118", "Kon het .zip bestand niet downloaden");
+define("DBLAN_119", "Backup");
+define("DBLAN_120", "Starten van backup....");
+define("DBLAN_121", "Verplaatsen van [x] naar [y].");
 ?>

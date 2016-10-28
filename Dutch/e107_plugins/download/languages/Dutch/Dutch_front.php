@@ -6,7 +6,7 @@
 |     $URL:$
 |     $Revision:$
 |     $Date:$
-|     $Author: Erje, Yvalni, Tgtje $
+|     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
 */
 
@@ -66,7 +66,7 @@ define("LAN_dl_51", "Melden download: ");
 define("LAN_dl_52", "Gast");
 define("LAN_dl_53", "Klik hier om de download te zien");
 define("LAN_dl_54", "Een beheerder wordt gewaarschuwd over deze download. Laat eventueel ook een bericht achter.");
-define("LAN_dl_55", "Gebruik dit formulier <b>NIET</b> om voor andere zaken contact op te nemen met een beheerder.");
+define("LAN_dl_55", "Gebruik dit formulier NIET> om voor andere zaken contact op te nemen met een beheerder.");
 define("LAN_dl_57", "gemeld door");
 define("LAN_dl_58", "De volgende download is als ontbrekend gemeld vanaf deze site");
 define("LAN_dl_59", "Gemeld door: ");
@@ -92,6 +92,7 @@ define("LAN_dl_75", "geen afbeelding beschikbaar ");
 
 define("LAN_dl_77", "Downloads");		// Intentional duplicate - some languages need it to be different. This is for number of downloads
 
-define("LAN_dl_78", "Deze download is uitgeschakeld of gestopt/verwijderd. Kijk in de [link=--LINK--]downloads [/link] sectie voor een meer recentere versie");
+//define("LAN_dl_78", "Deze download is uitgeschakeld of gestopt/verwijderd. Kijk in de [link=--LINK--]downloads [/link] sectie voor een meer recentere versie");
+define("LAN_dl_78", "Deze download is uitgeschakeld of gestopt/verwijderd. Kijk in de [downloads area] voor een meer recentere versie");
 
 ?>

@@ -6,7 +6,7 @@
 |     $URL:$
 |     $Revision:$
 |     $Date:$
-|     $Author: Erje, Yvalni, Tgtje $
+|     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
 */
 
@@ -78,10 +78,8 @@ define("LAN_MAILOUT_58", "Er is een probleem met de bijlage:");
 
 define("LAN_MAILOUT_67", "De e-mail kon niet worden verzonden. Controleer je SMTP-instellingen, of selecteer een andere mailing methode en probeer het opnieuw.");
 define("LAN_MAILOUT_68", "geregistreerde gebruikers");
-define("LAN_MAILOUT_69","overeenkomsten, na");
-define("LAN_MAILOUT_70","duplicaten verwijderd.");  
-
-
+define("LAN_MAILOUT_69", "overeenkomsten, na");
+define("LAN_MAILOUT_70", " duplicaten verwijderd.");  
 define("LAN_MAILOUT_71", "Totaal aantal e-mails om te sturen");
 define("LAN_MAILOUT_72", "Mail logboekregistratie");
 define("LAN_MAILOUT_73", "Geen logboekregistratie");
@@ -92,10 +90,9 @@ define("LAN_MAILOUT_77", "Aanvullende e-mail adres bronnen");
 define("LAN_MAILOUT_78", "Mailing Status");
 define("LAN_MAILOUT_79", "Geen mailings om te tonen");
 define("LAN_MAILOUT_80", "Datum");
-define("LAN_MAILOUT_81", "De e-mail is verzonden, controleer dan je inbox.");
+define("LAN_MAILOUT_81", "De e-mail is verzonden, controleer je inbox.");
 define("LAN_MAILOUT_82", "e-mails verzonden");
 define("LAN_MAILOUT_83", "e-mails te gaan");
-
 define("LAN_MAILOUT_84", "Mail ID");
 define("LAN_MAILOUT_85", "Oorsprong");
 define("LAN_MAILOUT_86", "Opnieuw sturen");
@@ -113,7 +110,7 @@ define("LAN_MAILOUT_97", "Mailer Resultaten");
 define("LAN_MAILOUT_98", "Verweesde invoer");
 define("LAN_MAILOUT_99", "Bevestig opnieuw proberen mailshot");
 define("LAN_MAILOUT_100", "Bericht");
-define("LAN_MAILOUT_101", "Email Detail");
+define("LAN_MAILOUT_101", "E-mail Detail");
 define("LAN_MAILOUT_102", "Detail van mailshot");
 define("LAN_MAILOUT_103", "Resultaten van gepoogde verzending(-en)");
 define("LAN_MAILOUT_104", "Geen poging tot verzenden, of fout bij opslaan resultaat");
@@ -152,14 +149,14 @@ define("LAN_MAILOUT_136", "Mailout Status");
 define("LAN_MAILOUT_137", "Mail Ref");
 define("LAN_MAILOUT_138", "Email status");
 define("LAN_MAILOUT_139", "Datum actief");
-define("LAN_MAILOUT_140", "Ontvannger Email");
+define("LAN_MAILOUT_140", "Ontvanger Email");
 define("LAN_MAILOUT_141", "Ontvanger Naam");
 define("LAN_MAILOUT_142", "Ontvanger Gebruikers ID");
 define("LAN_MAILOUT_143", "Email ref.");
 define("LAN_MAILOUT_144", "Gekaatst");
-define("LAN_MAILOUT_145", "Nieuwe email bewaard");
-define("LAN_MAILOUT_146", "Fout bij opslaan email");
-define("LAN_MAILOUT_147", "Email bijgewerkt");
+define("LAN_MAILOUT_145", "Nieuwe e-mail opgeslagen");
+define("LAN_MAILOUT_146", "Fout bij opslaan e-mail");
+define("LAN_MAILOUT_147", "E-mail bijgewerkt");
 define("LAN_MAILOUT_148", "Gebruikers waarden");
 define("LAN_MAILOUT_149", "Verzender Email");
 define("LAN_MAILOUT_150", "Verzender Naam");
@@ -168,14 +165,14 @@ define("LAN_MAILOUT_152", "Blinde kopie naar (bcc)");
 define("LAN_MAILOUT_153", "Bijlagen");
 define("LAN_MAILOUT_154", "Verzend Formaat");
 define("LAN_MAILOUT_155", "Selectors");
-define("LAN_MAILOUT_156", "Maximum aantal te verzenden emails per taakplanner tick");
+define("LAN_MAILOUT_156", "Maximum aantal te verzenden emails per taakplanner tik");
 define("LAN_MAILOUT_157", "Waarde is afhankelijk van een aantal factoren, inclusief hoevaak je mail-verzendreeks wordt geactiveerd en welke frekwentie je ISP toestaat voor uitgaande mail. Nul om elke keer je taakplanning te legen");
 define("LAN_MAILOUT_158", "Verstuur nu");
-define("LAN_MAILOUT_159", "Houdt email vast");
+define("LAN_MAILOUT_159", "Houd email vast");
 define("LAN_MAILOUT_160", "Annuleer verzenden");
 define("LAN_MAILOUT_161", "BELANGRIJK! Dit bestand lijkt niet te bestaan");
-define("LAN_MAILOUT_162", "BELANGRIJK! Je dien dit bestand 'uitvoerbaar' te maken");
-define("LAN_MAILOUT_163", "Bewer/Verstuur Mail");
+define("LAN_MAILOUT_162", "BELANGRIJK! Je dient dit bestand 'uitvoerbaar' te maken");
+define("LAN_MAILOUT_163", "Bewerk/Verstuur Mail");
 define("LAN_MAILOUT_164", "Email informatie niet gevonden");
 define("LAN_MAILOUT_165", "Bevestig het verwijderen van de volgende opgeslagen email(s), inclusief de gegevens van ontvangers");
 define("LAN_MAILOUT_166", "Algemene fout bij verwijderen mail ref: --ID--");
@@ -280,9 +277,9 @@ define("LAN_MAILOUT_259", "");
 
 
 define("LAN_SEND", "Verstuur");
-define("LAN_HOLD", "Houdt vast");
+define("LAN_HOLD", "Houd vast");
 define("LAN_MAILOUT_260", "Leden-Type");
-define("LAN_BASIC", "Basis");
-define("LAN_ADVANCED", "Gevorderd");
+define("LAN_MAILOUT_261", "SMTP Poort");
+
 
 ?>

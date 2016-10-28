@@ -6,7 +6,7 @@
 |     $URL:$
 |     $Revision:$
 |     $Date:$
-|     $Author: Erje, Yvalni, Tgtje $
+|     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
 */
 
@@ -17,7 +17,7 @@ define("BANLAN_3", "Huidige blokkade(s)");
 define("BANLAN_5", "Geef IP, e-mail of host adres in");
 define("BANLAN_7", "Reden");
 define("BANLAN_8", "Blokkeer adres");
-define("BANLAN_9", "Blokkeer gebruikers van deze site middels e-mail, IP of host adres");
+define("BANLAN_9", "Blokkeer gebruikers van deze site op e-mail, IP of host adres");
 define("BANLAN_10", "IP / e-mail / reden");
 define("BANLAN_11", "Auto-blokkade: Meer dan 10 mislukte inlogpogingen");
 define("BANLAN_12", "Let op: Reverse DNS (blokkeren op hostnaam) is op dit moment niet geactiveerd, dat moet wel om blokkade op hostnaam mogelijk te maken.<br />Blokkeren op IP-adres en op e-mailadres werkt wel.");
@@ -34,9 +34,9 @@ define("BANLAN_23", "Dag(en)");
 define("BANLAN_24", "uur");
 define("BANLAN_25", "Voeg toe aan blokkadelijst");
 define("BANLAN_26", "Momenteel");
-define("BANLAN_27", "Niet toegestande karakters in IP address verwijderd - nu:");
+define("BANLAN_27", "Niet toegestane karakters in IP address verwijderd - nu:");
 define("BANLAN_28", "Blokkeer type");
-define("BANLAN_29", "Bericht getoond aan geblokkerde gebruiker");
+define("BANLAN_29", "Bericht getoond aan geblokkeerde gebruiker");
 define("BANLAN_30", "Blokkade tijd");
 define("BANLAN_31", "(Gebruik een leeg bericht als u de gebruiker een leeg scherm wilt tonen)");
 define("BANLAN_32", "Oneindig");
@@ -64,8 +64,8 @@ define("BANLAN_54", "Geen regels in witte lijst");
 define("BANLAN_55", "post datum");
 define("BANLAN_56", "IP/Email, Gebruiker");
 define("BANLAN_57", "Gebruiker");
-define("BANLAN_58", "Voeg gebruikers toe aan wittelijst");
-define("BANLAN_59", "Wijzig bestaande wittelijst regels");
+define("BANLAN_58", "Voeg gebruikers toe aan witte lijst");
+define("BANLAN_59", "Wijzig bestaande witte lijst regels");
 define("BANLAN_60", "Wijzig bestaande blokkadelijst regels");
 define("BANLAN_61", "Bestaande wittelijst regels");
 
@@ -119,9 +119,9 @@ define("BANLAN_110", "Meest waarschijnlijk een toegepaste blokkade voordat de up
 define("BANLAN_111", "Ingevoerd door een beheerder");
 define("BANLAN_112", "Pogingen tot te snel updaten van de site");
 define("BANLAN_113", "Pogingen tot site toegang te verkrijgen in een te hoog tempo vanaf het zelfde adres");
-define("BANLAN_114", "Meervoudige mislukte inlog pogingen van dezelde gebruiker");
+define("BANLAN_114", "Meervoudige mislukte inlog-pogingen van dezelde gebruiker");
 define("BANLAN_115", "Toegevoegd vanaf externe lijst");
-define("BANLAN_116", "IP adres geblokkerd op reden van gebruikers blokkade");
+define("BANLAN_116", "IP adres geblokkeerd op reden van gebruikers blokkade");
 define("BANLAN_117", "Andere reden");
 define("BANLAN_118", "Andere reden");
 define("BANLAN_119", "Indiceert een importeer fout - voorgaande geimporteerde blokkades");
