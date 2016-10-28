@@ -1,20 +1,25 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Hungarian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/03/23 15:03:34
+|
+|        $Author: Lóna Lore $
++---------------------------------------------------------------+
+*/
 
 define("LANINS_001", "e107 telepítése");
-
-define("LANINS_002", "Telepítés ");
+define("LANINS_002", "Telepítés");
 define("LANINS_003", "1. lépés");
 define("LANINS_004", "Nyelv kiválasztása");
 define("LANINS_005", "Kiválasztott nyelv");
 define("LANINS_007", "4. lépés");
 define("LANINS_008", "PHP verzió, mySQL verzió / File Jogosultság Ellenörzés");
 define("LANINS_009", "File Jogosultság Újraellenörzése");
-define("LANINS_010", "Fájl nem írható: ");
-define("LANINS_010a", "Mappa nem írható: ");
+define("LANINS_010", "Fájl nem írható:");
+define("LANINS_010a", "Mappa nem írható:");
 define("LANINS_012", "MySQL funkciók nem léteznek. Talán valamelyik MySQL PHP kiterjesztés nincs telepítve vagy nincs beállítva megfelelõen.");
 define("LANINS_013", "Nem lehet megállapítani a MySQL verziószámát. Ez nem egy végzetes hiba, folytathatod a telepítést, de legyél figyelmes, mert az e107 működéséhez MySQL >= 3.23 vagy magasann szükséges a funkciók megfelelő működéséhez.");
 define("LANINS_014", "Fájl Jogosultságok");
@@ -48,22 +53,20 @@ define("LANINS_044", "Adatbázis sikeresen létrejött.");
 define("LANINS_045", "Katt a gombra a folyamat folytatásához.");
 define("LANINS_046", "5. lépés");
 define("LANINS_047", "Adminisztrátor adatai");
+define("LANINS_048", "EXIF kiterjesztés");
 define("LANINS_049", "A két, általad beírt jelszó nem azonos. Lépj vissza és próbáld újra.");
 define("LANINS_050", "XML Kiterjesztés");
 define("LANINS_051", "Telepítve");
 define("LANINS_052", "Nincs telepítve");
-define("LANINS_053", "e107 v2.x-hez szükséges a PHP XML kiterjesztés telepítése. Lépj kapcsolatba a kiszolgálóval vagy oldasd el az errõl szóló információkat [x] mielőtt folytatod");
 define("LANINS_055", "Telepítés megerősítése");
 define("LANINS_056", "6. lépés");
 define("LANINS_057", " Az e107 rendelkezik a telepítéshez szükséges összes információval. Katt a gombra az adatbázis táblák létrehozásához és a beállítások mentéséhez.");
 define("LANINS_058", "7. lépés");
 define("LANINS_060", "Az SQL file olvasása sikertelen. Ellenõrizd a [b]core_sql.php[/b] fájl létezését az [b]/e107_core/sql[/b] könyvtárban.");
 define("LANINS_061", "Az e107 nem tudta létrehozni az összes, szükséges adatbázis táblát. Töröld az adatbázist, az ismételt telepítés elõtt javítani kell a problémát.");
-
 define("LANINS_069", "Az e107 telepítése sikeres! A biztonságos működés érdekében állítsd az [b]e107_config.php[/b] file jogosultságát 644-re. Ne feledkezz meg az install.php törléséről a szerverről a lenti gomb megnyomása után.");
 define("LANINS_070", "Az e107 nem tudja elmenteni a konfigurációs file-t a szerverre. Ellenőrizd, hogy az [b]e107_config.php[/b] fájl a megfelelő jogosultsággal rendelkezik-e");
 define("LANINS_071", "Telepítés befejezése");
-
 define("LANINS_072", "Admin Felhasználónév");
 define("LANINS_073", "Ezt a felhasználónevet kell használnod az oldalra történő bejelentkezéskor. Ha akarod, ezt is használhatod megjelenő névként is");
 define("LANINS_074", "Admin Megjelenő név");
@@ -73,16 +76,12 @@ define("LANINS_078", "Admin Jelszó megerősítése");
 define("LANINS_079", "Írd be újra a jelszót");
 define("LANINS_080", "Admin email");
 define("LANINS_081", "Írd be az e-mail címedet");
-
 define("LANINS_083", "MySQL Jelentett hiba:");
 define("LANINS_084", "A telepítõ nem tud kapcsolódni az adatbázishoz");
 define("LANINS_085", "A telepítõ nem tudja kiválasztani az adatbázist:");
-
 define("LANINS_086", "Admin Felhasználónév, Admin Jelszó és Admin Email mezőket [b]kötelező[/b] kitölteni! Írd be a megfelelõ információkat.");
-
 define("LANINS_105", "Az adatbázisnév vagy a prefix elején a következő jegyek 'e' vagy 'E' nem elfogadhatóak.");
 define("LANINS_106", "FIGYELMEZTETÉS - E107 nem tud hozzáírni a kilistázott könyvtárakhoz és/vagy file-khez. Mivel ez nem állítja le a telepítést, de bizonyos funkciók, tulajdonságok nem lesznek engedélyezve. Ezen tulajdonságok használatához meg kell változtatni a file jogosultságokat.");
-
 define("LANINS_107", "Weboldal neve");
 define("LANINS_108", "Az Én weboldalam");
 define("LANINS_109", "Weboldal sminkje");
@@ -105,3 +104,14 @@ define("LANINS_126", "A biztonságra tekintettel ne feledd az e107_config.php f�
 define("LANINS_127", "Az adatbázis [x] már létezik. Felülírod? (az összes adat el fog veszni)");
 define("LANINS_128", "Felülírás");
 define("LANINS_129", "Az Adatbázis nem található.");
+define("LANINS_134", "Telepítése");
+define("LANINS_135", "ennek: ");
+define("LANINS_136", "Létező adatbázis törölve");
+define("LANINS_137", "Létező adatbázis található");
+define("LANINS_141", "Kérlek add meg a MySQL kapcsolat részleteit. Ha nem rendelkezel ilyen adatokkal, lépj kapcsolatba a szolgáltatóddal.");
+define("LANINS_142", "FONTOS: Nevezd át az e107.htaccess fájlt .htaccess-re");
+define("LANINS_144", "FONTOS: Másold át az [b]e107.htaccess[/b] fájl tartalmát a [b].htaccess[/b] fájlba. Ügyelj arra, hogy véletlenül se írj felül már létező adatot.");
+define("LANINS_145", "e107 v2.x használatához szükséges: PHP [x] Lépj kapcsolatba a szolgáltatóddal vagy olvasd el az itt található információt a folytatáshoz: [y]");
+
+
+?>

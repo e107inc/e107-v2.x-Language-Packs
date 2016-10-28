@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+| e107 website content management system Hungarian Language File
+| Released under the terms and conditions of the
+| GNU General Public License (http://gnu.org).
+| Last Modified: 2016/04/07 13:27:50
+|
+| $Author: Lóna Lore $
++---------------------------------------------------------------+
+*/
 
 define("PRFLAN_1", "Oldal Információk");
 define("PRFLAN_2", "Oldalnév");
@@ -53,7 +59,7 @@ define("PRFLAN_56", "Időzóna");
 define("PRFLAN_58", "Weboldal korlátozása csak tagoknak");
 define("PRFLAN_59", "A kijelölés a főoldal és a regisztráció kivételével mindent csak tagoknak tesz elérhetővé");
 define("PRFLAN_60", "SSL engedélyezése");
-define("PRFLAN_61", "Csak akkor engedélyezd az SSL-t, ha <b>biztos vagy benne, hogy tudod mit csinálsz!</b>!");
+define("PRFLAN_61", "Csak akkor engedélyezd az SSL-t, ha biztos vagy benne, hogy tudod mit csinálsz!!");
 define("PRFLAN_76", "CAPTCHA bekapcsolása a regisztrációhoz.");
 define("PRFLAN_77", "Bővítmény részletezése");
 define("PRFLAN_78", "Hagyd üresen a letiltáshoz");
@@ -63,7 +69,6 @@ define("PRFLAN_87", "Hozzászólás/küldés");
 define("PRFLAN_88", "Beágyazott hozzászólások bekapcsolása");
 define("PRFLAN_89", "Új hozzászólás ikon megjelenítése");
 define("PRFLAN_90", "Az üzenet írója szerkesztheti saját hozzászólását");
-
 define("CUSTSIG_2", "Valódi név:");
 define("CUSTSIG_6", "Aláírás:");
 define("CUSTSIG_7", "Profilkép (Avatar):");
@@ -78,7 +83,6 @@ define("CUSTSIG_19", "ezeket a kifejezéseket tartalmazó felhasználónevekkel 
 define("CUSTSIG_20", "Felhasználó Egyéni Címe");
 define("CUSTSIG_21", "Email megerősítés");
 define("CUSTSIG_22", "Email elrejtési beállítás");
-
 define("PRFLAN_91", "Ha valaki támadja az oldalad többszörös szerverlekérdezéssel, az IP címe automatikusan ki lesz tiltva! Ne módosíts egy korrekt szerver konfigot!!!");
 define("PRFLAN_92", "Biztonságos regisztráció ellenőrzés -- jelszó elrejtése az e-mailben?");
 define("PRFLAN_93", "strftime funkció leírása a php.net-en");
@@ -91,10 +95,10 @@ define("PRFLAN_101", "Szövegmegjelenítés");
 define("PRFLAN_102", "Kattintható linkek cseréje");
 define("PRFLAN_103", "Ha bejelölöd és természetesen a fenti 'Kattintható Linkek' (fentebb) is be van jelölve, akkor a beküldött link vagy email cím hiperlinkként jelenik meg a lenti szövegdobozban lévő szöveget használva. Ezzel elkerülheted, hogy a túl hosszú URL/Email széttörje az oldal elrendezését.");
 define("PRFLAN_104", "Linket helyettesítő szöveg");
-define("PRFLAN_105", "A linkek erre a szövegre lesznek cserélve. Kép használható az &lt;img tag-gel, a kép teljes elérési útját kell megadni");
+define("PRFLAN_105", "A linkek erre a szövegre lesznek cserélve. Kép használható az 'img' tag-gel, a kép teljes elérési útját kell megadni");
 define("PRFLAN_106", "Core beállítások elmentve az adatbázisba.");
 define("PRFLAN_107", "Email linket helyettesítő szöveg");
-define("PRFLAN_108", "az email linkek erre a szövegre lesznek cserélve, kép használható az &lt;img tag-gel, a kép teljes elérési útját kell megadni");
+define("PRFLAN_108", "az email linkek erre a szövegre lesznek cserélve, kép használható az 'img' tag-gel, a kép teljes elérési útját kell megadni");
 define("PRFLAN_109", "Hosszú szavak törése a szövegben");
 define("PRFLAN_110", "a megadottnál hosszabb szavak új sorba fognak kerülni");
 define("PRFLAN_111", "Hosszú szavak törése a menü szövegben");
@@ -126,13 +130,12 @@ define("PRFLAN_142", "Csak Flood");
 define("PRFLAN_143", "Csak Hibás Bejelentkezés");
 define("PRFLAN_144", "Flood és Hibás bejelentkezés");
 define("PRFLAN_145", "Linkek új ablakban");
-define("PRFLAN_146", "Jelöld be, ha az összes link új ablakban nyíljon meg (<i>ez az össze oldaladra érvényes lesz</i>). ");
+define("PRFLAN_146", "Jelöld be, ha az összes link új ablakban nyíljon meg (ez az össze oldaladra érvényes lesz).");
 define("PRFLAN_147", "Fejlesztői (programozói) mód");
 define("PRFLAN_148", "Fejlesztő funkció aktiválása. Ez csak a fejlesztő (programozó) oldal részére. A biztonság érdekében egyéb oldalakon ne használd.");
 define("PRFLAN_149", "További tulajdonságok");
 define("PRFLAN_150", "e107 hitelesítési módszer");
 define("PRFLAN_151", "e107 - Nincs választható hitelesítési módszer telepítve");
-
 define("PRFLAN_31", "Email Megerősítés");
 define("PRFLAN_152", "Nincs megerősítés");
 define("PRFLAN_153", "Admin Jóváhagyás");
@@ -175,10 +178,8 @@ define("PRFLAN_194", "# alpha[br]. numeric[br]* alphanumeric[br]Más karakterek,
 define("PRFLAN_196", "Az összes oldal lekérdezés naplózása");
 define("PRFLAN_197", "Új felhasználó automatikus bejelentkezése a regisztrációs linkre történő kattintás után");
 define("PRFLAN_198", "Ha letiltva, akkor a felhasználónak be kell jelentkeznie a regisztráció után");
-
 define("PRFLAN_154a", "Ha az 'Admin jóváhagyás' van kiválasztva, akkor szükséges, hogy az email megerősítés engedélyezve legyen a regisztrációkor [itt].");
 define("PRFLAN_196a", "Bejelentkezési terület:");
-
 define("PRFLAN_199", "Admin Allinkek megjelenítése");
 define("PRFLAN_200", "Ha engedélyezed, akkor az Admin legördülő navigációs menü (ha a weboldal sminkje is támogatja) létrehozza az almenüket, ha szükséges (Pl.: Hírek - Hír létrehozása).");
 define("PRFLAN_201", "Felhasználónév és Jelszó");
@@ -195,26 +196,22 @@ define("PRFLAN_211", "Nem lehet létrehozni email címet opcionálisan, ha szük
 define("PRFLAN_212", "Az érték ehhez --FIELD-- túl magas - változtasd meg erre --VALUE--");
 define("PRFLAN_213", "Az érték ehhez --FIELD-- túl alacsony - változtasd meg erre --VALUE--");
 define("PRFLAN_214", "Oldal Logo (embléma)");
-define("PRFLAN_215", "Csoport, melynek engedélyezett a &lt;script&gt; és hasonló tag-ek beküldése");
+define("PRFLAN_215", "Csoport, melynek engedélyezett a 'script' és hasonló tag-ek beküldése");
 define("PRFLAN_216", "(Szükséges a megfelelő HTML beküldés jogosultság)");
 define("PRFLAN_217", "HTML tartalom szűrő");
 define("PRFLAN_218", "Ha 'kikapcsolva', fokozott XSS rizikónak teszik ki a felhasználókat a fenti csoport tagjai által beküldött, vagy 0.7.24-nél régebbi");
-
 define("PRFLAN_219", "Nem engedélyezett karakterek a Cookie névben (csak alfanumerikus karakterek engedélyezettek). Cookie név nem került mentésre.");
 define("PRFLAN_220", "HTML Visszaélés szűrő (Kisérleti)");
 define("PRFLAN_221", "Néhány egyedi tag blokkolása azoknak, akik beküldhetnek HTML-t");
 define("PRFLAN_222", "CAPTCHA megjelenítése az admin-terület bejelentkezés oldalon.");
 define("PRFLAN_223", "Teljesen Automatizált Publikus Turing teszt to tell Computers and Humans Apart");
-
 define("PRFLAN_224", "Regisztrációs rendszer");
-
 define("PRFLAN_225", "A Facebook és mások használják. Egy négyzet alakú képnek kell lennie, amely legalább 144px széles és magas.");
 define("PRFLAN_226", "Számos smink használja, mint fejrész kép sok oldalon.");
 define("PRFLAN_227", "Számos smink használja. Helyezd a 'SITETAG' kódot a sminkbe a használatához.");
 define("PRFLAN_228", "Számos smink használja. Helyezd a 'SITEDESCRIPTION' kódot a sminkbe a használatához.");
 define("PRFLAN_229", "Számos smink használja. Helyezd a 'SITEDISCLAIMER' kódot a sminkbe a használatához.");
 define("PRFLAN_230", "Dátum/Idő bemeneti mező (Input-Field) formátum");
-
 define("PRFLAN_231", "Kitiltás előtti maximális hibás bejelentkezés:");
 define("PRFLAN_232", "Ennyi, azonos IP-ről történő hozzáférési kisérlet után lesz kitiltva.");
 define("PRFLAN_233", "Hozzászólásokat moderálta:");
@@ -222,34 +219,37 @@ define("PRFLAN_234", "A hozzászólásokat manuálisan kell jóváhagyni egy adm
 define("PRFLAN_235", "Hozzászólás sorrend:");
 define("PRFLAN_236", "Legújabb legfelül");
 define("PRFLAN_237", "Legújabb legalul");
-
 define("PRFLAN_238", "Fájlfeltöltés");
 define("PRFLAN_239", "A maximálissan feltölthető méret, amely mehatározásra került a php.ini beállításokban:");
 define("PRFLAN_240", "Fájl típus fletöltési korlátozás");
 define("PRFLAN_241", "** Biztonsági okokból ennek megváltoztatása csak manuálisan lehetséges a következő fájlban:");
-
 define("PRFLAN_242", "Javascript Keretrendszer (csak tesztelésre)");
 define("PRFLAN_243", "Automatikus (igény szerint)");
 define("PRFLAN_244", "Admin Terület");
 define("PRFLAN_245", "Felhasználói terület");
 define("PRFLAN_246", "Mindkettő");
 define("PRFLAN_247", "Letiltva");
-
 define("PRFLAN_248", "Scripts konszolidáció letiltása");
 define("PRFLAN_249", "Ha letiltod, akkor a scripts egy konszolidációs fájlban fog betöltődni");
 define("PRFLAN_250", "Konszolidációs script zlib tömörítés engedélyezése:");
 define("PRFLAN_251", "Csak akkor használhatod, ha a script konszolidáció negedélyezve van");
 define("PRFLAN_252", "Konszolidációs script szerver cache letiltása:");
 define("PRFLAN_253", "Konszolidációs script böngésző cache letiltása:");
-
 define("PRFLAN_254", "Kapcsolat információk");
 define("PRFLAN_255", "Fájlfeltöltés");
 define("PRFLAN_256", "További beállítások");
 define("PRFLAN_257", "Javascript Keretrendszer");
-
 define("PRFLAN_258", "Kapcsolattartási űrlap láthatósága");
 define("PRFLAN_259", "Regisztráció és bejelentkezés");
 define("PRFLAN_260", "Csak bejelentkezés");
 define("PRFLAN_261", "Mezők beállításai");
 define("PRFLAN_262", "Jelszó az email cím megerősítésben");
 define("PRFLAN_263", "A weboldal azonosítója. Teljesen egyedinek kell lennie.");
+define("PRFLAN_264", "Bejelentkező oldal mint kezőlap");
+define("PRFLAN_265", "Csak tagoknak oldal mint kezőlap");
+define("PRFLAN_266", "Kijelentkezésnél mely oldalra legyen a felhasználó átirányítva?");
+define("PRFLAN_267", "Email küldés módja");
+define("PRFLAN_268", "Frontend gyors-szerkesztés");
+define("PRFLAN_269", "Ezzel a felhasználói csoporttal rendelkező adminisztrátorok közvetlenül szerkeszteni tudják majd a HTML tartalmakat a frontend-en.");
+define("PRFLAN_270", "Kapcsolattartási űrlap szűrése");
+define("PRFLAN_271", "Letiltja az űrlap beküldését, ha egy megadott szót, kifejezést talál a szövegtörzsben. Soronként egy szót adj meg.");
