@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/29 23:30:58
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("PAGE_NAME", "Nyheter");
 define("LAN_NEWS_1", "Nyheter for bestemte medlemmer");
@@ -16,7 +22,7 @@ define("LAN_NEWS_14", "<br>Aktiveringsperioden:");
 define("LAN_NEWS_15", "Kroppens lengde:");
 define("LAN_NEWS_16", "b. utvidet lengde:");
 define("LAN_NEWS_17", "b.");
-define("LAN_NEWS_18", "Info:");
+define("LAN_NEWS_18", "Informasjon:");
 define("LAN_NEWS_19", "Nå");
 define("LAN_NEWS_23", "Nyhetskategorier");
 define("LAN_NEWS_24", "opprette pdf av denne nyhetsartikkelen");
@@ -30,3 +36,6 @@ define("LAN_NEWS_87", "Nyere nyheter");
 define("LAN_NEWS_462", "Ingen nyheter for angitte måneden");
 define("LAN_NEWS_100", "På");
 define("LAN_NEWS_307", "Totalt innlegg i denne kategorien:");
+
+
+?>

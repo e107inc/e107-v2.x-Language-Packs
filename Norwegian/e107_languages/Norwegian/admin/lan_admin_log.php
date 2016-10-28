@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/03/01 19:12:02
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("RL_LAN_002", "Rullende Logg");
 define("RL_LAN_005", "Konfigurere/vise systemlogg");
@@ -66,7 +72,7 @@ define("RL_LAN_091", "Detaljert tidsberegning");
 define("RL_LAN_092", "Tidsperiode");
 define("RL_LAN_093", "(min)");
 define("RL_LAN_094", "Detaljert timing analyse");
-define("RL_LAN_096", "Diff (s)");
+define("RL_LAN_096", "Forskjell (er)");
 define("RL_LAN_098", "Kilde");
 define("RL_LAN_100", "CID");
 define("RL_LAN_101", "PID");
@@ -91,3 +97,6 @@ define("RL_LAN_123", "Tilsynet løypa klasse");
 define("RL_LAN_124", "Tilsynet løypa brukerhandlinger");
 define("RL_LAN_125", "Logger systemvedlikehold");
 define("RL_LAN_126", "Totalt [x] oppføringer matchende søkevilkår");
+
+
+?>

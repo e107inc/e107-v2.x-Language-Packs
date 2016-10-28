@@ -9,7 +9,6 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-
 define("RSS_LAN05", "Antall varer (0 = inaktiv)");
 define("RSS_MENU_L1", "kan grupperes ved hjelp av disse rss-feeder.");
 define("RSS_MENU_L2", "RSS-feeder");
@@ -27,7 +26,7 @@ define("RSS_REV", "Vurderinger");
 define("RSS_FT", "Forumtråder");
 define("RSS_FP", "Foruminnlegg");
 define("RSS_FSP", "Bestemt foruminnlegg");
-define("RSS_BUG", "Bugtracker");
+define("RSS_BUG", "Feilsporing");
 define("RSS_FOR", "Forum");
 define("RSS_DL", "Nedlastinger");
 define("RSS_PLUGIN_LAN_6", "Feed lenker");
@@ -74,7 +73,7 @@ define("RSS_LAN_ADMIN_32", "");
 define("RSS_LAN_ADMIN_33", "Vise bildet News Feed?");
 define("RSS_LAN_0", "RSS");
 define("RSS_LAN_2", "@nospam.com");
-define("RSS_LAN_3", "noauthor@NOSPAM.com");
+define("RSS_LAN_3", "noauthor@nospam.com");
 
 
 ?>

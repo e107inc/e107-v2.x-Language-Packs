@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/29 23:30:10
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("LANDT_01", "år");
 define("LANDT_02", "måned");
@@ -18,8 +24,11 @@ define("LANDT_04s", "dager");
 define("LANDT_05s", "timer");
 define("LANDT_06s", "minutter");
 define("LANDT_07s", "sekunder");
-define("LANDT_08", "min");
-define("LANDT_08s", "min");
-define("LANDT_09", "sek");
+define("LANDT_08", "minutt");
+define("LANDT_08s", "minutter");
+define("LANDT_09", "sekund");
 define("LANDT_09s", "sekunder");
 define("LANDT_AGO", "siden");
+
+
+?>

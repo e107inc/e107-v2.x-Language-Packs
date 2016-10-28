@@ -1,16 +1,22 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/24 17:48:54
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("PAGE_NAME", "Registro");
 define("LAN_EMAIL_01", "Estimado");
 define("LAN_EMAIL_04", "Guarde este correo electrónico para su propia información.");
 define("LAN_EMAIL_05", "Su contraseña ha sido cifrada y no puede ser obtenido si usted pierde u olvida. Sin embargo usted puede solicitar una nueva contraseña si esto sucede.");
 define("LAN_EMAIL_06", "Gracias por tu registro.");
-define("LAN_SIGNUP_1", "Min.");
-define("LAN_SIGNUP_2", "chars.");
+define("LAN_SIGNUP_1", "Minimo");
+define("LAN_SIGNUP_2", "characteres");
 define("LAN_SIGNUP_3", "El código de verificación error.");
 define("LAN_SIGNUP_4", "Su contraseña debe ser al menos");
 define("LAN_SIGNUP_5", "caracteres de largo.");
@@ -30,7 +36,6 @@ define("LAN_SIGNUP_23", "para iniciar sesión.");
 define("LAN_SIGNUP_24", "Gracias por registrarse en el");
 define("LAN_SIGNUP_25", "Subir tu avatar");
 define("LAN_SIGNUP_26", "Subir tu fotografía");
-define("LAN_SIGNUP_27", "Mostrar");
 define("LAN_SIGNUP_30", "Si no desea mostrar su dirección de correo electrónico en este sitio, por favor, seleccione 'Sí' para la opción 'Ocultar dirección de correo electrónico?'.");
 define("LAN_SIGNUP_34", "Nota: cualquier imagen subido a este servidor que se considera inadecuado por los administradores será borrado inmediatamente.");
 define("LAN_SIGNUP_36", "Ha ocurrido un error crear su información de usuario, póngase en contacto con el administrador del sitio");
@@ -48,7 +53,6 @@ define("LAN_SIGNUP_48", "Nombre de usuario o correo electrónico");
 define("LAN_SIGNUP_49", "Si estás registrado con el mal dirección de correo electrónico, así como de relleno en el cuadro anterior, escriba una nueva dirección de correo electrónico y su contraseña aquí:");
 define("LAN_SIGNUP_50", "Nuevo correo electrónico");
 define("LAN_SIGNUP_51", "Contraseña antigua");
-define("LAN_SIGNUP_52", "Contraseña incorrecta");
 define("LAN_SIGNUP_53", "campo no prueba de validación");
 define("LAN_SIGNUP_54", "Haga clic aquí para rellenar sus datos de registro");
 define("LAN_SIGNUP_58", "Vista previa de alta");
@@ -101,3 +105,6 @@ define("LAN_SIGNUP_109", "Es caso sensible y no debe contener espacios.");
 define("LAN_SIGNUP_110", "Su nombre completo");
 define("LAN_SIGNUP_111", "Introduzca una URL de tu imagen o elige un avatar existente.");
 define("LAN_SIGNUP_112", "Actualmente está logueado como administrador principal.");
+
+
+?>

@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/24 17:56:54
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("PAGE_NAME", "Configuración de usuario");
 define("MAX_AVWIDTH", "Tamaño máximo del avatar (wxh)");
@@ -11,7 +17,7 @@ define("LAN_USET_1", "Tu avatar es demasiado ancho");
 define("LAN_USET_2", "Anchura máxima admisible es de");
 define("LAN_USET_3", "Tu avatar es demasiado alta");
 define("LAN_USET_4", "Altura máxima permitida es de");
-define("LAN_USET_7", "Miscellaneous");
+define("LAN_USET_7", "Diverso");
 define("LAN_USET_8", "Firma del usuario");
 define("LAN_USET_9", "Algunos de los campos obligatorios (marcados con un *) faltan en la configuración.");
 define("LAN_USET_10", "Por favor actualice su configuración, para proceder.");
@@ -25,7 +31,6 @@ define("LAN_USET_17", "Nombre ya utilizado. Por favor, elige otro");
 define("LAN_USET_18", "Datos de usuario modifican por admin:--identificación--, el nombre de usuario:--LOGNAME--");
 define("LAN_USET_20", "También debe cambiar la contraseña del usuario si va a cambiar su nombre o correo electrónico dirección de login");
 define("LAN_USET_21", "Por favor valide los cambios por reingresar su contraseña:");
-define("LAN_USET_22", "Contraseña no válida!");
 define("LAN_USET_23", "Deje en blanco para mantener la contraseña existente");
 define("LAN_USET_24", "Nueva contraseña:");
 define("LAN_USET_25", "Reingrese la nueva contraseña:");
@@ -77,3 +82,6 @@ define("LAN_435", "Archivo de protocolo de usuario XML");
 define("LAN_CUSTOMTITLE", "Título personalizado");
 define("LAN_USET_5", "Suscrito a");
 define("LAN_USET_6", "Suscríbete a nuestro correo-listas o secciones de este sitio.");
+
+
+?>

@@ -1,16 +1,22 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/29 23:34:06
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("PAGE_NAME", "Registrering");
 define("LAN_EMAIL_01", "Kjære");
 define("LAN_EMAIL_04", "Behage oppbevare denne e-posten din egen informasjon.");
 define("LAN_EMAIL_05", "Passordet er kryptert og kan ikke hentes hvis du mister eller glemmer det. Du kan imidlertid be om et nytt passord hvis dette skjer.");
 define("LAN_EMAIL_06", "Takk for din registrering.");
-define("LAN_SIGNUP_1", "Min.");
-define("LAN_SIGNUP_2", "tegn.");
+define("LAN_SIGNUP_1", "Minimum");
+define("LAN_SIGNUP_2", "tegn");
 define("LAN_SIGNUP_3", "Kode bekreftelse mislykkes.");
 define("LAN_SIGNUP_4", "Passordet må være minst");
 define("LAN_SIGNUP_5", "tegn.");
@@ -30,7 +36,6 @@ define("LAN_SIGNUP_23", "å logikk.");
 define("LAN_SIGNUP_24", "Takk for din registrering på");
 define("LAN_SIGNUP_25", "Last opp din avatar");
 define("LAN_SIGNUP_26", "Last opp fotografiet");
-define("LAN_SIGNUP_27", "Vis");
 define("LAN_SIGNUP_30", "Hvis du ikke ønsker å vise din e-postadresse på dette nettstedet, vennligst velg 'Ja' for alternativet 'Skjule e-postadresse?'.");
 define("LAN_SIGNUP_34", "Merk: et bilde lastet opp til serveren som er ansett som upassende av administratorene vil bli slettet umiddelbart.");
 define("LAN_SIGNUP_36", "Feil ved oppretting av brukerinformasjonen, kontakt administrator");
@@ -48,7 +53,6 @@ define("LAN_SIGNUP_48", "Brukernavn eller emailadresse");
 define("LAN_SIGNUP_49", "Hvis du er registrert med feil e-postadresse, samt fylle i boksen ovenfor, skriver du inn en ny e-postadresse og passord her:");
 define("LAN_SIGNUP_50", "Ny e-post");
 define("LAN_SIGNUP_51", "Gammelt passord");
-define("LAN_SIGNUP_52", "Feil passord");
 define("LAN_SIGNUP_53", "feltet mislyktes godkjenningen test");
 define("LAN_SIGNUP_54", "Klikk her for å fylle inn opplysningene dine til å registrere");
 define("LAN_SIGNUP_58", "Registrering forhåndsvisning");
@@ -101,3 +105,6 @@ define("LAN_SIGNUP_109", "Er CaSe sensitive og kan ikke inneholde mellomrom.");
 define("LAN_SIGNUP_110", "Fullt navn");
 define("LAN_SIGNUP_111", "Angi en URL til bildet eller velge en eksisterende avatar.");
 define("LAN_SIGNUP_112", "Du er innlogget som Main Admin.");
+
+
+?>

@@ -1,10 +1,15 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("PAGE_NAME", "Error");
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/24 17:41:19
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
+define("PAGE_NAME", "Errores");
 define("LAN_ERROR_1", "Error 401 - autenticación fallado");
 define("LAN_ERROR_2", "La URL que has solicitado requiere un nombre de usuario correcto y una contraseña. Ha introducido una contraseña incorrecta o tu navegador no soporta esta característica.");
 define("LAN_ERROR_3", "Por favor informe al administrador de la página de referencia si crees que esta página de error se ha mostrado por error.");
@@ -49,3 +54,7 @@ define("LAN_ERROR_42", "Información de error adicional:");
 define("LAN_ERROR_43", "Sitio de carácter temporal");
 define("LAN_ERROR_44", "Logo del sitio");
 define("LAN_ERROR_45", "¿Qué puede usted hacer ahora?");
+define("LAN_ERROR_46", "Consulte el registro para obtener más detalles.");
+
+
+?>

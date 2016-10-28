@@ -1,9 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/12/28 01:27:52
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 define("NWSLAN_4", "Noticias - Noticias actuales");
 define("NWSLAN_6", "Categoría");
 define("NWSLAN_10", "No hay categorías de noticias");
@@ -81,13 +86,12 @@ define("NWSLAN_123", "Publicada");
 define("NWSLAN_127", "Plantilla por defecto");
 define("NWSLAN_128", "Establece una cadena que se utilizará en la dirección URL de páginas de noticias. Esto funcionará únicamente reglas de .htaccess adecuada y <a href='%s'>config eURL</a><br>Resuelve la dirección URL basándose en el valor actual:");
 define("LAN_NEWS_23", "Elegir una imagen o un video de esta noticia");
-define("LAN_NEWS_27", "Resumen");
 define("LAN_NEWS_28", "Pegajoso");
 define("LAN_NEWS_29", "Seleccione si la noticia será pegajoso");
 define("LAN_NEWS_30", "Si selecciona, noticia aparecerá sobre todo otros");
 define("LAN_NEWS_32", "Fecha");
 define("LAN_NEWS_33", "Establecer la fecha de la noticia actual");
-define("LAN_NEWS_34", "Trackback");
+define("LAN_NEWS_34", "Rastrear");
 define("LAN_NEWS_35", "Añadir URL de retroacceso");
 define("LAN_NEWS_37", "Una URL por línea)");
 define("LAN_NEWS_49", "Tipo de procesamiento");
@@ -112,8 +116,8 @@ define("LAN_NEWS_68", "Artículo enviado");
 define("LAN_NEWS_69", "Área por defecto");
 define("LAN_NEWS_70", "Área por defecto - título");
 define("LAN_NEWS_71", "Área por defecto - título/Resumen");
-define("LAN_NEWS_72", "Sidebar - Othernews");
-define("LAN_NEWS_73", "Sidebar - Othernews 2");
+define("LAN_NEWS_72", "Barra lateral - Otras noticias");
+define("LAN_NEWS_73", "Barra lateral - Otras noticias 2");
 define("LAN_NEWS_74", "Carrusel");
 define("LAN_NEWS_75", "Sub-página");
 define("LAN_NEWS_87", "por ejemplo. blogsearch.google.com/ping/RPC2");
@@ -124,3 +128,7 @@ define("LAN_NEWS_91", "Límite de la vista de lista por página");
 define("LAN_NEWS_92", "por ejemplo. News.php?All o news.php?cat.1 o news.php?tag=xxx");
 define("LAN_NEWS_93", "Contenido de la vista de lista");
 define("LAN_NEWS_94", "Elementos asignados a estas plantillas se mostrará en la lista.");
+define("LAN_NEWS_95", "Otra noticia está utilizando la URL SEF: [x]");
+
+
+?>

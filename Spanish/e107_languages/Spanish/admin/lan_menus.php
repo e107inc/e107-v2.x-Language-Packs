@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/24 18:20:19
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("MENLAN_1", "Visible a todos");
 define("MENLAN_2", "Visibles para miembros solamente");
@@ -33,14 +39,17 @@ define("MENLAN_30", "Para ver las áreas de menú y sus posiciones para diseños
 define("MENLAN_31", "Diseño predeterminado");
 define("MENLAN_32", "Diseño Newsheader");
 define("MENLAN_33", "Diseño personalizado");
-define("MENLAN_34", "Embedded");
+define("MENLAN_34", "Incrustado");
 define("MENLAN_36", "Elegir el menu(s) para activar");
 define("MENLAN_37", "y cómo activarlas.");
 define("MENLAN_38", "Mantenga pulsada la tecla CTRL para seleccionar múltiples menús.");
 define("MENLAN_39", "Área preestablecida");
 define("MENLAN_40", "Utilice los ajustes preestablecidos del menú");
 define("MENLAN_41", "La posición de todos sus menús para este diseño se perderá. ¿Desea continuar?");
-define("MENLAN_42", "Custom");
+define("MENLAN_42", "Personalizado");
 define("MENLAN_43", "Menú Preset activado");
 define("MENLAN_44", "Parámetros del menú");
 define("MENLAN_45", "Parámetros (formato de cadena de consulta):");
+
+
+?>

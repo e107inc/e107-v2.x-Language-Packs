@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/24 17:44:27
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("ONLINE_EL1", "Invitados:");
 define("ONLINE_EL2", "Miembros:");
@@ -21,7 +27,7 @@ define("ONLINE_EL14", "Hilo de rosca");
 define("ONLINE_EL15", "Página");
 define("ONLINE_EL16", "Información no disponible");
 define("CLASSRESTRICTED", "Página restringida clase");
-define("CHAT", "Chat");
+define("CHAT", "Chatear");
 define("DOWNLOAD", "Descargas");
 define("EMAIL", "email.php");
 define("FORUM", "Índice del foro principal");
@@ -43,7 +49,7 @@ define("USERPOSTS", "Usuario mensajes");
 define("SUBCONTENT", "Enviar contenido");
 define("TOP", "Hilos de carteles/más activos superiores");
 define("ADMINAREA", "Área de administración");
-define("BUGTRACKER", "Bugtracker");
+define("BUGTRACKER", "Rastreador de errores");
 define("EVENT", "Lista de eventos");
 define("CALENDAR", "Calendario de eventos");
 define("FAQ", "Preguntas más frecuentes");
@@ -53,3 +59,6 @@ define("ARTICLE", "Artículo");
 define("CONTENT", "Página de contenido");
 define("REVIEW", "Revisión");
 define("OTHER", "Otra página:");
+
+
+?>

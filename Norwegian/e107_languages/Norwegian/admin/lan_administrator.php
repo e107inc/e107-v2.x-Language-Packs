@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/03/01 19:13:10
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("ADMSLAN_6", "er viktigste områdeadministratoren kan ikke slettes.");
 define("ADMSLAN_13", "Eksisterende administratorer");
@@ -18,8 +24,10 @@ define("ADMSLAN_56", "Områdeadministratoren");
 define("ADMSLAN_58", "Viktigste områdeadministratoren");
 define("ADMSLAN_59", "Fjerne Admin Status");
 define("ADMSLAN_61", "Administrator slettet");
-define("ADMSLAN_62", "Plugin Manager");
+define("ADMSLAN_62", "Programtilleggs administrator");
 define("ADMSLAN_71", "Klikk her for å vise rettigheter");
 define("ADMSLAN_72", "Admin ID: - ID - navn: - navn - nye tillatelser:");
 define("ADMSLAN_73", "Admin ID: - ID - navn:--navn--");
-define("ADMSLAN_74", "Generelt");
+
+
+?>

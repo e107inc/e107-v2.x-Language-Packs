@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/24 18:19:23
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("CORE_DATE_ORDER", "DMY");
 define("LAN_MAILOUT_01", "De nombre");
@@ -19,7 +25,7 @@ define("LAN_MAILOUT_11", "Introducir Variables");
 define("LAN_MAILOUT_12", "Todos los usuarios");
 define("LAN_MAILOUT_13", "Todos los usuarios no verificados");
 define("LAN_MAILOUT_14", "Nombre para mostrar");
-define("LAN_MAILOUT_15", "Mailout");
+define("LAN_MAILOUT_15", "Envio de correo");
 define("LAN_MAILOUT_16", "Nombre de usuario");
 define("LAN_MAILOUT_17", "Enlace de suscripción");
 define("LAN_MAILOUT_18", "ID de usuario");
@@ -27,7 +33,7 @@ define("LAN_MAILOUT_19", "Ninguna dirección de correo electrónico de destino e
 define("LAN_MAILOUT_20", "Ruta de acceso de sendmail");
 define("LAN_MAILOUT_21", "Entradas de correo electrónico a granel");
 define("LAN_MAILOUT_22", "Hay actualmente no hay entradas guardadas");
-define("LAN_MAILOUT_23", "userclass:");
+define("LAN_MAILOUT_23", "clase de usuario:");
 define("LAN_MAILOUT_24", "email(s) está listos para ser enviados");
 define("LAN_MAILOUT_25", "Bulto postal controles");
 define("LAN_MAILOUT_26", "Correo a granel una pausa cada");
@@ -53,9 +59,9 @@ define("LAN_MAILOUT_47", "contiene");
 define("LAN_MAILOUT_48", "es igual a");
 define("LAN_MAILOUT_51", "Asunto");
 define("LAN_MAILOUT_52", "Última mod");
-define("LAN_MAILOUT_53", "Administradores de");
+define("LAN_MAILOUT_53", "Administradores");
 define("LAN_MAILOUT_54", "Del uno mismo");
-define("LAN_MAILOUT_55", "Userclass");
+define("LAN_MAILOUT_55", "Clase de usuario");
 define("LAN_MAILOUT_56", "Última visita (dd-mm-aa)");
 define("LAN_MAILOUT_57", "Enviar mensajes de correo electrónico SMTP a granel en bloques");
 define("LAN_MAILOUT_67", "No se podría enviar el correo electrónico. Revise su configuración de SMTP, seleccione otro método de correo electrónico y vuelva a intentarlo.");
@@ -250,3 +256,6 @@ define("LAN_HOLD", "Mantenga");
 define("LAN_MAILOUT_260", "Tipo de usuario");
 define("LAN_BASIC", "Básico");
 define("LAN_ADVANCED", "Avanzado");
+
+
+?>

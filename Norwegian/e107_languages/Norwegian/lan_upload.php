@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/29 23:34:53
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("PAGE_NAME", "Laste opp");
 define("LAN_UL_001", "Ugyldig e-postadresse");
@@ -42,3 +48,6 @@ define("LAN_418", "Absolutt maksimum filstørrelse:");
 define("DOWLAN_11", "Kategori");
 define("LAN_419", "Tillatte filtyper");
 define("LAN_420", "feltene er obligatoriske");
+
+
+?>
