@@ -27,7 +27,8 @@ define("LANDT_08", "minúta");
 define("LANDT_08s", "minúty");
 define("LANDT_09", "sek");
 define("LANDT_09s", "sek");
-define("LANDT_AGO", "zpět");
+define("LANDT_AGO", "pred");
+define("LANDT_10", "Práve teraz");
 
 
 ?>

@@ -1,4 +1,4 @@
 <?php
-$text = " This page displays all your servers PHP configuration settings. ";
+$text = " Táto stránka zobrazuje všetky PHP nastavenia vášho servera ";
 $ns -> tablerender("PHP Info Help", $text);
 ?>

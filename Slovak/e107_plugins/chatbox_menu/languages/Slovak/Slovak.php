@@ -10,12 +10,13 @@
 +---------------------------------------------------------------+
 */
 define("CHATBOX_L1", "Nemožnosť odoslania príspevku s týmto užívateľským menom, pretože je registrované - ak je to vaše užívateľské meno, prosí, prihláste sa.");
-define("CHATBOX_L3", "Musíte byť pihlásený, ak chcete na tejto stránke odosielať komentáre - príhláste sa prosím alebo ak nie ste registrovaný, kliknite <a href='".e_SIGNUP."'>sem</a> a zaregistrujte sa.");
+define("CHATBOX_L3", "Musíte byť prihlásený, ak chcete na tejto stránke odosielať komentáre - buď sa prihláste cez login box alebo [tu].");
+define("CHATBOX_L3b", "Ak nie ste registrovaný, kliknite [sem] a zaregistrujte sa.");
 define("CHATBOX_L4", "Odoslať novú správu");
-define("CHATBOX_L5", "Reset");
+define("CHATBOX_L5", "Zresetovať");
 define("CHATBOX_L6", "[blokované adminom]");
 define("CHATBOX_L7", "Odblokovať");
-define("CHATBOX_L8", "Info");
+define("CHATBOX_L8", "Informácie");
 define("CHATBOX_L9", "Blokovať");
 define("CHATBOX_L11", "Žiadne príspevky.");
 define("CHATBOX_L12", "Ukázať všetky príspevky");

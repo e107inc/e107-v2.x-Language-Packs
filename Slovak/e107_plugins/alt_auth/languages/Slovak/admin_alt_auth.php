@@ -72,7 +72,7 @@ define("LAN_ALT_62", "Názov poľa");
 define("LAN_ALT_63", "Popis");
 define("LAN_ALT_64", "Typ");
 define("LAN_ALT_65", "Alternatívna autentifikácia");
-define("LAN_ALT_66", "Toto rozšírenie umožňuje použiť alternatívne metódy autentifikácie (overenia)");
+define("LAN_ALT_66", "Tento plugin umožňuje použiť alternatívne metódy autentifikácie (overenia)");
 define("LAN_ALT_67", "Konfigurácia alternatívnej autentifikácie");
 define("LAN_ALT_68", "Služba alternatívnej autentifikácie je nastavená. Teraz potrebujete nakonfigurovať metódu, ktorú uprednostňujete.");
 define("LAN_ALT_69", "");

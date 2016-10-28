@@ -29,12 +29,12 @@ define("MENLAN_19", "Presunúť do lokácie");
 define("MENLAN_22", "Neaktívne menu");
 define("MENLAN_23", "Presunúť na koniec");
 define("MENLAN_24", "Presunúť na začiatok");
-define("MENLAN_25", "");
-define("MENLAN_26", "");
-define("MENLAN_27", "");
-define("MENLAN_28", "");
+define("MENLAN_25", "Action...");
+define("MENLAN_26", "This menu will only be [b]SHOWN[/b] on the following pages");
+define("MENLAN_27", "This menu will only be [b]HIDDEN[/b] on the following pages");
+define("MENLAN_28", "Enter one page per line, enter enough of the url to distinguish it properly. If you need the ending of the url to match exactly, use a ! at the end of the page name. For example: [b]page.php?1![/b]");
 define("MENLAN_29", "Zvoľte vrstvu");
-define("MENLAN_30", "");
+define("MENLAN_30", "To see the menu areas and their positions for custom layouts, select the custom layout here.");
 define("MENLAN_31", "Predvolená vrstva");
 define("MENLAN_32", "Vrstva nadpisov noviniek");
 define("MENLAN_33", "Vlastná vrstva");
@@ -42,13 +42,13 @@ define("MENLAN_34", "Vložené");
 define("MENLAN_36", "Zvoľte, ktoré menu sa majú aktivovať");
 define("MENLAN_37", "tu zvoľte, v ktorej lokácií sa majú aktivovať.");
 define("MENLAN_38", "Podržte CTRL pre výber viacerých menu.");
-define("MENLAN_39", "");
-define("MENLAN_40", "");
-define("MENLAN_41", "");
-define("MENLAN_42", "");
-define("MENLAN_43", "");
-define("MENLAN_44", "");
-define("MENLAN_45", "");
+define("MENLAN_39", "Preset Area");
+define("MENLAN_40", "Use Menu Presets");
+define("MENLAN_41", "The position of all your menus for this layout will be lost. Do you still wish to continue?");
+define("MENLAN_42", "Custom");
+define("MENLAN_43", "Menu Preset Activated");
+define("MENLAN_44", "Menu parameters");
+define("MENLAN_45", "Parameters (query string format):");
 
 
 ?>
