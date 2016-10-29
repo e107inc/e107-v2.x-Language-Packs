@@ -9,28 +9,27 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("LAN_VALIDATE_0", "Neznáma chyba");
-define("LAN_VALIDATE_101", "");
-define("LAN_VALIDATE_102", "");
-define("LAN_VALIDATE_103", "");
-define("LAN_VALIDATE_104", "");
-define("LAN_VALIDATE_105", "");
-define("LAN_VALIDATE_131", "");
-define("LAN_VALIDATE_132", "");
-define("LAN_VALIDATE_133", "");
-define("LAN_VALIDATE_134", "");
-define("LAN_VALIDATE_135", "");
-define("LAN_VALIDATE_136", "");
-define("LAN_VALIDATE_151", "");
-define("LAN_VALIDATE_152", "");
-define("LAN_VALIDATE_153", "");
-define("LAN_VALIDATE_154", "");
-define("LAN_VALIDATE_191", "");
-define("LAN_VALIDATE_201", "");
-define("LAN_VALIDATE_202", "");
-define("LAN_VALIDATE_203", "");
-define("LAN_VALIDATE_204", "");
-define("LAN_VALIDATE_FAILMSG", "");
-
+define("LAN_VALIDATE_0",   "Unknown Error");
+define("LAN_VALIDATE_101", "Missing value");
+define("LAN_VALIDATE_102", "Unexpected value type");
+define("LAN_VALIDATE_103", "Invalid characters found");
+define("LAN_VALIDATE_104", "Not a valid email address");
+define("LAN_VALIDATE_105", "Fields don\"t match" );
+define("LAN_VALIDATE_131", "String too short");
+define("LAN_VALIDATE_132", "String too long");
+define("LAN_VALIDATE_133", "Number too low");
+define("LAN_VALIDATE_134", "Number too high");
+define("LAN_VALIDATE_135", "Array count too low");
+define("LAN_VALIDATE_136", "Array count too high");
+define("LAN_VALIDATE_151", "Number of type integer expected");
+define("LAN_VALIDATE_152", "Number of type float expected");
+define("LAN_VALIDATE_153", "Instance type expected");
+define("LAN_VALIDATE_154", "Array type expected");
+define("LAN_VALIDATE_191", "Empty value");
+define("LAN_VALIDATE_201", "File not exists");
+define("LAN_VALIDATE_202", "File not writable");
+define("LAN_VALIDATE_203", "File exceeds allowed file size");
+define("LAN_VALIDATE_204", "File size lower than allowed minimal file size");
+define("LAN_VALIDATE_FAILMSG", "[x] validation error: [y] [z].");
 
 ?>

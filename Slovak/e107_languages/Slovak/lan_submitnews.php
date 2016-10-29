@@ -18,6 +18,8 @@ define("LAN_135", "Novinka:");
 define("LAN_136", "Zaslať novinku");
 define("NWSLAN_6", "Kategória");
 define("NWSLAN_10", "Žiadne kategórie noviniek");
+define("NWSLAN_11", "Sem nemáte prístup alebo nie ste prihlásený.");
+define("NWSLAN_12", "Prístup odmietnutý.");
 define("SUBNEWSLAN_1", "Musíte vložiť nadpis.\\n");
 define("SUBNEWSLAN_2", "Musíte zadať nejaký text\\n");
 define("SUBNEWSLAN_3", "Vaša príloha musí byť buď jpg, gif alebo png súbor");
@@ -26,6 +28,11 @@ define("SUBNEWSLAN_5", "Súbor obrázku");
 define("SUBNEWSLAN_6", "(jpg, gif alebo png)");
 define("SUBNEWSLAN_7", "Musíte vložiť vaše meno a emailovú adresu");
 define("SUBNEWSLAN_8", "Chyba pri nahrávaní obrázka");
+define("SUBNEWSLAN_9", "Kľúčové slová");
+define("SUBNEWSLAN_10", "Zhrnutie");
+define("SUBNEWSLAN_11", "Meta popis");
+define("SUBNEWSLAN_12", "Používa Facebook a podobne");
+define("SUBNEWSLAN_13", "Media URLs");
 
 
 ?>

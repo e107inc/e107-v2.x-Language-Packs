@@ -16,8 +16,8 @@ define("ADMSLAN_18", "Práva");
 define("ADMSLAN_21", "Pridávanie administrátorov");
 define("ADMSLAN_25", "Upload/manažovanie súborov");
 define("ADMSLAN_27", "Dohliadanie na kategórie odkazov");
-define("ADMSLAN_41", "");
-define("ADMSLAN_42", "");
+define("ADMSLAN_41", "Create/edit custom menus");
+define("ADMSLAN_42", "Post reviews");
 define("ADMSLAN_52", "Aktualizovať administrátora");
 define("ADMSLAN_56", "Administrátor");
 define("ADMSLAN_58", "Hlavný administrátor");
@@ -25,8 +25,8 @@ define("ADMSLAN_59", "Odobrať status administrátora");
 define("ADMSLAN_61", "Administrátor zmazaný");
 define("ADMSLAN_62", "Manažér pluginov");
 define("ADMSLAN_71", "Kliknite sem pre zobrazenie oprávnení");
-define("ADMSLAN_72", "");
-define("ADMSLAN_73", "");
+define("ADMSLAN_72", "Admin ID: --ID-- name: --NAME-- new permissions:");
+define("ADMSLAN_73", "Admin ID: --ID-- name: --NAME--");
 
 
 ?>

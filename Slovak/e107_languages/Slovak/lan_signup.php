@@ -104,6 +104,7 @@ define("LAN_SIGNUP_109", "Is CaSe sensitive and must not contain spaces.");
 define("LAN_SIGNUP_110", "Vaše celé meno");
 define("LAN_SIGNUP_111", "Enter a URL to your image or choose an existing avatar.");
 define("LAN_SIGNUP_112", "Aktuálne ste prihlásený ako hlavný administrátor");
+define("LAN_SIGNUP_113", "Odoberanie(a)");
 
 
 ?>

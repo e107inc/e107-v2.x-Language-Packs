@@ -9,13 +9,13 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("LAN_LOGINMENU_1", "Meno používateľa:");
+define("LAN_LOGINMENU_1", "Meno užívateľa:");
 define("LAN_LOGINMENU_2", "Heslo:");
-define("LAN_LOGINMENU_3", "Prihlásiť sa");
+define("LAN_LOGINMENU_3", "Zaregistrovať sa");
 define("LAN_LOGINMENU_4", "Zabudli ste heslo?");
 define("LAN_LOGINMENU_5", "Vitajte");
 define("LAN_LOGINMENU_6", "Zapamätať si ma");
-define("LAN_LOGINMENU_7", "Nepodarilo sa identifikovať unikátne ID používateľa (pravdepodobne poškodené cookies). Kliknite prosím na link na odhlásenie, aby ste zrušili cookies.");
+define("LAN_LOGINMENU_7", "Nepodarilo sa identifikovať unikátne ID užívateľa (pravdepodobne poškodené cookies). Kliknite prosím na link na odhlásenie, aby ste zrušili cookies.");
 define("LAN_LOGINMENU_9", "Chyba prihlásenia");
 define("LAN_LOGINMENU_10", "Je zapnutý stav údržby - znamená to, že všetky požiadavky na server budú presmerované na sitedown.php. Pre zrušenie stavu údržby choďte na admin/údržba.");
 define("LAN_LOGINMENU_11", "Administrácia");
@@ -52,7 +52,7 @@ define("LAN_LOGINMENU_46", "posledné príspevky -");
 define("LAN_LOGINMENU_47", "Login menu - Recent plugin additions");
 define("LAN_LOGINMENU_48", "Konfigurácia menu");
 define("LAN_LOGINMENU_49", "E-mail:");
-define("LAN_LOGINMENU_50", "Meno používateľa alebo e-mail:");
+define("LAN_LOGINMENU_50", "Prihl.meno alebo e-mail");
 define("LAN_LOGINMENU_51", "Prihlásiť sa");
 
 

@@ -81,6 +81,12 @@ define("LAN_USER_83", "Skryť e-mail?:");
 define("LAN_USER_84", "Zabráni zobrazeniu vašej e-mailovej adresy na tomto webe");
 define("LAN_USER_85", "Ak chcete zmeniť svoje užívateľské meno, musíte požiadať hlavného administrátora");
 define("LAN_USER_86", "Maximálna veľkosť avatara je --WIDTH-- x --HEIGHT-- pixelov");
+define("LAN_XUP_ERRM_01", "Signup failed! This feature is disabled.");
+define("LAN_XUP_ERRM_02", "Signup failed! Wrong provider.");
+define("LAN_XUP_ERRM_03", "Log in Failed! Wrong provider.");
+define("LAN_XUP_ERRM_04", "Signup failed! User already signed in.");
+define("LAN_XUP_ERRM_05", "Signup failed! User already exists. Please use 'login' instead.");
+define("LAN_XUP_ERRM_06", "Signup failed! Can't access user email - registration without an email is impossible.");
 
 
 ?>

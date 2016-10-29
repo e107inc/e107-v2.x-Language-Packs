@@ -9,11 +9,11 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("LAN_DOCS", "");
+define("LAN_DOCS", "Systémová dokumentácia");
 define("LAN_DOCS_SECTIONS", "Zobrazované sekcie:");
-define("LAN_DOCS_GOTOP", "");
-define("LAN_DOCS_ANSWER", "");
-define("LAN_DOCS_QUESTION", "");
+define("LAN_DOCS_GOTOP", "Nahor");
+define("LAN_DOCS_ANSWER", "Odpoveď");
+define("LAN_DOCS_QUESTION", "Otázka");
 
 
 ?>

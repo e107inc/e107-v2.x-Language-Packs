@@ -10,8 +10,8 @@
 +---------------------------------------------------------------+
 */
 define("METLAN_00", "Meta Tagy");
-define("METLAN_1", "");
-define("METLAN_2", "");
+define("METLAN_1", "Additional meta tags");
+define("METLAN_2", "e.g. < meta name='revisit-after' content='30 days' />");
 define("METLAN_3", "Použije názov novinky a jej sumár ako meta-popis stránke noviniek.");
 
 

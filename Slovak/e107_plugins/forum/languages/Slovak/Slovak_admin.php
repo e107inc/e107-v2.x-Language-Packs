@@ -9,7 +9,7 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("FORLAN_2", "Prosím, vyberte či chcete fórum po údržbe úplne vymazať alebo ho uviesť do stavu neaktivity (fórum sa nezmaže, len sa mu nastaví stav neviditeľnosti.");
+define("FORLAN_2", "Vyberte si, či chcete fórum po údržbe úplne vymazať alebo ho uviesť do stavu neaktivity (fórum sa nezmaže, len sa mu nastaví stav neviditeľnosti.");
 define("FORLAN_7", "Nastavenia fóra");
 define("FORLAN_8", "Fóra po údržbe.");
 define("FORLAN_9", "Údržba nie je potrebná.");
@@ -33,6 +33,7 @@ define("FORLAN_56", "Počet príspevkov vo vlákne potrebný na to, aby bolo ozn
 define("FORLAN_57", "Príspevkov na stránku");
 define("FORLAN_58", "Počet zobrazených príspevkov na jednu stránku");
 define("FORLAN_60", "Táto funkcia môže zmazať všetky vlákna, ktoré boli neaktívne dlhšiu dobu ako vami zvolený počet dní. <br /><b>Prosím, buďte pri používaní tejto funkcie opatrný!</b>");
+define("FORLAN_63", "Zobraziť hodnosti");
 define("FORLAN_65", "Názov fóra");
 define("FORLAN_66", "nenainštalované");
 define("FORLAN_70", "Povoliť súborové / obrázkové prílohy");
@@ -112,6 +113,19 @@ define("FORLAN_200", "Topic tracking");
 define("FORLAN_201", "Enable this to allow your users to track topics.");
 define("FORLAN_202", "Topic tracking email notifications");
 define("FORLAN_203", "Enable this option to allow your users to receive email notifications when others reply to a tracked topic.");
+define("FORLAN_204", "Anon.užívateľ");
+define("FORLAN_205", "Práva na odoslanie");
+define("FORLAN_206", "Trieda na vytvorenie vlákna");
+define("FORLAN_207", "Fóra a vlákna");
+define("FORLAN_208", "Len fóra");
+define("FORLAN_209", "Téma");
+define("FORLAN_210", "Problém");
+define("FORLAN_211", "Odoslané");
+define("FORLAN_212", "Prílohy");
+define("FORLAN_213", "Post");
+define("FORLAN_214", "Leave blank to auto-generate it from the title above.");
+define("FORLAN_215", "Not installed!");
+define("FORLAN_216", "(New Parent)");
 
 
 ?>
