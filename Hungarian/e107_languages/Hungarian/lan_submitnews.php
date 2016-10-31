@@ -19,3 +19,9 @@ define("SUBNEWSLAN_5", "Képfájl");
 define("SUBNEWSLAN_6", "(jpg, gif vagy png)");
 define("SUBNEWSLAN_7", "Meg kell adnod a nevedet és email címedet");
 define("SUBNEWSLAN_8", "Kép feltöltési hiba");
+define("SUBNEWSLAN_9", "Kulcsszavak");
+define("SUBNEWSLAN_10", "Összefoglalás");
+define("SUBNEWSLAN_11", "Meta Ismertetés");
+define("SUBNEWSLAN_12", "Facebook stb.");
+define("SUBNEWSLAN_13", "Media URL címek");
+?>

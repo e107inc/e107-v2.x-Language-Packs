@@ -33,7 +33,7 @@ define("LAN_USET_24", "Új jelszó: ");
 define("LAN_USET_25", "Új jelszó ismét: ");
 define("LAN_USET_26", "Avatar feltöltése");
 define("LAN_USET_27", "Fotó feltöltése");
-define("LAN_USET_28", "Ez megjelenik a profil oldaladon");
+define("LAN_USET_28", " Ez jelenik meg a profil oldaladon");
 define("LAN_USET_30", "Mi ez?");
 define("LAN_USET_31", "Regisztrációs információk");
 define("LAN_USET_32", "Megjegyzés: A nem megfelelő képet az Adminisztrátor azonnal törölni fogja.");

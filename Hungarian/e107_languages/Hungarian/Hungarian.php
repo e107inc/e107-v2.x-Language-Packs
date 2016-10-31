@@ -35,7 +35,7 @@ define("CORE_LAN_GB", "GB");
 define("CORE_LAN_TB", "TB");
 define("EMESSLAN_TITLE_INFO", "Rendszerinformáció");
 define("EMESSLAN_TITLE_ERROR", "Hiba");
-define("EMESSLAN_TITLE_SUCCESS", "Végrehajtva");
+define("EMESSLAN_TITLE_SUCCESS", "Végrehajtva!");
 define("EMESSLAN_TITLE_WARNING", "Figyelmeztetés");
 define("EMESSLAN_TITLE_DEBUG", "Rendszer hibakeresés");
 define("LAN_EDIT", "Szerkesztés");
@@ -47,7 +47,7 @@ define("LAN_READ_MORE", "Tovább olvasom...");
 define("LAN_GOPAGE", "Ugrás az oldalra");
 define("LAN_GOTOPAGEX", "Ugrás az [x] oldalra");
 define("LAN_GO", "Ugrás");
-define("LAN_SUBMIT", "Elküldés");
+define("LAN_SUBMIT", "Küldés");
 define("LAN_NONE", "Nincs");
 define("LAN_WARNING", "Figyelem!");
 define("LAN_ERROR", "Hiba");
@@ -116,6 +116,5 @@ define("LAN_SHOW", "Mutasd");
 define("LAN_GENERATE", "Létrehozás");
 define("LAN_SUMMARY", "Összefoglalás");
 define("LAN_REQUIRED_BLANK", "Szükséges mező(k) maradt(ak) üresen!");
-
-
+define("LAN_PLEASEWAIT", "Kis türelmet");
 ?>
