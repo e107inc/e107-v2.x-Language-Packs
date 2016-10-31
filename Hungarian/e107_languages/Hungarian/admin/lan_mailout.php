@@ -22,7 +22,7 @@ define("LAN_MAILOUT_09", "Sablon stilusának használata");
 define("LAN_MAILOUT_10", "Feliratkozott felhasználó");
 define("LAN_MAILOUT_11", "Változók beszúrása");
 define("LAN_MAILOUT_12", "Minden Tag");
-define("LAN_MAILOUT_13", "Minden nem ellenőrzött tag");
+define("LAN_MAILOUT_13", "Minden ellenőrizetlen tag");
 define("LAN_MAILOUT_14", "Megjelenő név");
 define("LAN_MAILOUT_15", "Kimenő E-mail");
 define("LAN_MAILOUT_16", "Felhasználónév");

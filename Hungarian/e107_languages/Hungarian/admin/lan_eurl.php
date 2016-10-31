@@ -27,7 +27,7 @@ define("LAN_EURL_FORM_HELP_DEFAULT", "Álnév az alapértelmezett nyelv esetén.
 define("LAN_EURL_FORM_HELP_ALIAS_0", "Alapértelmezett érték");
 define("LAN_EURL_FORM_HELP_ALIAS_1", "Álnév amikor");
 define("LAN_EURL_FORM_HELP_EXAMPLE", "Bázis URL");
-define("LAN_EURL_ERR_ALIAS_MODULE", "Álnevet '%1\$s' nem lehet elmenteni - már van URL profil ezen a néven. Válassz másik álnevet a redszer URL profilhoz '%2\$s'");
+define("LAN_EURL_ERR_ALIAS_MODULE", "'%1\$s' álnevet nem lehet elmenteni - már van URL profil ezen a néven. Válassz másik álnevet a '%2\$s' redszer URL profilhoz!");
 define("LAN_EURL_SURL_UPD", "  SEF URL frissítve!");
 define("LAN_EURL_SURL_NUPD", "  SEF URL nem lett frissítve!");
 define("LAN_EURL_SETTINGS_PATHINFO", "Fájlnév törlése az URL-ből");

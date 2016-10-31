@@ -14,5 +14,5 @@ define("METLAN_00", "Meta Tag-ek");
 
 define("METLAN_1", "További meta Tag-ek");
 define("METLAN_2", "Pl.: < meta name='revisit-after' content='30 days' />");
-define("METLAN_3", "Használd a Hírek címét és az összegzést, mint egy meta-leírás a Hírek oldalon.");
+define("METLAN_3", "Használd a Hírek címét és az összegzést, mint egy meta ismertetést a Hírek oldalon.");
 ?>

@@ -60,7 +60,7 @@ define("NWSLAN_75", "Alapértelmezett - a főoldalon");
 define("NWSLAN_76", "Csak a cím - a főoldalon");
 define("NWSLAN_77", "Egyéb hírek menüben");
 define("NWSLAN_83", "Hír folytatása");
-define("NWSLAN_84", "Kik láthatják a Hírt");
+define("NWSLAN_84", "A hírt láthatják");
 define("NWSLAN_86", "Hírkategóriák megjelenítése a láblécben");
 define("NWSLAN_87", "Hírkategória oszlopok száma");
 define("NWSLAN_88", "Oldalanként megjelenítendő Hírek száma");
