@@ -12,7 +12,7 @@
 
 define("NWSLAN_4", "Hírek - Meglévő hírek");
 define("NWSLAN_6", "Kategória");
-define("NWSLAN_10", "Nincsennek Hír kategóriák");
+define("NWSLAN_10", "Nincs Hír kategóra");
 define("NWSLAN_13", "Szövegtörzs");
 define("NWSLAN_14", "Szövegtörzs (bővített hír)");
 define("NWSLAN_18", "Hozzászólások engedélyezése ehhez a Hírhez");
@@ -33,7 +33,7 @@ define("NWSLAN_36", "Hír kategória frissítve");
 define("NWSLAN_37", "Biztosan törölni akarod ezt a kategóriát?");
 define("NWSLAN_38", "Biztosan törölni akarod ezt a beküldött Hírt?");
 define("NWSLAN_39", "Biztosan törölni akarod ezt a Hírt?");
-define("NWSLAN_43", "Nincsnnek Hírek");
+define("NWSLAN_43", "Nincs Hír");
 define("NWSLAN_44", "Hírek főoldal");
 define("NWSLAN_45", "Hír létrehozása");
 define("NWSLAN_46", "Kategóriák");
@@ -84,7 +84,7 @@ define("NWSLAN_117", "Hírarchívum címe");
 define("NWSLAN_120", "Szöveg megjelenítése a Hir beküldése elején");
 define("NWSLAN_121", "Nincs találat ehhez %s");
 define("NWSLAN_123", "Beküldve");
-define("NWSLAN_127", "Alapértelmezett samlon");
+define("NWSLAN_127", "Alapértelmezett sablon");
 define("NWSLAN_128", "Válassz ki egy Hírek oldalak URL-jében használni kívánt szöveget. Ez csak a .htaccess szabályokkal és a <a href='%s'>eURL config</a> működik helyesen.<br />A jelenlegi érték alapján javított URL:");
 define("LAN_NEWS_23", "Válassz egy képet vagy videót ehhez a Hírhez");
 define("LAN_NEWS_27", "Összegzés");
@@ -125,12 +125,23 @@ define("LAN_NEWS_75", "Featurebox tartalomváltó");
 define("LAN_NEWS_87", "Pl.: blogsearch.google.com/ping/RPC2");
 define("LAN_NEWS_88", "Meghatározza, hogy az alapértelmezett Híroldal hogyan jelenjen meg.");
 define("LAN_NEWS_89", "Értesítés, mikor a Hír létrehozása/frissítése történik.");
-define("LAN_NEWS_90", "Egy soronként.");
+define("LAN_NEWS_90", "Soronként egy.");
 define("LAN_NEWS_91", "Lista-nézet korlátozás oldalanként");
 define("LAN_NEWS_92", "Pl.: news.php?all vagy news.php?cat.1 vagy news.php?tag=xxx");
 define("LAN_NEWS_93", "Lista-nézet tartalma");
 define("LAN_NEWS_94", "A listában a Hírek az itt választott sablonnal jelennek majd meg.");
-define("LAN_NEWS_95", "Egy másik hír elem használja a SEF URL: [x]");
-
+define("LAN_NEWS_95", "Egy másik hír elem használja a(z) [x] SEF URL címet");
+define("LAN_NEWS_96", "Engedélyez"); 
+define("LAN_NEWS_97", "Hírek Rács Menü");
+define("LAN_NEWS_98", "Ping Szolgáltatás");
+define("LAN_NEWS_99", "Engedélyezett képek, amelyek nagyobbak mint");
+define("LAN_NEWS_100", "Bármilyen méret");
+define("LAN_NEWS_101", "Hírek beküldése");
+define("LAN_NEWS_102", "Megnyitás új fülön");
+define("LAN_NEWS_103", "Email értesítés");
+define("LAN_NEWS_104", "Email értesítés küldése, ha ön beküldte ezt a hírt.");
+define("LAN_NEWS_105", "Az email értesítés elküldve!");
+define("LAN_NEWS_106", "Az e-mail értesítés küldéséhez a hír láthatóságát állítsa 'Publikus'-ra.");
+define("LAN_NEWS_107", "Ping Állapot Ellenőrzése");
 
 ?>

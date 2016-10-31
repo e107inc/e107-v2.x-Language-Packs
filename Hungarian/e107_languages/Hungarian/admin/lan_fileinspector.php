@@ -1,9 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Hungarian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/10/13 07:34:21
+|
+|        $Author: Yesszus $
++---------------------------------------------------------------+
+*/
 define("FC_LAN_1", "Fájl Ellenőrző");
 define("FC_LAN_2", "Ellenőrzési beállítások");
 define("FC_LAN_3", "Megtekintés");
@@ -26,6 +31,21 @@ define("FC_LAN_19", "Ágak számának mutatása");
 define("FC_LAN_20", "Talált ágak megjelenítése");
 define("FC_LAN_21", "Elavult Core Fájlok");
 define("FC_LAN_22", "Szöveg egyezés kiemelése");
+define("FC_LAN_23", "Nyelvi fájlok kizárása");
+define("FC_LAN_24", "Core Mappa (Ellenőrzött)");
+define("FC_LAN_25", "Core Mappa (Hibás)");
+define("FC_LAN_26", "Core Mappa (Hiányzik)");
+define("FC_LAN_27", "Core Mappa (Elavult)");
+define("FC_LAN_28", "Nem core Mappa");
+define("FC_LAN_29", "Core Fájl (Ellenőrzött)");
+define("FC_LAN_30", "Core Fájl (Ellenőrizetlen)");
+define("FC_LAN_31", "Core Fájl (Hibás)");
+define("FC_LAN_32", "Core Fájl (Hiányzik)");
+define("FC_LAN_33", "Core Fájl (Elavult)");
+define("FC_LAN_34", "Core Fájl (Kiszámíthatatlan)");
+define("FC_LAN_35", "Ismert Biztonsági probléma");
+define("FC_LAN_36", "Nem core fájl");
+define("FC_LAN_37", "Fájl Kulcs");
 
 define("FR_LAN_1", "Vizsgálat");
 define("FR_LAN_2", "Eredmény");
@@ -68,6 +88,7 @@ define("FR_LAN_28", "Ismert veszélyes fájlok");
 define("FR_LAN_29", "Összes fájl egyezés");
 define("FR_LAN_30", "Összes sor egyezés");
 define("FR_LAN_31", "A bővítmények könyvtára hiányzik");
+define("FR_LAN_32", "Először futtatnia kell az ellenőrzést!");
 
 define("FS_LAN_1", "Pillanatkép készítése");
 define("FS_LAN_2", "A gyökérkönyvtár abszoludt útvonala a kép létrehozásához innen ");

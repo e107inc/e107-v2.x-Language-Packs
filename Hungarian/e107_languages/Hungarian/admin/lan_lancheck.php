@@ -24,8 +24,10 @@ define("LAN_CHECK_22", "Sablon (theme)");
 define("LAN_CHECK_23", "Hibák");
 define("LAN_CHECK_24", "Összegzés");
 define("LAN_CHECK_25", "Sablonok");
+define("LAN_CHECK_26", "Címlap");
 define("LAN_CHECK_PAGE_TITLE", "Nyelvek");
 define("LAN_CHECK_27", "Nyelvi csomag hibák száma");
+define("LAN_CHECK_28", "Azonos");
 
 define("LANG_LAN_23", "Nyelvi csomag létrehozása (zip)");
 define("LANG_LAN_30", "Kiadás ideje");

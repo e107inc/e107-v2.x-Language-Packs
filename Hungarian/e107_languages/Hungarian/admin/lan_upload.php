@@ -51,5 +51,5 @@ define("UPLLAN_63", "Bejegyzés áthelyezve a Letöltésekhez. [x]");
 define("UPLLAN_64", "Letöltés kezelése");
 define("UPLLAN_66", "Letöltés útvonal hiba");
 define("UPLLAN_68", "SQL Hiba:");
-define("UPLLAN_69", "");
-define("UPLLAN_70", "");
+define("UPLLAN_69", "Importálva");
+define("UPLLAN_70", "Küldés ide:  [x]");

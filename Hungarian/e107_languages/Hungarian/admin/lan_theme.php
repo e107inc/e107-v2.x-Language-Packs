@@ -81,6 +81,22 @@ define("TPVLAN_72", "Oldalak beállítása amelyek automatikusan használják ez
 1 oldal per sor.");
 define("TPVLAN_73", "Menük aktiválása");
 define("TPVLAN_74", "A következők aktiválása:");
+define("TPVLAN_75", "Ár");
+define("TPVLAN_76", "Ingyenes");
+define("TPVLAN_77", "Ajánlott!");
+define("TPVLAN_78", "Követelmények");
+define("TPVLAN_79", "cURL szükséges a funkció használatához. Forduljon a webhosting szolgáltatójához, hogy engedélyezze a cURL használatát.");
+define("TPVLAN_80", "Nem találhatóak témák, amelyek megfelelnek a keresési feltételeknek.");
+
+define("TPVLAN_81","Letöltés..."); 
+define("TPVLAN_82","A letöltés befejezve!");
+define("TPVLAN_83","Az automatikus letöltés nem működik! Használja a [x]");
+define("TPVLAN_84","Manuális letöltést");
+define("TPVLAN_85","Kapcsolódás...");
+define("TPVLAN_86","Az oldal sablont nem lehet megváltoztatni!");
+define("TPVLAN_87","Sablon Beállítások Beolvasása");
+define("TPVLAN_88","Konvertálás");
+
 define("TPVLAN_CONV_1", "1 lépés");
 define("TPVLAN_CONV_2", "2 lépés");
 define("TPVLAN_CONV_3", "A sablon neve. (Angol nyelven)");
@@ -96,8 +112,7 @@ define("TPVLAN_CONV_10", "A plugin egy rövid, egysoros ismertetése.
 define("TPVLAN_CONV_11", "A sablon kulcsszavak/címkék (Angol nyelven)");
 define("TPVLAN_CONV_12", "A sablon teljes ismertetése (Angol nyelven)");
 define("TPVLAN_CONV_13", "Milyen kategóriába tartozik ez a sablon?");
-define("TPVLAN_CONV_14", "Engedélyezi választható opcióként a stíluslapot  a Theme Kezelőben.");
+define("TPVLAN_CONV_14", "Engedélyezi választható opcióként a stíluslapot a Sablon Kezelőben.");
 define("TPVLAN_CONV_15", "Adja meg a stíluslap nevét");
-
 
 ?>

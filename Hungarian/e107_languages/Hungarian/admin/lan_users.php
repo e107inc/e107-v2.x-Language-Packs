@@ -9,7 +9,7 @@ define("USRLAN_3", "adminisztrátor - a jogosultságok beállításához menj az
 define("USRLAN_4", "adminisztrátorok oldalra");
 define("USRLAN_5", "A főadmin jogosultságai nem vonhatóak vissza");
 define("USRLAN_6", "admin jogai megvonva.");
-define("USRLAN_7", "A fõadmin nem tiltható ki");
+define("USRLAN_7", "A főadmin nem tiltható ki");
 define("USRLAN_8", "Felhasználó kitiltva.");
 define("USRLAN_9", "Kitiltás törlése.");
 define("USRLAN_10", "Felhasználó törölve.");
