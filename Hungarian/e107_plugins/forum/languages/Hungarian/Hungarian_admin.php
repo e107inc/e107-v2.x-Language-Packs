@@ -38,7 +38,7 @@ define("FORLAN_65", "Fórum címe");
 define("FORLAN_66", "Nincs telepítve");
 define("FORLAN_70", "Fájl/kép melléklet engedélyezése");
 define("FORLAN_71", "Lehetővé teszi a felhasználók számára, hogy fájlokat és/vagy képeket mellékeljenek a bejegyzéseikhez");
-define("FORLAN_75", "Szülők");
+define("FORLAN_75", "Szülő");
 define("FORLAN_76", "Fórum főoldala");
 define("FORLAN_77", "Fórum létrehozása");
 define("FORLAN_78", "Fórum rendezése");
@@ -99,7 +99,7 @@ define("FORLAN_172", "Jelentés törlése");
 define("FORLAN_173", "Téma címe");
 define("FORLAN_174", "Felhasználó");
 define("FORLAN_175", "Jelentés elküldve");
-define("FORLAN_177", "e-mail értesítés alapértelmezetten kiválasztva");
+define("FORLAN_177", "E-mail értesítés alapértelmezetten kiválasztva");
 define("FORLAN_178", "Ha be van pipálva, az email értesítéshez tartozó jelölőnégyzet alapértelmezetten be lesz pipálva.");
 define("FORLAN_179", "Egy * karakter hozzáadásával (a fórum neve elé írva), a fórum egy tárolóként lesz kezelve, melyekbe további al-fórumok hozhatóak létre. Ezen opció használatát az oldal témájának tudnia kell kezelni!");
 define("FORLAN_182", "számolja újra a bejegyzéseket is az összes témában ebben a kiválasztott fórumon belül");
@@ -114,5 +114,18 @@ define("FORLAN_201", "Engedélyezi a felhasználók számára a témák követé
 define("FORLAN_202", "Téma követés email értesítések");
 define("FORLAN_203", "Engedélyezze ezt az opciót a felhasználók számára, hogy email értesítést kapjanak, amikor valaki válaszol a követett témában.");
 
+define("FORLAN_204", "Felhasználó-Anon");
+define("FORLAN_205", "Beküldhetnek");
+define("FORLAN_206", "Témát létrehozhatnak");
+define("FORLAN_207", "Fórumok és Témák");
+define("FORLAN_208", "Csak Fórumok");
+define("FORLAN_209", "Topik");
+define("FORLAN_210", "Probléma");
+define("FORLAN_211", "Beküldte");
+define("FORLAN_212", "Csatolmányok");
+define("FORLAN_213", "Bejegyzés");
+define("FORLAN_214", "Hagyja üresen az automatikus cím generáláshoz.");
+define("FORLAN_215", "Nincs telepítve!");
+define("FORLAN_216", "(Új Szülő)");
 
 ?>
