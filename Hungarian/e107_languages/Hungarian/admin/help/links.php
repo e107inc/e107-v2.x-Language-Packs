@@ -12,6 +12,6 @@
 
 if (!defined('e107_INIT')) { exit; }
 
-$text = "Írd be ide az oldalad összes főmenü linkjét. A többi linkhez használd a Links page plugint. 
+$text = "Írd be ide az oldalad összes főmenü linkjét.<br />A többi linkhez használd a Links page plugint. 
 <br />";
 $ns -> tablerender("Linkek súgó", $text);

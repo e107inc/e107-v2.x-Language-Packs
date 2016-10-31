@@ -30,7 +30,7 @@ $text = "<div style='margin-left: 0px; margin-bottom: 1px; margin-top: 2px; vert
 <img src='".e_IMAGE."fileinspector/file_old.png' alt='".$dir."' style='margin-left: 3px; width: 16px; height: 16px' />&nbsp;Régi Core Mag Fájl</div>
 <div style='margin-left: 0px; margin-bottom: 1px; margin-top: 2px; vertical-align: top; white-space: nowrap'>
 <img src='".e_IMAGE."fileinspector/file_unknown.png' alt='".$dir."' style='margin-left: 3px; width: 16px; height: 16px' />&nbsp;Nem Core Mag Fájl</div>";
-$ns -> tablerender("File Key", $text);
+$ns -> tablerender(FC_LAN_37, $text);
 
 $text = "A fájl ellenőr ellenőrzi és elemzi a fájlokat a szerver oldalon. Amikor az ellenőr e107 core fájlt talál, 
 ellenőrzi a fájlkonzisztenciát, hogy megbizonyosodjon arról sérült-e az.";

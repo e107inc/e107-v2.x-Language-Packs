@@ -12,5 +12,5 @@
 
 if (!defined('e107_INIT')) { exit; }
 
-$text = "A beállítások oldalon megadható a webhelyre vonatkozó összes fontos információ, a webhely nevétől és leírásától kezdve a flood védelemig és a káromkodás szűrésig.";
+$text = "A beállítások oldalon megadható a webhelyre vonatkozó összes fontos információ, a webhely nevétől és ismertetésétől kezdve a flood védelemig és a káromkodás szűrésig.";
 $ns -> tablerender("Beállítások Súgó", $text);

@@ -12,7 +12,7 @@
 
 if (!defined('e107_INIT')) { exit; }
 
-$caption = "Új hír - Súgó";
+$caption = "Hirek - Súgó";
 if (e_QUERY) list($action,$junk) = explode('.',e_QUERY); else $action = 'list';
 switch ($action)
 {
@@ -47,7 +47,6 @@ Ha megadsz egy kezdési és/vagy befejezési dátumot, akkor a cikk csak a két 
 	break;
   case 'list' :
   default :
-	$text = 'List of all news items. To edit or delete, click on one of the icons in the \'options\' column. To view the item, click
-		on the title.';
+	$text = 'Az összes hír listája. Szerkesztéséhez vagy törléséhez kattintson az egyik ikonra az \'Opciók\' oszlopban. Az elem megtekintéséhez, kattintson az ID azonosítóra.';
 }
 $ns -> tablerender($caption, $text);

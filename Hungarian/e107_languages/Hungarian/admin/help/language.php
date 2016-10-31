@@ -12,5 +12,5 @@
 
 if (!defined('e107_INIT')) { exit; }
 
-$text = "A nyelvezet beállításával megadható az oldal alapértelmezett nyelvezete, valamint a segítségével akár többnyelvű tartalom is létrehozható. A nyelvi eszközök menüpont alatt lehetőség nyílik a jelenleg használt nyelvi fájlok ellenőrzésére és módosítására is.";
+$text = "A nyelvezet beállításával megadható az oldal alapértelmezett nyelvezete, valamint a segítségével akár többnyelvű tartalom is létrehozható.<br /><br />A nyelvi eszközök menüpont alatt lehetőség nyílik a jelenleg használt nyelvi fájlok ellenőrzésére és módosítására is.";
 $ns -> tablerender("Nyelv Súgó", $text);

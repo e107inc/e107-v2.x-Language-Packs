@@ -44,14 +44,15 @@ $frm = e107::getForm();
 $text = "Beállíthatod, hogy mely menük, hol, s milyen sorrendben jelenjenek meg. 
 A nyilak segítségével mozgasd a menüket a megfelelő pozícióba. 
 <br />
-A középen listázott menük inaktívak. Bekapcsolhatod őket, ha megadod, hogy hol jelenjenek meg. Ha úgy tűnik, hogy a menükkel valami nincs rendben, nyomd meg a Frissítés gombot.
+A középen listázott menük inaktívak.<br />Bekapcsolhatod őket, ha megadod, hogy hol jelenjenek meg.<br />Ha úgy tűnik, hogy a menükkel valami nincs rendben, nyomd meg a Frissítés gombot.
 <br />
 [html]
 <form method='post' id='menurefresh' action='".$_SERVER['PHP_SELF']."'>
 <div>
 ".$frm->admin_button('reset','Frissítés','cancel')."</div>
 </form>
-<div class='indent'><br /><span class='required'><i class='icon-search icon-white'></i></span> jelzi, ha a menü láthatóságát, elérhetőségét módosítottad.</div>
+<br />
+".e107::getParser()->toGlyph('search')." jelzi, ha a menü láthatóságát, elérhetőségét módosítottad.
 [/html]
 ";
 
