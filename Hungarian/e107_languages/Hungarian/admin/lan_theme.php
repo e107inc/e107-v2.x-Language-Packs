@@ -83,7 +83,7 @@ define("TPVLAN_73", "Menük aktiválása");
 define("TPVLAN_74", "A következők aktiválása:");
 define("TPVLAN_75", "Ár");
 define("TPVLAN_76", "Ingyenes");
-define("TPVLAN_77", "Ajánlott!");
+define("TPVLAN_77", "Ingyenes - Ajánlott!");
 define("TPVLAN_78", "Követelmények");
 define("TPVLAN_79", "cURL szükséges a funkció használatához. Forduljon a webhosting szolgáltatójához, hogy engedélyezze a cURL használatát.");
 define("TPVLAN_80", "Nem találhatóak témák, amelyek megfelelnek a keresési feltételeknek.");
@@ -96,6 +96,7 @@ define("TPVLAN_85","Kapcsolódás...");
 define("TPVLAN_86","Az oldal sablont nem lehet megváltoztatni!");
 define("TPVLAN_87","Sablon Beállítások Beolvasása");
 define("TPVLAN_88","Konvertálás");
+define("TPVLAN_89","Nem lehet csatlakozni! Kérjük, ellenőrizze a tűzfal és/vagy internet kapcsolatát.");
 
 define("TPVLAN_CONV_1", "1 lépés");
 define("TPVLAN_CONV_2", "2 lépés");

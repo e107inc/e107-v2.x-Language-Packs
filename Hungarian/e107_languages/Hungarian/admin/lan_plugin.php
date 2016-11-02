@@ -254,7 +254,7 @@ define ('EPL_ADLAN_240',"Törölt tábla:");
 define ('EPL_ADLAN_241',"Hozzáadott előbeállítás:"); 
 define ('EPL_ADLAN_242',"Törölt előbellítás:");
 define ('EPL_ADLAN_243',"Frissített előbeállítás:");
-define ('EPL_ADLAN_244',"A telepítés során csak 3 Média kategória engedélyezett. Egy a képeknek és egy a fájloknak.");
+define ('EPL_ADLAN_244',"A telepítés során csak 5 Média kategória engedélyezett.");
 
 define ('EPL_ADLAN_245',"A [x] média kategória hozzáadva!");  //2304
 define ('EPL_ADLAN_246',"Az összes [x] média kategória törölve!"); //2316
