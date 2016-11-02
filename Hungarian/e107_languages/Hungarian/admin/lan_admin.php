@@ -308,7 +308,7 @@ define("LAN_LATEST_COMMENTS", "Új hozzászólások");
 define("LAN_PERSONALIZE", "Személyreszabás");
 define("LAN_SELECT_COLUMNS_TO_DISPLAY", "Oszlopok kiválasztása");
 define("LAN_DISPLAY_COLUMNS", "Megjelenő Oszlopok");
-define("LAN_SETTINGS_NOT_SAVED_NO_CHANGES_MADE", "A beállítás nincs mentve, mivel nem történt változás.");
+define("LAN_SETTINGS_NOT_SAVED_NO_CHANGES_MADE", "A beállítás nincs mentve, mivel nem történt változás!");
 define("LAN_AFTER_SUBMIT", "Küldés után:");
 define("LAN_UNAVAILABLE", "Nem elérhető");
 define("LAN_READY_UP_FOLDER_FIELDS", "Felhasználásra kész feltöltési űrlap mezők, választható - fájl lista nézet");
