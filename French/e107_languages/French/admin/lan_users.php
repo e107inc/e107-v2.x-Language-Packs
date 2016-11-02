@@ -1,26 +1,32 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system French Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/01 18:36:22
+|
+|        $Author: Olivier Troccaz $
++---------------------------------------------------------------+
+*/
 
 define("USRLAN_1", "Options enregistrées.");
 define("USRLAN_3", "a maintenant le statut d'administrateur - pour définir des autorisations veuillez aller à la");
 define("USRLAN_4", "Page administrateur");
 define("USRLAN_5", "Vous ne pouvez pas enlever le statut d'administrateur à l'administrateur principal du site");
 define("USRLAN_6", "a perdu le statut d'administrateur");
-define("USRLAN_7", "Vous ne pouvez bannir l'administrateur principal du site");
-define("USRLAN_8", "Utilisateur banni.");
-define("USRLAN_9", "Utilisateur débanni.");
+define("USRLAN_7", "Vous ne pouvez exclure l'administrateur principal du site");
+define("USRLAN_8", "Utilisateur exclu.");
+define("USRLAN_9", "Arrêt de l'exclusion de l'utilisateur.");
 define("USRLAN_10", "Utilisateur supprimé.");
 define("USRLAN_11", "Suppression annulée.");
 define("USRLAN_12", "Vous ne pouvez pas supprimer l'administrateur principal du site.");
 define("USRLAN_13", "Veuillez confirmer que vous souhaitez supprimer ce membre");
 define("USRLAN_16", "Confirmer la suppression");
 define("USRLAN_17", "Confirmer la suppression de l'utilisateur");
-define("USRLAN_30", "Bannissement");
+define("USRLAN_30", "Exclusion");
 define("USRLAN_32", "Activer");
-define("USRLAN_33", "Débannir");
+define("USRLAN_33", "Ne plus exclure");
 define("USRLAN_34", "Supprimer le statut d'administrateur");
 define("USRLAN_35", "Rendre administrateur");
 define("USRLAN_36", "Définir le groupe");
@@ -84,20 +90,20 @@ define("USRLAN_131", "Vous devez activer cette option pour utiliser les options 
 define("USRLAN_132", "Activer");
 define("USRLAN_133", "Obliger les utilisateurs à mettre à jour leurs paramètres");
 define("USRLAN_134", "Activer cette option permet de rediriger automatiquement un membre vers ses paramètres utilisateur si un champ requis n'est pas rempli");
-define("USRLAN_135", "Aucune adresse IP trouvée dans les informations de l'utilisateur; IP non bannie");
-define("USRLAN_136", "Plusieurs utilisateurs trouvés avec l'adresse IP {IP}; IP non bannie.");
-define("USRLAN_137", "Les utilisateurs avec l'adresse IP {IP} ont été bannis.");
+define("USRLAN_135", "Aucune adresse IP trouvée dans les informations de l'utilisateur; IP non exclue");
+define("USRLAN_136", "Plusieurs utilisateurs trouvés avec l'adresse IP {IP}; IP non exclue.");
+define("USRLAN_137", "Les utilisateurs avec l'adresse IP {IP} ont été exclus.");
 define("USRLAN_138", "Utilisateurs non vérifiés");
 define("USRLAN_139", "Votre compte a été activé. Vous pouvez visiter {SITEURL} et vous connecter au site en utilisant les informations de connexion que vous avez fournies.");
-define("USRLAN_140", "Email d'activation renvoyé à");
-define("USRLAN_141", "Echec de renvoi de l'email d'activation à");
+define("USRLAN_140", "Email d'activation renvoyé à&nbsp;");
+define("USRLAN_141", "Échec de renvoi de l'email d'activation à&nbsp;");
 define("USRLAN_142", "avec le lien d'activation suivant");
 define("USRLAN_143", "Rechercher les emails non délivrés");
 define("USRLAN_144", "Renvoyer l'email de confirmation à tous");
 define("USRLAN_145", "Utilisateurs avec email en erreur");
-define("USRLAN_146", "Informations de membre sont disponibles à");
-define("USRLAN_147", "L'adresse email est déjà utilisé par un utilisateur banni");
-define("USRLAN_148", "L'adresse email est bannie");
+define("USRLAN_146", "Informations de membre sont disponibles à&nbsp;");
+define("USRLAN_147", "L'adresse email est déjà utilisé par un utilisateur exclu");
+define("USRLAN_148", "L'adresse email est exclue");
 define("USRLAN_149", "Supprimer les emails cochés");
 define("USRLAN_150", "Supprimer tous les emails");
 define("USRLAN_151", "Supprimer les emails non délivrés, nécessite l'activation");
@@ -107,8 +113,8 @@ define("USRLAN_154", "Effacer l'email pour vérifier");
 define("USRLAN_155", "Total de {TOTAL} emails trouvés. {DELCOUNT} supprimés via les options.<br/>{DELUSER} emails utilisateurs marqués comme 'non délivrables' (parmi {FOUND} emails)");
 define("USRLAN_156", "L'adresse email est déjà utilisée");
 define("USRLAN_160", "Total de --COUNT-- utilisateurs de type --TYPE-- réduits");
-define("USRLAN_161", "Utilisateur ID --UID-- nom --NAME-- banni");
-define("USRLAN_162", "Utilisateur ID --UID-- nom --NAME-- débanni");
+define("USRLAN_161", "Utilisateur ID --UID-- nom --NAME-- exclu");
+define("USRLAN_162", "Utilisateur ID --UID-- nom --NAME-- plus exclu");
 define("USRLAN_163", "Utilisateur ID --UID-- supprimé");
 define("USRLAN_164", "Utilisateur ID --UID-- nom --NAME-- (--EMAIL--) déclaré administrateur");
 define("USRLAN_165", "Statut d'administrateur supprimé pour l'utilisateur ID --UID-- nom --NAME--");
@@ -120,8 +126,8 @@ define("USRLAN_170", "Nom d'utilisateur aléatoire");
 define("USRLAN_171", "Mot de passe aléatoire");
 define("USRLAN_172", "Le compte utilisateur a été créé avec le texte suivant :");
 define("USRLAN_175", "");
-define("USRLAN_179", "Utilisateur banni :");
-define("USRLAN_180", "L'adresse IP {IP} apparaît sur liste blanche; IP non bannie.");
+define("USRLAN_179", "Utilisateur exclu :");
+define("USRLAN_180", "L'adresse IP {IP} apparaît sur liste blanche; IP non exclue.");
 define("USRLAN_181", "Choisissez l'option pour le statut de l'utilisateur et l'envoi de l'email de confirmation à l'utilisateur");
 define("USRLAN_182", "Caractères non valides dans le nom de connexion");
 define("USRLAN_183", "Nom de connexion déjà utilisé");
@@ -157,7 +163,7 @@ define("USRLAN_216", "--sélectionnez une image--");
 define("USRLAN_219", "Plus de 30 jours");
 define("LAN_MAINADMIN", "Administrateur principal");
 define("LAN_NOTVERIFIED", "Non vérifié");
-define("LAN_BANNED", "Banni");
+define("LAN_BANNED", "Exclu");
 define("LAN_BOUNCED", "En erreur");
 define("USRLAN_220", "Tous les groupes utilisateurs");
 define("USRLAN_221", "Editer les permissions administrateur");
@@ -185,15 +191,15 @@ define("USRLAN_242", "Nécessite une activation, notifier (mot de passe et lien 
 define("USRLAN_243", "Définir les autorisations");
 define("USRLAN_244", "Atteinte à la sécurité (permissions insuffisantes) - L'administrateur --ADMIN_UID-- (--ADMIN_NAME--, --ADMIN_EMAIL--) a tenté de supprimer le statut d'administrateur de --UID-- (--NAME--, --EMAIL--)");
 define("USRLAN_245", "Atteinte à la sécurité (permissions insuffisantes) - L'administrateur --ADMIN_UID --(--ADMIN_NAME--, --ADMIN_EMAIL--) a tenté de déclarer --UID-- (--NAME--, --EMAIL--) administrateur du système");
-define("USRLAN_246", "Nous");
+define("USRLAN_246", "Non nécessaire");
 define("USRLAN_247", "Nous");
 define("USRLAN_248", "Nous");
 define("USRLAN_249", "Nous");
 define("USRLAN_250", "Nous");
-define("UCSLAN_1", "Envoiyer les emails de notification à");
+define("UCSLAN_1", "Envoyer les mails de notification à&nbsp;");
 define("UCSLAN_2", "Mise à jour des privilèges");
 define("UCSLAN_3", "Cher/chère");
-define("UCSLAN_4", "Vos privilèges ont été mis à jour à");
+define("UCSLAN_4", "Vos privilèges ont été mis à jour à&nbsp;");
 define("UCSLAN_5", "Vous avez maintenant accès à l'(aux) espace(s) suivant(s)");
 define("UCSLAN_6", "Définir le groupe pour l'utilisateur");
 define("UCSLAN_7", "Définir les groupes");
@@ -205,9 +211,12 @@ define("UCSLAN_12", "Privilèges de membre seulement");
 define("USFLAN_1", "Impossible de trouver de l'adresse IP de l'expéditeur - aucune information n'est disponible.");
 define("USFLAN_3", "Messages publiés depuis l'adresse IP");
 define("USFLAN_4", "Hôte");
-define("USFLAN_5", "Cliquez ici pour transférer l'adresse IP à la page d'administration des bannissements");
+define("USFLAN_5", "Cliquez ici pour transférer l'adresse IP à la page d'administration des exclusions");
 define("USFLAN_6", "ID de l'utilisateur");
 define("USFLAN_7", "Informations utilisateur");
 define("USRLAN_AS_1", "Connectez-vous en tant que [x]");
 define("USRLAN_AS_2", "Déconnexion du compte [x]");
 define("USRLAN_AS_3", "Vous êtes déjà connecté avec un autre compte d'utilisateur. Veuillez d'abord vous déconnecter.");
+
+
+?>

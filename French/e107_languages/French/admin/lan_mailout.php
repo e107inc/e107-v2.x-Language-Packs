@@ -1,9 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system French Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/01 18:34:05
+|
+|        $Author: Olivier Troccaz $
++---------------------------------------------------------------+
+*/
 define("CORE_DATE_ORDER", "dmy");
 define("LAN_MAILOUT_01", "Nom de l'expéditeur");
 define("LAN_MAILOUT_02", "Email de l'expéditeur");
@@ -50,13 +55,13 @@ define("LAN_MAILOUT_44", "Connexion utilisateur");
 define("LAN_MAILOUT_45", "Email utilisateur");
 define("LAN_MAILOUT_46", "Correspondance utilisateur");
 define("LAN_MAILOUT_47", "contient");
-define("LAN_MAILOUT_48", "est égal à");
+define("LAN_MAILOUT_48", "est égal à�");
 define("LAN_MAILOUT_51", "Objet");
 define("LAN_MAILOUT_52", "Dernière modification");
 define("LAN_MAILOUT_53", "Administrateurs");
 define("LAN_MAILOUT_54", "Automatiquement");
 define("LAN_MAILOUT_55", "Groupe d'utilisateur");
-define("LAN_MAILOUT_56", "Dernière visite le (jj-mm-aa)");
+define("LAN_MAILOUT_56", "Dernière visite (jj-mm-aa)");
 define("LAN_MAILOUT_57", "Envoyer des emails SMTP en masse par blocs");
 define("LAN_MAILOUT_67", "L'email n'a pas pu être envoyé. Veuillez vérifier vos paramètres SMTP, ou choisir un autre mode d'envoi et réessayez.");
 define("LAN_MAILOUT_68", "Utilisateurs enregistrés");
@@ -97,12 +102,12 @@ define("LAN_MAILOUT_103", "Résultats des tentatives d'envoi");
 define("LAN_MAILOUT_104", "Aucune tentative d'envoi, ou une erreur de sauvegarde du résultat");
 define("LAN_MAILOUT_105", "Détails jusqu'à 10 échecs");
 define("LAN_MAILOUT_106", "L'email n'a pas pu être envoyé. Il semble que votre serveur ne soit pas correctement configuré pour envoyer des emails, veuillez essayer de nouveau à l'aide de SMTP, ou contactez votre hébergeur et demandez-lui de vérifier leurs paramètres de serveur d'envoi de mails.");
-define("LAN_MAILOUT_107", "à");
+define("LAN_MAILOUT_107", "à :");
 define("LAN_MAILOUT_108", "Résultat");
 define("LAN_MAILOUT_109", "Afficher le détail");
 define("LAN_MAILOUT_110", "Envoyer un email test");
 define("LAN_MAILOUT_111", "Titre de l'email (non envoyé)");
-define("LAN_MAILOUT_112", "Envoyer un email test à");
+define("LAN_MAILOUT_112", "Envoyer un email test à�");
 define("LAN_MAILOUT_113", "Email test de la part de");
 define("LAN_MAILOUT_114", "Il s'agit d'un email test, il ressort que vos paramètres de messagerie sont bien réglés ! [br] [br] Cordialement, [br] de la part du système de site web d'e107.");
 define("LAN_MAILOUT_115", "Méthode de diffusion");
@@ -140,8 +145,8 @@ define("LAN_MAILOUT_147", "Email mis à jour");
 define("LAN_MAILOUT_148", "Valeurs utilisateur");
 define("LAN_MAILOUT_149", "Email de l'expéditeur");
 define("LAN_MAILOUT_150", "Nom de l'expéditeur");
-define("LAN_MAILOUT_151", "Copier à");
-define("LAN_MAILOUT_152", "Copie cachée à");
+define("LAN_MAILOUT_151", "Copier à�");
+define("LAN_MAILOUT_152", "Copie cachée à�");
 define("LAN_MAILOUT_153", "Pièce jointe");
 define("LAN_MAILOUT_154", "Format d'envoi");
 define("LAN_MAILOUT_155", "Sélecteurs");
@@ -165,7 +170,7 @@ define("LAN_MAILOUT_172", "Type/statut de l'email");
 define("LAN_MAILOUT_173", "Destinataires");
 define("LAN_MAILOUT_174", "Vérification de sécurité échouée : --ID-- --CHECK--");
 define("LAN_MAILOUT_175", "Avant");
-define("LAN_MAILOUT_176", "Équivalent à");
+define("LAN_MAILOUT_176", "Équivalent à�");
 define("LAN_MAILOUT_177", "Après");
 define("LAN_MAILOUT_178", "Dernière visite sur le site");
 define("LAN_MAILOUT_179", "Confirmer l'envoi d'email");
@@ -244,9 +249,10 @@ define("LAN_MAILOUT_254", "Voir le modèle d'email");
 define("LAN_MAILOUT_255", "Modèle d'email, ID :");
 define("LAN_MAILOUT_256", "Retour");
 define("LAN_MAILOUT_257", "Modèle généré");
-define("LAN_MAILOUT_259", "");
 define("LAN_SEND", "Envoyer");
 define("LAN_HOLD", "Mettre en attente");
 define("LAN_MAILOUT_260", "Type d'utilisateur");
-define("LAN_BASIC", "Basique");
-define("LAN_ADVANCED", "Avancé");
+define("LAN_MAILOUT_261", "Port SMTP");
+
+
+?>

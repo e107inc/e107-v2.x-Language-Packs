@@ -1,9 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system French Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/01/20 18:15:53
+|
+|        $Author: Olivier Troccaz $
++---------------------------------------------------------------+
+*/
 define("PRFLAN_1", "Informations du site");
 define("PRFLAN_2", "Nom du site");
 define("PRFLAN_3", "URL du site");
@@ -33,7 +38,7 @@ define("PRFLAN_32", "Autoriser la publication anonyme ?");
 define("PRFLAN_33", "Désactiver ceci afin de n'autoriser que les membres inscrits à poster des commentaires, etc.");
 define("PRFLAN_35", "Activez la protection anti-flood ?");
 define("PRFLAN_36", "Délai minimum entre 2 envois consécutifs");
-define("PRFLAN_37", "Bannir automatiquement");
+define("PRFLAN_37", "Exclure automatiquement");
 define("PRFLAN_38", "Délai requis en secondes entre 2 envois pour les zones où les utilisateurs peuvent publier (chat, forums...). Si un utilisateur publie trop rapidement, il sera redirigé vers la page d'accueil");
 define("PRFLAN_40", "Filtrer les jurons ?");
 define("PRFLAN_41", "Si coché, tous les mots listés seront remplacés par la chaîne ci-dessous");
@@ -77,7 +82,7 @@ define("CUSTSIG_19", "les noms d'utilisateur contenant les termes suivants seron
 define("CUSTSIG_20", "Titre d'utilisateur personnalisé");
 define("CUSTSIG_21", "Email de confirmation");
 define("CUSTSIG_22", "Option pour masquer l'email");
-define("PRFLAN_91", "Si quelqu'un attaque votre site par de multiples requêtes sur votre serveur, son IP sera automatiquement bannie ! Il est toutefois préférable d’utiliser une configuration serveur si possible !!!");
+define("PRFLAN_91", "Si quelqu'un attaque votre site par de multiples requêtes sur votre serveur, son IP sera automatiquement exclue ! Il est toutefois préférable d’utiliser une configuration serveur si possible !!!");
 define("PRFLAN_92", "Sécuriser la vérification de l'inscription -- masquer le mot de passe dans l'email ?");
 define("PRFLAN_93", "Description de la fonction strftime sur php.net");
 define("PRFLAN_94", "ici");
@@ -206,8 +211,8 @@ define("PRFLAN_227", "Utilisé par certains thèmes. Placer 'SITETAG' dans votre
 define("PRFLAN_228", "Utilisé par certains thèmes. Placer 'SITEDESCRIPTION' dans votre thème pour utiliser cette valeur.");
 define("PRFLAN_229", "Utilisé par certains thèmes. Placer 'SITEDISCLAIMER' dans votre thème pour utiliser cette valeur.");
 define("PRFLAN_230", "Format de date/heure pour le champ de saisie");
-define("PRFLAN_231", "Nombre maximum d'échecs de connexion avant le bannissement :");
-define("PRFLAN_232", "Les échecs de connexion à partir de la même adresse IP seront bannis après autant de tentatives.");
+define("PRFLAN_231", "Nombre maximum d'échecs de connexion avant l'exclusion :");
+define("PRFLAN_232", "Les échecs de connexion à partir de la même adresse IP seront exclus après autant de tentatives.");
 define("PRFLAN_233", "Modérer les commentaires effectués par :");
 define("PRFLAN_234", "Les commentaires nécessiteront l'approbation manuelle par un administrateur avant d'être visibles par les autres utilisateurs");
 define("PRFLAN_235", "Tri des commentaires :");
@@ -233,3 +238,20 @@ define("PRFLAN_254", "Email & coordonnées");
 define("PRFLAN_255", "Téléchargement de fichier");
 define("PRFLAN_256", "Options avancées");
 define("PRFLAN_257", "Cadre JavaScript");
+define("PRFLAN_258", "Visibilité du formulaire de contact");
+define("PRFLAN_259", "Inscription & connexion");
+define("PRFLAN_260", "Connexion seulement");
+define("PRFLAN_261", "Options du champ");
+define("PRFLAN_262", "Mot de passe dans le mail de confirmation");
+define("PRFLAN_263", "Doit être unique à ce site web");
+define("PRFLAN_264", "La page d'accueil est la page de connexion (login.php)");
+define("PRFLAN_265", "La page d'accueil est la page réservée aux membres (membersonly.php)");
+define("PRFLAN_266", "Après déconnexion, vers quelle page l'utilisateur doit-il être redirigé ?");
+define("PRFLAN_267", "Méthode d'envoi de mail");
+define("PRFLAN_268", "Édition en ligne en frontend");
+define("PRFLAN_269", "Les administrateurs rattachés à ce groupe (avec les droits administrateurs appropriés) auront la possibilité d'éditer le html directement via la zone de frontend.");
+define("PRFLAN_270", "Filtrage du formulaire de contact");
+define("PRFLAN_271", "Ignorer les soumissions de formulaire contenant ces mots ou phrases. Un par ligne.");
+
+
+?>

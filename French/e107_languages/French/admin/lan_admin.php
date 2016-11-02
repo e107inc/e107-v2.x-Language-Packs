@@ -1,9 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system French Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/01/20 18:02:51
+|
+|        $Author: Olivier Troccaz $
++---------------------------------------------------------------+
+*/
 define("ADLAN_0", "Articles");
 define("ADLAN_1", "Gérer les articles");
 define("ADLAN_2", "Créer une article");
@@ -23,8 +28,8 @@ define("ADLAN_28", "Message de bienvenue");
 define("ADLAN_29", "Configurer les messages de bienvenue");
 define("ADLAN_30", "Gestionnaire de fichiers");
 define("ADLAN_31", "Gérer/uploader des fichiers");
-define("ADLAN_34", "Liste des bannis");
-define("ADLAN_35", "Bannir un visiteur");
+define("ADLAN_34", "Liste des exclusions");
+define("ADLAN_35", "Exclure un visiteur");
 define("ADLAN_36", "Membres");
 define("ADLAN_37", "Gérer les membres du site");
 define("ADLAN_38", "Groupes");
@@ -72,7 +77,7 @@ define("ADLAN_105", "Images");
 define("ADLAN_106", "Paramètres des images");
 define("ADLAN_110", "Membres inscrits");
 define("ADLAN_111", "Membres non activés");
-define("ADLAN_112", "Internautes bannis");
+define("ADLAN_112", "Internautes exclus");
 define("ADLAN_116", "Log d'administration…");
 define("ADLAN_117", "Voir toutes les entrées");
 define("ADLAN_118", "Effacer les entrées");
@@ -136,6 +141,7 @@ define("LAN_SAVED", "Enregistré");
 define("LAN_SETSAVED", "Vos paramètres ont été enregistrés");
 define("LAN_NOCHANGE_NOTSAVED", "Aucune modification - rien à enregistrer");
 define("LAN_CONFIRMDEL", "Veuillez confirmer que vous souhaitez supprimer");
+define("LAN_ERRORS", "Erreurs");
 define("LAN_OPTIONS", "Options");
 define("LAN_PREFS", "Préférences");
 define("LAN_DELETED", "Supprimé avec succès");
@@ -145,7 +151,6 @@ define("LAN_CREATED_FAILED", "Échec de création");
 define("LAN_DELETED_FAILED", "Échec de suppression");
 define("LAN_UPDATED_FAILED", "Échec de mise à jour");
 define("LAN_NO_CHANGE", "Mise à jour non effectuée car aucune modification.");
-define("LAN_REQUIRED_BLANK", "Veuillez renseigner le(s) champ(s) laissé(s) blanc(s).");
 define("LAN_TRY_AGAIN", "Veuillez essayer de nouveau.");
 define("LAN_NEVER", "Jamais");
 define("LAN_PRUNE", "Supprimer");
@@ -154,23 +159,43 @@ define("LAN_CLEAR", "Effacer");
 define("LAN_ALL", "Tous les");
 define("LAN_IMPORT", "Importer");
 define("LAN_NOTWRITABLE", "n'est pas accessible en écriture. Vous devez d'abord modifier les droits du dossier ou du fichier afin de le rendre accessible en écriture (souvent 777).");
+define("LAN_NOTREADABLE", "Pas accessible en lecteur");
+define("LAN_MISSING", "Manquant");
+define("LAN_UNUSED", "Inutilisé");
 define("LAN_TIME", "Temps");
 define("LAN_EMPTY", "Il n'y a pas d'entrée dans la base de données pour l'instant");
 define("LAN_EXISTING", "Entrées existantes");
 define("LAN_CONFDELETE", "Confirmer la suppression");
-define("LAN_PLUGIN", "Extension");
+define("LAN_PLUGIN", "Extensions");
+define("LAN_THEMES", "Thèmes");
+define("LAN_THEME", "Thème");
+define("LAN_LATEST_e107_NEWS", "Dernières actualités e107");
+define("LAN_WEBSITE_STATUS", "Statut du site web");
+define("LAN_STATS", "Statistiques");
+define("LAN_ONLINE", "En ligne");
 define("LAN_ORDER", "Ordonnance");
 define("LAN_SELECT", "Sélectionnez ...");
 define("LAN_ADMIN", "Administrateur");
+define("LAN_ROOT", "Racine");
+define("LAN_LINE", "Ligne");
+define("LAN_SHORTCODES", "Shortcodes");
 define("LAN_DISPLAYOPT", "Modifier les options d'affichage");
 define("LAN_DATESTAMP", "Date de publication");
+define("LAN_TIMESTAMP", "Timestamp Unix");
+define("LAN_IP", "IP");
+define("LAN_PAGE", "PAGE");
+define("LAN_AGENT", "AGENT");
+define("LAN_LANG", "Langue");
+define("LAN_APPROVE", "Approuve");
 define("LAN_OPTIONAL", "en option");
 define("LAN_INACTIVE", "Inactifs");
 define("LAN_ACTIVE", "Actif");
 define("LAN_ACCEPT", "Accepter");
 define("LAN_PENDING", "En attente");
 define("LAN_SUBMITTED", "Soumis");
-define("LAN_BAN", "Bannir");
+define("LAN_POSTED_BY_X", "Envoyé par [x] [y]");
+define("LAN_VIEW_ALL", "Voir tout");
+define("LAN_BAN", "Exclure");
 define("LAN_UPLOAD", "Télécharger");
 define("LAN_UPLOADS", "Téléchargements");
 define("LAN_UPLOAD_IMAGES", "Télécharger des images");
@@ -204,6 +229,8 @@ define("LAN_FILTER", "Filtre");
 define("LAN_STATUS", "Statut");
 define("LAN_URL", "URL");
 define("LAN_OWNER", "Propriétaire");
+define("LAN_PURCHASE", "Achat");
+define("LAN_DOWN_THEME", "Téléchargement");
 define("LAN_ID", "ID");
 define("LAN_VISIBILITY", "Visibilité");
 define("LAN_ICON", "Icône");
@@ -213,6 +240,7 @@ define("LAN_SEFURL", "SEF URL");
 define("LAN_COPY", "Copier");
 define("LAN_KEYWORDS", "Mots-clés");
 define("LAN_TEMPLATE", "Modèle");
+define("LAN_TEMPLATES", "Modèles");
 define("LAN_CATEGORIES", "Catégories");
 define("LAN_DEMO_FORBIDDEN", "Les modifications sur cette page ne sont pas possibles en mode démo.");
 define("LAN_COPYRIGHT", "Droit d'auteur");
@@ -258,6 +286,29 @@ define("LAN_UI_TOTAL_RECORDS", "Total des enregistrements: [x]");
 define("LAN_USER_MANAGEALL", "Gérer tous les utilisateurs, groupe d'utilisateurs et les champs étendus des utilisateurs");
 define("LAN_USER_LIST", "Liste des utilisateurs");
 define("LAN_USER_QUICKADD", "Ajout rapide d'utilisateur");
+define("LAN_USER_NOT_FOUND", "Utilisateur non trouvé.");
 define("LAN_USER_PRUNE", "Suppression d'utilisateurs");
 define("LAN_USER_OPTIONS", "Options d'utilisateur");
 define("LAN_USER_RANKS", "Rangs de l'utilisateur");
+define("LAN_CONTROL_PANEL", "Panneau de configuration de [x]");
+define("LAN_CUSTOM_URL", "URL personnalisée");
+define("LAN_CUSTOM_URL_DISABLED", "Désactivé ou renseigner une URL personnalisée");
+define("LAN_GENERAL", "Général");
+define("LAN_GEN_PW", "Générer un mot de passe");
+define("LAN_DISPL_PW", "Afficher le mot de passe");
+define("LAN_WILL_OVERWRITE_SEF", "Ceci va remplacer votre URL SEF existante");
+define("LAN_CAPTION", "Légende");
+define("LAN_LIMIT", "Limite");
+define("LAN_BASIC", "Basique");
+define("LAN_ADVANCED", "Avancé");
+define("LAN_FOLDER", "Dossier");
+define("LAN_PERSONALIZE_ICONS", "Personnaliser les icônes");
+define("LAN_PERSONALIZE_MENUS", "Personnaliser les menus");
+define("LAN_LATEST_COMMENTS", "Derniers commentaires");
+define("LAN_PERSONALIZE", "Personnaliser");
+define("LAN_SELECT_COLUMNS_TO_DISPLAY", "Choisissez les colonnes à afficher");
+define("LAN_DISPLAY_COLUMNS", "Afficher les colonnes");
+define("LAN_SETTINGS_NOT_SAVED_AS_NO_CHANGES_WERE_MADE", "Paramètres non sauvegardés car aucune modification n'a été effectuée");
+
+
+?>

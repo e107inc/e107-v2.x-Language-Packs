@@ -1,37 +1,44 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-
-
-
-
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system French Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/10/19 13:23:22
+|
+|        $Author: Olivier Troccaz $
++---------------------------------------------------------------+
+*/
 
 define("FC_LAN_1", "Inspecteur de fichier");
-define("FC_LAN_2", "Options d'analyse");
-define("FC_LAN_3", "Afficher");
-define("FC_LAN_4", "Tous les");
 define("FC_LAN_5", "Fichiers du noyau");
 define("FC_LAN_6", "Problème d'intégrité uniquement");
 define("FC_LAN_7", "Fichiers hors noyau");
 define("FC_LAN_8", "Vérifiez l'intégrité des fichiers du noyau");
-define("FC_LAN_9", "Marche");
-define("FC_LAN_10", "Arrêt");
 define("FC_LAN_11", "Scannez maintenant");
-define("FC_LAN_12", "Aucun");
 define("FC_LAN_13", "Fichiers du noyau manquants");
 define("FC_LAN_14", "Affichage des résultats comme");
 define("FC_LAN_15", "Arborescence de répertoires");
-define("FC_LAN_16", "Liste");
 define("FC_LAN_17", "Correspondance de chaîne");
 define("FC_LAN_18", "Expression régulière");
 define("FC_LAN_19", "Afficher les numéros de ligne");
 define("FC_LAN_20", "Afficher les lignes correspondants");
 define("FC_LAN_21", "Anciens fichiers du noyau");
-define("FC_LAN_22", "Mettez en surbrillance le texte correspondant");
+define("FC_LAN_23", "Exclure les fichiers de langue");
+define("FC_LAN_24", "Dossier du noyau (Intégrité validée)");
+define("FC_LAN_25", "Dossier du noyau (Échec d'intégrité)");
+define("FC_LAN_26", "Dossier du noyau (Manquant)");
+define("FC_LAN_27", "Dossier du noyau (Ancien)");
+define("FC_LAN_28", "Dossier étranger au noyau");
+define("FC_LAN_29", "Fichier du noyau (Intégrité validée)");
+define("FC_LAN_30", "Fichier du noyau (non testé)");
+define("FC_LAN_31", "Fichier du noyau (Échec d'intégrité)");
+define("FC_LAN_32", "Fichier du noyau (manquant)");
+define("FC_LAN_33", "Fichier du noyau (ancien)");
+define("FC_LAN_34", "Fichier du noyau (Incalculable)");
+define("FC_LAN_35", "Faille de sécurité connue");
+define("FC_LAN_36", "Fichier étranger au noyau");
+define("FC_LAN_37", "Clé de fichier");
 define("FR_LAN_1", "Analyse en cours");
 define("FR_LAN_2", "Résultats d'analyse");
 define("FR_LAN_3", "Vue d'ensemble");
@@ -60,9 +67,7 @@ define("FR_LAN_25", "Intégrité non calculable");
 define("FR_LAN_26", "Avertissement ! Problème de sécurité connus détectés !");
 define("FR_LAN_27", "Il y a des fichiers sur votre serveur qui sont connus pour être dangereux et doivent être enlevés immédiatement.");
 define("FR_LAN_28", "Fichiers dangereux connus");
-define("FR_LAN_29", "Total des fichiers correspondant");
-define("FR_LAN_30", "Total des lignes correspondant");
-define("FR_LAN_31", "Dossier des extensions complet manquant");
+define("FR_LAN_32", "Vous devez d'abord effectuer un scan !");
 define("FS_LAN_1", "Créer une image instantanée");
 define("FS_LAN_2", "Chemin absolu vers le dossier racine de l'image à créer");
 define("FS_LAN_3", "Créer une image instantanée pour l'extension: (votre extension est listée lorsqu'un ficher e_inspect.php accessible en écriture est disponible dans le dossier racine de l'extension.)");
@@ -75,3 +80,6 @@ define("FS_LAN_9", "Image instantanée");
 define("FS_LAN_10", "Image instantanée créée");
 define("FS_LAN_11", "L'image instantanée a été créée avec succès.");
 define("FS_LAN_12", "Retour à la page principale");
+
+
+?>

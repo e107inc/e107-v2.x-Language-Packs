@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system French Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/01 18:34:36
+|
+|        $Author: Olivier Troccaz $
++---------------------------------------------------------------+
+*/
 
 define("SEALAN_1", "Configuration de la recherche");
 define("SEALAN_3", "Méthode de tri des recherches:");
@@ -21,7 +27,7 @@ define("SEALAN_23", "Alternative");
 define("SEALAN_25", "Groupe utilisateur");
 define("SEALAN_26", "Texte de pré-titre");
 define("SEALAN_30", "Souligner les mots-clés dans les pages retournées :");
-define("SEALAN_31", "PHP limité à");
+define("SEALAN_31", "PHP limité à&nbsp;");
 define("SEALAN_32", "résultats (laissez vide pour aucune limite)");
 define("SEALAN_35", "Méthode de sélection des zones de recherche :");
 define("SEALAN_36", "Liste déroulante");
@@ -37,3 +43,6 @@ define("SEALAN_46", "Nombre de caractères dans le résumé des résultats de re
 define("SEALAN_47", "Ne retourner que les mots entiers :");
 define("SEALAN_48", "Ce paramètre s'applique uniquement lorsque la méthode de tri de recherche est PHP. Si votre site inclut des langues idéographiques comme le chinois et le japonais, vous devez désactiver ceci.");
 define("SEALAN_49", "Si votre site inclut des langues idéographiques, comme le chinois et le japonais, vous devez utiliser la méthode de tri PHP.");
+
+
+?>
