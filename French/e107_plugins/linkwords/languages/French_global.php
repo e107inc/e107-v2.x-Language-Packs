@@ -4,5 +4,5 @@
 // Generated for e107 v2.x by the Multi-Language Plugin
 // https://github.com/e107inc/multilan
 
-define("LAN_PLUGIN_LINKWORDS_NAME", "Linkwords");
-define("LAN_PLUGIN_LINKWORDS_DESCRIPTION", "Ce plugin permettra de relier les mots spécifiés avec un lien défini et/ou de l'info-bulle.");
+define("LAN_PLUGIN_LINKWORDS_NAME", "Mots-liens");
+define("LAN_PLUGIN_LINKWORDS_DESCRIPTION", "Cette extension permettra de relier les mots spécifiés avec un lien défini et/ou une info-bulle.");

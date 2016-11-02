@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system French Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/01/20 18:03:22
+|
+|        $Author: Olivier Troccaz $
++---------------------------------------------------------------+
+*/
 
 define("LAN_CRON_M_02", "Actualisation");
 define("LAN_CRON_2", "Fonction");
@@ -15,9 +21,9 @@ define("LAN_CRON_02_1", "File d'attente des mails");
 define("LAN_CRON_02_2", "Exécute la file d'attente des mails.");
 define("LAN_CRON_03_1", "Vérification des mails en rebond");
 define("LAN_CRON_03_2", "Vérifiez les mails en rebond.");
-define("LAN_CRON_04_1", "Vérification du redéclenchement du bannissement");
+define("LAN_CRON_04_1", "Vérification du redéclenchement de l'exclusion");
 define("LAN_CRON_04_2", "Redéclenchements du processus de rebond.");
-define("LAN_CRON_04_3", "Nécessaire uniquement si le redéclenchement des bannissements est activé.");
+define("LAN_CRON_04_3", "Nécessaire uniquement si le redéclenchement des exclusions est activé.");
 define("LAN_CRON_05_1", "Sauvegarde de la base de données");
 define("LAN_CRON_05_2", "Sauvegarder la base de données système vers");
 define("LAN_CRON_6", "Impossible d'importer les préférences");
@@ -37,7 +43,7 @@ define("LAN_CRON_20_3", "Il est recommandé de maintenir le système à jour.");
 define("LAN_CRON_20_4", "Mise à jour de ce dépôt Git");
 define("LAN_CRON_20_5", "Mettre à jour cette installation e107 avec les fichiers les plus récents de Github.");
 define("LAN_CRON_20_6", "Recommandé pour les développeurs uniquement.");
-define("LAN_CRON_20_7", Attention !");
+define("LAN_CRON_20_7", "Attention !");
 define("LAN_CRON_20_8", "Peut entraîner l'instabilité du site !");
 define("LAN_CRON_30", "Toutes les minutes");
 define("LAN_CRON_31", "Toutes les autres minutes");
@@ -59,3 +65,6 @@ define("LAN_CRON_53", "Mois :");
 define("LAN_CRON_54", "Jour(s) de la semaine :");
 define("LAN_CRON_BACKUP", "Sauvegarde");
 define("LAN_CRON_LOGGING", "Enregistrement");
+
+
+?>

@@ -1,9 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system French Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/01 18:31:55
+|
+|        $Author: Olivier Troccaz $
++---------------------------------------------------------------+
+*/
 
 define("RL_LAN_002", "Logs circulaires");
 define("RL_LAN_005", "Configurer les logs circulaires");
@@ -31,7 +36,7 @@ define("RL_LAN_033", "Plus d'informations");
 define("RL_LAN_044", "Évènements à afficher par page");
 define("RL_LAN_045", "Supprimer les événements du journal administration plus vieux que");
 define("RL_LAN_046", "jours");
-define("RL_LAN_047", "Confirmez la suppression des événements du journal administration antérieurs à");
+define("RL_LAN_047", "Confirmez la suppression des évènements du journal administration antérieurs à&nbsp;");
 define("RL_LAN_049", "Supprimer les anciennes entrées");
 define("RL_LAN_050", "Erreur de paramètre - rien n'a été supprimé");
 define("RL_LAN_052", "Journal administration");
@@ -59,7 +64,7 @@ define("RL_LAN_078", "Réinitialisation du mot de passe");
 define("RL_LAN_079", "Modification d'autres paramètres de l'utilisateur");
 define("RL_LAN_080", "Ajout rapide de membre");
 define("RL_LAN_081", "Rebonds de messagerie");
-define("RL_LAN_082", "Utilisateurs bannis");
+define("RL_LAN_082", "Utilisateurs exclus");
 define("RL_LAN_083", "Réinitialisations des rebonds de messagerie");
 define("RL_LAN_084", "Comptes temporaires");
 define("RL_LAN_090", "Télécharger ID");
@@ -69,10 +74,8 @@ define("RL_LAN_093", "(min.)");
 define("RL_LAN_094", "Analyse horaire détaillées");
 define("RL_LAN_096", "Diff (s)");
 define("RL_LAN_098", "Source");
-
 define("RL_LAN_100", "CID");
 define("RL_LAN_101", "PID");
-
 define("RL_LAN_103", "Objet");
 define("RL_LAN_104", "UID");
 define("RL_LAN_106", "Type");
@@ -94,3 +97,6 @@ define("RL_LAN_123", "Piste de vérification des groupes d'utilisateurs");
 define("RL_LAN_124", "Piste de vérification des actions d'utilisateurs");
 define("RL_LAN_125", "Maintenance des logs système");
 define("RL_LAN_126", "Au total, [x] entrées correspondent à la condition de recherche");
+
+
+?>

@@ -4,5 +4,5 @@
 // Generated for e107 v2.x by the Multi-Language Plugin
 // https://github.com/e107inc/multilan
 
-define("LAN_PLUGIN_POLL_NAME", "Poll");
-define("LAN_PLUGIN_POLL_DESCRIPTION", "Le sondage plugin vous permet de définir des sondages dans les deux un menu ou forum post.");
+define("LAN_PLUGIN_POLL_NAME", "Sondage");
+define("LAN_PLUGIN_POLL_DESCRIPTION", "L'extension sondage vous permet de mettre en place des sondages soit dans un menu ou dans un message du forum.");

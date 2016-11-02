@@ -5,4 +5,4 @@
 // https://github.com/e107inc/multilan
 
 define("LAN_PLUGIN_BANNER_NAME", "Bannières");
-define("LAN_PLUGIN_BANNER_DESCRIPTION", "Ajouter des bannières publicitaires sur votre site d'e107");
+define("LAN_PLUGIN_BANNER_DESCRIPTION", "Ajouter des bannières publicitaires à votre site e107");

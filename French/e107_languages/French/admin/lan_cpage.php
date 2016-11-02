@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system French Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/04/20 15:27:24
+|
+|        $Author: Olivier Troccaz $
++---------------------------------------------------------------+
+*/
 
 define("CUSLAN_9", "Texte");
 define("CUSLAN_11", "Meta description");
@@ -39,4 +45,8 @@ define("CUSLAN_74", "Menu mis à jour");
 define("CUSLAN_75", "Menu-id manquant détecté :");
 define("CUSLAN_76", "Menu avec chemin #");
 define("CUSLAN_77", "supprimé");
-define("CUSLAN_78", "Impossible de supprimer le menu avec chemin ");
+define("CUSLAN_78", "Impossible de supprimer le menu avec chemin");
+define("CUSLAN_79", "Vous devez renseigner soit un titre de page soit un nom de menu");
+
+
+?>

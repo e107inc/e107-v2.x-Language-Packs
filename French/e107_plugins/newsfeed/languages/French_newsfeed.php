@@ -7,7 +7,7 @@
 define("NFLAN_29", "Flux RSS disponible");
 define("NFLAN_31", "Retour à la liste de flux RSS");
 define("NFLAN_33", "Date de publication :");
-define("NFLAN_34", "sait ne pas");
-define("NFLAN_38", "Manchettes");
+define("NFLAN_34", "inconnu");
+define("NFLAN_38", "Titres");
 define("NFLAN_39", "Détails");
-define("NFLAN_48", "Impossible d'enregistrer les données brutes de base de données.");
+define("NFLAN_48", "Impossible d'enregistrer les données brutes dans la base de données.");

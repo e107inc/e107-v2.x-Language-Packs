@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system French Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/10/24 10:10:49
+|
+|        $Author: Olivier Troccaz $
++---------------------------------------------------------------+
+*/
 
 define("LAN_CHECK_2", "Vérifier");
 define("LAN_CHECK_3", "Vérification de");
@@ -15,12 +21,11 @@ define("LAN_CHECK_18", "Les fichiers de langue au format standard ne sont pas di
 define("LAN_CHECK_19", "Caractères non-UTF-8 détectés !");
 define("LAN_CHECK_20", "Générer le module linguistique");
 define("LAN_CHECK_21", "Vérifiez à nouveau");
-define("LAN_CHECK_22", "Thème");
 define("LAN_CHECK_23", "Erreurs détectées");
-define("LAN_CHECK_24", "Résumé");
-define("LAN_CHECK_25", "Thèmes");
+define("LAN_CHECK_26", "Noyau");
 define("LAN_CHECK_PAGE_TITLE", "Traductions");
 define("LAN_CHECK_27", "Nombre d'erreurs trouvées dans les modules linguistiques");
+define("LAN_CHECK_28", "Identique");
 define("LANG_LAN_23", "Créer un module linguistique (zip)");
 define("LANG_LAN_30", "Date de sortie");
 define("LANG_LAN_31", "Compatibilité");
@@ -34,3 +39,6 @@ define("LANG_LAN_117", "Vous devriez corriger les erreurs restantes avant de pro
 define("LANG_LAN_119", "Veuillez vérifiez que CORE_LC et CORE_LC2 contiennent bien des valeurs dans [x] et réessayez.");
 define("LANG_LAN_120", "Veuillez vous assurer que vous utilisez bien les noms de dossier par défaut dans e107_config.php (par exemple e107_languages/, e107_plugins/, etc.), puis réessayez.");
 define("LANG_LAN_AGR", "Remarque: en utilisant ces outils, vous acceptez de partager votre(vos) module(s) linguistique(s) avec la communauté d'e107.");
+
+
+?>
