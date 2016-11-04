@@ -10,4 +10,4 @@ define("UDALAN_3", "Beállítások frissítve:");
 define("UDALAN_4", "Név");
 define("UDALAN_6", "Jelszó megerősítése");
 define("UDALAN_7", "Jelszó módosítása");
-define("UDALAN_8", "Jelszó módosítása erre:");
+define("UDALAN_8", "Jelszó módosítása:");

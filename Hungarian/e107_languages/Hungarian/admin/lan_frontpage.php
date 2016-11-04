@@ -4,9 +4,9 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/03/23 14:24:46
+|        Last Modified: 2016/02/22 13:10:41
 |
-|        $Author: Lóna Lore $
+|        $Author: Yesszus $
 +---------------------------------------------------------------+
 */
 

@@ -4,12 +4,11 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/03/23 14:25:50
+|        Last Modified: 2016/02/23 11:48:14
 |
-|        $Author: Lóna Lore $
+|        $Author: Yesszus $
 +---------------------------------------------------------------+
 */
-
 define("LAN_EURL_NAME", "URL kezelő");
 define("LAN_EURL_NAME_CONFIG", "Profilok");
 define("LAN_EURL_NAME_ALIASES", "Álnevek");
@@ -27,10 +26,10 @@ define("LAN_EURL_LOCATION_NONE", "A Config fájl nem elérhető");
 define("LAN_EURL_FORM_HELP_DEFAULT", "Álnév az alapértelmezett nyelv esetén.");
 define("LAN_EURL_FORM_HELP_ALIAS_0", "Alapértelmezett érték");
 define("LAN_EURL_FORM_HELP_ALIAS_1", "Álnév amikor");
-define("LAN_EURL_FORM_HELP_EXAMPLE", "Base URL");
-define("LAN_EURL_ERR_ALIAS_MODULE", "Álnevet '%1\$s' nem lehet elmenteni - már van URL profil ezen a néven. Válassz másik álnevet a redszer URL profilhoz '%2\$s'");
-define("LAN_EURL_SURL_UPD", "&nbsp; SEF URL-ek frissítve lettek.");
-define("LAN_EURL_SURL_NUPD", "&nbsp; SEF URL-ek nem lettek frissítve.");
+define("LAN_EURL_FORM_HELP_EXAMPLE", "Bázis URL");
+define("LAN_EURL_ERR_ALIAS_MODULE", "'%1\$s' álnevet nem lehet elmenteni - már van URL profil ezen a néven. Válassz másik álnevet a '%2\$s' redszer URL profilhoz!");
+define("LAN_EURL_SURL_UPD", "  SEF URL frissítve!");
+define("LAN_EURL_SURL_NUPD", "  SEF URL nem lett frissítve!");
 define("LAN_EURL_SETTINGS_PATHINFO", "Fájlnév törlése az URL-ből");
 define("LAN_EURL_SETTINGS_MAINMODULE", "Root névtér társítása");
 define("LAN_EURL_SETTINGS_MAINMODULE_HELP", "Válaszd ki, melyik oldal terület kapcsolódjon a Base URL-hez. Például: Mikor a News a root névtér akkor a http://yoursite.com/News-Item-Title lesz társítva a hírekhez (a hír oldalán kell megoldani)");
@@ -48,7 +47,7 @@ define("LAN_EURL_SETTINGS_SEFTRTYPE_UNDERSCORE", "Alsóvonással_elválasztva_ne
 define("LAN_EURL_SETTINGS_SEFTRTYPE_PLUSL", "plusszal+elválasztva+kis+betűkkel");
 define("LAN_EURL_SETTINGS_SEFTRTYPE_PLUSC", "Plusszal+Elválasztva+Nagy+Kezdőbetűkkel");
 define("LAN_EURL_SETTINGS_SEFTRTYPE_PLUS", "Plusszal+elválasztva+nem+módosítva+a+betűket");
-define("LAN_EURL_MODREWR_DESCR", "Eltávolítja a fájl nevet (index.php/) az URL-ből. Telepítve kell lennie a mod_rewrite-nak és futnia kell a szerveren (Apache Web Server). Ennek a beállításnak az engedélyezése után lépj a oldal gyökér mappájába, nevezd át a htaccess.txt .htaccess-re és módosítsd <em>RewriteBase</em> irányelveket, ha szükséges.");
+define("LAN_EURL_MODREWR_DESCR", "Eltávolítja a fájl nevet (index.php/) az URL-ből. Telepítve kell lennie a mod_rewrite-nak és futnia kell a szerveren (Apache Web Server). Ennek a beállításnak az engedélyezése után lépj a oldal gyökér mappájába, nevezd át a htaccess.txt .htaccess-re és módosítsd <em>\"RewriteBase\"</em> irányelveket, ha szükséges.");
 define("LAN_EURL_MENU", "URL-ek");
 define("LAN_EURL_MENU_CONFIG", "URL Profilok");
 define("LAN_EURL_MENU_ALIASES", "Álnevek");

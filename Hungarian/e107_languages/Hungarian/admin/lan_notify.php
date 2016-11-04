@@ -6,6 +6,8 @@
 
 define("NT_LAN_1", "Értesítés");
 define("NT_LAN_2", "Email értesítés bekapcsolása");
+define("NT_LAN_3", "Email cím =>");
+define("NT_LAN_4", "Tesztelés");
 
 define("NU_LAN_1", "Esemény");
 define("NU_LAN_2", "Ha valaki regisztrált az oldalra");

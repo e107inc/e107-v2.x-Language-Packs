@@ -76,7 +76,7 @@ define("LAN_AL_BANLIST_12", "Lejárt kitiltások megtisztítva");
 define("LAN_AL_COMMENT_01", "Hozzászólások törölve");
 
 define("LAN_ROLL_LOG_01", "Üres felhasználónév és/vagy jelszó");
-define("LAN_ROLL_LOG_02", "Hibás a beírt kód");
+define("LAN_ROLL_LOG_02", "Hibás beírt kód");
 define("LAN_ROLL_LOG_03", "Hibás felhasználónév/jelszó kombináció");
 define("LAN_ROLL_LOG_04", "Hibás felhasználónév");
 define("LAN_ROLL_LOG_05", "Bejelentkezési kisérlet, pedig még nem teljes a regisztráció");
@@ -213,10 +213,10 @@ define("LAN_AL_EUF_10", "Bővített felhasználó mező kategória törölve");
 define("LAN_AL_EUF_11", "Bővített felhasználó mező aktiválva");
 define("LAN_AL_EUF_12", "Bővített felhasználó mező deaktiválva");
 
-define("LAN_AL_MENU_01", "Menü aktiválva");
+define("LAN_AL_MENU_01", "Menü aktiválás");
 define("LAN_AL_MENU_02", "Menü - megjelenítés beállítás");
-define("LAN_AL_MENU_03", "Menü - változás terület");
-define("LAN_AL_MENU_04", "Menü deaktiválva");
+define("LAN_AL_MENU_03", "Menü - terület változtatás ");
+define("LAN_AL_MENU_04", "Menü deaktiválás");
 define("LAN_AL_MENU_05", "Menü - mozgatás a tetejére");
 define("LAN_AL_MENU_06", "Menü - mozgatás az aljára");
 define("LAN_AL_MENU_07", "Menü - mozgatás fel");
@@ -228,7 +228,7 @@ define("LAN_AL_UPLOAD_02", "Feltöltés beállítások megváltoztatva");
 
 define("LAN_AL_SEARCH_01", "Keresés beállítások frissítve");
 define("LAN_AL_SEARCH_02", "Keresés beállítások frissítve");
-define("LAN_AL_SEARCH_03", "Keresés paraméterek autómatikus frissítése");
+define("LAN_AL_SEARCH_03", "Keresés paraméterek automatikus frissítése");
 define("LAN_AL_SEARCH_04", "Kereshető területek frissítve");
 define("LAN_AL_SEARCH_05", "Keresés kezelő beállítások frissítve");
 define("LAN_AL_SEARCH_06", "");

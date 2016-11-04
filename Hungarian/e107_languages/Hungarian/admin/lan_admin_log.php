@@ -13,7 +13,7 @@ define("RL_LAN_013", "Kezdés dátum/idő");
 define("RL_LAN_014", "Befejezés dátum/idő");
 define("RL_LAN_015", "Felhasználó ID szűrő");
 define("RL_LAN_016", "Üres a nemhez, zéró a vendéghez");
-define("RL_LAN_017", "Nincsennek napló-bejegyzések");
+define("RL_LAN_017", "Nincs napló bejegyzés");
 define("RL_LAN_018", "Naplózás frissítése");
 define("RL_LAN_019", "éé-hh-nn óó:pp:mpmp");
 define("RL_LAN_020", "IP (internet protokol-cím)");
@@ -30,7 +30,7 @@ define("RL_LAN_033", "További információ");
 define("RL_LAN_044", "Naplózás események megjelenítése oldalanként");
 define("RL_LAN_045", "Adminisztrátor naplózás esemény törlése, amely régebbi, mint ");
 define("RL_LAN_046", "nap");
-define("RL_LAN_047", "Admin napló-bejegyzések törlésének megerősítése, amely régebbi, mint ");
+define("RL_LAN_047", "Admin napló bejegyzések törlésének megerősítése, amely régebbi, mint ");
 define("RL_LAN_049", "Régi bejegyzések törlése");
 define("RL_LAN_050", "Paraméter hiba - nem lett törölve");
 define("RL_LAN_052", "Admin napló");
@@ -63,6 +63,11 @@ define("RL_LAN_082", "Felhasználó kitiltások");
 define("RL_LAN_083", "Mail visszapattanás (bounce) törlése");
 define("RL_LAN_084", "Ideiglenes hozzáférés");
 
+define("RL_LAN_085", "[x] bejegyzés sikeresen törölve!");  
+define("RL_LAN_086", "[x] bejegyzés nem található és nem lett törölve!");
+define("RL_LAN_087", "Részletek");
+define("RL_LAN_088", "Találatok szűrése"); 
+
 define("RL_LAN_090", "Letöltés ID");
 define("RL_LAN_091", "Részletes időzítés");
 define("RL_LAN_092", "Időintervallum");
@@ -93,4 +98,15 @@ define("RL_LAN_122", "Rendszer Naplózás beállítása");
 define("RL_LAN_123", "Felhasználó ellenőrzési nyomvonal csoport");
 define("RL_LAN_124", "Felhasználó ellenőrzési nyomvonal műveletek");
 define("RL_LAN_125", "Rendszer Naplózás karbantartása");
-define("RL_LAN_126", "Összes [x] bejegyzés, amely megegyezik a keresési feltétellel");
+define("RL_LAN_126", "Összesen [x] bejegyzés található, amely megegyezik a keresési feltétellel");
+define("RL_LAN_127", "Az elmúlt óra"); 
+define("RL_LAN_128", "Az elmúlt 24 óra");
+define("RL_LAN_129", "Az elmúlt egy hét");
+define("RL_LAN_130", "Az elmúlt egy hónap");
+define("RL_LAN_131", "Az elmúlt egy év");
+define("RL_LAN_132", "Tájékoztató jellegű");
+define("RL_LAN_133", "Értesítés");
+define("RL_LAN_134", "Figyelmeztetés");
+define("RL_LAN_135", "Végzetes hiba");
+
+?>

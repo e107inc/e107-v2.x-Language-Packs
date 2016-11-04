@@ -9,7 +9,7 @@ define("WMLAN_02","Üzenet");
 define("WMLAN_04","Üzenet szövege");
 
 define("WMLAN_05","Keret");
-define("WMLAN_06","Jelöld be, ha szeretnéd, hogy az üzenet a weboldal sminkjének stílusában jelenjen meg");
+define("WMLAN_06","Jelöld be, ha szeretnéd, hogy az üzenet a weboldal sablonjának stílusában jelenjen meg");
 define("WMLAN_07","Az alaprendszer felülírása a {WMESSAGE} shortcode használatához:");
 
 define("WMLAN_09","Nincsenek üdvözlő üzenetek");

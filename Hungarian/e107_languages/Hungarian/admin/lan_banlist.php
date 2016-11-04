@@ -4,21 +4,21 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/03/23 14:29:59
+|        Last Modified: 2016/02/23 11:42:47
 |
-|        $Author: Lóna Lore $
+|        $Author: Yesszus $
 +---------------------------------------------------------------+
 */
 
 define("BANLAN_2", "Nincs kitiltás.");
-define("BANLAN_3", "Érvényben lévõ kitiltások");
+define("BANLAN_3", "Érvényben lévő kitiltások");
 define("BANLAN_5", "Add meg az IP címet, az e-mail címet vagy a host-ot");
 define("BANLAN_7", "Indoklás");
 define("BANLAN_8", "Felhasználó kitiltása");
 define("BANLAN_9", "Felhasználók kitiltása Email, IP vagy kiszolgálócím alapján");
 define("BANLAN_10", "IP / E-mail cím / Indok");
 define("BANLAN_11", "Automatikus-Kitiltás: Több, mint 10 hibás bejelentkezési kisérlet");
-define("BANLAN_12", "Megjegyzés: A DNS megváltoztatása jelenleg letiltva, a host alapján történõ kitiltáshoz engedélyezni kell. Az IP és email alapján történõ kitiltás még normálisan mûkõdik.");
+define("BANLAN_12", "Megjegyzés: A DNS megváltoztatása jelenleg letiltva, a host alapján történő kitiltáshoz engedélyezni kell. Az IP és email alapján történő kitiltás még normálisan működik.");
 define("BANLAN_13", "Megjegyzés: Egy felhasználó kitiltásához a felhasználónév alapján, lépj a felhasználók admin felületre:");
 define("BANLAN_14", "Kitiltás lista");
 define("BANLAN_15", "Üzenetek/Kitiltási időszakok");
@@ -36,8 +36,8 @@ define("BANLAN_27", "Érvénytelen karakterek az IP címben stripped - most:");
 define("BANLAN_28", "Kitiltás típusa");
 define("BANLAN_29", "Üzenet megjelenítése a kitiltott tagnak");
 define("BANLAN_30", "Kitiltás időtartama");
-define("BANLAN_31", "(Hagyd üresen ha azt szeretnéd, hogy a felhasználó üres képernyőt kapjon)");
-define("BANLAN_32", "Bizonytalan");
+define("BANLAN_31", "(Használjon egy üres üzenetet, ha azt szeretné, hogy a felhasználó egy üres képernyőt kapjon)");
+define("BANLAN_32", "Határozatlan");
 define("BANLAN_34", "Lejárt");
 define("BANLAN_35", "Importálás/Exportálás");
 define("BANLAN_36", "Exportálás típusa");
