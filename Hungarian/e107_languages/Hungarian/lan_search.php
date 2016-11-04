@@ -80,7 +80,7 @@ define("LAN_SEARCH_53", "Teljes rész");
 define("LAN_SEARCH_54", "Csak a cím");
 define("LAN_SEARCH_55", "Keresés a Hír kategóriában");
 define("LAN_SEARCH_56", "Összes Hír kategória");
-define("LAN_SEARCH_57", "Melyhez hozzászóltak");
+define("LAN_SEARCH_57", "Amelyhez hozzászóltak");
 define("LAN_SEARCH_58", "Minden terület");
 define("LAN_SEARCH_59", "Összes hozzászólás");
 define("LAN_SEARCH_60", "Melyhez hozzászóltak");
