@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Hungarian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/04/09 15:47:20
+|
+|        $Author: Yesszus $
++---------------------------------------------------------------+
+*/
 
 define("ADLAN_PM_1", "Az aktiváláshoz lépj a menük felületre és válaszd ki a private_msg majd helyezd valamelyik menüterületre. <br /><br />Ha szükséges az előző verzió üzeneteinek konvertálása, akkor lépj a plugin Fő beállítások oldalára és válaszd a 'Konvertálás' linket.");
 define("ADLAN_PM_3", "PM beállítások nem találhatóak, alapértelmezett beállítások kiválasztva");
@@ -22,7 +28,7 @@ define("ADLAN_PM_16", "Plugin Cím");
 define("ADLAN_PM_17", "Új PM animáció mutatása");
 define("ADLAN_PM_18", "Felhasználói legördülődoboz mutatása");
 define("ADLAN_PM_19", "Olvasott üzenet időkifutása");
-define("ADLAN_PM_20", "Nem olvasott üzenetek időkifutása");
+define("ADLAN_PM_20", "Olvasatlan üzenetek időkifutása");
 define("ADLAN_PM_21", "Popup értesítés új PM érkezésekor");
 define("ADLAN_PM_22", "Popup késleltetés ideje");
 define("ADLAN_PM_23", "PM küldés korlátozása a következők részére");
@@ -36,7 +42,7 @@ define("ADLAN_PM_30", "Összetett visszaigazoló értesítés küldésének enge
 define("ADLAN_PM_31", "Felhasználó csoportnak küldés engedélyezése");
 define("ADLAN_PM_33", "Inaktív (nincs limit)");
 define("ADLAN_PM_34", "PM számolás");
-define("ADLAN_PM_35", "PM levelesláda mérete");
+define("ADLAN_PM_35", "PM levelesláda méret");
 define("ADLAN_PM_36", "Felhasználó csoport");
 define("ADLAN_PM_37", "Mennyiségi limit");
 define("ADLAN_PM_38", "Méret limit (KB-ban)");
@@ -44,7 +50,7 @@ define("ADLAN_PM_39", "Beérkező levelek");
 define("ADLAN_PM_40", "Elküldött levelek");
 define("ADLAN_PM_41", "Jelenleg nincs limit beállítva.");
 define("ADLAN_PM_44", "másodperc");
-define("ADLAN_PM_45", "PM limit beállítva: ");
+define("ADLAN_PM_45", "Beállított PM limit: ");
 
 define("ADLAN_PM_54", "Főbeállítások");
 define("ADLAN_PM_55", "Korlátozás");
@@ -52,8 +58,8 @@ define("ADLAN_PM_55", "Korlátozás");
 define("ADLAN_PM_59", "Karbantartás");
 define("ADLAN_PM_60", "PM karbantartása");
 define("ADLAN_PM_62", "Ezen funkció használatával, a törölt felhasználókhoz kapcsolódó bejegyzéseket lehet eltávolítani az adatbázis táblákból.");
-define("ADLAN_PM_63", "Üzenetek elküldve");
-define("ADLAN_PM_64", "Üzenetek fogadva");
+define("ADLAN_PM_63", "Elküldött üzenetek");
+define("ADLAN_PM_64", "Fogadott üzenetek");
 define("ADLAN_PM_65", "Blokkolt felhasználók");
 define("ADLAN_PM_66", "Nincs meghatározott karbantartási feladat");
 define("ADLAN_PM_67", "PM DB karbantartás elkezdődött");
@@ -71,3 +77,15 @@ define("ADLAN_PM_79", "--ORPHANS-- elárvult melléklet lett törölve. --MISSIN
 define("ADLAN_PM_80", "Előnyben részesített formátumok frissítve lettek");
 define("ADLAN_PM_81", "Egyidejűleg küldhető PM-ek maximális száma");
 define("ADLAN_PM_82", "Ha ennél több lesz elküldve, a rendszer az üzeneteket sorba fogja állítani, és ütemeve, az időzített futtatás segítségével küldi el őket.");
+define("ADLAN_PM_83", "A felhasználók csak üzenetet küldhetnek a felhasználóknak ebben a csoportban");
+define("ADLAN_PM_84", "Üzenet maximum hossza");
+define("ADLAN_PM_85", "0 = korlátlan");
+define("ADLAN_PM_86", "VIP Csoport");
+define("ADLAN_PM_87", "A csoport felhasználói csak üzeneteket fogadhatnak ebben a csoportban. Felülírja a fenti beállításokat.");
+define("ADLAN_PM_88", "A felhasználók üzenetet küldhetnek");
+define("ADLAN_PM_89", "A csoportba tartozó összes felhasználó");
+define("ADLAN_PM_90", "Add meg a címzettet a 'Címzett' mezőben.");
+define("ADLAN_PM_91", "Tesztelés");
+define("ADLAN_PM_92", "A teszt email elküldve!");
+define("ADLAN_PM_93", "A teszt email nem lett elküldve!");
+?>
