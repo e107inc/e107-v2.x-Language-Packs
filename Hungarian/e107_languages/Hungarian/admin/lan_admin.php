@@ -9,6 +9,12 @@
 |        $Author: Yesszus $
 +---------------------------------------------------------------+
 */
+define("RL_LAN_088", "Találatok szűrése");
+define("RL_LAN_127", "Az elmúlt óra"); 
+define("RL_LAN_128", "Az elmúlt 24 óra");
+define("RL_LAN_129", "Az elmúlt egy hét");
+define("RL_LAN_130", "Az elmúlt egy hónap");
+define("RL_LAN_131", "Az elmúlt egy év");
 define("ADLAN_0", "Hírek");
 define("ADLAN_1", "Hozzáadás/módosítás/törlés");
 define("ADLAN_2", "Hír létrehozása");
