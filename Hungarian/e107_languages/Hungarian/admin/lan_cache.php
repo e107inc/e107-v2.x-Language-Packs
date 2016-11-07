@@ -4,9 +4,9 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/03/23 14:28:20
+|        Last Modified: 2016/02/23 11:45:52
 |
-|        $Author: Lóna Lore $
+|        $Author: Yesszus $
 +---------------------------------------------------------------+
 */
 
@@ -32,9 +32,9 @@ define("CACLAN_24", "Adatbázis-struktúra gyorsítótárának ürítése");
 define("CACLAN_25", "Thumbnail-ek (bélyegképek) gyorsítótárának ürítése");
 define("CACLAN_26", "Összes gyorsítótár ürítése");
 define("CACLAN_27", "Böngésző gyorsítótárának ürítése");
-define("CACLAN_28", "JS/CSS fájlok gyorstárazása");
-define("CACLAN_29", "JS és CSS fájlok konszolidálása és gyorstárazása.");
-define("CACLAN_30", "JS/CSS fájlok gyorsítótárának ürítése");
+define("CACLAN_28", "JS/CSS Cache");
+define("CACLAN_29", "A cache javascript fájlok és CSS fájlok megerősítése.");
+define("CACLAN_30", "JS/CSS Cache Ürítése");
 
 
 ?>

@@ -1,15 +1,14 @@
 <?php
 /*
 +---------------------------------------------------------------+
-| e107 website content management system Hungarian Language File
-| Released under the terms and conditions of the
-| GNU General Public License (http://gnu.org).
-| Last Modified: 2016/09/14 09:27:12
+|        e107 website content management system Hungarian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/25 10:29:45
 |
-| $Author: Lóna Lore $
+|        $Author: Yesszus $
 +---------------------------------------------------------------+
 */
-
 define("CORE_DATE_ORDER", "ymd");
 define("LAN_MAILOUT_01", "Feladó neve");
 define("LAN_MAILOUT_02", "Feladó e-mail címe");
@@ -19,26 +18,26 @@ define("LAN_MAILOUT_05", "Titkos másolat (Bcc)");
 define("LAN_MAILOUT_06", "Tárgy");
 define("LAN_MAILOUT_07", "Melléklet");
 define("LAN_MAILOUT_08", "E-mail küldése");
-define("LAN_MAILOUT_09", "Smink stílusának használata");
-define("LAN_MAILOUT_10", "Felíratkozott felhasználó");
+define("LAN_MAILOUT_09", "Sablon stilusának használata");
+define("LAN_MAILOUT_10", "Feliratkozott felhasználó");
 define("LAN_MAILOUT_11", "Változók beszúrása");
 define("LAN_MAILOUT_12", "Minden Tag");
-define("LAN_MAILOUT_13", "Minden nem ellenőrzött tag");
+define("LAN_MAILOUT_13", "Minden ellenőrizetlen tag");
 define("LAN_MAILOUT_14", "Megjelenő név");
 define("LAN_MAILOUT_15", "Kimenő E-mail");
 define("LAN_MAILOUT_16", "Felhasználónév");
 define("LAN_MAILOUT_17", "Regisztrációs link");
 define("LAN_MAILOUT_18", "Felhasználó ID");
-define("LAN_MAILOUT_19", "Nincs cél email cím meghatározva");
+define("LAN_MAILOUT_19", "Nincs meghatározott cél email cím ");
 define("LAN_MAILOUT_20", "Üzenetküldés-útvonal");
 define("LAN_MAILOUT_21", "Csoportos-Mail bejegyzés");
-define("LAN_MAILOUT_22", "A bejegyzés mentése sikertelen");
+define("LAN_MAILOUT_22", "Sikertelen bejegyzés mentés!");
 define("LAN_MAILOUT_23", "felhasználó csoport:");
 define("LAN_MAILOUT_24", "email küldésre kész");
 define("LAN_MAILOUT_25", "Csoportos email küldés ellenőrzése");
 define("LAN_MAILOUT_26", "Szünet csoportos levélküldés esetén, minden");
 define("LAN_MAILOUT_27", "email után");
-define("LAN_MAILOUT_28", "Szünet hossza");
+define("LAN_MAILOUT_28", "Mentés");
 define("LAN_MAILOUT_29", "másodperc");
 define("LAN_MAILOUT_30", "Javasolt az SMTP használata. Több, mint 30 másodperces szünet a böngésző időkifutását eredményezheti");
 define("LAN_MAILOUT_31", "Visszadobott Email");
@@ -48,7 +47,7 @@ define("LAN_MAILOUT_36", "Visszadobott Mail ellenőzés utáni törlése");
 define("LAN_MAILOUT_37", "Folyamatban");
 define("LAN_MAILOUT_38", "Kilép");
 define("LAN_MAILOUT_39", "Email küldés");
-define("LAN_MAILOUT_40", "Át kell nevezned az e107.htaccess file-t .htaccess file-re, itt");
+define("LAN_MAILOUT_40", "Át kell nevezned az <b>e107.htaccess</b> fájlt <b>.htaccess</b> fájlra, itt");
 define("LAN_MAILOUT_41", "mielőtt levelet küldesz erről az oldalról.");
 define("LAN_MAILOUT_42", "Figyelmeztetés");
 define("LAN_MAILOUT_43", "Felhasználónév");
@@ -69,7 +68,7 @@ define("LAN_MAILOUT_68", "Regisztrált felhasználók");
 define("LAN_MAILOUT_69", "egyezések, után");
 define("LAN_MAILOUT_70", " duplikációk törölve.");
 define("LAN_MAILOUT_71", "Összes email elküldése");
-define("LAN_MAILOUT_72", "Mailshot naplózása");
+define("LAN_MAILOUT_72", "Mailshot naplózás");
 define("LAN_MAILOUT_73", "Nincs naplózás");
 define("LAN_MAILOUT_74", "Csak naplózás (nincs küldés)");
 define("LAN_MAILOUT_75", "Naplózás és küldés");
@@ -108,8 +107,8 @@ define("LAN_MAILOUT_108", "Eredmény");
 define("LAN_MAILOUT_109", "Adatok megjelenítése");
 define("LAN_MAILOUT_110", "Teszt email küldése");
 define("LAN_MAILOUT_111", "Email Címe (nincs küldés)");
-define("LAN_MAILOUT_112", "Teszt email küldés neki");
-define("LAN_MAILOUT_113", "Teszt email tőle");
+define("LAN_MAILOUT_112", "Teszt email küldés ide");
+define("LAN_MAILOUT_113", "Email teszt: ");
 define("LAN_MAILOUT_114", "Ez egy teszt email, akkor jelenik meg, ha az email beállítások rendben működnek! [br][br] Üdvözlettel [br] e107 portál rendszer.");
 define("LAN_MAILOUT_115", "Email küldés módszere");
 define("LAN_MAILOUT_116", "Ha bizonytalan vagy, hagyd php-n");
@@ -128,7 +127,7 @@ define("LAN_MAILOUT_128", "Küldési hiba");
 define("LAN_MAILOUT_129", "Lejárati dátum");
 define("LAN_MAILOUT_130", "Létrehozás dátuma");
 define("LAN_MAILOUT_131", "Küldés elkezdődött");
-define("LAN_MAILOUT_132", "Küldés kész");
+define("LAN_MAILOUT_132", "Küldés befejezve!");
 define("LAN_MAILOUT_133", "Forrás");
 define("LAN_MAILOUT_134", "Prioritás");
 define("LAN_MAILOUT_136", "Mailout állapot");
@@ -142,7 +141,7 @@ define("LAN_MAILOUT_143", "Címzett hivatkozás");
 define("LAN_MAILOUT_144", "Visszadobott");
 define("LAN_MAILOUT_145", "Új email elmentve");
 define("LAN_MAILOUT_146", "Email mentés hiba");
-define("LAN_MAILOUT_147", "Email frissítve");
+define("LAN_MAILOUT_147", "Az email frissítve!");
 define("LAN_MAILOUT_148", "Felhasználó értékek");
 define("LAN_MAILOUT_149", "Küldő Email");
 define("LAN_MAILOUT_150", "Küldő Név");
@@ -169,7 +168,7 @@ define("LAN_MAILOUT_170", "A mail törölt --NUM-- címzettei hivatkozás: --ID-
 define("LAN_MAILOUT_171", "Email törlés megerősítése");
 define("LAN_MAILOUT_172", "Mail Típus/Állapot");
 define("LAN_MAILOUT_173", "Címzettek");
-define("LAN_MAILOUT_174", "Biztonsági ellenőrzés sikertelen: --ID-- --CHECK--");
+define("LAN_MAILOUT_174", "Sikertelen biztonsági ellenőrzés: --ID-- --CHECK--");
 define("LAN_MAILOUT_175", "Előtte");
 define("LAN_MAILOUT_176", "Azonosság");
 define("LAN_MAILOUT_177", "Utána");
@@ -250,7 +249,10 @@ define("LAN_MAILOUT_254", "Elkészített email megtekintése");
 define("LAN_MAILOUT_255", "Elkészített Email, ID:");
 define("LAN_MAILOUT_256", "Vissza");
 define("LAN_MAILOUT_257", "Legenerált sablon");
+define("LAN_MAILOUT_259", "Címzettek");
 define("LAN_SEND", "Küldés");
 define("LAN_HOLD", "Tartás");
 define("LAN_MAILOUT_260", "Felhasználó-típus");
-define("LAN_MAILOUT_261", "SMTP port");
+define("LAN_MAILOUT_261", "SMTP Port");
+
+?>

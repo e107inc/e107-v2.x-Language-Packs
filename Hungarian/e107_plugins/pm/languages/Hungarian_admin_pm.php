@@ -46,8 +46,8 @@ define("ADLAN_PM_41", "Jelenleg nincs limit beállítva.");
 define("ADLAN_PM_44", "másodperc");
 define("ADLAN_PM_45", "PM limit beállítva: ");
 
-define("ADLAN_PM_54", "Fő beállítások");
-define("ADLAN_PM_55", "korlátozás");
+define("ADLAN_PM_54", "Főbeállítások");
+define("ADLAN_PM_55", "Korlátozás");
 
 define("ADLAN_PM_59", "Karbantartás");
 define("ADLAN_PM_60", "PM karbantartása");
