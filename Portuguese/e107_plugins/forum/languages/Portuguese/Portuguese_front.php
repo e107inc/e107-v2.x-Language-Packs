@@ -33,7 +33,7 @@ define("LAN_FORUM_0027", "Você leu");
 define("LAN_FORUM_0028", "destas mensagens.");
 define("LAN_FORUM_0029", "Todos os posts novos foram lidos.");
 define("LAN_FORUM_0030", "Listar tópicos monitorados");
-define("LAN_FORUM_0031", "Os usuários deste fórum fizeram um total de [posts x].");
+define("LAN_FORUM_0031", "Os usuários deste fórum fizeram um total de [x] posts.");
 define("LAN_FORUM_0032", "tópico");
 define("LAN_FORUM_0033", "Tópicos");
 define("LAN_FORUM_0034", "resposta");
