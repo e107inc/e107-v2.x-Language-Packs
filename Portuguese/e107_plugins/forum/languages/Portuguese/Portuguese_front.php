@@ -106,7 +106,7 @@ define("LAN_FORUM_2009", "Tem certeza que deseja excluir este tópico e as respo
 define("LAN_FORUM_2010", "Tem certeza que deseja excluir esta resposta?");
 define("LAN_FORUM_2012", "Nenhum tópico anterior");
 define("LAN_FORUM_2013", "Não há próximo tópico");
-define("LAN_FORUM_2015", "Postar");
+define("LAN_FORUM_2015", "Mensagem");
 define("LAN_FORUM_2016", "Editado");
 define("LAN_FORUM_2017", "por");
 define("LAN_FORUM_2018", "Este post foi denunciado do site");
@@ -241,3 +241,19 @@ define("LAN_FORUM_8010", "Destrancar");
 define("LAN_FORUM_8011", "Legenda dos ícones");
 define("LAN_FORUM_8012", "Visível por");
 define("LAN_FORUM_8013", "Opções");
+// -------- Forum Post------------
+define("LAN_FORUM_8014", "Esta mensagem, e todas as outras seguintes serão movidas para um novo tópico.");
+define("LAN_FORUM_8015", "Aviso!");
+define("LAN_FORUM_8016", "(Actual)");
+// -------- Forum Class------------
+define("LAN_FORUM_8017", "Problema ao desactivar o rastreamento.");
+define("LAN_FORUM_8018", "Existe um problema.");
+define("LAN_FORUM_8019", "Impossível apagar o tópico!");
+define("LAN_FORUM_8020", "Tópico apagado");
+define("LAN_FORUM_8021", "Mensagem apagada");
+define("LAN_FORUM_8022", "Impossível apagar a mensagem");
+define("LAN_FORUM_8023", "Falha ao fechar o tópico");
+define("LAN_FORUM_8024", "Falha ao abrir o tópico");
+define("LAN_FORUM_8025", "Falha ao fixar o tópico");
+define("LAN_FORUM_8026", "Falha ao não fixar o tópico");
+define("LAN_FORUM_8027", "Nenhuma acção escolhida");
