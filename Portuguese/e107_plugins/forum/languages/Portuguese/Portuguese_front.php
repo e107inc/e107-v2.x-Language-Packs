@@ -139,7 +139,7 @@ define("LAN_FORUM_2046", "Relatório");
 define("LAN_FORUM_3001", "Você não está autorizado a postar neste fórum.");
 define("LAN_FORUM_3002", "Este tópico está bloqueado.");
 define("LAN_FORUM_3003", "Responder aos");
-define("LAN_FORUM_3005", "Visualizar");
+define("LAN_FORUM_3005", "Pré-visualizar");
 define("LAN_FORUM_3006", "Post duplicado");
 define("LAN_FORUM_3007", "Você deixou campos obrigatórios em branco");
 define("LAN_FORUM_3008", "Não autorizada");
