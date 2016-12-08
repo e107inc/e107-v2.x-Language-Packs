@@ -22,4 +22,4 @@ define("LANDT_08", "min");
 define("LANDT_08s", "mins");
 define("LANDT_09", "SEC");
 define("LANDT_09s", "secs");
-define("LANDT_AGO", "Há");
+define("LANDT_AGO", "atrás");
