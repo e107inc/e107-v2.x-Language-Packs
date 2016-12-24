@@ -107,6 +107,16 @@ define("DBLAN_108", "Creado:");
 define("DBLAN_109", "Copiado:");
 define("DBLAN_110", "No copiar:");
 define("DBLAN_111", "Tablas parecen estar bien!");
+define("DBLAN_112", "Sincronizar con Github");
+define("DBLAN_113", "Sobrescribir archivos");
+define("DBLAN_114", "Modo de desarrollador solamente");
+define("DBLAN_115", "Sobrescribir archivos locales con lo último de github.");
+define("DBLAN_116", "Esto descargará el último archivo .zip de github a");
+define("DBLAN_117", "y luego descomprimirlo, sobrescribiendo los archivos existentes que encuentre en su servidor. Tendrá en cuenta todas las carpetas personalizadas que haya establecido en e107_config.php.");
+define("DBLAN_118", "No se pudo descargar el archivo .zip");
+define("DBLAN_119", "Copia de seguridad");
+define("DBLAN_120", "Inicio de copia de seguridad ....");
+define("DBLAN_121", "Mover [x] a [y].");
 
 
 ?>

@@ -9,7 +9,6 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-
 define("LAN_USER_01", "Nombre para mostrar");
 define("LAN_USER_02", "Nombre de usuario");
 define("LAN_USER_03", "Nombre real");
@@ -82,6 +81,13 @@ define("LAN_USER_83", "Ocultar dirección de correo electrónico?:");
 define("LAN_USER_84", "Esto evitará que tu dirección de correo electrónico se muestra en el sitio");
 define("LAN_USER_85", "Si desea cambiar su nombre de usuario, usted debe pedir a un administrador del sitio");
 define("LAN_USER_86", "Tamaño máximo del avatar es--anchura--x--altura--pixeles");
+define("LAN_USER_87", "Inicie sesión para calificar este usuario!");
+define("LAN_XUP_ERRM_01", "¡Registro fallido! Esta función está desactivada.");
+define("LAN_XUP_ERRM_02", "¡Registro fallido! Mal proveedor.");
+define("LAN_XUP_ERRM_03", "¡Error de inicio de sesion! Mal proveedor.");
+define("LAN_XUP_ERRM_04", "¡Registro fallido! El usuario ya ha iniciado sesión.");
+define("LAN_XUP_ERRM_05", "¡Registro fallido! El usuario ya existe. Por favor, utilice 'login' en su lugar.");
+define("LAN_XUP_ERRM_06", "¡Registro fallido! No se puede acceder al correo electrónico del usuario - registro sin un correo electrónico es imposible.");
 
 
 ?>

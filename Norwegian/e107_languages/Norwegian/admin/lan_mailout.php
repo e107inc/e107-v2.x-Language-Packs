@@ -9,7 +9,6 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-
 define("CORE_DATE_ORDER", "dmå");
 define("LAN_MAILOUT_01", "Fra navn");
 define("LAN_MAILOUT_02", "Fra e-post");
@@ -250,12 +249,10 @@ define("LAN_MAILOUT_254", "Vise mal e-post");
 define("LAN_MAILOUT_255", "Mal Email, ID:");
 define("LAN_MAILOUT_256", "Avkastning");
 define("LAN_MAILOUT_257", "Genererte mal");
-define("LAN_MAILOUT_259", "");
 define("LAN_SEND", "Sende");
 define("LAN_HOLD", "Hold");
 define("LAN_MAILOUT_260", "Bruker-Type");
-define("LAN_BASIC", "Grunnleggende");
-define("LAN_ADVANCED", "Avansert");
+define("LAN_MAILOUT_261", "SMTP Port");
 
 
 ?>

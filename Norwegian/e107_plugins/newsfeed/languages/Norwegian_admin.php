@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/05/22 16:45:12
+|
+|        $Author: Norwayman $
++---------------------------------------------------------------+
+*/
 
 define("NFLAN_03", "Konfigurere nyhetsstrømmer");
 define("NFLAN_04", "Nyhetsstrømmer plugin har blitt installert. Legge til nyhetsstrømmer og konfigurere, tilbake til den viktigste admin-siden og klikk på ikonet nyhetsstrømmer i delen plugin.");
@@ -46,3 +52,7 @@ define("LAN_AL_NEWSFD_02", "News Feed oppdatert");
 define("LAN_AL_NEWSFD_03", "Nyhetsstrøm slettet");
 define("LAN_AL_NEWSFD_04", "");
 define("LAN_AL_NEWSFD_05", "");
+define("NFLAN_50", "Siste oppdatering");
+
+
+?>

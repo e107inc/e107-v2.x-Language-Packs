@@ -33,6 +33,7 @@ define("FORLAN_56", "Número de puestos a un hilo antes de que está marcado com
 define("FORLAN_57", "Mensajes por página");
 define("FORLAN_58", "Número de mensajes que se muestran por página");
 define("FORLAN_60", "Esto eliminará todos los subprocesos que no han recibido una respuesta en el número de días que usted introduzca.<br><b>Por favor tenga cuidado con esta función!</b>");
+define("FORLAN_63", "Muestrar los rangos");
 define("FORLAN_65", "Título del Foro");
 define("FORLAN_66", "No instalado");
 define("FORLAN_70", "Activar archivo / los archivos adjuntos de imagen");
@@ -112,6 +113,19 @@ define("FORLAN_200", "Tema de seguimiento");
 define("FORLAN_201", "Permitir que esto permitirá a sus usuarios el seguimiento de los temas.");
 define("FORLAN_202", "Notificaciones por correo electrónico de seguimiento del tema");
 define("FORLAN_203", "Activar esta opción para permitir que sus usuarios reciban notificaciones por correo electrónico cuando otros respuesta a un tema de seguimiento.");
+define("FORLAN_204", "Usuario-Anonimo");
+define("FORLAN_205", "Permiso para postar");
+define("FORLAN_206", "Clase para la creación del hilo");
+define("FORLAN_207", "Foros y hilos");
+define("FORLAN_208", "Solo Foros");
+define("FORLAN_209", "Tema");
+define("FORLAN_210", "Asunto");
+define("FORLAN_211", "Presentado por");
+define("FORLAN_212", "Adjuntos");
+define("FORLAN_213", "Post");
+define("FORLAN_214", "Dejar en blanco para generar automáticamente desde el título anterior.");
+define("FORLAN_215", "¡No instalado!");
+define("FORLAN_216", "(Nueva Padres)");
 
 
 ?>

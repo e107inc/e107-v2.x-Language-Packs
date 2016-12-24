@@ -78,6 +78,12 @@ define("TPVLAN_71", "Ikke spesifisert");
 define("TPVLAN_72", "Sett sider som skal automatisk bruke dette oppsettet. En per linje.");
 define("TPVLAN_73", "Aktiver menyer");
 define("TPVLAN_74", "Aktiverer følgende:");
+define("TPVLAN_75", "Pris");
+define("TPVLAN_76", "Gratis");
+define("TPVLAN_77", "Anbefalt");
+define("TPVLAN_78", "Krav");
+define("TPVLAN_79", "cURL kreves for øyeblikket for å bruke denne funksjonen. Kontakt din webhosting leverandør for å aktivere cURL");
+define("TPVLAN_80", "Ingen Temaer funnet som matcher dine søkekriterier");
 define("TPVLAN_CONV_1", "Steg 1");
 define("TPVLAN_CONV_2", "Steg 2");
 define("TPVLAN_CONV_3", "Navnet til temaet. (Må skrives på engelsk)");
@@ -93,6 +99,16 @@ define("TPVLAN_CONV_12", "En fullstendig beksirvelse av temaet (Må skrives på 
 define("TPVLAN_CONV_13", "Hvilken kategori av temaer er dette?");
 define("TPVLAN_CONV_14", "Aktiver dette stilarket som et valgalternativ i Theme Manager.");
 define("TPVLAN_CONV_15", "Gi denne stilen et navn");
+define("TPVLAN_81", "Laster ned ...");
+define("TPVLAN_82", "Nedlasting komplett!");
+define("TPVLAN_83", "Automatisert nedlastingen ikke mulig!");
+define("TPVLAN_84", "[Vennligst Last ned manuelt]");
+define("TPVLAN_85", "Kobler til...");
+define("TPVLAN_86", "Kunne ikke endre nettsted tema.");
+define("TPVLAN_87", "Konfigurasjon for rendring av tema");
+define("TPVLAN_88", "Konverter");
+define("TPVLAN_89", "Påfør dashbord preferanser til alle administratorer");
+define("TPVLAN_90", "Kan ikke koble til. Vennligst sjekk brannmur og / eller internettforbindelse .");
 
 
 ?>

@@ -173,12 +173,16 @@ define("LAN_FORUM_3038", "Normal");
 define("LAN_FORUM_3039", "Desactivar emoticonos por este post");
 define("LAN_FORUM_3040", "Habilitar correo electrónico (correo electrónico enviado al contestar es publicada) de seguimiento");
 define("LAN_FORUM_3041", "Activar/desactivar el seguimiento de este tema");
+define("LAN_FORUM_3042", "Nuevo Tema/Asunto");
 define("LAN_FORUM_3043", "Gracias");
 define("LAN_FORUM_3045", "La encuesta ha sido publicada con éxito.");
 define("LAN_FORUM_3046", "Haga clic aquí para ver la votación");
 define("LAN_FORUM_3047", "Su mensaje se ha enviado con éxito.");
 define("LAN_FORUM_3048", "Haga clic aquí para ver el mensaje");
 define("LAN_FORUM_3049", "Su respuesta ha sido publicada con éxito.");
+define("LAN_FORUM_3050", "Punto de división");
+define("LAN_FORUM_3051", "Nueva ubicacion");
+define("LAN_FORUM_3052", "Dividir hilo");
 define("LAN_FORUM_4001", "Existe post no leído");
 define("LAN_FORUM_4002", "No hay mensajes no leídos");
 define("LAN_FORUM_4003", "Nuevos puestos en el tema popular");
@@ -237,6 +241,27 @@ define("LAN_FORUM_8003", "Notificaciones por correo electrónico para este tema 
 define("LAN_FORUM_8004", "Notificaciones por correo electrónico para este tema están ahora desactivados.");
 define("LAN_FORUM_8005", "Ahora está realizando el seguimiento de este tema.");
 define("LAN_FORUM_8006", "Ya no se está realizando el seguimiento de este tema.");
+define("LAN_FORUM_8007", "Pegar");
+define("LAN_FORUM_8008", "Despegar");
+define("LAN_FORUM_8009", "Bloquear");
+define("LAN_FORUM_8010", "Desbloquear");
+define("LAN_FORUM_8011", "Teclas de estado");
+define("LAN_FORUM_8012", "Visible por");
+define("LAN_FORUM_8013", "Opciones");
+define("LAN_FORUM_8014", "Este post, y cada post debajo de él se moverá a un nuevo hilo / tema.");
+define("LAN_FORUM_8015", "¡Advertencia!");
+define("LAN_FORUM_8016", "(Corriente)");
+define("LAN_FORUM_8017", "Se ha producido un problema al desactivar el seguimiento.");
+define("LAN_FORUM_8018", "Había un problema.");
+define("LAN_FORUM_8019", "No se pudo eliminar el tema.");
+define("LAN_FORUM_8020", "Tema eliminado");
+define("LAN_FORUM_8021", "Mensaje eliminado");
+define("LAN_FORUM_8022", "No se pudo eliminar la publicación");
+define("LAN_FORUM_8023", "No se pudo cerrar el subproceso");
+define("LAN_FORUM_8024", "Error al abrir el hilo");
+define("LAN_FORUM_8025", "Error al pegar hilo");
+define("LAN_FORUM_8026", "No se pudo despegar el hilo");
+define("LAN_FORUM_8027", "Ninguna acción seleccionada");
 
 
 ?>

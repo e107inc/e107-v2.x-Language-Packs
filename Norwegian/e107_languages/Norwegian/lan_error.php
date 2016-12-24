@@ -9,8 +9,8 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-
 define("PAGE_NAME", "Feil");
+define("LAN_ERROR_TITLE", "Oops!");
 define("LAN_ERROR_1", "Feil 401 - godkjenning mislyktes");
 define("LAN_ERROR_2", "URL du har etterspurte krever riktig brukernavn og passord. Enten du angav feil brukernavn/passord eller browseren din støtter ikke denne funksjonen.");
 define("LAN_ERROR_3", "Vennligst informer administrator av refererende siden hvis du tror denne feilsiden har blitt vist ved en feil.");

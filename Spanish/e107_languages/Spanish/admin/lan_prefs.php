@@ -247,6 +247,11 @@ define("PRFLAN_263", "Esto debe ser exclusivo de este sitio web");
 define("PRFLAN_264", "Página Principal es la página de inicio de sesión (login.php)");
 define("PRFLAN_265", "Página Principal es splash page (membersonly.php)");
 define("PRFLAN_266", "Si estás fuera sesión, a que página deberia el usuario estar dirigido?");
+define("PRFLAN_267", "Método de envío por correo electrónico");
+define("PRFLAN_268", "Frontend Inline-Edición");
+define("PRFLAN_269", "Administradores con esta clase de usuario (y los permisos de administración apropiadas) serán capaces de editar el código HTML directamente a través del área del frontend interfaz.");
+define("PRFLAN_270", "Filtros para Formulario de contacto");
+define("PRFLAN_271", "No haga caso de los envíos de formularios que contengan esas palabras o frases. Una por línea.");
 
 
 ?>

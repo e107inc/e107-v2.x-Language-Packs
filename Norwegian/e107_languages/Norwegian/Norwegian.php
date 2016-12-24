@@ -77,6 +77,7 @@ define("LAN_DATE", "Dato");
 define("LAN_DATE_POSTED", "Dato postet");
 define("LAN_JSCONFIRM", "er du sikker?");
 define("LAN_IP", "IP-adresse");
+define("LAN_IP_ADDRESS", "IP-adresse");
 define("LAN_AUTHOR", "Forfatter");
 define("LAN_CATEGORY", "Kategori");
 define("LAN_GUEST", "Gjest");
@@ -108,12 +109,16 @@ define("LAN_EMAIL", "E-postadresse");
 define("LAN_WROTE", "skrev");
 define("LAN_RE_ORDER", "Endre rekkefølgen");
 define("LAN_RELATED", "Relatert");
+define("LAN_CLOSE", "Lukk");
+define("LAN_EXPAND", "Utvid");
 define("LAN_ENTER_USRNAME_EMAIL", "Skriv inn ditt brukernavn eller e-post");
 define("LAN_PWD_REQUIRED", "Passord kreves");
 define("LAN_SHOW", "Vis");
 define("LAN_GENERATE", "Generer");
 define("LAN_SUMMARY", "Sammendrag");
 define("LAN_REQUIRED_BLANK", "Obligatoriske felt (er) var tomme.");
+define("LAN_PLEASEWAIT", "Vennligst vent");
+define("LAN_CHOOSE_FILE", "Velg en fil");
 
 
 ?>

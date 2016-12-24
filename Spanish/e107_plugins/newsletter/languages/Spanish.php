@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/07/02 16:44:27
+|
+|        $Author: Norwayman $
++---------------------------------------------------------------+
+*/
 
 define("NLLAN_MENU_CAPTION", "Boletín de noticias");
 define("NLLAN_48", "Usted está suscrito a este newsletter - si desea darse de baja por favor, haga clic en el botón de abajo.");
@@ -15,5 +21,8 @@ define("NLLAN_67", "Archivo Resumen");
 define("NLLAN_68", "Parámetro no válido definido");
 define("NLLAN_69", "No envía boletines informativos disponibles.");
 define("NLLAN_70", "Boletín seleccionado no existe");
-define("NLLAN_71", "Atrás");
 define("NLLAN_72", "Ver archivo");
+define("NLLAN_73", "Introduce tu correo electrónico");
+
+
+?>

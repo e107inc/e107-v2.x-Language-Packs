@@ -1,10 +1,15 @@
 <?php
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/11/07 14:41:06
+|
+|        $Author: Norwayman $
++---------------------------------------------------------------+
+*/
 
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("PAGE_NAME", "Banner");
 define("BANNERLAN_16", "Brukernavn:");
 define("BANNERLAN_17", "Passord:");
 define("BANNERLAN_19", "Skriv klient logikk og passord å fortsette");
@@ -24,3 +29,7 @@ define("BANNERLAN_34", "Slutter:");
 define("BANNERLAN_35", "Clickthrough IP-adresser");
 define("BANNERLAN_36", "Aktiv:");
 define("BANNERLAN_37", "Starter:");
+define("BANNERLAN_39", "Ikke noe bilde tildelt dette banneret.");
+
+
+?>

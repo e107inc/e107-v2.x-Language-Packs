@@ -129,6 +129,18 @@ define("LAN_NEWS_92", "por ejemplo. News.php?All o news.php?cat.1 o news.php?tag
 define("LAN_NEWS_93", "Contenido de la vista de lista");
 define("LAN_NEWS_94", "Elementos asignados a estas plantillas se mostrará en la lista.");
 define("LAN_NEWS_95", "Otra noticia está utilizando la URL SEF: [x]");
+define("LAN_NEWS_96", "Aprobar");
+define("LAN_NEWS_97", "Menú de la Red de Noticias");
+define("LAN_NEWS_98", "Servicios de Ping");
+define("LAN_NEWS_99", "Sólo acepta imágenes más grandes que");
+define("LAN_NEWS_100", "Cualquier tamaño");
+define("LAN_NEWS_101", "Enviar Noticias");
+define("LAN_NEWS_102", "Abrir en una pestaña nueva");
+define("LAN_NEWS_103", "Notificación de correo electrónico");
+define("LAN_NEWS_104", "Inicie una notificación por correo electrónico cuando envíe este formulario.");
+define("LAN_NEWS_105", "Notificación de correo electrónico activada!");
+define("LAN_NEWS_106", "La visibilidad del elemento noticioso debe incluir "todo el mundo" para que las notificaciones por correo electrónico funcionen.");
+define("LAN_NEWS_107", "Comprobación del estado de ping");
 
 
 ?>

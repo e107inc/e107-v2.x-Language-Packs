@@ -9,7 +9,6 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-
 define("CORE_DATE_ORDER", "DMY");
 define("LAN_MAILOUT_01", "De nombre");
 define("LAN_MAILOUT_02", "De correo electrónico");
@@ -250,12 +249,10 @@ define("LAN_MAILOUT_254", "Correo electrónico con plantillas de vista");
 define("LAN_MAILOUT_255", "Plantilla correo electrónico, ID:");
 define("LAN_MAILOUT_256", "Volver");
 define("LAN_MAILOUT_257", "Plantilla generada");
-define("LAN_MAILOUT_259", "");
 define("LAN_SEND", "Enviar");
 define("LAN_HOLD", "Mantenga");
 define("LAN_MAILOUT_260", "Tipo de usuario");
-define("LAN_BASIC", "Básico");
-define("LAN_ADVANCED", "Avanzado");
+define("LAN_MAILOUT_261", "Puerta SMTP");
 
 
 ?>

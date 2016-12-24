@@ -77,6 +77,7 @@ define("LAN_DATE", "Fecha");
 define("LAN_DATE_POSTED", "Fecha de Publicada");
 define("LAN_JSCONFIRM", "¿Estás seguro?");
 define("LAN_IP", "Dirección IP");
+define("LAN_IP_ADDRESS", "Dirección IP");
 define("LAN_AUTHOR", "Autor");
 define("LAN_CATEGORY", "Categoría");
 define("LAN_GUEST", "Huésped");
@@ -116,6 +117,8 @@ define("LAN_SHOW", "Mostrar");
 define("LAN_GENERATE", "Generar");
 define("LAN_SUMMARY", "Resumen");
 define("LAN_REQUIRED_BLANK", "Los campos necesario (s) era dejado en blanco.");
+define("LAN_PLEASEWAIT", "Espera, por favor.");
+define("LAN_CHOOSE_FILE", "Escoge un archivo");
 
 
 ?>

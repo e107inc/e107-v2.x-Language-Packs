@@ -72,6 +72,16 @@ define("ADLAN_PM_80", "Formatos de preferencia actualizado");
 define("ADLAN_PM_81", "Número máximo de PMs para enviar de inmediato");
 define("ADLAN_PM_82", "Si el envío de más de esto, se añaden a una cola y se envían a cabo mediante la tarea cron");
 define("ADLAN_PM_83", "Los usuarios sólo pueden enviar mensajes a los usuarios en esta clase");
+define("ADLAN_PM_84", "Longitud máxima del mensaje");
+define("ADLAN_PM_85", "0 = sin límite");
+define("ADLAN_PM_86", "Clase VIP");
+define("ADLAN_PM_87", "Los usuarios de esta clase sólo pueden recibir mensajes de otros en esta clase. Anula la preferencia anterior.");
+define("ADLAN_PM_88", "El usuario puede enviar PMs a");
+define("ADLAN_PM_89", "(Cualquier usuario con la misma clase)");
+define("ADLAN_PM_90", "Por favor, introduzca un destinatario en el campo "Para".");
+define("ADLAN_PM_91", "Prueba");
+define("ADLAN_PM_92", "Prueba de correo electrónico enviado!");
+define("ADLAN_PM_93", "Prueba de correo electrónico ha fallado!");
 
 
 ?>

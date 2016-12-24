@@ -1,11 +1,17 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/05/04 00:32:04
+|
+|        $Author: Norwayman $
++---------------------------------------------------------------+
+*/
 define("CHATBOX_L1", "No se puede aceptar puesto username es registrado - si es su nombre de usuario por favor ingresa al post.");
-define("CHATBOX_L3", "Usted debe estar conectado para publicar comentarios en este sitio - por favor inicie sesión o si no está registrado haga clic <a href=''.e_SIGNUP.''>aquí</a> para registrarse");
+define("CHATBOX_L3", "Tienes que iniciar sesión para comentar en este sitio - por favor, bien accediendo desde el botón Acceder o desde [aquí].");
+define("CHATBOX_L3b", "Si no está registrado haga clic [aquí] para inscribirse.");
 define("CHATBOX_L4", "Nuevo mensaje de correo");
 define("CHATBOX_L5", "RESET");
 define("CHATBOX_L6", "[bloqueado por admin]");
@@ -25,3 +31,6 @@ define("CHATBOX_L22", "en");
 define("CHATBOX_L24", "Usted no tiene los permisos correctos para ver esta página.");
 define("CHATBOX_L25", "[este mensaje ha sido bloqueado por el administrador]");
 define("LAN_CHATBOX_100", "Escriba su mensaje aquí.");
+
+
+?>

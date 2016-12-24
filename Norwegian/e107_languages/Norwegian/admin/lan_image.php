@@ -1,9 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/12/23 19:46:56
+|
+|        $Author: Norwayman $
++---------------------------------------------------------------+
+*/
 define("LAN_IMA_M_01", "Mediebiblioteket");
 define("LAN_IMA_M_02", "Media opplasting/Import");
 define("LAN_IMA_M_03", "Mediekategoriene");
@@ -75,7 +80,7 @@ define("IMALAN_74", "Angi dette så lavt som mulig før tap av kvalitet er tydel
 define("IMALAN_75", "Avatar bredde");
 define("IMALAN_76", "Avatar bilde vil være begrenset til disse dimensjonene (i piksler)");
 define("IMALAN_77", "Avatar høyde");
-define("IMALAN_78", "");
+define("IMALAN_78", "Generell");
 define("IMALAN_79", "Endre størrelse-bildet dimensjoner");
 define("IMALAN_80", "Vannmerke aktivisering");
 define("IMALAN_81", "Alle bilder med en bredde eller høyde større enn denne verdien får et vannmerke under Skalering.");
@@ -86,7 +91,7 @@ define("IMALAN_85", "Valgfri vannmerke skrift. Last opp flere TTF skrifter til m
 define("IMALAN_86", "Vannmerke størrelse");
 define("IMALAN_87", "Skriftstørrelsen i pts");
 define("IMALAN_88", "Vannmerke posisjon");
-define("IMALAN_89", "");
+define("IMALAN_89", "Vannmerke");
 define("IMALAN_90", "Vannmerke Margin");
 define("IMALAN_91", "Avstanden som vannmerket vises fra kanten av bildet.");
 define("IMALAN_92", "Vannmerkets farge");
@@ -107,7 +112,7 @@ define("IMALAN_106", "Tomt, vil deaktivere");
 define("IMALAN_107", "Kunne ikke generert banen fra opplasting av data");
 define("IMALAN_108", "Kunne ikke flytte fil fra [x] til [y]");
 define("IMALAN_109", "Kunne ikke få vei");
-define("IMALAN_110", "");
+define("IMALAN_110", "Sti");
 define("IMALAN_111", "Kunne ikke finne mime-type([x]). Opplastingen mislyktes.");
 define("IMALAN_112", "Kan ikke opprette mappen ([x]).");
 define("IMALAN_113", "Søker etter nye medier (bilder, videoer, filer) i mappen:");
@@ -125,3 +130,57 @@ define("IMALAN_125", "Slette valgte filer");
 define("IMALAN_126", "Kontroller minst én fil.");
 define("IMALAN_127", "Kunne ikke få Filinformasjon fra:");
 define("IMALAN_128", "Importere Media:");
+define("IMALAN_129", "Du er i ferd med å slette [x] poster og <strong> alle tilhørende filer </ strong>! Bekreft for å fortsette!");
+define("IMALAN_130", "Forrige side");
+define("IMALAN_131", "Neste side");
+define("IMALAN_132", "Tagger/nøkkelord");
+define("IMALAN_133", "Nede til høyre");
+define("IMALAN_134", "Nede til venstre");
+define("IMALAN_135", "Oppe til høyre");
+define("IMALAN_136", "Oppe til venstre");
+define("IMALAN_137", "Sentrert");
+define("IMALAN_138", "Høyre");
+define("IMALAN_139", "venstre");
+define("IMALAN_140", "Toppen");
+define("IMALAN_141", "Nede");
+define("IMALAN_142", "Rute");
+define("IMALAN_143", "Bilde");
+define("IMALAN_144", "Fil");
+define("IMALAN_145", "Fra din datamaskin");
+define("IMALAN_146", "Ingen HTML5 støtte.");
+define("IMALAN_147", "Fra en ekstern plassering");
+define("IMALAN_148", "Bilde/Fil URL");
+define("IMALAN_149", "Start opplasting");
+define("IMALAN_150", "Last opp en fil");
+define("IMALAN_151", "Velg fra bibliotek");
+define("IMALAN_152", "Utseende");
+define("IMALAN_153", "Bildet er i bruk");
+define("IMALAN_154", "Ikke i bruk");
+define("IMALAN_155", "Avatar Forhåndsvalg Mappe");
+define("IMALAN_156", "Slett alle ubrukte bilder");
+define("IMALAN_157", "Tekstflyt");
+define("IMALAN_158", "Venstre marg");
+define("IMALAN_159", "Høyre marg");
+define("IMALAN_160", "Topp marg");
+define("IMALAN_161", "Bunn marg");
+define("IMALAN_162", "Viser [x] - [y] fra [Z] bilder.");
+define("IMALAN_163", "Video");
+define("IMALAN_164", "Slettet ikoner fra Media Manager");
+define("IMALAN_165", "Ingen bilder");
+define("IMALAN_166", "Last opp bilder og filer");
+define("IMALAN_167", "Ingen fil");
+define("IMALAN_168", "Klikke på avataren for å endre den");
+define("IMALAN_169", "Ingen avatar tilgjengelig");
+define("IMALAN_170", "Velg denne avataren");
+define("IMALAN_171", "Kun-Admin Merknad: Mappen");
+define("IMALAN_172", "er tom. Last opp noen standard avatarer bilder til denne mappen for brukere å velge avatarer fra.");
+define("IMALAN_173", "Ingen medieeier funnet.");
+define("IMALAN_174", "YouTube søk krever en (gratis) YouTube v3 API-nøkkel. [br] Denne tasten er ikke nødvendig med mindre du ønsker å utføre et søkeord, spilleliste eller kanalsøket . [br] Ved å skrive inn en YouTube video URL direkte inn i boksen ovenfor vil fortsatt fungere uten har en API-nøkkel. [br] [x]");
+define("IMALAN_175", "Søk Youtube. Lim alle YouTube URL her for en bestemt video/spilleliste/kanal");
+define("IMALAN_176", "Det var et problem å ta tak i filen");
+define("IMALAN_177", "Klikk her for mer informasjon og for å angi API-nøkkel");
+define("IMALAN_178", "Avatars Mappe (velges av brukeren)");
+define("IMALAN_179", "Avatars Mappe (privat)");
+
+
+?>

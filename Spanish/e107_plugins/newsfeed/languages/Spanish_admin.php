@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/05/22 16:58:35
+|
+|        $Author: Norwayman $
++---------------------------------------------------------------+
+*/
 
 define("NFLAN_03", "Configurar noticias");
 define("NFLAN_04", "Newsfeeds plugin se ha instalado correctamente. Para agregar canales electrónicos y configurar, volver a la Página principal del administrador y haga clic en el icono de noticias en la sección de plugin.");
@@ -46,3 +52,7 @@ define("LAN_AL_NEWSFD_02", "Feed de noticias actualizado");
 define("LAN_AL_NEWSFD_03", "Borrado de noticias Feed");
 define("LAN_AL_NEWSFD_04", "");
 define("LAN_AL_NEWSFD_05", "");
+define("NFLAN_50", "Última actualización");
+
+
+?>
