@@ -9,7 +9,6 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-
 define("FORLAN_2", "Velg enten slette beskjæres innlegg helt eller gjøre dem inaktive (ikke slettet men ikke synlig i fora)");
 define("FORLAN_7", "Forum alternativer");
 define("FORLAN_8", "Fora beskjæres.");
@@ -34,6 +33,7 @@ define("FORLAN_56", "Antall postinger til en tråd før den er merket populær")
 define("FORLAN_57", "Innlegg per side");
 define("FORLAN_58", "Antall poster som vises per side");
 define("FORLAN_60", "Dette vil slette alle emner som ikke har mottatt et svar i antall dager du angir.<br><b>Vær forsiktig med denne funksjonen!</b>");
+define("FORLAN_63", "Vis rang");
 define("FORLAN_65", "Forum tittel");
 define("FORLAN_66", "Ikke installert");
 define("FORLAN_70", "Aktiverer fil / bilde vedlegg");
@@ -108,8 +108,24 @@ define("FORLAN_184", "Tråden etableringen tillatelse");
 define("FORLAN_185", "Angir hvem som kan opprette nye tråder");
 define("FORLAN_186", "Tråder per side");
 define("FORLAN_187", "Antall tråder som vises per side");
-define("FORLAN_188", "Seneste poster");
 define("FORLAN_189", "Klikk på "Slett" for å slette rapporten.<br /><br />Klikk på "Vis" knappen for å vise emnet / tråden");
+define("FORLAN_200", "Emne sporing");
+define("FORLAN_201", "Aktiver dette for å tillate brukerne å spore emner.");
+define("FORLAN_202", "Emne sporing e-postvarsler");
+define("FORLAN_203", "Aktiver dette alternativet for å tillate brukerne å motta e-postvarsler når andre svarer på et sporet emne.");
+define("FORLAN_204", "Bruker-Anon");
+define("FORLAN_205", "Tillatelse for å poste");
+define("FORLAN_206", "Tråd opprettelse klasse");
+define("FORLAN_207", "Forum og tråder");
+define("FORLAN_208", "Kun Forum");
+define("FORLAN_209", "Tema");
+define("FORLAN_210", "Problem");
+define("FORLAN_211", "Send inn av");
+define("FORLAN_212", "Vedlegg");
+define("FORLAN_213", "Postering");
+define("FORLAN_214", "La stå tomt for å automatisk generere det fra tittelen ovenfor.");
+define("FORLAN_215", "Ikke innstallert");
+define("FORLAN_216", "(Ny foreldre)");
 
 
 ?>

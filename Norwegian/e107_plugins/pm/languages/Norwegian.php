@@ -9,7 +9,6 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-
 define("LAN_PM", "Privat melding");
 define("LAN_PM_1", "Sende Private meldinger");
 define("LAN_PM_2", "Til");
@@ -34,8 +33,6 @@ define("LAN_PM_21", "Legge denne vil overstige høyeste utboksen størrelse, PM 
 define("LAN_PM_22", "Filopplasting mislyktes");
 define("LAN_PM_23", "Du har ikke lov til å sende vedlegg");
 define("LAN_PM_24", "Slette PM");
-define("LAN_PM_25", "Innboksen");
-define("LAN_PM_26", "Utboksen");
 define("LAN_PM_27", "Ulest");
 define("LAN_PM_28", "I/T");
 define("LAN_PM_29", "Melding sendt");
@@ -91,6 +88,10 @@ define("LAN_PM_107", "Den Private meldingen du sendte til {UNAME} ble lest");
 define("LAN_PM_108", "Melding sendt på:");
 define("LAN_PM_109", "Nye melding(er)");
 define("LAN_PM_111", "Les");
+define("LAN_PM_112", "Bruker(e)");
+define("LAN_PM_113", "Les melding");
+define("LAN_PM_114", "Du har ikke tilgang til å sende til denne brukeren.");
+define("LAN_PM_115", "Bruker ikke funnet");
 
 
 ?>

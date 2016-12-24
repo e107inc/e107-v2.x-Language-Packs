@@ -172,12 +172,17 @@ define("LAN_FORUM_3028", "Legge til avstemning");
 define("LAN_FORUM_3038", "Normal");
 define("LAN_FORUM_3039", "Deaktiver uttrykksikoner for dette innlegget");
 define("LAN_FORUM_3040", "Aktivere e-sporing (e-post sendt svar bokførte)");
+define("LAN_FORUM_3041", "Aktivere/deaktivere sporing av dette emnet");
+define("LAN_FORUM_3042", "Nytt emne/tema");
 define("LAN_FORUM_3043", "takk");
 define("LAN_FORUM_3045", "Avstemningen er postert.");
 define("LAN_FORUM_3046", "Klikk her for å vise avstemningen");
 define("LAN_FORUM_3047", "Meldingen er postert.");
 define("LAN_FORUM_3048", "Klikk her for å vise meldingen");
 define("LAN_FORUM_3049", "Svaret er postert.");
+define("LAN_FORUM_3050", "Splitt punkt");
+define("LAN_FORUM_3051", "Ny plassering");
+define("LAN_FORUM_3052", "Splitt Tråd");
 define("LAN_FORUM_4001", "Uleste innlegg finnes");
 define("LAN_FORUM_4002", "Ingen uleste innlegg");
 define("LAN_FORUM_4003", "Nye innlegg på populært tema");
@@ -234,6 +239,29 @@ define("LAN_FORUM_8001", "En ny post har blitt gjort av [x] under emnet [y] på 
 define("LAN_FORUM_8002", "Vennligst klikk på følgende link for å se hele innlegget ...");
 define("LAN_FORUM_8003", "E-postvarsler for dette emnet er nå slått på.");
 define("LAN_FORUM_8004", "E-postvarsler for dette emnet er nå slått av.");
+define("LAN_FORUM_8005", "Du sporer nå dette emnet.");
+define("LAN_FORUM_8006", "Du sporer ikke lenger dette emnet.");
+define("LAN_FORUM_8007", "Fest");
+define("LAN_FORUM_8008", "Fjern festing");
+define("LAN_FORUM_8009", "Lås");
+define("LAN_FORUM_8010", "Lås opp");
+define("LAN_FORUM_8011", "Status nøkler");
+define("LAN_FORUM_8012", "Synlig for");
+define("LAN_FORUM_8013", "Valg");
+define("LAN_FORUM_8014", "Dette innlegget, og hvert innlegg under det vil bli flyttet inn i en ny tråd/tema.");
+define("LAN_FORUM_8015", "Advarsel!");
+define("LAN_FORUM_8016", "(Nåværende)");
+define("LAN_FORUM_8017", "Det var et problem med å deaktivere sporing.");
+define("LAN_FORUM_8018", "Det var et problem");
+define("LAN_FORUM_8019", "Kunne ikke slette emnet!");
+define("LAN_FORUM_8020", "Slettet emnet");
+define("LAN_FORUM_8021", "Slettet post");
+define("LAN_FORUM_8022", "Kunne ikke slette post");
+define("LAN_FORUM_8023", "Kunne ikke lukke tråden");
+define("LAN_FORUM_8024", "Kunne ikke åpne tråden");
+define("LAN_FORUM_8025", "Kunne ikke feste tråden");
+define("LAN_FORUM_8026", "Kunne ikke fjerne festingen på tråden");
+define("LAN_FORUM_8027", "Ingen handling valgt");
 
 
 ?>

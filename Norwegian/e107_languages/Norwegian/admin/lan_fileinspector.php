@@ -1,31 +1,44 @@
 <?php
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/12/14 09:00:15
+|
+|        $Author: Norwayman $
++---------------------------------------------------------------+
+*/
 
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("FC_LAN_1", "Arkiv inspektør");
-define("FC_LAN_2", "Avsøke valgmulighetene");
-define("FC_LAN_3", "Vis");
-define("FC_LAN_4", "Alle");
+define("FC_LAN_1", "Fil inspektør");
 define("FC_LAN_5", "Kjernefiler");
-define("FC_LAN_6", "Integritet mislykkes bare");
+define("FC_LAN_6", "Kun integritets feil");
 define("FC_LAN_7", "Ikke kjernefiler");
-define("FC_LAN_8", "Kontroller av kjernefilene");
-define("FC_LAN_9", "På");
-define("FC_LAN_10", "Av");
+define("FC_LAN_8", "Kontroller intergritet av kjernefilene");
 define("FC_LAN_11", "Skan nå");
-define("FC_LAN_12", "Ingen");
 define("FC_LAN_13", "Manglende kjernefiler");
 define("FC_LAN_14", "Viser resultater som");
 define("FC_LAN_15", "Katalogtreet");
-define("FC_LAN_16", "Liste");
 define("FC_LAN_17", "Streng matchende");
 define("FC_LAN_18", "Vanlige uttrykk");
 define("FC_LAN_19", "Vis linjenumre");
 define("FC_LAN_20", "Vis matchet linjer");
 define("FC_LAN_21", "Gamle kjernefiler");
-define("FC_LAN_22", "Markere samsvarende tekst");
+define("FC_LAN_23", "Ekskulder språkfiler");
+define("FC_LAN_24", "Kjerne mappe (Integritet bestått)");
+define("FC_LAN_25", "Kjerne mappe (Integritet ikke bestått)");
+define("FC_LAN_26", "Kjerne mappe (Mangler)");
+define("FC_LAN_27", "Kjerne mappe (Gammel)");
+define("FC_LAN_28", "Ikke  kjerne mappe");
+define("FC_LAN_29", "Kjerne fil (Integritet bestått)");
+define("FC_LAN_30", "Kjerne fil (Ikke kontrollert)");
+define("FC_LAN_31", "Kjerne fil (Integritet ikke bestått)");
+define("FC_LAN_32", "Kjerne fil (Mangler)");
+define("FC_LAN_33", "Kjerne fil (Gammel)");
+define("FC_LAN_34", "Kjerne fil (Uberegnelige)");
+define("FC_LAN_35", "Kjent sikkerhetsproblem");
+define("FC_LAN_36", "Ikke kjerne fil");
+define("FC_LAN_37", "Fil nøkkel");
 define("FR_LAN_1", "Skanning");
 define("FR_LAN_2", "Skanningsresultater");
 define("FR_LAN_3", "Oversikt");
@@ -54,9 +67,7 @@ define("FR_LAN_25", "Integritet uberegnelig");
 define("FR_LAN_26", "Advarsel! Kjente usikkerhet oppdaget!");
 define("FR_LAN_27", "Det finnes filer på serveren som er kjent for å være utnyttes og må fjernes umiddelbart.");
 define("FR_LAN_28", "Kjente usikre filer");
-define("FR_LAN_29", "Totalt antall filer matchet");
-define("FR_LAN_30", "Totalt antall linjer matchet");
-define("FR_LAN_31", "Mangler fullstendig plugin-mappen");
+define("FR_LAN_32", "Du må kjøre en scan først!");
 define("FS_LAN_1", "Opprette øyeblikksbilde");
 define("FS_LAN_2", "Absolutte banen til rotmappen opprette bilde fra");
 define("FS_LAN_3", "Opprette snapshot for plugin: (plugin vil vises når det finnes en skrivbar e_inspect.php fil i rotkatalogen plugins.)");
@@ -69,3 +80,6 @@ define("FS_LAN_9", "Øyeblikksbilde");
 define("FS_LAN_10", "Øyeblikksbilde som er opprettet");
 define("FS_LAN_11", "Øyeblikksbildet ble opprettet.");
 define("FS_LAN_12", "Tilbake til hovedside side");
+
+
+?>
