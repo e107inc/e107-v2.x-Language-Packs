@@ -107,6 +107,16 @@ define("DBLAN_108", "Opprettet:");
 define("DBLAN_109", "Kopierte:");
 define("DBLAN_110", "Kunne ikke kopiere:");
 define("DBLAN_111", "Tabeller ser ut til å være i orden!");
+define("DBLAN_112", "Synkroniser med Github");
+define("DBLAN_113", "Overskriv filer");
+define("DBLAN_114", "Bare Developer Mode");
+define("DBLAN_115", "Overskriv lokale filer med det seneste fra GitHub.");
+define("DBLAN_116", "Dette vil laste ned den nyeste .zip filen fra GitHub til");
+define("DBLAN_117", "og deretter pakke den ut, og overskriver eksisterende filer som den finner på serveren. De vil ta hensyn til eventuelle egendefinerte mapper du har satt i e107_config.php.");
+define("DBLAN_118", "Kunne ikke laste ned .zip fila");
+define("DBLAN_119", "Sikkerhetskopi");
+define("DBLAN_120", "Starter sikkerhetskopieringen");
+define("DBLAN_121", "Flytter [x] til [y].");
 
 
 ?>

@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/12/05 09:28:31
+|
+|        $Author: Norwayman $
++---------------------------------------------------------------+
+*/
 
 define("LANCONTACT_00", "Kontakt oss");
 define("LANCONTACT_01", "Kontaktinformasjon");
@@ -21,3 +27,10 @@ define("LANCONTACT_13", "Ta med et emne.");
 define("LANCONTACT_14", "Sende melding til:");
 define("LANCONTACT_15", "Feil koden som er angitt");
 define("LANCONTACT_16", "Du må være [registrert] og påloggede bruker skjemaet.");
+define("LANCONTACT_17", "Vennligst skriv inn navnet ditt.");
+define("LANCONTACT_18", "Vennligst skriv inn e-post addressen din.");
+define("LANCONTACT_19", "Vennligst skriv inn emnet for e-posten din.");
+define("LANCONTACT_20", "Vennligst skriv inn meldingen for oss.");
+
+
+?>

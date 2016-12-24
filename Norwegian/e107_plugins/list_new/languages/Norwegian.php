@@ -9,7 +9,6 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-
 define("LIST_MENU_1", "siste tillegg");
 define("LIST_MENU_2", "ved");
 define("LIST_MENU_3", "på");
@@ -59,6 +58,8 @@ define("LIST_FORUM_4", "Svar:");
 define("LIST_FORUM_5", "Siste post:");
 define("LIST_FORUM_6", "på:");
 define("LIST_LAN_1", "ingen elementer i");
+define("LIST_DOWNLOAD_1", "nedlastinger");
+define("LIST_DOWNLOAD_2", "ingen nedlastinger");
 
 
 ?>

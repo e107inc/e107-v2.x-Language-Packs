@@ -9,9 +9,9 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-
 define("CHATBOX_L1", "Kan ikke godta innlegg som dette brukernavnet er registrert - hvis det er brukernavnet Logg bokføre.");
-define("CHATBOX_L3", "Du må være logget inn for å legge inn kommentarer på dette nettstedet - vennligst logg inn eller hvis du ikke er registrert Klikk <a href=''.e_SIGNUP.''>her</a> å kvittere");
+define("CHATBOX_L3", "Du må være logget inn for å legge inn kommentarer på dette nettstedet - enten logg inn fra logg inn boksen eller [herfra].");
+define("CHATBOX_L3b", "Hvis du ikke er registrert klikk [her] for å registrere deg.");
 define("CHATBOX_L4", "Post ny melding");
 define("CHATBOX_L5", "Tilbakestille");
 define("CHATBOX_L6", "[blokkert av admin]");

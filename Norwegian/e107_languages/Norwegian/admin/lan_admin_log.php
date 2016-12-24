@@ -9,7 +9,6 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-
 define("RL_LAN_002", "Rullende Logg");
 define("RL_LAN_005", "Konfigurere/vise systemlogg");
 define("RL_LAN_008", "Rullende Logg er aktiv:");
@@ -67,6 +66,9 @@ define("RL_LAN_081", "E transittstopp");
 define("RL_LAN_082", "Brukeren forbud");
 define("RL_LAN_083", "E transittstopp tilbakestilles");
 define("RL_LAN_084", "Midlertidige kontoer");
+define("RL_LAN_085", "[X] posten (e) slettet!");
+define("RL_LAN_086", "[X] Records ikke funnet, og slettes ikke!");
+define("RL_LAN_087", "Detaljer");
 define("RL_LAN_090", "Last ned ID");
 define("RL_LAN_091", "Detaljert tidsberegning");
 define("RL_LAN_092", "Tidsperiode");
@@ -97,6 +99,10 @@ define("RL_LAN_123", "Tilsynet løypa klasse");
 define("RL_LAN_124", "Tilsynet løypa brukerhandlinger");
 define("RL_LAN_125", "Logger systemvedlikehold");
 define("RL_LAN_126", "Totalt [x] oppføringer matchende søkevilkår");
+define("RL_LAN_132", "Informative");
+define("RL_LAN_133", "Legge merke til");
+define("RL_LAN_134", "Advarsel");
+define("RL_LAN_135", "Fatal");
 
 
 ?>

@@ -9,7 +9,6 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-
 define("LANDT_01", "år");
 define("LANDT_02", "måned");
 define("LANDT_03", "uke");
@@ -29,6 +28,7 @@ define("LANDT_08s", "minutter");
 define("LANDT_09", "sekund");
 define("LANDT_09s", "sekunder");
 define("LANDT_AGO", "siden");
+define("LANDT_10", "Akkurat nå");
 
 
 ?>

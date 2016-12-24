@@ -9,7 +9,6 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-
 define("USRLAN_1", "Alternativer lagret.");
 define("USRLAN_3", "nå oppført Administrator - angi tillatelser kan du gå til den");
 define("USRLAN_4", "Administrator-siden");
@@ -125,7 +124,7 @@ define("USRLAN_169", "Totalt - COUNT - sprett emails slettet");
 define("USRLAN_170", "Tilfeldig brukernavn");
 define("USRLAN_171", "Tilfeldig passord");
 define("USRLAN_172", "Brukerkontoen er opprettet med følgende:");
-define("USRLAN_175", "");
+define("USRLAN_175", "Sesjon");
 define("USRLAN_179", "Bruker utestengt:");
 define("USRLAN_180", "IP-adressen til {IP} vises på hviteliste; IP ikke forbudt.");
 define("USRLAN_181", "Velg alternativet for brukerstatus og sende e-postbekreftelsen til brukeren");
@@ -142,7 +141,7 @@ define("USRLAN_191", "Administratoren kan innføre restriksjoner i denne periode
 define("USRLAN_192", "");
 define("USRLAN_193", "Ikke noe forandret - ikke lagret");
 define("USRLAN_194", "Signaturen kan endres av");
-define("USRLAN_195", "");
+define("USRLAN_195", "Siste post");
 define("USRLAN_197", "Kilde");
 define("USRLAN_198", "Feltnavn");
 define("USRLAN_199", "Operasjon");
@@ -165,6 +164,13 @@ define("LAN_MAINADMIN", "Viktigste Admin");
 define("LAN_NOTVERIFIED", "Ikke bekreftet");
 define("LAN_BANNED", "Utestengt");
 define("LAN_BOUNCED", "Sprett");
+define("LAN_UI_1_HOUR", "1 time");
+define("LAN_UI_3_HOURS", "3 timer");
+define("LAN_UI_6_HOURS", "6 timer");
+define("LAN_UI_12_HOURS", "12 timer");
+define("LAN_UI_24_HOURS", "24 timer");
+define("LAN_UI_48_HOURS", "48 timer");
+define("LAN_UI_3_DAYS", "3 dager");
 define("USRLAN_220", "Alle Userclasses");
 define("USRLAN_221", "Redigere admin perms");
 define("USRLAN_222", "Du er ferd med å slette [x] ([y]) med ID #[z]. er du sikker?");
@@ -196,6 +202,10 @@ define("USRLAN_247", "Oss");
 define("USRLAN_248", "Oss");
 define("USRLAN_249", "Oss");
 define("USRLAN_250", "Oss");
+define("USRLAN_251", "La stå tomt for ingen endring");
+define("USRLAN_252", "Sende kontoaktivering e-post til uaktiverte brukere.");
+define("USRLAN_253", "Eldre enn");
+define("USRLAN_254", "Tilbakestill alle passord");
 define("UCSLAN_1", "Sende e-postmelding til");
 define("UCSLAN_2", "Oppdatert rettigheter");
 define("UCSLAN_3", "Kjære");
