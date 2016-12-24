@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/10/23 13:34:45
+|
+|        $Author: Norwayman $
++---------------------------------------------------------------+
+*/
 
 define("UPLLAN_1", "Sube imágenes de quitado de la lista.");
 define("UPLLAN_2", "Ajustes guardados en la base de datos");
@@ -44,5 +50,8 @@ define("UPLLAN_63", "Registro movido a descargas. [x]");
 define("UPLLAN_64", "Gestionar descargas");
 define("UPLLAN_66", "Descargar error de ruta");
 define("UPLLAN_68", "Error SQL:");
-define("UPLLAN_69", "");
-define("UPLLAN_70", "");
+define("UPLLAN_69", "Importada");
+define("UPLLAN_70", "Enviar a [x]");
+
+
+?>

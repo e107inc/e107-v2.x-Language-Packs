@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/10/23 13:37:00
+|
+|        $Author: Norwayman $
++---------------------------------------------------------------+
+*/
 
 define("LAN_CHECK_2", "Verificar");
 define("LAN_CHECK_3", "Verificación de la");
@@ -15,12 +21,11 @@ define("LAN_CHECK_18", "Archivos de idioma en el formato estándar no están dis
 define("LAN_CHECK_19", "Caracteres de UTF-8 no encontrados!");
 define("LAN_CHECK_20", "Generar paquete de idioma");
 define("LAN_CHECK_21", "Verificar nuevamente");
-define("LAN_CHECK_22", "Tema");
 define("LAN_CHECK_23", "Errores encontrados");
-define("LAN_CHECK_24", "Resumen");
-define("LAN_CHECK_25", "Temas");
+define("LAN_CHECK_26", "Frente");
 define("LAN_CHECK_PAGE_TITLE", "Idiomas");
 define("LAN_CHECK_27", "Número de errores de paquete de idioma encontrados");
+define("LAN_CHECK_28", "Identicos");
 define("LANG_LAN_23", "Crear el paquete de idioma (zip)");
 define("LANG_LAN_30", "Fecha de lanzamiento");
 define("LANG_LAN_31", "Compatibilidad");
@@ -34,3 +39,6 @@ define("LANG_LAN_117", "Debe corregir los errores restantes antes de contribuir 
 define("LANG_LAN_119", "Por favor, compruebe que CORE_LC y CORE_LC2 tienen valores en [x] y vuelva a intentarlo.");
 define("LANG_LAN_120", "Por favor, asegúrese de que está utilizando nombres de carpeta predeterminados en e107_config.php (ej. e107_languages, e107_plugins / etc.) e inténtelo de nuevo.");
 define("LANG_LAN_AGR", "Nota: Mediante el uso de estas herramientas usted acepta compartir el paquete de idioma (s) con la comunidad de e107.");
+
+
+?>

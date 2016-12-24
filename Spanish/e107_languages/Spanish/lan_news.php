@@ -9,7 +9,6 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-
 define("PAGE_NAME", "Noticias");
 define("LAN_NEWS_1", "Noticias específicos solo para miembros");
 define("LAN_NEWS_2", "No se permite ver esta noticia");
@@ -34,8 +33,10 @@ define("LAN_NEWS_85", "Volver a Descripción de la categoría");
 define("LAN_NEWS_86", "Noticias más antiguas");
 define("LAN_NEWS_87", "Noticias más recientes");
 define("LAN_NEWS_462", "No hay noticias para el mes especificado");
+define("LAN_NEWS_463", "No hay noticias para la categoría especificada - por favor vuelva pronto.");
 define("LAN_NEWS_100", "En");
 define("LAN_NEWS_307", "Total entradas en esta categoría:");
+define("LAN_NEWS_308", "Tal vez usted está buscando una de las noticias a continuación?");
 
 
 ?>

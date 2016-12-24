@@ -66,6 +66,9 @@ define("RL_LAN_081", "Rebotes de correo");
 define("RL_LAN_082", "Prohibiciones de usuario");
 define("RL_LAN_083", "Reajustes de rebote de correo");
 define("RL_LAN_084", "Cuentas temporales");
+define("RL_LAN_085", "[X] registros eliminados correctamente!");
+define("RL_LAN_086", "[X] registros no encontrados y no eliminados!");
+define("RL_LAN_087", "Detalles");
 define("RL_LAN_090", "Descargar ID");
 define("RL_LAN_091", "Horarios detallados");
 define("RL_LAN_092", "Período de tiempo");
@@ -96,6 +99,10 @@ define("RL_LAN_123", "Clase de rastro de auditoría de usuario");
 define("RL_LAN_124", "Acciones del usuario audit trail");
 define("RL_LAN_125", "Mantenimiento del sistema de registros");
 define("RL_LAN_126", "Entradas total [x] condición de búsqueda de coincidencia");
+define("RL_LAN_132", "Informativo");
+define("RL_LAN_133", "Anuncio");
+define("RL_LAN_134", "Advertencia");
+define("RL_LAN_135", "Fatal");
 
 
 ?>

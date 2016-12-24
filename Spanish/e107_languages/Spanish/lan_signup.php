@@ -9,7 +9,6 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-
 define("PAGE_NAME", "Registro");
 define("LAN_EMAIL_01", "Estimado");
 define("LAN_EMAIL_04", "Guarde este correo electrónico para su propia información.");
@@ -105,6 +104,13 @@ define("LAN_SIGNUP_109", "Es caso sensible y no debe contener espacios.");
 define("LAN_SIGNUP_110", "Su nombre completo");
 define("LAN_SIGNUP_111", "Introduzca una URL de tu imagen o elige un avatar existente.");
 define("LAN_SIGNUP_112", "Actualmente está logueado como administrador principal.");
+define("LAN_SIGNUP_113", "Suscripción (es)");
+define("LAN_SIGNUP_114", "El registro de usuario está actualmente deshabilitado.");
+define("LAN_SIGNUP_115", "Previsualizar correo electrónico de activación");
+define("LAN_SIGNUP_116", "Vista previa después de enviar el formulario");
+define("LAN_SIGNUP_117", "Enviar una prueba de activación");
+define("LAN_SIGNUP_118", "A [x]");
+define("LAN_SIGNUP_119", "No envíe correo electrónico");
 
 
 ?>

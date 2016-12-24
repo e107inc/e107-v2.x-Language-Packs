@@ -89,6 +89,9 @@ define("LAN_PM_108", "Mensaje:");
 define("LAN_PM_109", "Nuevo mensaje (s)");
 define("LAN_PM_111", "Leer");
 define("LAN_PM_112", "Usuario(s)");
+define("LAN_PM_113", "Leer el mensaje");
+define("LAN_PM_114", "Usted no tiene acceso para enviar a este usuario.");
+define("LAN_PM_115", "Usuario no encontrado");
 
 
 ?>
