@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Hungarian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/22 13:20:38
+|
+|        $Author: Yesszus $
++---------------------------------------------------------------+
+*/
 
 define("LAN_VALIDATE_0",   "Ismeretlen hiba");
 define("LAN_VALIDATE_101", "Hiányzó érték");
@@ -21,9 +27,10 @@ define("LAN_VALIDATE_152", "Float szám szükséges");
 define("LAN_VALIDATE_153", "Példány típus szükséges");
 define("LAN_VALIDATE_154", "Tömb típus szükséges");
 define("LAN_VALIDATE_191", "Üres érték");
-define("LAN_VALIDATE_201", "Fájl nem létezik");
-define("LAN_VALIDATE_202", "Fájl nem írható");
-define("LAN_VALIDATE_203", "Fájl túllépte a megengedett fájl méretet");
-define("LAN_VALIDATE_204", "Fájl méret kicsebb, mint a megengedett minimális fájl méret");
+define("LAN_VALIDATE_201", "A fájl nem létezik");
+define("LAN_VALIDATE_202", "A fájl nem írható");
+define("LAN_VALIDATE_203", "A fájl túllépte a megengedett fájl méretet");
+define("LAN_VALIDATE_204", "A fájl mérete kicsebb, mint a megengedett minimális fájl méret");
 
 define("LAN_VALIDATE_FAILMSG", "[x] hitelesítési hiba: [y] [z].");
+?>

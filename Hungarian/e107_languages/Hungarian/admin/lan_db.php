@@ -9,7 +9,7 @@
 |        $Author: Yesszus $
 +---------------------------------------------------------------+
 */
-define("DBLAN_1", "Core beállítások elmentve az adatbázisban.");
+define("DBLAN_1", "A Core beállítások elmentve az adatbázisban!");
 define("DBLAN_4", "Adatbázis érvényességének ellenőrzése");
 define("DBLAN_5", "Érvényesség ellenőrzése");
 define("DBLAN_6", "Adatbázis optimalizálása");
@@ -33,9 +33,9 @@ define("DBLAN_27", "Telepítve");
 define("DBLAN_28", "Kattints a gombra a bővítmény vizsgálatához");
 define("DBLAN_29", "Bővítmények ellenőrzése");
 define("DBLAN_30", "Ha egy bővítmény egy hibát mutat, ellenőrizd a PHP kezdő/záró tag-eken kívül eső karaktereket.");
-define("DBLAN_31", "Viszgálat kész");
+define("DBLAN_31", "A viszgálat kész");
 define("DBLAN_33", "Elérhetetlen");
-define("DBLAN_34", "Nem ellenőrzött");
+define("DBLAN_34", "Ellenőrizetlen");
 define("DBLAN_35", "e107 adatbázis bejegyzések ellenőrzése");
 define("DBLAN_36", "Adatbázis bejegyzések ellenőrzése");
 define("DBLAN_37", "Táblák ellenőrzése");
@@ -69,8 +69,8 @@ define("DBLAN_68", "Adatbázis mentés, Fájlok és könyvtárak");
 define("DBLAN_69", "Oldal lementése");
 define("DBLAN_70", "Adatbázis (SQL) dump fájl létrehozása, valamint zip fájl létrehozása a harmadik féltől származó bővítményekkel, sminkekkel, média fájlokkal és a rendszer naplófájljaival.");
 define("DBLAN_71", "Kérlek várj...");
-define("DBLAN_72", "Könyvtár és fájl jogosultságok frissítve");
-define("DBLAN_73", "Könxvtár és fájl jogosultságok javítása");
+define("DBLAN_72", "A könyvtár és fájl jogosultságok frissítve!");
+define("DBLAN_73", "Könyvtár és fájl jogosultságok javítása");
 define("DBLAN_74", "Javítás a szerveren");
 define("DBLAN_75", "Adatbázis létrehozása");
 define("DBLAN_76", "Adatbázis kiválasztása");
@@ -114,7 +114,7 @@ define("DBLAN_114", "Csak Fejlesztőknek");
 define("DBLAN_115", "A saját fájlok felülíródnak a github-ról letöltött fájlokkal.");
 define("DBLAN_116", "A github-ról letöltődnek a legutóbbi frissítések egy .zip fájlban az");
 define("DBLAN_117", "mappába.<br />Kibontódik és a szerveren található fájlok felülíródnak a github-ról letöltött fájlokkal.<br />Vegye figyelembe, hogy az egyéni mappákat az e107_config.php fájlban lehet beállítani.");
-define("DBLAN_118", "A .zip fájlt nem lehet letölteni!");
+define("DBLAN_118", "Nem lehet letölteni a .zip fájlt!");
 define("DBLAN_119", "Biztonsági mentés létrehozása");
 define("DBLAN_120", "Biztonsági mentés létrehozása....");
 define("DBLAN_121", "[x] áthelyezve ide [y].");

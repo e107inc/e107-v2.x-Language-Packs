@@ -12,15 +12,12 @@
 
 if (!defined('e107_INIT')) { exit; }
 
-$caption = "System Logs Help";
+$caption = "Rendszer Naplózás";
 if (e_QUERY) list($action,$junk) = explode('.',e_QUERY); else $action = 'list';
 
 function common_filters()
 {
-  $ret = "<b>Data filters</b><br />
-  You can specify various filters which restrict the amount of data to view. These are retained in a cookie until you log off.<br />
-  The start and end date/time filters have to be enabled through their respective checkboxes.<br />
-  Other filters are active when there is a value in the box.<br />
+  $ret = "<b>Adatszűrők</b><br />Különböző szűrőket adhat meg, amelyek korlátozzák a megjelenő adatmennyiséget.<br />Ezek megmaradnak a cookie-ban, amíg nem kapcsolja ki.<br />A kezdési és befejezési dátum/idő szűrőket kell engedélyezni a jelölőnégyzetekben.<br />Az egyéb szűrők aktívak, ha van egy érték a mezőben.<br />
   ";
   return $ret;
 }
@@ -64,8 +61,7 @@ case 'detailed' :
   break;
 case 'adminlog' :
 default :
-  $text = "This page displays administrator activity.<br /><br />
-  (At present, logging is still being added to the code, so the list is not complete.)<br /><br />";
+  $text = "Ezen az oldalon láthatóak az adminisztrátor aktivitások.<br /><br />";
   $text .= common_filters();
 }
 $ns -> tablerender($caption, $text);
