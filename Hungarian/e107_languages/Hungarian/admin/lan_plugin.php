@@ -241,12 +241,10 @@ define ('EPL_ADLAN_229',"Frissítés");
 define ('EPL_ADLAN_230',"Letöltés és telepítés: ");
 define ('EPL_ADLAN_231',"Ikonok törlése a Média kezelőből"); 
 define ('EPL_ADLAN_232',"Fájlok létrehozása");
-
-define ('EPL_ADLAN_233',"[x] link hozzáadva! URL: [y] Jog: [z]"); // 2183
-define ('EPL_ADLAN_234',"[x] link törölve! URL: [y]"); //2191, 2201
-
-define ('EPL_ADLAN_235',"Az automatikus letöltés nem működik! Használja ezt:");
-define ('EPL_ADLAN_236',"Manuális letöltés");
+define ('EPL_ADLAN_233',"Hozzáadott link:"); 
+define ('EPL_ADLAN_234',"Törölt link:"); 
+define ('EPL_ADLAN_235',"Az automatikus letöltés nem működik!");
+define ('EPL_ADLAN_236',"[Manuális letöltés]");
 define ('EPL_ADLAN_237',"Letöltés");
 define ('EPL_ADLAN_238',"A telepítés befejezve!");
 define ('EPL_ADLAN_239',"Hozzáadott Tábla:");
@@ -255,11 +253,13 @@ define ('EPL_ADLAN_241',"Hozzáadott előbeállítás:");
 define ('EPL_ADLAN_242',"Törölt előbellítás:");
 define ('EPL_ADLAN_243',"Frissített előbeállítás:");
 define ('EPL_ADLAN_244',"A telepítés során csak 5 Média kategória engedélyezett.");
-
-define ('EPL_ADLAN_245',"A [x] média kategória hozzáadva!");  //2304
-define ('EPL_ADLAN_246',"Az összes [x] média kategória törölve!"); //2316
-define ('EPL_ADLAN_247',"Adding [x] hozzáadva ide: to [y]"); //2030
-define ('EPL_ADLAN_248',"Removing [x] törölve innen: from [y]");  //2039
+define ('EPL_ADLAN_245',"A [x] média kategória hozzáadva!");  
+define ('EPL_ADLAN_246',"Az összes [x] média kategória törölve!"); 
+ 
+define ('EPL_ADLAN_249',"Hozzáadott Kiterjesztett Mező: ");  
+define ('EPL_ADLAN_250',"Törölt Kiterjesztett Mező: ");  
+define ('EPL_ADLAN_251',"Kiterjesztett Mező maradt itt: ");  
+define ('EPL_ADLAN_252',"Jog: ");  
 
 define ('TPVLAN_81',"Letöltés..."); 
 define ('TPVLAN_82',"A letöltés befejezve!");
@@ -273,4 +273,4 @@ define ('LAN_UPGRADE_SUCCESSFUL', "Sikeres frissítés");
 define ('LAN_INSTALL_SUCCESSFUL', "Sikeres telepítés");
 define ('LAN_INSTALL_FAIL', "Sikertelen telepítés");
 define ('LAN_UNINSTALL_FAIL', "Nem lehet eltávolítani!");
-define ('LAN_PLUGIN_IS_USED', "A [x] plugin-t használja:");
+define ('LAN_PLUGIN_IS_USED', "A(z) [x] plugin-t használja:");

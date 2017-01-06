@@ -9,6 +9,7 @@
 |        $Author: Yesszus $
 +---------------------------------------------------------------+
 */
+if (!defined("PAGE_NAME")) { define("PAGE_NAME", "Időzített Feladatok"); }
 define("LAN_CRON_M_02", "Frissítés");
 define("LAN_CRON_2", "Funkció");
 define("LAN_CRON_3", "Lapfül");
@@ -30,14 +31,14 @@ define("LAN_CRON_7", "Nem lehet importálni a idő beállításokat");
 define("LAN_CRON_8", "Importált idő beállítások ehhez");
 define("LAN_CRON_9", "[x] perce és [y] másodperce.");
 define("LAN_CRON_10", "[y] perce.");
-define("LAN_CRON_11", "Cron-ok aktiválása");
+define("LAN_CRON_11", "Aktív feladatok");
 define("LAN_CRON_12", "Legutolsó cron frissítés");
 define("LAN_CRON_13", "Természetesen a cron.php fájlnak futathatónak kell lennie.");
 define("LAN_CRON_14", "Állítsd a CHMOD-t /cron.php 755-re.");
 define("LAN_CRON_15", "Használd a következő Cron Parancsokat");
-define("LAN_CRON_16", "A szerver kezelőfelület segítségével (pl.: cPanel, DirectAdmin, Plesk, stb.) hozz létre egy crontab-t a parancs futatáshoz a szervereden minden percben.");
+define("LAN_CRON_16", "A szerver kezelőfelület segítségével (pl.: cPanel, DirectAdmin, Plesk, stb.) hozz létre egy crontab-ot a parancs futatáshoz a szervereden minden percben.");
 define("LAN_CRON_20_1", "e107 frissítés ellenőrzése");
-define("LAN_CRON_20_2", "a Core frissítések ellenőrzése az e107.org -on");
+define("LAN_CRON_20_2", "A Core frissítések ellenőrzése az e107.org-on");
 define("LAN_CRON_20_3", "Javasolt a rendszer naprakészen tartása.");
 define("LAN_CRON_20_4", "Frissítés a Git adattárból");
 define("LAN_CRON_20_5", "e107 telepítő frissítése a legújabb fájlokkal a github-ról.");
@@ -65,5 +66,10 @@ define("LAN_CRON_54", "Hét:");
 define("LAN_CRON_BACKUP", "Mentés");
 define("LAN_CRON_LOGGING", "Naplózás");
 define("LAN_CRON_RUNNING", "Cron futtatás ");
+define("LAN_CRON_60", "Ugrás a cPanel területre");
+define("LAN_CRON_61", "Új cron jelszó létrehozása");
+define("LAN_CRON_62", "Végrehajtó konfig funkció: [b][x][/b]");
+define("LAN_CRON_63", "A [b][x][/b] konfig funkció NEM található!");
+define("LAN_CRON_64", "A rendszergazda feladatok automatizálására használja az e107 Feladat ütemezőt.[br][br]A kezelő fülön, lehet szerkeszteni, törölni, és futtatni feladatokat.[br][br]Amikor szerkeszt egy feladatot, állítsa be a percet, órát, napot, a hónap vagy a hét napját, hogy mikor szeretné futtatni a feladatot.[br][br]Használja ezt * az egyes időszakokban történő futtatáshoz.[br][br]Használja az aktív tulajdonságot a feladat engedélyezéséhez.[br][br]Megjegyzés: Azt tanácsoljuk, hogy ne törölje a szabványos feladatokat.[br]");
 
 ?>

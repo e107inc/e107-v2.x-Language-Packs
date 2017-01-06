@@ -9,7 +9,6 @@
 |        $Author: Yesszus $
 +---------------------------------------------------------------+
 */
-
 define("CUSLAN_9", "Szöveg");
 define("CUSLAN_11", "Meta ismertetés");
 define("CUSLAN_12", "Menü/oldal létrehozása");
