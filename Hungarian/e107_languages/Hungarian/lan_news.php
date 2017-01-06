@@ -18,7 +18,7 @@ define("LAN_NEWS_9", "Csak cím beállítás - <b>csak a hír címe fog megjelen
 define("LAN_NEWS_10", "A hír <b>inaktív</b> (nem fog megjelenni az oldalon). ");
 define("LAN_NEWS_11", "A hír <b>aktív</b> (meg fog jelenni az oldalon). ");
 define("LAN_NEWS_12", "Hozzászólások <b>engedélyezve</b>. ");
-define("LAN_NEWS_13", "Hozzászólások <b>kikapcsolva</b>. ");
+define("LAN_NEWS_13", "<b>Hozzászólás kikapcsolva</b>! ");
 define("LAN_NEWS_14", "<br />Aktív időszak: ");
 define("LAN_NEWS_15", "Szövegtörzs hossza: ");
 define("LAN_NEWS_16", "Szövegtörzs (bővített) hossza: ");
@@ -39,3 +39,5 @@ define("LAN_NEWS_463", "Ebben a kategóriában még nincs hír közzétéve - k�
 
 define("LAN_NEWS_100", " - ");
 define("LAN_NEWS_307", "Összes bejegyzés ebben a kategóriában: ");
+define("LAN_NEWS_308", "Talán keres egy hírt az alábbiakból?");
+?>

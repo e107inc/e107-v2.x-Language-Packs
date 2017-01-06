@@ -76,5 +76,4 @@ define("COMLAN_TYPE_PAGE", "Tartalom");
 define("COMLAN_500", "Kérjük, hogy [jelentkezzen be] a hozzászólás beküldéséhez!");
 define("COMLAN_501", "Ön még nem regisztrált [IDE] kattintva megteheti!");
 
-
 ?>
