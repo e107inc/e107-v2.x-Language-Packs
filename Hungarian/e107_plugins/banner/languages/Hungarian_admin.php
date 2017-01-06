@@ -46,6 +46,9 @@ define("BNRLAN_46", "Az összes kiválasztott kampány egy menüben");
 define("BNRLAN_47", "Az összes kiválasztott kampány külön menükben");
 define("BNRLAN_48", "Az összes kiválasztott kampány (menü-doboz nélkül)");
 define("BNRLAN_49", "Eszköztipp");
-
+define("BNRLAN_50", "Helyi");
+define("BNRLAN_51", "Külső");
+define("BNRLAN_HELP_01", "Banner Súgó");
+define("BNRLAN_HELP_02", "A plugin használatával kezelhetjük a weboldalunk hírdetéseit.<br /><br />A kampány ellenőrzéséhez hozzon létre új bannert egy felhasználónévvel és jelszóval az ügyfél bejelentkezéséhez.<br /><br />Engedélyzze a banner menüt a menü kezelőben és végezze el a további konfigurációs beállításokat.");
 
 ?>

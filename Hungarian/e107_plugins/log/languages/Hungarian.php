@@ -9,13 +9,12 @@
 |        $Author: Yesszus $
 +---------------------------------------------------------------+
 */
-
 define("PAGE_NAME", "Statisztika");
 define("ADSTAT_L1", "A plugin minden látogatást naplózni fog, és részletes statisztikákat ad az összegyűjtött információk alapján.");
 define("ADSTAT_L2", "A statisztika naplózó telepítve. A meglévő statisztikák konvertálásához az új rendszerbe, <a href='".e_PLUGIN."log/update_routine.php'>futtasd a frissítő rutint</a>.");
 define("ADSTAT_L3", "Statisztika naplózás");
-define("ADSTAT_L4", "Nincs jogosúltságod az oldal megtekintéséhez.");
-define("ADSTAT_L5", "A tulajdonságok ezen az oldalon letíltva.");
+define("ADSTAT_L4", "Nincs jogosultságod az oldal megtekintéséhez!");
+define("ADSTAT_L5", "A tulajdonságok ezen az oldalon letiltva.");
 define("ADSTAT_L6", "Oldal statisztikák");
 define("ADSTAT_L7", "Ez a statisztika tipus nem gyűjthető össze.");
 define("ADSTAT_L8", "Ma");
@@ -26,8 +25,8 @@ define("ADSTAT_L12", "Böngésző");
 define("ADSTAT_L13", "Operációs rendszer");
 define("ADSTAT_L14", "Ország");
 define("ADSTAT_L15", "Képernyő méret / Színmélység");
-define("ADSTAT_L16", "Hivatkozás");
-define("ADSTAT_L17", "Keresési feltétel");
+define("ADSTAT_L16", "Hivatkozások");
+define("ADSTAT_L17", "Keresések");
 define("ADSTAT_L18", "Legújabb látogatók");
 define("ADSTAT_L19", "Oldal");
 define("ADSTAT_L20", "Mai látogatások");
@@ -41,8 +40,8 @@ define("ADSTAT_L27", "Operációs rendszer");
 define("ADSTAT_L28", "Ország");
 define("ADSTAT_L29", "Képernyőméret");
 define("ADSTAT_L30", "Oldal hivatkozás");
-define("ADSTAT_L31", "Keresési feltételek");
-define("ADSTAT_L32", "Hivatkozás");
+define("ADSTAT_L31", "Keresések");
+define("ADSTAT_L32", "Hivatkozások");
 define("ADSTAT_L33", "Látogatás az utolsó");
 define("ADSTAT_L34", "Látogatások");
 define("ADSTAT_L35", "Egyedi látogatás az utolsó");
@@ -70,4 +69,6 @@ define("ADSTAT_L57", "");
 define("ADSTAT_L58", "");
 define("ADSTAT_L59", "");
 define("ADSTAT_L60", "");
+
+
 ?>

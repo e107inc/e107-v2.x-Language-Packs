@@ -11,6 +11,6 @@
 */
 
 define("LAN_GALLERY_FRONT_01", "Jobb-klikk > Link Mentése Mint");
-
+define("LAN_GALLERY_FRONT_02", "Kép kibontása");
 
 ?>

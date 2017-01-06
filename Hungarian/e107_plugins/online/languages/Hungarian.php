@@ -16,6 +16,7 @@ define("LAN_ONLINE_7", "itt: ");
 define("LAN_ONLINE_8", "Legtöbb online:");
 define("LAN_ONLINE_9", "ekkor: ");
 define("LAN_ONLINE_10", "Online Menü");
+define("LAN_ONLINE_11", "Összes tag:");
 
 define("LAN_ONLINE_ADMIN_1", "legutóbbi látogatók menü");
 define("LAN_ONLINE_ADMIN_2", "Legutóbbi látogatók menü címe");
@@ -26,3 +27,4 @@ define("LAN_ONLINE_ADMIN_6", "Online tagok listájának megjelenítése?");
 define("LAN_ONLINE_ADMIN_7", "Online tagok (bővített) listájának megjelenítése?");
 define("LAN_ONLINE_ADMIN_8", "Jelenítse meg a tagokat, vesszővel elválasztva.");
 define("LAN_ONLINE_ADMIN_9", "Azon tagok megjelenítése, akik épp egy oldalt böngésznek.");
+define("LAN_ONLINE_ADMIN_10", "Online vendégek megjelenítése.");

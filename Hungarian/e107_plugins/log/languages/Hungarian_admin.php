@@ -92,4 +92,6 @@ Kérjük, először mentse vagy exportálja az adatbázist.");
 define("ADSTAT_LAN_85", "[x] naplófájl található.
 Kattintson az alábbi gombra, a fájlok feldolgozásához.");
 define("ADSTAT_LAN_86", "Összes Találat");
+
+
 ?>
