@@ -61,7 +61,7 @@ define("LAN_USER_62", "Privát Üzenet küldése");
 define("LAN_USER_63", "Valódi név:");
 define("LAN_USER_64", "Oldal Statisztikák");
 define("LAN_USER_65", "Utolsó látogatása");
-define("LAN_USER_66", "Látogatások a regisztráció óta");
+define("LAN_USER_66", "Látogatások száma");
 define("LAN_USER_67", "Chatbox üzenetek");
 define("LAN_USER_68", "Hozzászólások");
 define("LAN_USER_69", "Fórumüzenetek");
@@ -82,6 +82,8 @@ define("LAN_USER_83", "Email cím elrejtése?:");
 define("LAN_USER_84", "Ez megakadályozza, hogy az email cím megjelenjen az oldalon");
 define("LAN_USER_85", "Ha meg akarod változtatni a felhasználónevedet, lépj kapcsolatba az oldal adminisztrátorával!");
 define("LAN_USER_86", "Maximális avatar méret --WIDTH-- x --HEIGHT-- pixel-ben.");
+define("LAN_USER_87", "A felhasználó értékeléséhez jelentkezzen be!");
+
 // social plugin
 define("LAN_XUP_ERRM_01", "Sikertelen regisztráció! A szolgáltatás letiltva.");
 define("LAN_XUP_ERRM_02", "Sikertelen regisztráció! Rossz szolgáltató.");
@@ -90,4 +92,27 @@ define("LAN_XUP_ERRM_04", "Sikertelen regisztráció! A felhasználó már regis
 define("LAN_XUP_ERRM_05", "Sikertelen regisztráció! A felhasználó már létezik. Kérjük jelentkezzen be.");
 define("LAN_XUP_ERRM_06", "Sikertelen regisztráció! Nem elérhető a felhasználó email címe - a regisztráció email cím megadása nélkül történt.");
 
+if (!defined("USER_ERR_01")) { define("USER_ERR_01","Hiányzó érték");  }
+if (!defined("USER_ERR_02")) { define("USER_ERR_02","Nem várt érték");  }
+if (!defined("USER_ERR_03")) { define("USER_ERR_03","Az érték érvénytelen karaktereket tartalmaz");  }
+if (!defined("USER_ERR_04")) { define("USER_ERR_04","Az érték túl rövid");  }
+if (!defined("USER_ERR_05")) { define("USER_ERR_05","Az érték túl hosszú");  }
+if (!defined("USER_ERR_06")) { define("USER_ERR_06","Duplikált érték");  }
+if (!defined("USER_ERR_07")) { define("USER_ERR_07","Az érték nem engedélyezett");  }
+if (!defined("USER_ERR_08")) { define("USER_ERR_08","A bejegyzés letiltva");  }
+if (!defined("USER_ERR_09")) { define("USER_ERR_09","Érvénytelen szó");  }
+if (!defined("USER_ERR_10")) { define("USER_ERR_10","A jelszó mezők eltérőek");  }
+if (!defined("USER_ERR_11")) { define("USER_ERR_11","Bannolt email cím");  }
+if (!defined("USER_ERR_12")) { define("USER_ERR_12","Érvénytelen formátumú email cím");  }
+if (!defined("USER_ERR_13")) { define("USER_ERR_13","Adat hiba");  }
+if (!defined("USER_ERR_14")) { define("USER_ERR_14","Bannolt felhasználó");  }
+if (!defined("USER_ERR_15")) { define("USER_ERR_15","A felhasználó és a megjelenő név nem lehet eltérő");  }
+if (!defined("USER_ERR_16")) { define("USER_ERR_16","Szoftwer hiba");  }
+if (!defined("USER_ERR_17")) { define("USER_ERR_17","Az érték túl alacsony");  }
+if (!defined("USER_ERR_18")) { define("USER_ERR_18","Az érték túl magas");  }
+if (!defined("USER_ERR_19")) { define("USER_ERR_19","Általános hiba");  }
+if (!defined("USER_ERR_20")) { define("USER_ERR_20","A kép túl széles");  }
+if (!defined("USER_ERR_21")) { define("USER_ERR_21","A kép túl magas");  }
+if (!defined("USER_ERR_22")) { define("USER_ERR_22","Váratlan hiba");  }
+if (!defined("USER_ERR_23")) { define("USER_ERR_23","Engedélyezetlen érték (pontos egyezés)");  }
 ?>

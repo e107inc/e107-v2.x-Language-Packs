@@ -27,6 +27,9 @@ define("LANCONTACT_13", "Kérlek, adj meg egy témát az üzenet elküldéséhez
 define("LANCONTACT_14", "Üzenet küldése neki(k):");
 define("LANCONTACT_15", "Hibás kódot adtál meg");
 define("LANCONTACT_16", "Az üzeneted elküldéséhez [registered] és jelentkezz be.");
-
+define("LANCONTACT_17", "Adja meg a nevét!");
+define("LANCONTACT_18", "Adja meg az e-mail címét!");
+define("LANCONTACT_19", "Adja meg az e-mail tárgyát!");
+define("LANCONTACT_20", "Adja meg az üzenet szövegét!");
 
 ?>
