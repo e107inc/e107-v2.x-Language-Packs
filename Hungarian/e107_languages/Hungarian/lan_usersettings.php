@@ -24,7 +24,7 @@ define("LAN_USET_6", "Feliratkozás a levelezőlistánkra és/vagy az oldal egye
 define("LAN_USET_7", "Egyebek");
 define("LAN_USET_8", "Aláírás");
 define("LAN_USET_9", "Valamelyik kötelező mező (*-al jelölve) hiányzik a beállításaidnál.");
-define("LAN_USET_10","Frissítsd a beállításaidat most, az eljárásnak megfelelően.");
+define("LAN_USET_10", "Frissítsd a beállításaidat most, az eljárásnak megfelelően.");
 define("LAN_USET_11", "Ennek a felhasználónévnek a hozzáadása nem lehetséges, válassz másik felhasználónevet");
 define("LAN_USET_12", "Túl rövid a megjelenő név. Válassz másikat");
 define("LAN_USET_13", "Érvénytelen karakter a bejelentkező névben. Válassz másikat");
@@ -40,8 +40,8 @@ define("LAN_USET_23", "Hagyd üresen a meglévő jelszó használatához");
 define("LAN_USET_24", "Új jelszó: ");
 define("LAN_USET_25", "Új jelszó ismét: ");
 define("LAN_USET_26", "Avatar feltöltése");
-define("LAN_USET_27", "Fotó feltöltése");
-define("LAN_USET_28", " Ez jelenik meg a profil oldaladon");
+define("LAN_USET_27", "Fotó feltöltése  ");
+define("LAN_USET_28", "Ez jelenik meg a profil oldaladon");
 define("LAN_USET_30", "Mi ez?");
 define("LAN_USET_31", "Regisztrációs információk");
 define("LAN_USET_32", "Megjegyzés: A nem megfelelő képet az Adminisztrátor azonnal törölni fogja.");
@@ -56,12 +56,6 @@ define("LAN_USET_40", "A két jelszó nem egyezhet meg");
 define("LAN_USET_41", "A beállítások frissítve és elmentve az adatbázisba.");
 define("LAN_USET_42", "Nem egyezik a hitelesítési kulcs");
 define("LAN_USET_43", "Hiba történt a felhasználó adatok frissítése közben");
-define("LAN_USET_44", "Klikk az avatar képre a megváltoztatáshoz");
-define("LAN_USET_45", "Vagy");
-
-define("LAN_USET_46", "Nincs Elérhető Avatar");
-define("LAN_USET_47", " Admin Értesítés: A mappa");
-define("LAN_USET_48", "üres. Töltsön fel néhány avatar képeket ebbe a mappába, ahol a felhasználók avatart tudnak választani.");
 
 define("LAN_7", "Megjelenő név: ");
 define("LAN_8", "ez a név jelenik meg a weboldalon");

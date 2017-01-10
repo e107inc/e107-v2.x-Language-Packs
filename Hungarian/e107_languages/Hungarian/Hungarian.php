@@ -124,4 +124,5 @@ define("LAN_PLEASEWAIT", "Kis türelmet");
 define("LAN_CHOOSE_FILE", "Fájl kiválasztása");
 define("LAN_ACTIVE","Aktív");
 define("LAN_POSTED_BY", "Beküldte");
+define("LAN_MESSAGE", "Üzenet");
 ?>
