@@ -6,9 +6,9 @@
 
 define("LIST_MENU_1", "Legfrissebb");
 define("LIST_MENU_2", "írta");
-define("LIST_MENU_3", "ekkor");
+define("LIST_MENU_3", "beküldve");
 define("LIST_MENU_4", "itt");
-define("LIST_MENU_5", "nap");
+define("LIST_MENU_5", "napja");
 define("LIST_MENU_6", "Válaszd ki hány napra visszamenőleg legyenek láthatók az újdonságok");
 define("LIST_MENU_7", "");
 define("LIST_MENU_8", "");
@@ -56,9 +56,13 @@ define("LIST_LINKS_2", "nincs új link");
 
 define("LIST_FORUM_1", "fórum");
 define("LIST_FORUM_2", "nincs új fórum bejegyzés");
-define("LIST_FORUM_3", "látták:");
+define("LIST_FORUM_3", "megtekintve:");
 define("LIST_FORUM_4", "válaszok:");
 define("LIST_FORUM_5", "utolsó válasz:");
 define("LIST_FORUM_6", "ekkor:");
 
 define("LIST_LAN_1", "nincs változás: ");
+
+define("LIST_DOWNLOAD_1", "Letöltések");
+define("LIST_DOWNLOAD_2", "nincs új letöltés");
+?>

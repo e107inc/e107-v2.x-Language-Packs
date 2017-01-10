@@ -164,7 +164,7 @@ define("LAN_AL_BANNER_06", "");
 
 define("LAN_AL_IMALAN_00", "Ismeretlen képekkel kapcsolatos üzenet");
 define("LAN_AL_IMALAN_01", "Avatar törölve");
-define("LAN_AL_IMALAN_02", "Össze avatar és fotó törölve");
+define("LAN_AL_IMALAN_02", "Összes avatar és fotó törölve");
 define("LAN_AL_IMALAN_03", "Avatar törölve");
 define("LAN_AL_IMALAN_04", "Beállítások frissítve");
 define("LAN_AL_IMALAN_05", "");

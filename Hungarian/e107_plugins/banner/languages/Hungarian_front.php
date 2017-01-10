@@ -24,3 +24,4 @@ define("BANNERLAN_34", "Befejezés:");
 define("BANNERLAN_35", "Átkattintások IP-címei");
 define("BANNERLAN_36", "Aktív:");
 define("BANNERLAN_37", "Kezdés:");
+define("BANNERLAN_39", "Nincs kép hozzárendelve a banner-hez.");

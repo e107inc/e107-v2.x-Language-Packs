@@ -11,6 +11,7 @@
 */
 
 define("PAGE_NAME", "Hiba");
+define("LAN_ERROR_TITLE", "Hiba történt!");
 define("LAN_ERROR_1", "401 hiba - a hozzáférés megtagadva!");
 define("LAN_ERROR_2", "Az általad kért URL-cím megtekintéséhez hitelesítési adatok megadása szükséges.<br />
 Az általad megadott hitelesítési adatok érvénytelenek, vagy a böngésződ nem támogatja ezt a funkciót.");
@@ -20,7 +21,7 @@ define("LAN_ERROR_5", "<font color=red>Nincs megfelelő jogosultságod az URL el
 define("LAN_ERROR_6", "<font color=green>Ha úgy véled hogy az adott URL címet a weboldal hibája miatt nem sikerült elérned, úgy kérlek értesítsd az oldal adminisztrátorát.</font>");
 define("LAN_ERROR_7", "404 hiba - a tartalom nem található!");
 define("LAN_ERROR_9", "<font color=green>Ha úgy véled hogy az adott URL címet a weboldal hibája miatt nem sikerült elérned, úgy kérlek értesítsd az oldal adminisztrátorát.</font>");
-define("LAN_ERROR_10", "500 hiba - belső hiba történt!");
+define("LAN_ERROR_10", "500 hiba - belső szerver hiba történt!");
 define("LAN_ERROR_11", "A szerver belső hibába ütközött, ezért nem tudta teljesíteni a kérésed.");
 define("LAN_ERROR_12", "<font color=green>Ha úgy véled hogy az adott URL címet a weboldal hibája miatt nem sikerült elérned, úgy kérlek értesítsd az oldal adminisztrátorát.</font>");
 define("LAN_ERROR_13", "Hiba - ismeretlen");

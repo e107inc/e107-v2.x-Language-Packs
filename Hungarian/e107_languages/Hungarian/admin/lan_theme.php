@@ -88,15 +88,16 @@ define("TPVLAN_78", "Követelmények");
 define("TPVLAN_79", "cURL szükséges a funkció használatához. Forduljon a webhosting szolgáltatójához, hogy engedélyezze a cURL használatát.");
 define("TPVLAN_80", "Nem találhatóak témák, amelyek megfelelnek a keresési feltételeknek.");
 
-define("TPVLAN_81","Letöltés..."); 
-define("TPVLAN_82","A letöltés befejezve!");
-define("TPVLAN_83","Az automatikus letöltés nem működik! Használja a [x]");
-define("TPVLAN_84","Manuális letöltést");
-define("TPVLAN_85","Kapcsolódás...");
-define("TPVLAN_86","Az oldal sablont nem lehet megváltoztatni!");
-define("TPVLAN_87","Sablon Beállítások Beolvasása");
-define("TPVLAN_88","Konvertálás");
-define("TPVLAN_89","Nem lehet csatlakozni! Kérjük, ellenőrizze a tűzfal és/vagy internet kapcsolatát.");
+define("TPVLAN_81", "Letöltés..."); 
+define("TPVLAN_82", "A letöltés befejezve!");
+define("TPVLAN_83", "Az automatikus letöltés nem működik!");
+define("TPVLAN_84", "[Manuális letöltés]");
+define("TPVLAN_85", "Kapcsolódás...");
+define("TPVLAN_86", "Az oldal sablont nem lehet megváltoztatni!");
+define("TPVLAN_87", "Sablon Beállítások Beolvasása");
+define("TPVLAN_88", "Konvertálás");
+define("TPVLAN_89", "Az admin műszerfal beállítások alkalmazása az összes adminisztrátor számára");
+define("TPVLAN_90", "Nem lehet csatlakozni! Kérjük, ellenőrizze a tűzfal és/vagy internet kapcsolatát.");
 
 define("TPVLAN_CONV_1", "1 lépés");
 define("TPVLAN_CONV_2", "2 lépés");

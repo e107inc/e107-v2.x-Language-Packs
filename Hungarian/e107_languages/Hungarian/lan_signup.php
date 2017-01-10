@@ -105,7 +105,6 @@ define("LAN_SIGNUP_103", "Túl sok felhasználó használja ezt az IP címet: ")
 define("LAN_SIGNUP_105", "Nem lehet végrehajtani a kérést - lépjen kapcsolatba az oldal üzemeltetőjével");
 define("LAN_SIGNUP_106", "Nem lehet végrehajtani a kérést - biztos, hogy rendelkezik hozzáféréssel?");
 
-
 define("LAN_LOGINNAME", "Felhasználónév");
 define("LAN_USERNAME", "Megjelenő név");
 
@@ -116,3 +115,12 @@ define("LAN_SIGNUP_110", "Teljes név");
 define("LAN_SIGNUP_111", "Írja be a kép URL elérését vagy válasszon a meglévő avatarok közül.");
 define("LAN_SIGNUP_112", "Bejelentkezés, mint Főadminisztrátor.");
 define("LAN_SIGNUP_113", "Feliratkozások");
+
+define("LAN_SIGNUP_114", "A regisztráció jelenleg nem elérhető!");
+define("LAN_SIGNUP_115", "Aktivációs Email előnézet");
+define("LAN_SIGNUP_116", "Űrlap küldés utáni előnézet");
+define("LAN_SIGNUP_117", "Teszt aktiválás küldése");
+define("LAN_SIGNUP_118", "Ide: [x]");
+define("LAN_SIGNUP_119", "Ne küldjön e-mailt");
+
+?>

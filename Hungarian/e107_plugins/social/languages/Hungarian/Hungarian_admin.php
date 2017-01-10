@@ -12,8 +12,8 @@
 define("LAN_SOCIAL_ADMIN_SUMM", "Facebook, Twitter és egyéb közösségi média kiegészítők hozzáadása az e107 rendszerhez.");
 define("LAN_SOCIAL_ADMIN_00", "Alkalmazások");
 define("LAN_SOCIAL_ADMIN_01", "Oldalak");
-define("LAN_SOCIAL_ADMIN_02", "Közösségi Regisztráció/Bejelentkezés");  //tab
-define("LAN_SOCIAL_ADMIN_03", "Regisztráció/Bejelentkezés");  //bar
+define("LAN_SOCIAL_ADMIN_02", "Közösségi Regisztráció/Bejelentkezés");  
+define("LAN_SOCIAL_ADMIN_03", "Regisztráció/Bejelentkezés");  
 define("LAN_SOCIAL_ADMIN_04", "Szolgáltató");
 define("LAN_SOCIAL_ADMIN_05", "Kulcs/ID");
 define("LAN_SOCIAL_ADMIN_06", "Titkosítás");
@@ -48,3 +48,4 @@ define("LAN_SOCIAL_ADMIN_34", "A megjelenítendő Tweet bejegyzések száma.");
 define("LAN_SOCIAL_ADMIN_35", "Világos");
 define("LAN_SOCIAL_ADMIN_36", "Sötét");
 define("LAN_SOCIAL_ADMIN_37", "Graph Meta Megnyitása");
+define("LAN_SOCIAL_ADMIN_38", "Hatáskör");

@@ -24,3 +24,4 @@ define("FOOTLAN_17", "Karakterkészlet");
 define("FOOTLAN_18", "Sablon");
 define("FOOTLAN_19", "Szerver Idő");
 define("FOOTLAN_20", "Biztonsági szint");
+?>
