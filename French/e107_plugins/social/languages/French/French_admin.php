@@ -48,6 +48,7 @@ define("LAN_SOCIAL_ADMIN_34", "Nombre de tweets à afficher.");
 define("LAN_SOCIAL_ADMIN_35", "Clair");
 define("LAN_SOCIAL_ADMIN_36", "Sombre");
 define("LAN_SOCIAL_ADMIN_37", "Balise meta Open Graph");
+define("LAN_SOCIAL_ADMIN_38", "Portée");
 
 
 ?>

@@ -9,8 +9,8 @@
 |        $Author: Olivier Troccaz $
 +---------------------------------------------------------------+
 */
-
 define("LAN_GALLERY_FRONT_01", "Clic-droit > Enregistrer le lien comme");
+define("LAN_GALLERY_FRONT_02", "Développer l'image");
 
 
 ?>

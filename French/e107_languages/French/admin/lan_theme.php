@@ -101,12 +101,14 @@ define("TPVLAN_CONV_14", "Permettre à cette feuille de style d'être une option
 define("TPVLAN_CONV_15", "Donner un nom à cette feuille de style");
 define("TPVLAN_81", "Téléchargement ...");
 define("TPVLAN_82", "Téléchargement terminé !");
-define("TPVLAN_83", "Le téléchargement automatique n'est pas possible.");
-define("TPVLAN_84", "Veuillez télécharger manuellement");
+define("TPVLAN_83", "Le téléchargement automatique n'est pas possible !");
+define("TPVLAN_84", "[Veuillez télécharger manuellement]");
 define("TPVLAN_85", "Connexion ...");
 define("TPVLAN_86", "Impossible de changer le thème du site.");
 define("TPVLAN_87", "Rendu de configuration du thème");
 define("TPVLAN_88", "Convertisseur");
+define("TPVLAN_89", "Appliquer les préférences du tableau de bord à tous les administrateurs");
+define("TPVLAN_90", "Impossible de se connecter. Veuillez vérifier le pare-feu et/ou la connexion internet.");
 
 
 ?>

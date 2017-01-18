@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system French Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/12/05 10:32:56
+|
+|        $Author: Olivier Troccaz $
++---------------------------------------------------------------+
+*/
 
 define("LIST_MENU_1", "ajouts récents");
 define("LIST_MENU_2", "par");
@@ -53,3 +59,8 @@ define("LIST_FORUM_4", "réponses :");
 define("LIST_FORUM_5", "dernier message :");
 define("LIST_FORUM_6", "le :");
 define("LIST_LAN_1", "aucun élément dans");
+define("LIST_DOWNLOAD_1", "téléchargements");
+define("LIST_DOWNLOAD_2", "aucun téléchargement");
+
+
+?>
