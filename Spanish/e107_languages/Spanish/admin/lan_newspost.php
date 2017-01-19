@@ -141,6 +141,7 @@ define("LAN_NEWS_104", "Inicie una notificación por correo electrónico cuando 
 define("LAN_NEWS_105", "Notificación de correo electrónico activada!");
 define("LAN_NEWS_106", "La visibilidad del elemento noticioso debe incluir "todo el mundo" para que las notificaciones por correo electrónico funcionen.");
 define("LAN_NEWS_107", "Comprobación del estado de ping");
+define("LAN_NEWS_108", "La URL de SEF es diferente al título de su artículo de noticias.");
 
 
 ?>

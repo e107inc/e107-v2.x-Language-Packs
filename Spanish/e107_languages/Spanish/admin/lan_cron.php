@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/01/01 22:23:18
+|
+|        $Author: Norwayman $
++---------------------------------------------------------------+
+*/
 
 define("LAN_CRON_M_02", "Actualización");
 define("LAN_CRON_2", "Función");
@@ -57,5 +63,14 @@ define("LAN_CRON_51", "Hora (s):");
 define("LAN_CRON_52", "Día (s):");
 define("LAN_CRON_53", "Mes (es):");
 define("LAN_CRON_54", "WEEKDAY(s):");
+define("LAN_CRON_60", "Ir a cPanel");
+define("LAN_CRON_61", "Generar nueva contraseña cron");
+define("LAN_CRON_62", "Ejecutar la función de configuración [b] [x] [/b]");
+define("LAN_CRON_63", "No se ha encontrado la función de configuración [b] [x] [/b].");
+define("LAN_CRON_64", "Un administrador puede automatizar las tareas utilizando e107 Programar tareas. [br] En la ficha Administrar, puede editar, eliminar y ejecutar tareas. [br] Cuando edita una tarea, puede configurar los minutos, horas, días, mes o día de la semana en que desea que se ejecute la tarea. Utilice * para ejecutar para cada período. Utilice la propiedad Active para activar la tarea. [br] Nota: Se recomienda no eliminar trabajos estándar. [br]");
 define("LAN_CRON_BACKUP", "Copia de seguridad");
 define("LAN_CRON_LOGGING", "Registro");
+define("LAN_CRON_RUNNING", "Corriendo");
+
+
+?>
