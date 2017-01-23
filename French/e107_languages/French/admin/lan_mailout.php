@@ -253,6 +253,13 @@ define("LAN_SEND", "Envoyer");
 define("LAN_HOLD", "Mettre en attente");
 define("LAN_MAILOUT_260", "Type d'utilisateur");
 define("LAN_MAILOUT_261", "Port SMTP");
+define("LAN_MAILOUT_262", "Aperçu du modèle");
+define("LAN_MAILOUT_263", "Total des destinataires");
+define("LAN_MAILOUT_264", "Intégrer un média");
+define("LAN_MAILOUT_265", "En attente");
+define("LAN_MAILOUT_266", "Maximum actif");
+define("LAN_MAILOUT_267", "Générer des clés publiques/privées");
+define("LAN_MAILOUT_268", "Mode développeur seulement");
 
 
 ?>

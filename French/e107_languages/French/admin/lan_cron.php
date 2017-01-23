@@ -9,7 +9,6 @@
 |        $Author: Olivier Troccaz $
 +---------------------------------------------------------------+
 */
-
 define("LAN_CRON_M_02", "Actualisation");
 define("LAN_CRON_2", "Fonction");
 define("LAN_CRON_3", "Onglet");
@@ -63,8 +62,14 @@ define("LAN_CRON_51", "Heure(s) :");
 define("LAN_CRON_52", "Jour(s) :");
 define("LAN_CRON_53", "Mois :");
 define("LAN_CRON_54", "Jour(s) de la semaine :");
+define("LAN_CRON_60", "Accéder au panneau d'automatisation");
+define("LAN_CRON_61", "Générer un nouveau mot de passe d'automatisation");
+define("LAN_CRON_62", "Exécuter la fonction de configuration [b][x][/b]");
+define("LAN_CRON_63", "Fonction de configuration [b][x][/b] NON trouvée.");
+define("LAN_CRON_64", "Un administrateur peut automatiser les tâches à l'aide du programmateur de tâches d'e107. [br] Dans l'onglet Gestion, vous pouvez modifier, supprimer et exécuter des tâches. [br] Lorsque vous éditez une tâche, vous pouvez définir les minutes, les heures, les jours, le mois ou le jour de la semaine à laquelle vous souhaitez exécuter la tâche. Utilisez * pour exécuter pour chaque période. Utilisez la propriété Active pour activer la tâche. [br] Remarque: Il est conseillé de ne pas supprimer les travaux standard.");
 define("LAN_CRON_BACKUP", "Sauvegarde");
 define("LAN_CRON_LOGGING", "Enregistrement");
+define("LAN_CRON_RUNNING", "En cours d'exécution");
 
 
 ?>

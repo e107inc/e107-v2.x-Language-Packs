@@ -10,6 +10,7 @@
 +---------------------------------------------------------------+
 */
 define("PAGE_NAME", "Erreur");
+define("LAN_ERROR_TITLE", "Oups !");
 define("LAN_ERROR_1", "Erreur 401 - Authentification échouée");
 define("LAN_ERROR_2", "L'URL que vous avez demandée nécessite un nom d'utilisateur et un mot de passe correct. Soit vous avez entré un nom d'utilisateur/mot de passe incorrect, soit votre navigateur ne supporte pas cette fonctionnalité.");
 define("LAN_ERROR_3", "Veuillez informer l'administrateur de la page en question si vous pensez que l'erreur n'a pas lieu d'être.");
@@ -24,7 +25,7 @@ define("LAN_ERROR_12", "Veuillez informer l'administrateur de la page en questio
 define("LAN_ERROR_13", "Erreur - Inconnu");
 define("LAN_ERROR_14", "Le serveur a rencontré une erreur");
 define("LAN_ERROR_15", "Veuillez informer l'administrateur de la page en question si vous pensez que l'erreur n'a pas lieu d'être.");
-define("LAN_ERROR_16", "Votre tentative infructueuse pour accéder à : ");
+define("LAN_ERROR_16", "Votre tentative infructueuse pour accéder à :");
 define("LAN_ERROR_17", "a été enregistré.");
 define("LAN_ERROR_18", "Apparemment, vous avez été redirigé ici par");
 define("LAN_ERROR_19", "Malheureusement, il y a un lien obsolète à cette adresse.");

@@ -105,6 +105,12 @@ define("LAN_SIGNUP_110", "Votre nom complet");
 define("LAN_SIGNUP_111", "Entrez une URL pour votre image ou choisissez un avatar existant.");
 define("LAN_SIGNUP_112", "Vous êtes actuellement connecté en tant qu'administrateur principal.");
 define("LAN_SIGNUP_113", "Abonnement(s)");
+define("LAN_SIGNUP_114", "L'inscription utilisateur est actuellement désactivée.");
+define("LAN_SIGNUP_115", "Prévisualiser le mail d'activation");
+define("LAN_SIGNUP_116", "Prévisualiser après soumission du formulaire");
+define("LAN_SIGNUP_117", "Envoyer un test d'activation");
+define("LAN_SIGNUP_118", "A [x]");
+define("LAN_SIGNUP_119", "Ne pas envoyer de mail");
 
 
 ?>

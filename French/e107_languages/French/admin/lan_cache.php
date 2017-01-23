@@ -13,7 +13,7 @@
 define("CACLAN_1", "Statut du cache système");
 define("CACLAN_2", "Mettre à jour le statut de cache");
 define("CACLAN_3", "Gestion du cache");
-define("CACLAN_5", "Cache de contenu vide");
+define("CACLAN_5", "Vider le cache de contenu");
 define("CACLAN_6", "Cache vidé");
 define("CACLAN_10", "Le répertoire de cache n'est pas accessible en écriture. Veuillez-vous assurer que les autorisations du répertoire sont bien réglées (CHMOD 0777)");
 define("CACLAN_11", "Cache de contenu");
