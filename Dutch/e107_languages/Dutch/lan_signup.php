@@ -6,7 +6,7 @@
 |     $URL:$
 |     $Revision:$
 |     $Date:$
-|     $Author: Erje, Yvalni, Tgtje $
+|     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
 */
 
@@ -111,6 +111,7 @@ define("LAN_SIGNUP_109", "Is Hoofdletter gevoelig en mag geen spaties hebben");/
 define("LAN_SIGNUP_110", "Je volledige naam");
 define("LAN_SIGNUP_111", "Geef de URL naar de afbeelding of kies een bestaande avatar.");
 define("LAN_SIGNUP_112", "Je bent nu ingelogd als Hoofdbeheerder.");
+define("LAN_SIGNUP_113", "Abonnement(-en)");
 
 /*
 define("LAN_7", "Gebruikersnaam: ");

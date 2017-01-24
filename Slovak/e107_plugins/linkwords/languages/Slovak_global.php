@@ -10,7 +10,7 @@
 +---------------------------------------------------------------+
 */
 define("LAN_PLUGIN_LINKWORDS_NAME", "Slovné linky");
-define("LAN_PLUGIN_LINKWORDS_DESCRIPTION", "");
+define("LAN_PLUGIN_LINKWORDS_DESCRIPTION", "This plugin will link specified words with a defined link and/or tooltip.");
 
 
 ?>

@@ -5,4 +5,4 @@
 // https://github.com/e107inc/multilan
 
 define("LAN_PLUGIN_NEWSFEEDS_NAME", "Flux RSS");
-define("LAN_PLUGIN_NEWSFEEDS_DESCRIPTION", "Ce plugin va récupérer les flux RSS d'autres sites Web et de les afficher selon vos préférences.");
+define("LAN_PLUGIN_NEWSFEEDS_DESCRIPTION", "Cette extension retrouvera les flux RSS d'autres sites web et les affichera selon vos préférences.");

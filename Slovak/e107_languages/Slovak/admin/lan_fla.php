@@ -19,7 +19,7 @@ define("FLALAN_10", "Zmazať / Zakázať zaznamenené prístupy");
 define("FLALAN_15", "Nasledujúca IP adresa(y) sú automaticky zakázané - užívateľ sa pokúsil o viac ako 10 neúspešných prihlásení");
 define("FLALAN_16", "Zmažte tento zoznam auto-vyhostení");
 define("FLALAN_17", "Zoznam auto-vyhostení zmazaný");
-define("FLALAN_18", "");
+define("FLALAN_18", "IP adresa --IP-- sa nemohla zakázať, pretože je na whileliste");
 
 
 ?>

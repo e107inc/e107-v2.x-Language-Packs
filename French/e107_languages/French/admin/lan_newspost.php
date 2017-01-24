@@ -1,9 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system French Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/01/20 18:12:29
+|
+|        $Author: Olivier Troccaz $
++---------------------------------------------------------------+
+*/
 define("NWSLAN_4", "Articles - Articles existants");
 define("NWSLAN_6", "Catégorie");
 define("NWSLAN_10", "Pas de catégories d'articles");
@@ -81,7 +86,6 @@ define("NWSLAN_123", "Publié");
 define("NWSLAN_127", "Modèle par défaut");
 define("NWSLAN_128", "Affectez une chaîne à utiliser dans l'URL de pages articles. Cela ne fonctionnera que si les règles .htaccess et <a href='%s'>configuration eURL</a> sont adéquates.<br>La résolution d'URL est basée sur la valeur actuelle :");
 define("LAN_NEWS_23", "Choisissez une image ou une vidéo pour cet article");
-define("LAN_NEWS_27", "Résumé");
 define("LAN_NEWS_28", "Post-it");
 define("LAN_NEWS_29", "Sélectionner si l'article sera en post-it");
 define("LAN_NEWS_30", "Si sélectionné, l'article apparaitra au dessus de tous les autres");
@@ -124,3 +128,20 @@ define("LAN_NEWS_91", "Limite d'affichage de la liste par page");
 define("LAN_NEWS_92", "par exemple news.php?all ou news.php?cat.1 ou news.php?tag=xxx");
 define("LAN_NEWS_93", "Contenu de l'affichage de la liste");
 define("LAN_NEWS_94", "Les éléments assignés à ces modèles s'afficheront dans la liste.");
+define("LAN_NEWS_95", "Un autre élément d'actualités utilise cette URL SEF : [x]");
+define("LAN_NEWS_96", "Approuver");
+define("LAN_NEWS_97", "Menu grille des actualités");
+define("LAN_NEWS_98", "Services de ping");
+define("LAN_NEWS_99", "Accepter seulement les images plus larges que");
+define("LAN_NEWS_100", "N'importe quelle taille");
+define("LAN_NEWS_101", "Soumettre des actualités");
+define("LAN_NEWS_102", "Ouvrir dans un nouvel onglet");
+define("LAN_NEWS_103", "Notification par mail");
+define("LAN_NEWS_104", "Déclencher une notification par mail lorsque vous soumettez ce formulaire.");
+define("LAN_NEWS_105", "Notification par mail déclenchée !");
+define("LAN_NEWS_106", "La visibilité des éléments d'actualités doit inclure 'tout le monde' pour que les notifications par mail fonctionnent.");
+define("LAN_NEWS_107", "Vérification de l'état de ping");
+define("LAN_NEWS_108", "L'URL SEF est différente du titre de votre article d'actualité.");
+
+
+?>

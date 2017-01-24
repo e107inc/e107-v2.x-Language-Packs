@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/12/08 00:29:06
+|
+|        $Author: Norwayman $
++---------------------------------------------------------------+
+*/
 
 define("LAN_CHECK_2", "Kontroller");
 define("LAN_CHECK_3", "Verifikasjon av");
@@ -15,12 +21,11 @@ define("LAN_CHECK_18", "Språkfilene i standard format er ikke tilgjengelig for 
 define("LAN_CHECK_19", "Fant ikke-UTF-8-tegn!");
 define("LAN_CHECK_20", "Generere språkpakke");
 define("LAN_CHECK_21", "Verifisere på nytt");
-define("LAN_CHECK_22", "Tema");
 define("LAN_CHECK_23", "Feil funnet");
-define("LAN_CHECK_24", "Sammendrag");
-define("LAN_CHECK_25", "Temaer");
+define("LAN_CHECK_26", "Foran");
 define("LAN_CHECK_PAGE_TITLE", "Språk");
 define("LAN_CHECK_27", "Antall språkpakker feil funnet");
+define("LAN_CHECK_28", "Identisk");
 define("LANG_LAN_23", "Opprette språkpakker (zip)");
 define("LANG_LAN_30", "Utgivelsesdato");
 define("LANG_LAN_31", "Kompatibilitet");
@@ -34,3 +39,6 @@ define("LANG_LAN_117", "Du bør rette gjenværende feilene før bidrar ditt spr�
 define("LANG_LAN_119", "Kontroller at CORE_LC og CORE_LC2 har verdier i [x] og prøv på nytt.");
 define("LANG_LAN_120", "Kontroller at du bruker standardmappenavn i e107_config.php (f.eks. e107_languages /, e107_plugins / osv) og prøv på nytt.");
 define("LANG_LAN_AGR", "Merk: Ved hjelp av disse verktøyene du godtar å dele din språkpakker med e107 samfunnet.");
+
+
+?>

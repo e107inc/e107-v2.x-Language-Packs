@@ -6,14 +6,14 @@
 |     $URL:$
 |     $Revision:$
 |     $Date:$
-|     $Author: Erje, Yvalni, Tgtje $
+|     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
 */
 
 if (!defined('e107_INIT')) { exit; }
 
 
-
+ /*
 $text = "<div style='margin-left: 0px; margin-bottom: 1px; margin-top: 2px; vertical-align: top; white-space: nowrap'>
 <img src='".e_IMAGE."fileinspector/file_core.png' alt='".$dir."' style='margin-left: 3px; width: 16px; height: 16px' />&nbsp;Core Bestand</div>
 <div style='margin-left: 0px; margin-bottom: 1px; margin-top: 2px; vertical-align: top; white-space: nowrap'>
@@ -31,6 +31,7 @@ $text = "<div style='margin-left: 0px; margin-bottom: 1px; margin-top: 2px; vert
 <div style='margin-left: 0px; margin-bottom: 1px; margin-top: 2px; vertical-align: top; white-space: nowrap'>
 <img src='".e_IMAGE."fileinspector/file_unknown.png' alt='".$dir."' style='margin-left: 3px; width: 16px; height: 16px' />&nbsp;Niet Core Bestand</div>";
 $ns -> tablerender("File Key", $text);
+*/
 
 $text = "Bestanden Inspecteur scant en analyseert de bestanden op de bestandsserver. Wanneer de inspecteur een e107 core bestand vindt, 
 controleert het op volledigheid en ook of het bestand niet corrupt (beschadigd) is.";

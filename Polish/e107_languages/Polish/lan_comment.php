@@ -1,0 +1,71 @@
+<?php
+
+// Bing-Translated Language file 
+// Generated for e107 v2.x by the Multi-Language Plugin
+// https://github.com/e107inc/multilan
+
+define("COMLAN_0", "[zablokowane przez admina]");
+define("COMLAN_1", "Odblokować");
+define("COMLAN_2", "Bloku");
+define("COMLAN_4", "Informacje");
+define("COMLAN_5", "Komentarze...");
+define("COMLAN_6", "Musi być zalogowany do komentarzy na tej stronie - Zaloguj się lub jeśli nie zarejestrowałeś się kliknij");
+define("COMLAN_7", "Administrator strony głównej");
+define("COMLAN_8", "Komentarz");
+define("COMLAN_9", "Prześlij komentarz");
+define("COMLAN_10", "Administratora");
+define("COMLAN_11", "Był w stanie wprowadzić swój komentarz do bazy danych - wpisz ponownie pomijając niestandardowych znaków.");
+define("COMLAN_12", "Użytkownika");
+define("COMLAN_16", "Nazwa użytkownika:");
+define("COMLAN_100", "Aktualności");
+define("COMLAN_101", "Ankieta");
+define("COMLAN_102", "Odpowiedzi do:");
+define("COMLAN_103", "Artykuł");
+define("COMLAN_104", "Przegląd");
+define("COMLAN_105", "Zawartość");
+define("COMLAN_106", "Pobierz");
+define("COMLAN_145", "Zarejestrowany:");
+define("COMLAN_194", "Gości");
+define("COMLAN_195", "Zarejestrowanym użytkownikiem");
+define("COMLAN_310", "Nie można zaakceptować post, jak tej nazwy użytkownika jest zarejestrowany - Jeśli to jest Twoja nazwa użytkownika Zaloguj się po.");
+define("COMLAN_312", "Zduplikowane post - nie akceptuje.");
+define("COMLAN_313", "Lokalizacja");
+define("COMLAN_314", "Moderowanie komentarzy");
+define("COMLAN_315", "Odnośniki");
+define("COMLAN_316", "Nie ma odnośniki do tego posta.");
+define("COMLAN_317", "Umiarkowane trackbacks");
+define("COMLAN_318", "Edytuj komentarz");
+define("COMLAN_319", "edytowane");
+define("COMLAN_320", "Zaktualizować komentarz");
+define("COMLAN_321", "tutaj");
+define("COMLAN_322", "do rejestracji");
+define("COMLAN_323", "Błąd!");
+define("COMLAN_324", "Temat");
+define("COMLAN_325", "Re:");
+define("COMLAN_326", "Odpowiedzi na to");
+define("COMLAN_328", "Komentarze są zablokowane");
+define("COMLAN_329", "Nieautoryzowane");
+define("COMLAN_330", "JPY");
+define("COMLAN_331", "Oczekujące na zatwierdzenie");
+define("COMLAN_332", "Nie można usunąć komentarz");
+define("COMLAN_333", "Komentarz zatwierdzone");
+define("COMLAN_334", "Można było zatwierdzić komentarz");
+define("COMLAN_335", "Zatwierdzony");
+define("COMLAN_336", "Proszę napisać coś po raz pierwszy.");
+define("COMLAN_337", "Pomyślnie zaktualizowana.");
+define("COMLAN_400", "zatwierdzony");
+define("COMLAN_401", "zablokowany");
+define("COMLAN_402", "oczekujące");
+define("COMLAN_403", "Zostaw wiadomość...");
+define("COMLAN_404", "Zatwierdzić");
+define("COMLAN_TYPE_1", "Aktualności");
+define("COMLAN_TYPE_2", "Pobierz");
+define("COMLAN_TYPE_3", "FAQ");
+define("COMLAN_TYPE_4", "Ankieta");
+define("COMLAN_TYPE_5", "dokumenty");
+define("COMLAN_TYPE_6", "Bugtrack");
+define("COMLAN_TYPE_7", "pomysły");
+define("COMLAN_TYPE_8", "USERPROFILE");
+define("COMLAN_TYPE_PAGE", "Zawartość");
+define("COMLAN_500", "Proszę [Zaloguj] o komentarz.");
+define("COMLAN_501", "Jeśli nie jesteś jeszcze zarejestrowany, możesz [kliknij tutaj, aby zarejestrować].");

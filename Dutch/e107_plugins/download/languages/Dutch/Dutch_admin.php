@@ -6,7 +6,7 @@
 |     $URL:$
 |     $Revision:$
 |     $Date:$
-|     $Author: Erje, Yvalni, Tgtje $
+|     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
 */
 define("LAN_DL_OPTIONS", "Opties");

@@ -5,10 +5,10 @@
 // https://github.com/e107inc/multilan
 
 define("FOOTLAN_1", "Weboldal");
-define("FOOTLAN_2", "Fő Admin");
+define("FOOTLAN_2", "Főadmin");
 define("FOOTLAN_3", "Verzió");
 define("FOOTLAN_4", "alverzió");
-define("FOOTLAN_5", "Adminisztrációs smink");
+define("FOOTLAN_5", "Adminisztrációs sablon");
 define("FOOTLAN_6", "-");
 define("FOOTLAN_7", "Információ");
 define("FOOTLAN_8", "Telepítés dátuma");
@@ -21,6 +21,7 @@ define("FOOTLAN_14", "Dokumentáció megtekintése");
 define("FOOTLAN_15", "Dokumentáció");
 define("FOOTLAN_16", "Adatbázis");
 define("FOOTLAN_17", "Karakterkészlet");
-define("FOOTLAN_18", "Smink");
+define("FOOTLAN_18", "Sablon");
 define("FOOTLAN_19", "Szerver Idő");
 define("FOOTLAN_20", "Biztonsági szint");
+?>

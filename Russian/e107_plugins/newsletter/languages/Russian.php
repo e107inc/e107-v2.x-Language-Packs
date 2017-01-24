@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Russian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/08/14 01:57:24
+|
+|        $Author: admin $
++---------------------------------------------------------------+
+*/
 
 define("NLLAN_MENU_CAPTION", "Информационный бюллетень");
 define("NLLAN_48", "Вы подписались из этого бюллетеня - если вы хотите отказаться от подписки, пожалуйста, нажмите на кнопку ниже.");
@@ -15,5 +21,8 @@ define("NLLAN_67", "Обзор Архив");
 define("NLLAN_68", "Недопустимый параметр определен");
 define("NLLAN_69", "Послал рассылки доступны.");
 define("NLLAN_70", "Не существует отдельных бюллетень");
-define("NLLAN_71", "Назад");
 define("NLLAN_72", "Посмотреть архив");
+define("NLLAN_73", "Введите ваш адрес электронной почты");
+
+
+?>

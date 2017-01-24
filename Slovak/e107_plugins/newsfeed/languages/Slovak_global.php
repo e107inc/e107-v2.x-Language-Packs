@@ -10,7 +10,7 @@
 +---------------------------------------------------------------+
 */
 define("LAN_PLUGIN_NEWSFEEDS_NAME", "Import RSS noviniek");
-define("LAN_PLUGIN_NEWSFEEDS_DESCRIPTION", "Toto rozšírenie získava RSS feedy z iných stránok a zobrazuje ich podľa vašich preferencií.");
+define("LAN_PLUGIN_NEWSFEEDS_DESCRIPTION", "Tento plugin získava RSS feedy z iných stránok a zobrazuje ich podľa vašich preferencií.");
 
 
 ?>

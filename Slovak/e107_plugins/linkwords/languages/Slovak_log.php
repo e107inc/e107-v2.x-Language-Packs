@@ -9,12 +9,12 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("LAN_AL_LINKWD_00", "");
-define("LAN_AL_LINKWD_01", "");
-define("LAN_AL_LINKWD_02", "");
-define("LAN_AL_LINKWD_03", "");
-define("LAN_AL_LINKWD_04", "");
-define("LAN_AL_LINKWD_05", "");
+define("LAN_AL_LINKWD_00", "Linkword-related message");
+define("LAN_AL_LINKWD_01", "Linkword Added");
+define("LAN_AL_LINKWD_02", "Linkword Edited");
+define("LAN_AL_LINKWD_03", "Linkword deleted");
+define("LAN_AL_LINKWD_04", "Linkword options updated");
+define("LAN_AL_LINKWD_05", "Linkwords version update");
 
 
 ?>

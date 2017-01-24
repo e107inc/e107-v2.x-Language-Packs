@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/05/22 16:39:02
+|
+|        $Author: Norwayman $
++---------------------------------------------------------------+
+*/
 
 define("LAN_EMAIL_1", "Fra:");
 define("LAN_EMAIL_2", "IP-adressen til avsender:");
@@ -25,3 +31,7 @@ define("LAN_EMAIL_187", "E-postadresse å sende til");
 define("LAN_EMAIL_188", "Jeg tenkte du kunne være interessert i denne nyhetsartikkelen fra");
 define("LAN_EMAIL_189", "Tenkte du kunne være interessert i denne artikkelen fra");
 define("LAN_EMAIL_190", "Angi synlig");
+define("LAN_SOCIAL_LINK_CHK", "Sjekk ut denne lenken:");
+
+
+?>

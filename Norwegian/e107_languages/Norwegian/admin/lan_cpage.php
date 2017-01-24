@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/04/04 19:47:01
+|
+|        $Author: Norwayman $
++---------------------------------------------------------------+
+*/
 
 define("CUSLAN_9", "Tekst");
 define("CUSLAN_11", "Metabeskrivelse");
@@ -40,3 +46,7 @@ define("CUSLAN_75", "Manglende meny-id oppdaget:");
 define("CUSLAN_76", "Meny med banen #");
 define("CUSLAN_77", "slettet");
 define("CUSLAN_78", "Kan ikke slette meny med banen");
+define("CUSLAN_79", "Du må enten angi en sidetittel eller et menynavn.");
+
+
+?>

@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Russian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/07/30 02:21:21
+|
+|        $Author: admin $
++---------------------------------------------------------------+
+*/
 
 define("LANDT_01", "год");
 define("LANDT_02", "месяц");
@@ -23,3 +29,7 @@ define("LANDT_08s", "мин.");
 define("LANDT_09", "сек.");
 define("LANDT_09s", "сек.");
 define("LANDT_AGO", "назад");
+define("LANDT_10", "Сейчас");
+
+
+?>

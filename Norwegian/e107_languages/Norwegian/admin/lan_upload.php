@@ -9,7 +9,6 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-
 define("UPLLAN_1", "Last fjernet fra listen.");
 define("UPLLAN_2", "Innstillinger er lagret i databasen");
 define("UPLLAN_4", "Ikke noe forandret - ikke oppdatert");
@@ -50,8 +49,8 @@ define("UPLLAN_63", "Post flyttet til nedlastinger. [x]");
 define("UPLLAN_64", "Administrere nedlasting");
 define("UPLLAN_66", "Banen Nedlastingsfeil");
 define("UPLLAN_68", "SQL feil:");
-define("UPLLAN_69", "");
-define("UPLLAN_70", "");
+define("UPLLAN_69", "Importert");
+define("UPLLAN_70", "Send til [x]");
 
 
 ?>

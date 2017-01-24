@@ -64,3 +64,4 @@ define("ADSTAT_L57", "");
 define("ADSTAT_L58", "");
 define("ADSTAT_L59", "");
 define("ADSTAT_L60", "");
+?>

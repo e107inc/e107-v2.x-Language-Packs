@@ -9,10 +9,10 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("LAN_AL_STAT_01", "");
-define("LAN_AL_STAT_02", "");
-define("LAN_AL_STAT_03", "");
-define("LAN_AL_STAT_04", "");
+define("LAN_AL_STAT_01", "Stats - reset");
+define("LAN_AL_STAT_02", "Stats - settings changed");
+define("LAN_AL_STAT_03", "Stats - pages removed");
+define("LAN_AL_STAT_04", "Stats - historic data removed");
 
 
 ?>

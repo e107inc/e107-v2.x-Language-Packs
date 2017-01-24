@@ -9,7 +9,6 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-
 define("PAGE_NAME", "Nyheter");
 define("LAN_NEWS_1", "Nyheter for bestemte medlemmer");
 define("LAN_NEWS_2", "Du kan ikke se denne nyheten");
@@ -34,8 +33,10 @@ define("LAN_NEWS_85", "Tilbake til kategorien Oversikt");
 define("LAN_NEWS_86", "Eldre nyheter");
 define("LAN_NEWS_87", "Nyere nyheter");
 define("LAN_NEWS_462", "Ingen nyheter for angitte måneden");
+define("LAN_NEWS_463", "Det finnes ingen nyheter for den spesifiserte kategorien - vennligst sjekk tilbake snart.");
 define("LAN_NEWS_100", "På");
 define("LAN_NEWS_307", "Totalt innlegg i denne kategorien:");
+define("LAN_NEWS_308", "Kanskje du leter etter en av nyhetene under?");
 
 
 ?>

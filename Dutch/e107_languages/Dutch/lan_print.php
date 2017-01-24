@@ -6,7 +6,7 @@
 |     $URL:$
 |     $Revision:$
 |     $Date:$
-|     $Author: Erje, Yvalni, Tgtje $
+|     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
 */
 
@@ -22,6 +22,6 @@ define("LAN_PRINT_304", "Titel: ");
 define("LAN_PRINT_305", "Onderkop: ");
 define("LAN_PRINT_306", "Dit artikel is van: ");
 define("LAN_PRINT_307", "Druk deze pagina af");
-define("LAN_PRINT_1", "printer vriendelijk");
+define("LAN_PRINT_1", "Printer vriendelijk");
 
 ?>

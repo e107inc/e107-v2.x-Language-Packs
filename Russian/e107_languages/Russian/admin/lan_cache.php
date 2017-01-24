@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Russian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/08/14 18:09:22
+|
+|        $Author: admin $
++---------------------------------------------------------------+
+*/
 
 define("CACLAN_1", "Состояние кэша системы");
 define("CACLAN_2", "Состояние набора кэша");
@@ -26,3 +32,9 @@ define("CACLAN_24", "Пустой DB кэш структуры");
 define("CACLAN_25", "Очистить кэш эскизов");
 define("CACLAN_26", "Очистить весь кэш");
 define("CACLAN_27", "Кэш браузера пустой");
+define("CACLAN_28", "JS/CSS Кэш");
+define("CACLAN_29", "Консолидировать файлы кэша, JS, и CSS.");
+define("CACLAN_30", "Сбросить JS/CSS Кэш");
+
+
+?>

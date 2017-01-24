@@ -28,12 +28,12 @@ define("FMLAN_38", "Úspešne presunuté do");
 define("FMLAN_39", "Nemožnosť presunutia do");
 define("FMLAN_40", "Adresár obrázkov noviniek");
 define("FMLAN_43", "Zmazať zvolené súbory");
-define("FMLAN_46", "Prosím, potvrďte zmazanie vybraných súborov.");
+define("FMLAN_46", "Potvrďte zmazanie vybraných súborov.");
 define("FMLAN_47", "Uploady užívateľov");
 define("FMLAN_48", "Vybraté presuňte do");
-define("FMLAN_49", "Potvrďte, prosím, presun vybratých súborov.");
+define("FMLAN_49", "Potvrďte presun vybratých súborov.");
 define("FMLAN_50", "Presunúť");
-define("FMLAN_51", "");
+define("FMLAN_51", "Neidentifikovaná chyba");
 
 
 ?>

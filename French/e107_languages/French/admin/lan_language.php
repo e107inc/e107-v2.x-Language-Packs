@@ -1,13 +1,19 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system French Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/10/24 10:26:46
+|
+|        $Author: Olivier Troccaz $
++---------------------------------------------------------------+
+*/
 define("LANG_LAN_00", "[x] n'a pas pu être créé (existe déjà).");
 define("LANG_LAN_01", "[x] a été supprimé (si existant) et créé.");
 define("LANG_LAN_02", "[x] n'a pas pu être supprimé.");
 define("LANG_LAN_03", "Tables");
+define("LANG_LAN_04", "LANs obsolètes");
 define("LANG_LAN_05", "Pas installé");
 define("LANG_LAN_06", "Créer les tables");
 define("LANG_LAN_07", "Supprimer les tables existantes ?");
@@ -26,6 +32,7 @@ define("LANG_LAN_21", "Modules linguistiques");
 define("LANG_LAN_25", "Statut de création du module linguistique");
 define("LANG_LAN_26", "Ne charger des fichiers de langue que pour la langue en cours");
 define("LANG_LAN_27", "Si activé et qu'une langue requise est introuvable, il y aura une erreur");
+define("LANG_LAN_28", "Cochez cette case si vous êtes un [traducteur e107 agréé]");
 define("LANG_LAN_EML", "Veuillez envoyez votre module linguistique à :");
 define("LANG_LAN_32", "Langues installées");
 define("LANG_LAN_33", "Afficher uniquement les erreurs lors de la vérification");
@@ -45,3 +52,17 @@ define("LANG_LAN_131", "Manquant dans le fichier de langue");
 define("LANG_LAN_132", "est une expression commune.");
 define("LANG_LAN_133", "Utilisation");
 define("LANG_LAN_134", "au lieu de cela.");
+define("LANG_LAN_135", "Écraser");
+define("LANG_LAN_136", "Ne peut pas écraser");
+define("LANG_LAN_137", "Traité");
+define("LANG_LAN_140", "Maintenez la touche CTRL enfoncée pour une sélection multiple.[br]Par exemple, pour tester [b]lan_signup.php[/p], vous voudrez également sélectionner [b]signup_shortcodes.php[/p] et [b]signup_template.php[/b].");
+define("LANG_LAN_141", "Choisissez le script ...");
+define("LANG_LAN_142", "Détection automatique");
+define("LANG_LAN_143", "Fichier LAN spécifique");
+define("LANG_LAN_144", "Doit être réactivé");
+define("LANG_LAN_148", "Mode normal");
+define("LANG_LAN_149", "Valeur");
+define("LANG_LAN_150", "[b]Rechercher dans le noyau ENTIER avant de commenter TOUT LAN de TOUT fichier langue.[/b]");
+
+
+?>

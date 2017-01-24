@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Hungarian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/03/19 14:10:57
+|
+|        $Author: Yesszus $
++---------------------------------------------------------------+
+*/
 
 define("ADSTAT_L1", "A plugin minden látogatást naplózni fog, és részletes statisztikákat ad az összegyűjtött információk alapján.");
 define("ADSTAT_L2", "A statisztika naplózó telepítve. Az aktiváláshoz lépj a beállításokhoz és kattints az Aktiválás-ra.<br /><b>Az e107_plugins/log/logs mappa jogosultsága 777 legyen! (chmod 777)</b>");
@@ -13,7 +19,7 @@ define("ADSTAT_L6", "Böngészők");
 define("ADSTAT_L7", "Operációs rendszerek");
 define("ADSTAT_L8", "Felbontás / színmélység");
 define("ADSTAT_L9", "Látogató ország / domain");
-define("ADSTAT_L10", "Utalások");
+define("ADSTAT_L10", "Hivatkozások");
 define("ADSTAT_L11", "Keresőszavak");
 define("ADSTAT_L12", "Statisztikák törlése");
 define("ADSTAT_L13", "Minden statisztika törlődni fog!");
@@ -35,8 +41,7 @@ define("ADSTAT_L31", "Kiválasztott oldal törlése");
 define("ADSTAT_L32", "Oldal rendezése");
 define("ADSTAT_L35", "Egységes böngésző info megtekintése a statisztikában");
 define("ADSTAT_L36", "Adatok exportálása");
-define('ADSTAT_L38', "Az e107_plugins/log/logs mappának írhatónak kell lennie");
-
+define("ADSTAT_L38", "Az e107_plugins/log/logs mappának írhatónak kell lennie");
 define("ADSTAT_L39", "Statisztikák Naplózási funkciók");
 define("ADSTAT_L40", "Naplóadatok exportálása");
 define("ADSTAT_L41", "Időpont kiválasztása");
@@ -83,3 +88,6 @@ define("ADSTAT_L82", "Következő értékek lettek beállítva:");
 define("ADSTAT_L83", "Következő ID-kkel ellátot naplóbejegyzések lettek törölve:");
 define("ADSTAT_L84", "");
 define("ADSTAT_L85", "");
+
+
+?>

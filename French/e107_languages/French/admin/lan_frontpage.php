@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system French Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/01 15:23:27
+|
+|        $Author: Olivier Troccaz $
++---------------------------------------------------------------+
+*/
 
 define("FRTLAN_13", "Paramètres de la page d'accueil");
 define("FRTLAN_30", "Page personnalisée");
@@ -15,3 +21,7 @@ define("FRTLAN_51", "Autre");
 define("FRTLAN_PAGE_TITLE", "Page d'accueil");
 define("FRTLAN_56", "Dupliquer la définition pour la classe :");
 define("FRTLAN_57", "Erreur logicielle");
+define("FRTLAN_61", "Sélection");
+
+
+?>

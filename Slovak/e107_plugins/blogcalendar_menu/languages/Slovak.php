@@ -9,13 +9,13 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("BLOGCAL_L1", "");
+define("BLOGCAL_L1", "Články po mesiacoch");
 define("BLOGCAL_L2", "archív");
 define("BLOGCAL_1", "noviniek");
-define("BLOGCAL_CONF1", "");
-define("BLOGCAL_CONF2", "");
-define("BLOGCAL_CONF4", "");
-define("BLOGCAL_ARCHIV1", "");
+define("BLOGCAL_CONF1", "Mesiace/riadok");
+define("BLOGCAL_CONF2", "Odsadenie buniek");
+define("BLOGCAL_CONF4", "Nastavenie BlogCal menu");
+define("BLOGCAL_ARCHIV1", "Zvoľte archív");
 
 
 ?>

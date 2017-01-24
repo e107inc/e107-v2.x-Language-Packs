@@ -6,7 +6,7 @@
 |     $URL:$
 |     $Revision:$
 |     $Date:$
-|     $Author: Erje, Yvalni, Tgtje $
+|     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
 */
 
@@ -16,7 +16,7 @@ define("LANG_LAN_00", "[x] kon niet worden aangemaakt (bestaat al).");
 define("LANG_LAN_01", "[x] is verwijderd (als het al bestond) en aangemaakt.");
 define("LANG_LAN_02", "[x] kon niet worden verwijderd");
 define("LANG_LAN_03", "Tabellen");
-
+define("LANG_LAN_04", "In onbruik geraakte LANs");
 define("LANG_LAN_05", "Niet geïnstalleerd");
 define("LANG_LAN_06", "Creëren tabellen");
 define("LANG_LAN_07", "Verwijderen aanwezige tabellen?");
@@ -84,4 +84,15 @@ define("LANG_LAN_131", "Uit taalbestand missend");
 define("LANG_LAN_132", "is een algemene zin.");
 define("LANG_LAN_133", "Gebruik");
 define("LANG_LAN_134", "in plaats van.");
+define("LANG_LAN_135", "Overschrijvend ");
+define("LANG_LAN_136", "Kon niet overschrijven ");
+define("LANG_LAN_137", "Verwerkt");
+define("LANG_LAN_140", "Houdt CTRL toets ingedrukt voor meervoudige keuze.[br]b.v. Om [b]lan_signup.php[/b] te controleren zou je ook [b]signup_shortcodes.php[/b] en [b]signup_template.php[/b] moeten kiezen.");
+define("LANG_LAN_141", "Selecteer Script...");
+define("LANG_LAN_142", "Auto-Detect");
+define("LANG_LAN_143", "Specifiek LAN bestand:");
+define("LANG_LAN_144", "Moe opnieuw worden ingeschakeld");
+define("LANG_LAN_149", "Waarde");
+define("LANG_LAN_150", "[b]Doorzoek GEHELE systeem core voordat je welke LAN dan ook commenteert (uitschakeld) in elke WILLEKEURIGE LAN in elke WILLEKEURIG taalbestand.[/b]"); //betere vertalling mogl.?
+
 ?>

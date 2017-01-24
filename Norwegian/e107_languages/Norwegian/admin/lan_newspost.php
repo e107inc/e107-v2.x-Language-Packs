@@ -129,6 +129,18 @@ define("LAN_NEWS_92", "f.eks. News.php?all eller news.php?cat.1 eller news.php?t
 define("LAN_NEWS_93", "Listevisning innhold");
 define("LAN_NEWS_94", "Elementer som er tilordnet disse malene vises i listen.");
 define("LAN_NEWS_95", "En annen nyhet bruker SEF URL: [x]");
+define("LAN_NEWS_96", "Godkjenn");
+define("LAN_NEWS_97", "Nyhets Rute Meny");
+define("LAN_NEWS_98", "Ping Services");
+define("LAN_NEWS_99", "Bare aksepter bilder større enn");
+define("LAN_NEWS_100", "Enhver størrelse");
+define("LAN_NEWS_101", "Send inn nyheter");
+define("LAN_NEWS_102", "Åpne i ny fane");
+define("LAN_NEWS_103", "E-postvarsling");
+define("LAN_NEWS_104", "Utløs en e-post når du sender inn dette skjemaet.");
+define("LAN_NEWS_105", "E-postvarsling utløst!");
+define("LAN_NEWS_106", "Nyhet synlighet må inkludere "alle" for at e-postmeldinger skal fungere.");
+define("LAN_NEWS_107", "Kontrollerer for Ping Status");
 
 
 ?>

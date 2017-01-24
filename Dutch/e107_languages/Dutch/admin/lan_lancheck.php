@@ -6,7 +6,7 @@
 |     $URL:$
 |     $Revision:$
 |     $Date:$
-|     $Author: Erje, Yvalni, Tgtje $
+|     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
 */
 
@@ -24,12 +24,13 @@ define("LAN_CHECK_18", "Taalbestanden in het standaardformaat zijn voor deze plu
 define("LAN_CHECK_19", "Non-UTF-8 tekens aangetroffen!"); 
 define("LAN_CHECK_20", "Aanmaken taalpakket");
 define("LAN_CHECK_21", "Verifiëer opnieuw");
-define("LAN_CHECK_22", "Theme");
+//define("LAN_CHECK_22", "Theme");  LAN_THEME
 define("LAN_CHECK_23", "Fouten gevonden");
-define("LAN_CHECK_24", "samenvatting");
-define("LAN_CHECK_25", "Themes");
-define("LAN_CHECK_26", "Bestand");
+//define("LAN_CHECK_24", "samenvatting");  LAN_SUMMARY
+//define("LAN_CHECK_25", "Themes");  LAN_THEMES
+define("LAN_CHECK_26", "Front");
 define("LAN_CHECK_27", "Het aantal taalfouten gevonden in het Taalpakket");
+define("LAN_CHECK_28", "Identiek");
 define("LAN_CHECK_PAGE_TITLE", "Talen");
 
 define("LANG_LAN_23", "Aanmaken Taalpakket (zip)");

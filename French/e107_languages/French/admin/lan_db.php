@@ -1,9 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system French Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/01/20 18:04:22
+|
+|        $Author: Olivier Troccaz $
++---------------------------------------------------------------+
+*/
 define("DBLAN_1", "Les paramètres du noyau ont été sauvegardées dans la base de données.");
 define("DBLAN_4", "Sélectionnez cette option pour vérifier la validité de la base de données e107");
 define("DBLAN_5", "Vérifier la validité de la base de données");
@@ -12,8 +17,7 @@ define("DBLAN_7", "Optimiser la base de données SQL");
 define("DBLAN_8", "Sélectionnez cette option pour sauvegarder vos paramètres de base");
 define("DBLAN_9", "Sauvegarde du noyau");
 define("DBLAN_10", "Utilitaires de base de données");
-define("DBLAN_11", "Base de données MySQL");
-define("DBLAN_12", "optimisé");
+define("DBLAN_11", "Base de données MySQL [x] optimisée");
 define("DBLAN_15", "Sélectionnez cette option pour vérifier les mises à jour disponibles de la base de données");
 define("DBLAN_16", "Vérifier les mises à jour");
 define("DBLAN_17", "Préférence de nom");
@@ -49,7 +53,7 @@ define("DBLAN_53", "Veuillez sélectionner une action.");
 define("DBLAN_54", "Aucune erreur de validation trouvée.");
 define("DBLAN_55", "Sélectionnez cette option pour analyser les shortcodes/remplacer les répertoires pour de nouveaux shortcodes");
 define("DBLAN_56", "Analyser les répertoires remplacés");
-define("DBLAN_57", "Liste de shortcodes remplacés définie à");
+define("DBLAN_57", "Liste de shortcodes remplacés définie �");
 define("DBLAN_58", "Exporter les données du site");
 define("DBLAN_59", "Importer les données de site");
 define("DBLAN_60", "Sauvegarde de fichiers complète !");
@@ -102,3 +106,17 @@ define("DBLAN_107", "[folder] n'est pas accessible en écriture");
 define("DBLAN_108", "Créé :");
 define("DBLAN_109", "Copié :");
 define("DBLAN_110", "N'a pas pu copier :");
+define("DBLAN_111", "Les tables semblent ok !");
+define("DBLAN_112", "Synchroniser avec Github");
+define("DBLAN_113", "Remplacer les fichiers");
+define("DBLAN_114", "En mode développement seulement");
+define("DBLAN_115", "Remplacer les fichiers locaux avec les versions plus récentes de Github.");
+define("DBLAN_116", "Ceci va télécharger la dernière archive .zip de Github vers");
+define("DBLAN_117", "puis la décompressera, remplaçant tout fichier présent sur votre serveur. Il prendra en compte tout dossier spécifique que vous pourriez avoir spécifié via e107_config.php.");
+define("DBLAN_118", "Impossible de télécharger l'archive .zip");
+define("DBLAN_119", "Sauvegarde");
+define("DBLAN_120", "Début de la sauvegarde ...");
+define("DBLAN_121", "Déplacer [x] vers [y]");
+
+
+?>

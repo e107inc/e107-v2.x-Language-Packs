@@ -6,7 +6,7 @@
 |     $URL:$
 |     $Revision:$
 |     $Date:$
-|     $Author: Erje, Yvalni, Tgtje $
+|     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
 */
 
@@ -57,4 +57,5 @@ define("BNRLAN_45", "Een campagne in een enkel menu");
 define("BNRLAN_46", "Alle geselecteerde campagnes in een enkel menu"); 
 define("BNRLAN_47", "Alle geselecteerde campagnes in afzonderlijke menus"); 
 define("BNRLAN_48", "Alle geselecteerde campagnes (geen box rendering)");
+define("BNRLAN_49", "Tooltip");
 ?>

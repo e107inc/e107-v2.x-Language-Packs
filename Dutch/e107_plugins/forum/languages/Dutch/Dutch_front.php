@@ -6,12 +6,10 @@
 |     $URL:$
 |     $Revision:$
 |     $Date:$
-|     $Author: Erje, Yvalni, Tgtje $
+|     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
 */
-
 define("e_PAGETITLE", "Forum");
-define("LAN_FORUM_0001", "Forum");
 define("LAN_FORUM_0002", "Discussies");
 define("LAN_FORUM_0003", "Reacties");
 define("LAN_FORUM_0004", "Laatste bericht");
@@ -39,7 +37,7 @@ define("LAN_FORUM_0025", "Het is nu");
 define("LAN_FORUM_0027", "Je hebt");
 define("LAN_FORUM_0028", "van deze berichten gelezen.");
 define("LAN_FORUM_0029", "Alle nieuwe berichten zijn gelezen.");
-define("LAN_FORUM_0030", "Overzicht gevolgde discussies");
+define("LAN_FORUM_0030", "Gevolgde discussies");
 define("LAN_FORUM_0031", "De gebruikers van dit forum hebben een totaal van [x] berichten geplaatst.");
 define("LAN_FORUM_0032", "discussie");
 define("LAN_FORUM_0033", "discussies");
@@ -79,7 +77,6 @@ define("LAN_FORUM_0067", "Nog geen forums, kom binnenkort terug.");
 define("LAN_FORUM_0068", "Nog geen forums in dit onderdeel, kom binnenkort terug.");
 define("LAN_FORUM_0069", "Sub-forums");
 define("LAN_FORUM_0070", "Annuleer volgen van discussie");
-define("LAN_FORUM_0071", "Forum regels");
 define("LAN_FORUM_0072", "Geen regels gespecificeerd");
 define("LAN_FORUM_0073", "Gevolgde discussies");
 define("LAN_FORUM_0074", "Geplaatst door");
@@ -102,7 +99,8 @@ define("LAN_FORUM_1015", "[gebruiker verwijderd]");
 define("LAN_FORUM_1016", "Peilingen");
 define("LAN_FORUM_1017", "Ga naar");
 define("LAN_FORUM_1018", "Nieuwe discussie");
-define("LAN_FORUM_1019", "Ben je er zeker van?");
+define("LAN_FORUM_1020", "Modificiëren");
+define("LAN_FORUM_1021", "Geen reacties");
 define("LAN_FORUM_2001", "Voorgaande discussie");
 define("LAN_FORUM_2002", "Volgende discussie");
 define("LAN_FORUM_2003", "Moderator(-en)");
@@ -115,7 +113,6 @@ define("LAN_FORUM_2009", "Weet je zeker dat je deze discussie en de eventuele re
 define("LAN_FORUM_2010", "Weet je zeker dat je deze reactie wilt verwijderen?");
 define("LAN_FORUM_2012", "Geen voorgaande discussie");
 define("LAN_FORUM_2013", "Geen volgende discussie");
-define("LAN_FORUM_2014", "Auteur");
 define("LAN_FORUM_2015", "Bericht");
 define("LAN_FORUM_2016", "Bewerkt");
 define("LAN_FORUM_2017", "door");
@@ -140,8 +137,6 @@ define("LAN_FORUM_2035", "Geregistreerd lid");
 define("LAN_FORUM_2036", "Verstuur Persoonlijk Bericht");
 define("LAN_FORUM_2037", "Bericht verwijderd op");
 define("LAN_FORUM_2038", "Reden");
-define("LAN_FORUM_2039", "Bewerk");
-define("LAN_FORUM_2040", "Verwijder");
 define("LAN_FORUM_2041", "Quote");
 define("LAN_FORUM_2042", "Verplaats");
 define("LAN_FORUM_2043", "Splits");
@@ -151,7 +146,6 @@ define("LAN_FORUM_2046", "Meld");
 define("LAN_FORUM_3001", "Je bent niet bevoegd tot plaatsing in dit forum.");
 define("LAN_FORUM_3002", "Deze discussie is gesloten.");
 define("LAN_FORUM_3003", "Reagerend op");
-define("LAN_FORUM_3004", "Anoniem");
 define("LAN_FORUM_3005", "Vooraanzicht");
 define("LAN_FORUM_3006", "Dubbele berichtgeving");
 define("LAN_FORUM_3007", "Je liet vereist(-e) veld(-en) leeg");
@@ -175,31 +169,24 @@ define("LAN_FORUM_3024", "Werk reactie bij");
 define("LAN_FORUM_3025", "Type");
 define("LAN_FORUM_3026", "Plaats discussie als");
 define("LAN_FORUM_3028", "Peiling toevoegen");
-define("LAN_FORUM_3029", "Wanneer je geen peiling wilt toevoegen aan je discussie, laat de velden dan leeg.");
-define("LAN_FORUM_3030", "Peiling vraag");
-define("LAN_FORUM_3031", "Peiling antwoord");
-define("LAN_FORUM_3032", "Voeg een ander antwoord toe");
-define("LAN_FORUM_3033", "Toestaan meerkeuze?");
-define("LAN_FORUM_3034", "Opslagmethode peiling");
-define("LAN_FORUM_3035", "Cookie");
-define("LAN_FORUM_3036", "IP adres");
-define("LAN_FORUM_3037", "Gebruikers ID (alleen leden kunnen stemmen)");
 define("LAN_FORUM_3038", "Normaal");
 define("LAN_FORUM_3039", "Uitschakelen emoticons voor dit bericht");
 define("LAN_FORUM_3040", "Email volging inschakelen (email wordt verzonden wanneer een reactie wordt geplaatst)");
+define("LAN_FORUM_3041", "In-/Uitschakelen tracken van dit onderwerp");
+define("LAN_FORUM_3042", "Nieuw topic/onderwerp");
 define("LAN_FORUM_3043", "Bedankt");
-define("LAN_FORUM_3044", "Klik hier om terug te gaan naar forum");
 define("LAN_FORUM_3045", "Je peiling werd succesvol geplaatst");
 define("LAN_FORUM_3046", "Klik hier om je peiling te bekijken");
 define("LAN_FORUM_3047", "Jouw bericht werd succesvol geplaatst");
 define("LAN_FORUM_3048", "Klik hier om je bericht te bekijken");
 define("LAN_FORUM_3049", "Jouw reactie is succesvol geplaatst.");
+define("LAN_FORUM_3050", "Splits punt");
+define("LAN_FORUM_3051", "Nieuwe locatie");
+define("LAN_FORUM_3052", "Splits Onderwerp");
 define("LAN_FORUM_4001", "Er bestaat een ongelzen bericht");
 define("LAN_FORUM_4002", "Geen ongelezen berichten");
 define("LAN_FORUM_4003", "Nieuwe berichten in populaire discussie");
 define("LAN_FORUM_4004", "Geen nieuwe berichten in populaire discussie");
-define("LAN_FORUM_4005", "Website");
-define("LAN_FORUM_4006", "Email");
 define("LAN_FORUM_4007", "Profiel");
 define("LAN_FORUM_4008", "Prive Bericht");
 define("LAN_FORUM_4009", "Volg discussie");
@@ -208,57 +195,75 @@ define("LAN_FORUM_4011", "Discussie sticky");
 define("LAN_FORUM_4012", "Discussie vrij");
 define("LAN_FORUM_4013", "Sluit discussie");
 define("LAN_FORUM_4014", "Open discussie");
-
-// Ajax and actions 
 define("LAN_FORUM_CLOSE", "Discussie gesloten.");
 define("LAN_FORUM_OPEN", "Discussie heropend.");
 define("LAN_FORUM_STICK", "Discussie sticky maken.");
 define("LAN_FORUM_UNSTICK", "Discussie sticky verwijderen.");
-
-// Config 
-define("LAN_FORUM_5001", "Peiling verwijderd."); 
-define("LAN_FORUM_5005", "Discussie verwijderd."); 
-define("LAN_FORUM_5006", "Verwijderen geannuleerd."); 
-define("LAN_FORUM_5007", "Terug naar Forums"); 
-define("LAN_FORUM_5008", "Forum Configuratie"); 
-define("LAN_FORUM_5009", "Ben je er absoluut zeker van dat u deze peiling wil verwijderen? <br /> Eenmaal gewist kan het<b> <u> niet </ u> </ b> meer worden opgehaald.");
-define("LAN_FORUM_5010", "Bevestigen  verwijderen Forum  "); 
-define("LAN_FORUM_5019", "Verplaats Discussie"); 
-define("LAN_FORUM_5021", "verplaatst"); 
-define("LAN_FORUM_5022", "Deze discussie niet hernoemen"); 
-define("LAN_FORUM_5024", "Voeg [x] toe als voorstuk aan het onderwerp/ titel regel"); 
-define("LAN_FORUM_5025", "Hernoemen naar:"); 
-define("LAN_FORUM_5026", "Hernoemen Discussie opties:"); 
-
-
-// Statistics (lan_forum_stats.php ) ----------------
-define("LAN_FORUM_6000", "Algemeen"); 
-define("LAN_FORUM_6001", "Forum geopend"); 
-define("LAN_FORUM_6002", "Open voor"); 
-define("LAN_FORUM_6003", "Totaal berichten"); 
-define("LAN_FORUM_6004", "Forum reacties"); 
-define("LAN_FORUM_6005", "Forum discussie bekeken aantal"); 
-define("LAN_FORUM_6006", "Database omvang (alleen forum tabellen)"); 
+define("LAN_FORUM_5001", "Peiling verwijderd.");
+define("LAN_FORUM_5005", "Discussie verwijderd.");
+define("LAN_FORUM_5006", "Verwijderen geannuleerd.");
+define("LAN_FORUM_5007", "Terug naar Forums");
+define("LAN_FORUM_5008", "Forum Configuratie");
+define("LAN_FORUM_5009", "Ben je er absoluut zeker van dat u deze peiling wil verwijderen? <br /> Eenmaal gewist kan het<b> <u> niet </u> </b> meer worden opgehaald.");
+define("LAN_FORUM_5010", "Bevestigen  verwijderen Forum");
+define("LAN_FORUM_5019", "Verplaats Discussie");
+define("LAN_FORUM_5021", "verplaatst");
+define("LAN_FORUM_5022", "Deze discussie niet hernoemen");
+define("LAN_FORUM_5024", "Voeg [x] toe als voorstuk aan het onderwerp/ titel regel");
+define("LAN_FORUM_5025", "Hernoemen naar:");
+define("LAN_FORUM_5026", "Hernoemen Discussie opties:");
+define("LAN_FORUM_6000", "Algemeen");
+define("LAN_FORUM_6001", "Forum geopend");
+define("LAN_FORUM_6002", "Open voor");
+define("LAN_FORUM_6003", "Totaal berichten");
+define("LAN_FORUM_6004", "Forum reacties");
+define("LAN_FORUM_6005", "Forum discussie bekeken aantal");
+define("LAN_FORUM_6006", "Database omvang (alleen forum tabellen)");
 define("LAN_FORUM_6007", "Gemiddelde rijlengte in forumtabel");
-define("LAN_FORUM_6008", "Rang"); 
-define("LAN_FORUM_6009", "Gestart door"); 
-define("LAN_FORUM_6010", "Meest bekeken discussies"); 
-define("LAN_FORUM_6011", "Top discussiestarters"); 
-define("LAN_FORUM_6012", "Top reageerders"); 
-define("LAN_FORUM_6013", "Forum Statistieken"); 
-define("LAN_FORUM_6014", "Gemiddeld aantal berichten per dag"); 
+define("LAN_FORUM_6008", "Rang");
+define("LAN_FORUM_6009", "Gestart door");
+define("LAN_FORUM_6010", "Meest bekeken discussies");
+define("LAN_FORUM_6011", "Top discussiestarters");
+define("LAN_FORUM_6012", "Top reageerders");
+define("LAN_FORUM_6013", "Forum Statistieken");
+define("LAN_FORUM_6014", "Gemiddeld aantal berichten per dag");
+define("LAN_FORUM_7001", "Geuploade bestanden in forum");
+define("LAN_FORUM_7002", "Bestand verwijderd");
+define("LAN_FORUM_7003", "Fout: bestand niet te verwijderen");
+define("LAN_FORUM_7004", "Bestandsverwijdering");
+define("LAN_FORUM_7006", "Resultaat");
+define("LAN_FORUM_7007", "Gevonden in discussie");
+define("LAN_FORUM_7008", "NIET GEVONDEN");
+define("LAN_FORUM_7009", "Geen geuploade bestanden gevonden");
+define("LAN_FORUM_8001", "Een nieuw bericht werd gemaakt door [x] onder het onderwerp [y] in [z].");
+define("LAN_FORUM_8002", "Klik aub op de volgende link om het gehele bericht te bekijken ...");
+define("LAN_FORUM_8003", "Email berichtgeving(-en) voor dit onderwerp zijn nu ingeschakeld.");
+define("LAN_FORUM_8004", "Email berichtgeving(-en) voor dit onderwerp zijn nu uitgeschakeld.");
+define("LAN_FORUM_8005", "Je hebt nu tracken van dit onderwerp actief.");
+define("LAN_FORUM_8006", "Je gebruikt niet langer het tracken van dit onderwerp.");
+define("LAN_FORUM_8007", "Vastmaken"); //??
+define("LAN_FORUM_8008", "Losmaken");  //??
+define("LAN_FORUM_8009", "Vergrendelen"); 
+define("LAN_FORUM_8010", "Ontgrendelen"); 
+define("LAN_FORUM_8011", "Status sleutels"); 
+define("LAN_FORUM_8012", "Zichtbaar voor"); 
+define("LAN_FORUM_8013", "Opties");
+// -------- Forum Post------------
+define("LAN_FORUM_8014", "Dit bericht, en elk onderliggend bericht zal worden verplaatst naar een nieuw discussie/onderwerp.");
+define("LAN_FORUM_8016", "(Huidig)");
 
-
-// ---- Uploads ----------
-
-define("LAN_FORUM_7001","Geuploade bestanden in forum");
-define("LAN_FORUM_7002","Bestand verwijderd"); 
-define("LAN_FORUM_7003","Fout: bestand niet te verwijderen");
-define("LAN_FORUM_7004","Bestandsverwijdering"); 
-define("LAN_FORUM_7006","Resultaat"); 
-define("LAN_FORUM_7007","Gevonden in discussie"); 
-define("LAN_FORUM_7008","NIET GEVONDEN"); 
-define("LAN_FORUM_7009","Geen geuploade bestanden gevonden");
+// -------- Forum Class------------
+define("LAN_FORUM_8017", "Er was een probleem met uitschakelen van tracking.");
+define("LAN_FORUM_8018", "Er was een probleem.");
+define("LAN_FORUM_8019", "Kon het onderwerp niet verwijderen!");
+define("LAN_FORUM_8020", "Verwijderd onderwerp");
+define("LAN_FORUM_8021", "Verwijderd bericht");
+define("LAN_FORUM_8022", "Kon het bericht niet verwijderen!");
+define("LAN_FORUM_8023", "Sluiten van discussie mislukt");
+define("LAN_FORUM_8024", "Openen van discussie mislukt");
+define("LAN_FORUM_8025", "Vastmaken van discussie mislukt");
+define("LAN_FORUM_8026", "Losmaken van discussie mislukt");
+define("LAN_FORUM_8027", "Geen aktie geselecteerd"); 
 
 
 ?>

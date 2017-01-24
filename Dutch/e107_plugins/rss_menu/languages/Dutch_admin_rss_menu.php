@@ -6,7 +6,7 @@
 |     $URL:$
 |     $Revision:$
 |     $Date:$
-|     $Author: Erje, Yvalni, Tgtje $
+|     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
 */
 define("RSS_LAN05","Aantal van items (0=niet actief)");
@@ -44,9 +44,10 @@ define("RSS_LAN_ADMINMENU_1", "RSS Opties");
 define("RSS_LAN_ADMINMENU_2", "Overzicht");
 define("RSS_LAN_ADMINMENU_4", "Importeren");
 
-define("RSS_LAN_ERROR_1",  "Dit is geen geldige RSS feed<br /><br /><a href='".e_SELF."'><< terug naar het RSS feed overzicht</a>");
+//define("RSS_LAN_ERROR_1",  "Dit is geen geldige RSS feed<br /><br /><a href='".e_SELF."'><< terug naar het RSS feed overzicht</a>");
+define("RSS_LAN_ERROR_1",  "Dit is geen geldige RSS feed [br][br]terug naar het RSS feed overzicht.>");
 define("RSS_LAN_ERROR_2",  "Je e107_config.php bestand bevat een spatie voor de &lt;? tekens. Je moet deze spatie verwijderen als je een geldige RSS feed wenst.");
-define("RSS_LAN_ERROR_3",  "Er zijn nog geen RSS feeds beschikbaar<br />gebruik de import functie om beschikbare RSS feeds te importen of creëer handmatig een RSS feed.");
+define("RSS_LAN_ERROR_3",  "Er zijn nog geen RSS feeds beschikbaar[br]gebruik de import functie om beschikbare RSS feeds te importen of creëer handmatig een RSS feed.");
 define("RSS_LAN_ERROR_4",  "Nog geen RSS feeds beschikbaar");
 define("RSS_LAN_ERROR_5",  "Deze RSS feed bestaat niet");
 define("RSS_LAN_ERROR_6",  "Er zijn geen RSS feeds te importeren");

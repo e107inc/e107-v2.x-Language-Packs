@@ -5,4 +5,4 @@
 // https://github.com/e107inc/multilan
 
 define("LAN_PLUGIN_DOWNLOAD_NAME", "Téléchargements");
-define("LAN_PLUGIN_DOWNLOAD_DIZ", "Ce plugin est un système de téléchargement de fichiers complet");
+define("LAN_PLUGIN_DOWNLOAD_DIZ", "Cette extension est un système complet de téléchargement de fichiers");
