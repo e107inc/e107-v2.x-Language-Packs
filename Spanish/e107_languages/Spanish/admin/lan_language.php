@@ -9,7 +9,6 @@
 |        $Author: Norwayman $
 +---------------------------------------------------------------+
 */
-
 define("LANG_LAN_00", "[x] no se pudo crear (ya existe).");
 define("LANG_LAN_01", "[x] se eliminó (si existe) y creado.");
 define("LANG_LAN_02", "[x] no podía ser eliminado.");
@@ -61,6 +60,7 @@ define("LANG_LAN_141", "Seleccionar guión ...");
 define("LANG_LAN_142", "Detección automática");
 define("LANG_LAN_143", "Archivo LAN específico:");
 define("LANG_LAN_144", "Debe volver a habilitarse");
+define("LANG_LAN_148", "Modo normal");
 define("LANG_LAN_149", "Valor");
 define("LANG_LAN_150", "[b] Buscar todo el núcleo antes de comentar cualquier LAN de cualquier archivo de idioma. [/b]");
 

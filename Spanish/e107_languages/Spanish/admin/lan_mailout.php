@@ -253,6 +253,13 @@ define("LAN_SEND", "Enviar");
 define("LAN_HOLD", "Mantenga");
 define("LAN_MAILOUT_260", "Tipo de usuario");
 define("LAN_MAILOUT_261", "Puerta SMTP");
+define("LAN_MAILOUT_262", "Previsualización de plantillas");
+define("LAN_MAILOUT_263", "Total de beneficiarios");
+define("LAN_MAILOUT_264", "Insertar medios");
+define("LAN_MAILOUT_265", "Pendiente");
+define("LAN_MAILOUT_266", "Activo máximo");
+define("LAN_MAILOUT_267", "Generar claves públicas/privadas");
+define("LAN_MAILOUT_268", "Modo de desarrollador solamente");
 
 
 ?>

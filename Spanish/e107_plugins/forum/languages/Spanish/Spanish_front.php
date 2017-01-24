@@ -262,6 +262,8 @@ define("LAN_FORUM_8024", "Error al abrir el hilo");
 define("LAN_FORUM_8025", "Error al pegar hilo");
 define("LAN_FORUM_8026", "No se pudo despegar el hilo");
 define("LAN_FORUM_8027", "Ninguna acción seleccionada");
+define("LAN_FORUM_8028", "Regresar");
+define("LAN_FORUM_8029", "Nuevo tema creado!");
 
 
 ?>
