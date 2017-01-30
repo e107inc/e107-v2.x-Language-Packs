@@ -1,13 +1,15 @@
 <?php
 /*
-+---------------------------------------------------------------+
++--------------------------------------------------------------------------+
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/10/15 13:15:43
+|        Last Modified: 2017/01/15 11:15:43
 |
 |        $Author: Yesszus $
-+---------------------------------------------------------------+
+|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|
++--------------------------------------------------------------------------+
 */
 
 define("NT_LAN_US_1", "Felhasználói regisztráció");
@@ -34,3 +36,4 @@ define("NT_LAN_NU_1", "Frissítve!");
 
 define("NT_LAN_ND_1", "A hír törölve!");
 define("NT_LAN_ND_2", "Törölt hír ID");
+?>

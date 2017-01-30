@@ -1,13 +1,15 @@
 <?php
 /*
-+---------------------------------------------------------------+
++--------------------------------------------------------------------------+
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/06/06 13:15:43
+|        Last Modified: 2017/01/15 11:15:43
 |
 |        $Author: Yesszus $
-+---------------------------------------------------------------+
+|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|
++--------------------------------------------------------------------------+
 */
 
 define("PAGE_NAME", "Regisztráció");
@@ -75,13 +77,13 @@ define("LAN_SIGNUP_70", "");
 define("LAN_SIGNUP_71", "Elérte az engedélyezett regisztrációk maximális számát. Jelentkezzen be egy másik, már létező felhasználói fiókkal.");
 define("LAN_SIGNUP_72", "[sitename] köszöni a regisztrációját! Elküldtünk egy megerősítő email-t a következő [email] email címre. A regisztráció befejezéséhez és a hozzáférése aktiválásához kattintson az email-ban lévő megerősítő linkre.");
 define("LAN_SIGNUP_73", "Köszönjük!");
-define("LAN_SIGNUP_74", "Hozzáférése aktiválva, kérjük");
-define("LAN_SIGNUP_75", "Regisztrációja aktiválva");
+define("LAN_SIGNUP_74", "A hozzáférése aktiválva lett! Kérjük");
+define("LAN_SIGNUP_75", "A regisztráció aktiválva");
 define("LAN_SIGNUP_76", "Köszönjük! Mostantól regisztrált felhasználója a következőnek:");
 define("LAN_SIGNUP_77", "Ez az oldal megfelel a gyermekek online adatvédelmi védelméről szóló törvénynek 1998 (COPPA), és mint ilyen, nem tudja elfogadni a regisztrációt a 13 éves vagy az alatti személytől a szülő vagy gondviselő írásos engedélye nélkül. További információkért kérjük, olvassa el a jogszabályt");
 define("LAN_SIGNUP_78", "Regisztráció");
 define("LAN_SIGNUP_79", "Regisztrálás");
-define("LAN_SIGNUP_80", "Adja meg az adataidat.");
+define("LAN_SIGNUP_80", "Adja meg az adatait!");
 define("LAN_SIGNUP_81", "Felhasználónév: ");
 define("LAN_SIGNUP_82", "az a név, amit a bejelentkezéshez használ");
 define("LAN_SIGNUP_83", "Jelszó: ");
@@ -95,7 +97,7 @@ define("LAN_SIGNUP_93", "Aláírás: ");
 define("LAN_SIGNUP_94", "Avatar kiválasztása: ");
 define("LAN_SIGNUP_95", "Írja be az igazolókódot");
 define("LAN_SIGNUP_96", "Regisztrációs adatok ide:");
-define("LAN_SIGNUP_97", "Üdvözli a ");
+define("LAN_SIGNUP_97", "Üdvözli a(z) ");
 
 define("LAN_SIGNUP_98", "Email cím megerősítése");
 define("LAN_SIGNUP_99", "Probléma történt");
@@ -122,5 +124,6 @@ define("LAN_SIGNUP_116", "Űrlap küldés utáni előnézet");
 define("LAN_SIGNUP_117", "Teszt aktiválás küldése");
 define("LAN_SIGNUP_118", "Ide: [x]");
 define("LAN_SIGNUP_119", "Ne küldjön e-mailt");
+define("LAN_SIGNUP_120", "Vagy");
 
 ?>

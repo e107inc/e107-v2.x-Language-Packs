@@ -1,13 +1,15 @@
 <?php
 /*
-+---------------------------------------------------------------+
++--------------------------------------------------------------------------+
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/02/22 13:15:43
+|        Last Modified: 2017/01/15 11:15:43
 |
 |        $Author: Yesszus $
-+---------------------------------------------------------------+
+|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|
++--------------------------------------------------------------------------+
 */
 setlocale(LC_ALL,  'hu_HU.UTF-8', 'hu_HU.utf8', 'hug_hug.utf8', 'hu');
 define("CORE_LC", "hu");
@@ -125,4 +127,5 @@ define("LAN_CHOOSE_FILE", "Fájl kiválasztása");
 define("LAN_ACTIVE","Aktív");
 define("LAN_POSTED_BY", "Beküldte");
 define("LAN_MESSAGE", "Üzenet");
+define("LAN_WEBSITE", "Weboldal");
 ?>
