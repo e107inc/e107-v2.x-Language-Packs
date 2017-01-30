@@ -1,10 +1,18 @@
 <?php
+/*
++--------------------------------------------------------------------------+
+|        e107 website content management system Hungarian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/01/15 11:15:43
+|
+|        $Author: Yesszus $
+|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|
++--------------------------------------------------------------------------+
+*/
 
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("LAN_LASTSEEN_1", "Legutóbbi látogatók menü");
+define("LAN_LASTSEEN_1", "Legutóbbi látogatók");
 define("LAN_ONLINE_TRACKING_MESSAGE", "Online felhasználó nyomkövetése letiltva, [here] tudod engedélyezni");
 define("LAN_ONLINE_1", "Vendégek: ");
 define("LAN_ONLINE_2", "Tagok: ");
@@ -28,3 +36,4 @@ define("LAN_ONLINE_ADMIN_7", "Online tagok (bővített) listájának megjelenít
 define("LAN_ONLINE_ADMIN_8", "Jelenítse meg a tagokat, vesszővel elválasztva.");
 define("LAN_ONLINE_ADMIN_9", "Azon tagok megjelenítése, akik épp egy oldalt böngésznek.");
 define("LAN_ONLINE_ADMIN_10", "Online vendégek megjelenítése.");
+?>
