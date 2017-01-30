@@ -1,13 +1,15 @@
 <?php
 /*
-+---------------------------------------------------------------+
++--------------------------------------------------------------------------+
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/02/22 13:14:00
+|        Last Modified: 2016/02/22 13:08:21
 |
 |        $Author: Yesszus $
-+---------------------------------------------------------------+
+|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|
++--------------------------------------------------------------------------+
 */
 define("TPVLAN_1", "Ez a(z) <b>'".PREVIEWTHEMENAME."'</b> sablon előnézete.
 Ez nem az oldalad sablonja, csak azt mutatja meg, hogyan nézne ki a weboldal ezzel a sablonnal.
@@ -44,7 +46,7 @@ define("TPVLAN_33", "A weboldal sablonja");
 define("TPVLAN_34", "Adminisztrációs sablon");
 define("TPVLAN_35", "Beállítások mentése");
 define("TPVLAN_36", "Admin üzenet");
-define("TPVLAN_37", "A sablon beállítások elmentve");
+define("TPVLAN_37", "A sablon beállítások sikeresen elmentve!");
 define("TPVLAN_38", "Sablon feltöltése");
 define("TPVLAN_39", "Elérhető sablonok");
 define("TPVLAN_40", "Beállítás adminisztrációs sablonnak");

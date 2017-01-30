@@ -1,19 +1,23 @@
 <?php
 /*
-+---------------------------------------------------------------+
++--------------------------------------------------------------------------+
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
 |        Last Modified: 2016/10/15 18:38:21
 |
 |        $Author: Yesszus $
-+---------------------------------------------------------------+
+|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|
++--------------------------------------------------------------------------+
 */
 
 define("NT_LAN_1", "Értesítés");
 define("NT_LAN_2", "Email értesítés bekapcsolása");
-define("NT_LAN_3", "Email cím =>");
-define("NT_LAN_4", "Tesztelés");
+//define("NT_LAN_3", "");
+//define("NT_LAN_4", ""); 
+//define("NT_LAN_5", "");
+//define("NT_LAN_6", "");
 
 define("NU_LAN_1", "Esemény");
 define("NU_LAN_2", "Ha valaki regisztrált az oldalra");
@@ -37,3 +41,4 @@ define("NF_LAN_1", "Fájl Események");
 define("NF_LAN_2", "Ha valaki feltöltött egy fájlt");
 
 define("LAN_NOTIFY_01", "Események");
+?>

@@ -1,16 +1,24 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------------------+
+|        e107 website content management system Hungarian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/01/21 12:23:21
+|
+|        $Author: Yesszus $
+|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|
++--------------------------------------------------------------------------+
+*/
 
 define("EXTLAN_1", "Név");
 define("EXTLAN_2", "Előnézet");
 define("EXTLAN_3", "Értékek");
 define("EXTLAN_4", "Kötelező");
-define("EXTLAN_5", "Alkalmazható");
-define("EXTLAN_6", "Olvasható");
-define("EXTLAN_7", "Írható");
+define("EXTLAN_5", "Alkalmazás");
+define("EXTLAN_6", "Olvasás");
+define("EXTLAN_7", "Írás");
 define("EXTLAN_8", "Művelet");
 define("EXTLAN_9", "Bővített felhasználó mezők");
 
@@ -76,10 +84,10 @@ define("EXTLAN_66", "Igen - Meg fog jelenni a regisztrációs oldalon");
 define("EXTLAN_67", "Nem - Megjelenik a regisztrációs oldalon");
 
 define("EXTLAN_68", "Mező:");
-define("EXTLAN_69", "Aktiválható");
+define("EXTLAN_69", "aktiválva!");
 define("EXTLAN_70", "HIBA!! Mező:");
 define("EXTLAN_71", "Nem aktiválható!");
-define("EXTLAN_72", "Kikapcsolható");
+define("EXTLAN_72", "kikapcsolva!");
 define("EXTLAN_73", "Nem lehet kikapcsolni!");
 define("EXTLAN_74", "ez egy védett mező és nem lehet használni.");
 define("EXTLAN_75", "Hiba, a mezőt nem sikerült hozzáadni az adatbázishoz.");
@@ -90,6 +98,14 @@ define("EXTLAN_78", "Fájl nem található --FILE-- adattábla létrehozása sz�
 define("EXTLAN_79", "Cimke");
 define("EXTLAN_80", "Jóváhagyási hiba - megszakítva.");
 
+define("EXTLAN_81", "Egyéni mező hozzáadása");  
+define("EXTLAN_82", "Értékek"); 
+define("EXTLAN_83", "Helykitöltő"); 
+define("EXTLAN_84", "Súgó Tipp"); 
+define("EXTLAN_85", ""); 
+define("EXTLAN_86", "A felhasználó kiterjesztett oszlop törölve a táblából"); 
+define("EXTLAN_87", "Értékek rendezése"); 
+
 define("EXTLAN_HELP_1", "<b><i>Paraméterek:</i></b><br />méret - a mező mérete<br />max. hosszúság - a mező max. hosszúsága<br /><br />osztály - a mező stílus osztálya<br />stílus - stíluslap<br /><br />regex - regex validációs kód<br />regex hiba - validációs hiba szöveg");
 define("EXTLAN_HELP_2", "Írd be a szöveget a beállítások részére az 'Értékek' szövegdobozba - egy szövegdoboz beállításonként. Adj hozzá új dobozt, ha szükséges");
 define("EXTLAN_HELP_3", "Írd be a szöveget a beállítások részére az 'Értékek' szövegdobozba - egy szövegdoboz beállításonként. Adj hozzá új dobozt, ha szükséges");
@@ -99,3 +115,4 @@ define("EXTLAN_HELP_6", "Numerikus érték bevitelének engedélyezése");
 define("EXTLAN_HELP_7", "Kötelezi a felhasználót egy dátum megadására");
 define("EXTLAN_HELP_8", "Telepített nyelv kiválasztásának engedélyezése");
 define("EXTLAN_HELP_9", "Előre definiált lista megadása. Az érték mező kiválasztja a lista típusát - jelenleg csak az 'időzóna' egy érvényes bejegyzés");
+?>

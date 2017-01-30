@@ -1,13 +1,15 @@
 <?php
 /*
-+---------------------------------------------------------------+
++--------------------------------------------------------------------------+
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/10/15 18:38:21
+|        Last Modified: 2016/02/22 13:08:21
 |
 |        $Author: Yesszus $
-+---------------------------------------------------------------+
+|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|
++--------------------------------------------------------------------------+
 */
 
 define ("EPL_ADLAN_0", "Telepítés");
@@ -234,9 +236,9 @@ define ('EPL_ADLAN_222',"Bővítmény állományai");
 define ('EPL_ADLAN_223',"Használatban");
 define ('EPL_ADLAN_224',"Használaton kívül");
 define ('EPL_ADLAN_225',"Bizonytalan");
-define ('EPL_ADLAN_226',"Bővítmény nyelvi-fájl ellenőrzése");
+define ('EPL_ADLAN_226',"Bővítmény nyelvi-fájlok ellenőrzése");
 define ('EPL_ADLAN_227',"Változások ellenőrzése");
-define ('EPL_ADLAN_228',"A bővítmények könyvtárának ellenőrzése minden [x]. percben megtörténik.<br />Kattints az alábbi gombra az azonnali ellenőrzéshez.");
+define ('EPL_ADLAN_228',"A bővítmények könyvtárának ellenőrzése minden [x]. percben megtörténik.<br />Kattints a 'Frissítés' gombra az azonnali ellenőrzéshez.");
 define ('EPL_ADLAN_229',"Frissítés");
 define ('EPL_ADLAN_230',"Letöltés és telepítés: ");
 define ('EPL_ADLAN_231',"Ikonok törlése a Média kezelőből"); 
@@ -274,3 +276,4 @@ define ('LAN_INSTALL_SUCCESSFUL', "Sikeres telepítés");
 define ('LAN_INSTALL_FAIL', "Sikertelen telepítés");
 define ('LAN_UNINSTALL_FAIL', "Nem lehet eltávolítani!");
 define ('LAN_PLUGIN_IS_USED', "A(z) [x] plugin-t használja:");
+?>

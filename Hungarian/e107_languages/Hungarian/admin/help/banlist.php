@@ -1,13 +1,15 @@
 <?php
 /*
-+---------------------------------------------------------------+
++--------------------------------------------------------------------------+
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
 |        Last Modified: 2016/04/22 13:08:21
 |
 |        $Author: Yesszus $
-+---------------------------------------------------------------+
+|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|
++--------------------------------------------------------------------------+
 */
 
 if (!defined('e107_INIT')) { exit; }
@@ -80,14 +82,17 @@ case 'white' :
   break;
 case 'list' :
 default :
-$text = 'This page shows a list of all IP addresses, hostnames and email addresses which are banned. 
-(Banned users are shown on the user administration page)<br /><br />
-<b>Automatic Bans</b><br />
-e107 automatically bans individual IP addresses if they attempt to flood the site, as well as addresses with failed logins.<br />
-These bans also appear in this list. You can select (on the options page) what to do for each type of ban.<br /><br />
-<b>Removing a ban</b><br />
-You can set an expiry period for each type of ban, in which case the entry is removed once the ban period expires. Otherwise the
- ban remains until you remove it.<br />
-You can modify the ban period from this page - times are calculated from now.';
+$text = 'Kitilthatsz felhasználókat az oldalról itt.<br />
+Add meg a teljes IP címet, vagy használj *-ot egy IP cím tartomány kitiltásához.<br /><br />
+<b>Kitiltás IP címmel:</b><br />
+Az 123.123.123.123 IP cím megadásával letiltod az erről a címről érkező felhasználókat.<br />
+Az 123.123.123.* IP cím megadásával letiltod az erről az IP cím tartományról érkező 
+felhasználókat.<br /><br />
+<b>Kitiltás email címmel</b><br />
+A foo@bar.com email cím megadása letiltja ennek az email címnek a használatát, így e címmel senki nem fog tudni regisztrálni.<br />
+Az *@bar.com cím megadása a bar.com domain-t tiltja le, így e domainről semmilyen email címmel senki nem fog tudni regisztrálni.<br /><br />
+<b>Kitiltás felhasználónévvel</b><br />
+Ezt végrehajthatod a felhasználók adminisztrációs oldalról.<br /><br />';
 }
 $ns -> tablerender($caption, $text);
+?>

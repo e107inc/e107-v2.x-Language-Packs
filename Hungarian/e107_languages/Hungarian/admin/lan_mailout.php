@@ -7,8 +7,10 @@
 |        Last Modified: 2016/02/25 10:29:45
 |
 |        $Author: Yesszus $
+|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases 
+|
 +---------------------------------------------------------------+
-*/
+*/ 
 define("CORE_DATE_ORDER", "ymd");
 define("LAN_MAILOUT_01", "Feladó neve");
 define("LAN_MAILOUT_02", "Feladó e-mail címe");
@@ -65,18 +67,18 @@ define("LAN_MAILOUT_56", "Utolsó látogatás (dd-mm-yy)");
 define("LAN_MAILOUT_57", "Tömeges SMTP levélküldés blokkokban");
 define("LAN_MAILOUT_67", "Sikertelen Email küldés! Nézd át az SMTP beállításokat, vagy válassz másik módszert és próbáld újra.");
 define("LAN_MAILOUT_68", "Regisztrált felhasználók");
-define("LAN_MAILOUT_69", "egyezések, után");
-define("LAN_MAILOUT_70", " duplikációk törölve.");
+define("LAN_MAILOUT_69", "egyezés, után ");
+define("LAN_MAILOUT_70", " duplikáció törölve!");
 define("LAN_MAILOUT_71", "Összes email elküldése");
-define("LAN_MAILOUT_72", "Mailshot naplózás");
+define("LAN_MAILOUT_72", "Szóróanyag naplózás");
 define("LAN_MAILOUT_73", "Nincs naplózás");
 define("LAN_MAILOUT_74", "Csak naplózás (nincs küldés)");
 define("LAN_MAILOUT_75", "Naplózás és küldés");
-define("LAN_MAILOUT_76", "Email információk beillesztése a naplóba");
+define("LAN_MAILOUT_76", " Email információk beillesztése a naplóba");
 define("LAN_MAILOUT_77", "Email cím források");
-define("LAN_MAILOUT_78", "Mailshot állapot");
+define("LAN_MAILOUT_78", "Szóróanyag állapot");
 define("LAN_MAILOUT_79", "Nincs megjelenítendő mailshots");
-define("LAN_MAILOUT_81", "Az email sikeresen elküldve, ellenőrizd a bejövő levelesládádat.");
+define("LAN_MAILOUT_81", "Az email sikeresen elküldve! Ellenőrizd a bejövő levelesládádat.");
 define("LAN_MAILOUT_82", "Mail elküldve");
 define("LAN_MAILOUT_83", "Mail küldés folyamatban");
 define("LAN_MAILOUT_84", "Mail ID (egyedi azonosító)");
@@ -94,14 +96,14 @@ define("LAN_MAILOUT_95", "Használj VERP-t a tömeges email küldéshez");
 define("LAN_MAILOUT_96", "nincs");
 define("LAN_MAILOUT_97", "Levelezési eredmények");
 define("LAN_MAILOUT_98", "Elárvult bejegyzések");
-define("LAN_MAILOUT_99", "Mailshot ismétlés megerősítése");
+define("LAN_MAILOUT_99", "Szóróanyag ismétlés megerősítése");
 define("LAN_MAILOUT_100", "Üzenet");
 define("LAN_MAILOUT_101", "Email adatok");
 define("LAN_MAILOUT_102", "Mailshot adatok");
 define("LAN_MAILOUT_103", "Küldés kisérletek eredményei");
 define("LAN_MAILOUT_104", "Nincs küldési kisérlet, vagy hiba történt");
 define("LAN_MAILOUT_105", "Legfeljebb a legutolsó 10 hiba adatai");
-define("LAN_MAILOUT_106", "Email küldés sikertelen. Ez akkor történik, ha a szerver nincs megfelelően beállítva az email küldéshez, használd az SMTP-t és próbálkozz újra, vagy lépj kapcsolatba a kiszolgálóval és kérdezd meg sendmail / email szerver beállításokat.");
+define("LAN_MAILOUT_106", "Sikertelen Email küldés! Ez akkor történik, ha a szerver nincs megfelelően beállítva az email küldéshez, használd az SMTP-t és próbálkozz újra, vagy lépj kapcsolatba a kiszolgálóval és kérdezd meg a sendmail / email szerver beállításokat.");
 define("LAN_MAILOUT_107", ".");
 define("LAN_MAILOUT_108", "Eredmény");
 define("LAN_MAILOUT_109", "Adatok megjelenítése");
@@ -176,19 +178,19 @@ define("LAN_MAILOUT_178", "Utolsó oldal látogatás");
 define("LAN_MAILOUT_179", "Email küldés megerősítése");
 define("LAN_MAILOUT_180", "Kiválasztási feltételek:");
 define("LAN_MAILOUT_181", "Címzettek megjelenítése");
-define("LAN_MAILOUT_182", "Rendezett adatbázis táblák");
+define("LAN_MAILOUT_182", "Adatbázis táblák rendezése");
 define("LAN_MAILOUT_183", "Adatbázis rendezési hiba");
 define("LAN_MAILOUT_184", "Adatbázis rendezve");
 define("LAN_MAILOUT_185", "Email-k hozzáadva a küldés sorbarendezéséhez");
-define("LAN_MAILOUT_186", "Általános hiba a mail elhelyezésekor hivatkozás: --ID-- on hold");
+define("LAN_MAILOUT_186", "Általános hiba a mail elhelyezésekor hivatkozás: --ID-- tartásban");
 define("LAN_MAILOUT_187", "Email --ID-- várólistára téve");
 define("LAN_MAILOUT_188", "Általános mail küldési hiba hivatkozás: --ID--");
 define("LAN_MAILOUT_189", "Teszt cím");
 define("LAN_MAILOUT_190", "Mail Létrehozás/Küldés");
 define("LAN_MAILOUT_191", "Elmentett Email-ek");
-define("LAN_MAILOUT_192", "Mailshots kész");
-define("LAN_MAILOUT_193", "Mailshots függőben");
-define("LAN_MAILOUT_194", "Mailshots tartásban");
+define("LAN_MAILOUT_192", "Elküldött szóróanyagok");
+define("LAN_MAILOUT_193", "Függő szóróanyagok");
+define("LAN_MAILOUT_194", "Tartásban lévő szóróanyagok");
 define("LAN_MAILOUT_195", "");
 define("LAN_MAILOUT_196", "");
 define("LAN_MAILOUT_200", "Nincs tárgy megadva");
@@ -232,27 +234,33 @@ define("LAN_MAILOUT_237", "Számláló összegzés frissítve ezeken --COUNT-- a
 define("LAN_MAILOUT_238", "Küldés legkorábbi időpontja");
 define("LAN_MAILOUT_239", "Küldés legkésőbbi időpontja");
 define("LAN_MAILOUT_240", "Értesítsen, ha kész");
-define("LAN_MAILOUT_241", " (Ez egy kiegészítése a szabvány e107 értesítés beállításoknak)");
+define("LAN_MAILOUT_241", " (Ez egy kiegészítése az e107 szabvány értesítés beállításoknak)");
 define("LAN_MAILOUT_242", "További beállítások (csak küldés esetén)");
 define("LAN_MAILOUT_243", "Értesítés");
 define("LAN_MAILOUT_244", "Email elküldve:");
-define("LAN_MAILOUT_245", "Visszadobott email-ek autómatikus ellenőrzése");
-define("LAN_MAILOUT_246", "Ha bejelőlöd, akkor aktiválnod kell a feladat ütemezőben");
+define("LAN_MAILOUT_245", "Visszadobott email-ek automatikus ellenőrzése");
+define("LAN_MAILOUT_246", "Ha bejelölöd, akkor aktiválnod kell a feladat ütemezőben");
 define("LAN_MAILOUT_247", "Email információ:");
 define("LAN_MAILOUT_248", "Befejezési állapot:");
 define("LAN_MAILOUT_249", "Küldési eredmények:");
 define("LAN_MAILOUT_250", "--- Értesítés vége ---");
 define("LAN_MAILOUT_251", "Másolás és módosítás");
-define("LAN_MAILOUT_252", "Adat különféle konzisztenciájának ellenőrzése, számítások javítása, ideiglenes adatok törlése");
-define("LAN_MAILOUT_253", "Nincsennek címzettek - adatbázis korrupció ellenőrzése");
+define("LAN_MAILOUT_252", "Az adatok különféle konzisztenciájának ellenőrzése, számítások javítása, ideiglenes adatok törlése");
+define("LAN_MAILOUT_253", "Nincs címzett - adatbázis korrupció ellenőrzése");
 define("LAN_MAILOUT_254", "Elkészített email megtekintése");
 define("LAN_MAILOUT_255", "Elkészített Email, ID:");
 define("LAN_MAILOUT_256", "Vissza");
 define("LAN_MAILOUT_257", "Legenerált sablon");
-define("LAN_MAILOUT_259", "Címzettek");
-define("LAN_SEND", "Küldés");
-define("LAN_HOLD", "Tartás");
 define("LAN_MAILOUT_260", "Felhasználó-típus");
 define("LAN_MAILOUT_261", "SMTP Port");
-
+define("LAN_SEND", "Küldés");
+define("LAN_HOLD", "Tartás");
+define("LAN_MAILOUT_262", "Sablonok");
+define("LAN_MAILOUT_263", "Összes címzett");
+define("LAN_MAILOUT_264", "Média beágyazása");
+define("LAN_MAILOUT_265", "Függőben");
+define("LAN_MAILOUT_266", "Max. Aktív");
+define("LAN_MAILOUT_267", "Publikus/Privát kulcsok létrehozása");
+define("LAN_MAILOUT_268", "Csak Fejlesztő Módban");
+define("LAN_MAILOUT_269", "Küldés később");
 ?>

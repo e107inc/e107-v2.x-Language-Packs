@@ -1,13 +1,15 @@
 <?php
 /*
-+---------------------------------------------------------------+
++--------------------------------------------------------------------------+
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
 |        Last Modified: 2016/04/22 13:08:21
 |
 |        $Author: Yesszus $
-+---------------------------------------------------------------+
+|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|
++--------------------------------------------------------------------------+
 */
 
 if (!defined('e107_INIT')) { exit; }
@@ -33,3 +35,4 @@ switch ($action)
 	$text = "Ezen az oldalon lehet a fájl feltöltésekkel kapcsolatos engedélyeket beállítani, valamint a tagok által feltöltött fájlokat adminisztrálni.";
 }
 $ns -> tablerender("Publikus feltöltések Súgó", $text);
+?>

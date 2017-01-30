@@ -7,6 +7,8 @@
 |        Last Modified: 2016/02/27 21:28:48
 |
 |        $Author: Yesszus $
+|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|
 +---------------------------------------------------------------+
 */
 define("DBLAN_1", "A Core beállítások elmentve az adatbázisban!");

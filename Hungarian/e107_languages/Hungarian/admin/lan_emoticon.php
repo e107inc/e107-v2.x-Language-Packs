@@ -1,8 +1,16 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Hungarian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/22 13:09:44
+|
+|        $Author: Yesszus $
+|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|
++---------------------------------------------------------------+
+*/
 
 define("EMOLAN_1", "Hangulatjelek bekapcsolása");
 define("EMOLAN_3", "Hangulatjel");
@@ -39,3 +47,4 @@ define("EMOLAN_34", "Hiányzó fájlok a csomagban");
 define("EMOLAN_35", " - törölve az adatbázisból");
 define("EMOLAN_37", "Hangulatjel nincs kiválasztva");
 define("EMOLAN_38", "Üres hangulatjel érték");
+?>

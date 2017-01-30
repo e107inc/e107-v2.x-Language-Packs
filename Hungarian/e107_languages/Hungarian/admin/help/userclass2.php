@@ -1,13 +1,15 @@
 <?php
 /*
-+---------------------------------------------------------------+
++--------------------------------------------------------------------------+
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
 |        Last Modified: 2016/04/22 13:08:21
 |
 |        $Author: Yesszus $
-+---------------------------------------------------------------+
+|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|
++--------------------------------------------------------------------------+
 */
 
 if (!defined('e107_INIT')) { exit; }
@@ -53,7 +55,7 @@ switch ($action)
 	break;
   case 'edit' :
   case 'config' :
-	$text = "Új  csoportokat hozhatsz itt létre, illetve módosíthatod/törölheted a meglévőket.<br />Ez hasznos, ha a felhasználók egy csoportját az oldal egy részére akarod korlátozni. Például létrehozhatsz egy TESZT nevű csoportot, majd egy fórumot, ahol beállítod, hogy csak a TESZT nevű csoport tagjai érhessék el.<br /><br />
+	$text = "Új csoportokat hozhatsz itt létre, illetve módosíthatod/törölheted a meglévőket.<br />Ez hasznos, ha a felhasználók egy csoportját az oldal egy részére akarod korlátozni.<br />Például létrehozhatsz egy TESZT nevű csoportot, majd egy fórumot, ahol beállítod, hogy csak a TESZT nevű csoport tagjai érhessék el.<br /><br />
 		 The class name is displayed in drop-down lists and the like; in some places the more detailed description is also displayed.<br /><br />
 		 The class icon may be displayed in various places on the site, if one is set.<br /><br />
 		 To allow users to determine whether they can be a member of a class, allow them to manage it. If you set 'no-one' here, only the admins
@@ -66,6 +68,7 @@ switch ($action)
 	break;
   case 'display' :
   default :
-	$text = "You can select classes for editing, and also delete existing classes, from this page.";
+	$text = "Új csoportokat hozhatsz itt létre, illetve módosíthatod/törölheted a meglévőket.<br />Ez hasznos, ha a felhasználók egy csoportját az oldal egy részére akarod korlátozni.<br />Például létrehozhatsz egy TESZT nevű csoportot, majd egy fórumot, ahol beállítod, hogy csak a TESZT nevű csoport tagjai érhessék el.<br /><br />";
 }
 e107::getRender() -> tablerender($caption, $text);
+?>

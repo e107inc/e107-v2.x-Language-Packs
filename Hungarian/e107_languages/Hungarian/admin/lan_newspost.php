@@ -1,13 +1,15 @@
 <?php
 /*
-+---------------------------------------------------------------+
++--------------------------------------------------------------------------+
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
 |        Last Modified: 2016/02/22 13:12:49
 |
 |        $Author: Yesszus $
-+---------------------------------------------------------------+
+|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|
++--------------------------------------------------------------------------+
 */
 
 define("NWSLAN_4", "Hírek - Meglévő hírek");
@@ -108,7 +110,7 @@ define("LAN_NEWS_58", "Frissítés kész - --UPDATE-- hozzászólások újraszá
 define("LAN_NEWS_59", "Hírek karbantartása");
 define("LAN_NEWS_60", "Összes hozzászólás");
 define("LAN_NEWS_61", "Nem engedélyezett hozzászólások törlése");
-define("LAN_NEWS_62", "Adatbázis hozzáférési hiba, vagy nincsennek Hírek");
+define("LAN_NEWS_62", "Adatbázis hozzáférési hiba, vagy nincs egy Hír sem");
 define("LAN_NEWS_63", "Kategória létrehozása");
 define("LAN_NEWS_64", "Lejárt beküldött Hír");
 define("LAN_NEWS_65", "Válassz egy keresőbarát URL szöveget ehhez a kategóriához");
@@ -124,7 +126,7 @@ define("LAN_NEWS_74", "Carousel tartalomváltó");
 define("LAN_NEWS_75", "Featurebox tartalomváltó");
 define("LAN_NEWS_87", "Pl.: blogsearch.google.com/ping/RPC2");
 define("LAN_NEWS_88", "Meghatározza, hogy az alapértelmezett Híroldal hogyan jelenjen meg.");
-define("LAN_NEWS_89", "Értesítés, mikor a Hír létrehozása/frissítése történik.");
+define("LAN_NEWS_89", "Értesítés, amikor a Hír létrehozása/frissítése történik.");
 define("LAN_NEWS_90", "Soronként egy.");
 define("LAN_NEWS_91", "Lista-nézet korlátozás oldalanként");
 define("LAN_NEWS_92", "Pl.: news.php?all vagy news.php?cat.1 vagy news.php?tag=xxx");
@@ -143,5 +145,6 @@ define("LAN_NEWS_104", "Email értesítés küldése, ha ön beküldte ezt a hí
 define("LAN_NEWS_105", "Az email értesítés elküldve!");
 define("LAN_NEWS_106", "Az e-mail értesítés küldéséhez a hír láthatóságát állítsa 'Publikus'-ra.");
 define("LAN_NEWS_107", "Ping Állapot Ellenőrzése");
+define("LAN_NEWS_108", "A SEF URL nem kapcsolható a hír címéhez!");
 
 ?>

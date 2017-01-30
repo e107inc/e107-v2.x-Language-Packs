@@ -7,6 +7,8 @@
 |        Last Modified: 2016/10/25 05:23:09
 |
 |        $Author: Yesszus $
+|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|
 +---------------------------------------------------------------+
 */
 
@@ -61,6 +63,7 @@ define("LANG_LAN_141", "Script kiválasztása...");
 define("LANG_LAN_142", "Auto-Felismerés");
 define("LANG_LAN_143", "Specifikus LAN fájl:");
 define("LANG_LAN_144", "Újra kell engedélyezni");
+define("LANG_LAN_148", "Normál Mód");
 define("LANG_LAN_149", "Érték");
 define("LANG_LAN_150", "[b]Mielőtt bármilyen LAN változást beküldene bármilyen nyelvi fájlhoz, először végezzen el egy TELJES keresést.[/b]");
 
