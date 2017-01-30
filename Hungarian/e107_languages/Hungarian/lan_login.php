@@ -1,8 +1,16 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++--------------------------------------------------------------------------+
+|        e107 website content management system Hungarian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/01/15 11:15:43
+|
+|        $Author: Yesszus $
+|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|
++--------------------------------------------------------------------------+
+*/
 
 define("LAN_LOGIN_1", "Felhasználónév");
 define("LAN_LOGIN_2", "Jelszó");
@@ -35,3 +43,4 @@ define("LAN_LOGIN_28", "E-mail");
 define("LAN_LOGIN_29", "Felhasználónév vagy E-mail");
 define("LAN_LOGIN_30", "Hiba: Nem sikerült létrehozni a (alt_auth) felhasználót az adatbázisban");
 define("LAN_LOGIN_31", "A hitelesítő adatokat nem sikerült hozzáadni a rendszerhez");
+?>

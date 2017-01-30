@@ -1,13 +1,15 @@
 <?php
 /*
-+---------------------------------------------------------------+
++---------------------------------------------------------------------------+
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
 |        Last Modified: 2016/02/22 13:08:21
 |
 |        $Author: Yesszus $
-+---------------------------------------------------------------+
+|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|
++--------------------------------------------------------------------------+
 */
 define("ADLAN_0", "Hírek");
 define("ADLAN_1", "Hozzáadás/módosítás/törlés");
@@ -148,8 +150,10 @@ define("LAN_COMMENTS_ALLOWED", "Hozzászólás engedélyezve");
 define("LAN_ADD_MORE", "Több hozzáadása");
 define("LAN_MULTIPLE_CHOICE", "Több kiválasztása");
 define("LAN_CREATE", "Létrehozás");
+define("LAN_MANAGEPERMS", "Jogosultságok Kezelése");
 define("LAN_MANAGE", "Kezelő");
 define("LAN_UPDATE", "Frissítés");
+define("LAN_INSTALLED","Telepítve");
 define("LAN_LAST_UPDATED", "Utolsó frissítés");
 define("LAN_UPDATE_AVAILABLE", "Elérhető Frissítés");
 define("LAN_ADD", "Hozzáadás");
@@ -212,7 +216,7 @@ define("LAN_LANG","Nyelv.");
 define("LAN_APPROVE","Engedélyez");
 define("LAN_OPTIONAL", "Opcionális");
 define("LAN_INACTIVE", "Inaktív");
-define("LAN_ACTIVE", "Aktív");
+define("LAN_ACTIVATE","Aktiválás");
 define("LAN_ACCEPT", "Elfogadás");
 define("LAN_PENDING", "Függőben");
 define("LAN_SUBMITTED", "Beküldve");
@@ -228,6 +232,8 @@ define("LAN_UPLOAD_CONFIRM", "Az oldal nem mentett változtatásai elvesznek. Fo
 define("LAN_UPLOAD_777", "Nincs meg a mappa vagy nem írható, a feltöltés előtt állítsd be a mappa jogosultságát CHMOD 777-re:");
 define("LAN_UPLOAD_SERVEROFF", "Ez az opció le van tiltva a szerveren, mint fájl feltöltési funkció");
 define("LAN_WIDTH", "Szélesség");
+define("LAN_ON","Be");
+define("LAN_OFF", "Ki");
 define("LAN_DISABLED", "Letiltva");
 define("LAN_ENABLED", "Engedélyezve");
 define("LAN_BOOL_REVERSE", "Felcserél");
@@ -258,6 +264,7 @@ define("LAN_DOWN_THEME", "Letöltés");
 define("LAN_ID", "ID");
 define("LAN_VISIBILITY", "Megtekintés");
 define("LAN_VISIBLE_TO", "Megtekinthetik");
+define("LAN_PARENT", "Szülő");
 define("LAN_ICON", "Ikon");
 define("LAN_LOADING", "Betöltés...");
 define("LAN_RUN", "Futtatás");
@@ -266,6 +273,7 @@ define("LAN_COPY", "Másolás");
 define("LAN_KEYWORDS", "Kulcsszavak");
 define("LAN_TEMPLATE", "Sablon");
 define("LAN_TEMPLATES","Sablonok");
+define("LAN_CORE","Mag");
 define("LAN_CATEGORIES", "Kategóriák");
 define("LAN_DEMO_FORBIDDEN", "Ezen az oldalon a változtatás demo módban nem lehetséges.");
 define("LAN_COPYRIGHT", "Szerzői jog");
@@ -308,6 +316,7 @@ define("LAN_UI_DELETE_WARNING", "[x] bejegyzést szeretnél törölni. Megerős�
 define("LAN_UI_BATCH_CREATELINK", "Link létrehozása");
 define("LAN_UI_DELETED", "[x] bejegyzés sikeresen törölve!");
 define("LAN_UI_DELETED_FAILED", "[x] bejegyzés nem található és nem lett törölve!");
+define("LAN_UI_BATCH_EXPORT", "Exportálás");
 define("LAN_UI_USING_DATABASE_TABLE", "[x] adatbázis tábla használata");
 define("LAN_UI_TOTAL_RECORDS", "Összes bejegyzés: [x]");
 define("LAN_UI_FILTER_PAST_HOUR", "Az elmúlt óra"); 
@@ -332,26 +341,19 @@ define("LAN_WILL_OVERWRITE_SEF", "A meglévő SEF URL cím felülírása.");
 define("LAN_CAPTION", "Felirat");
 define("LAN_LIMIT", "Korlát");
 define("LAN_BASIC", "Alap");
+define("LAN_EXTENDED", "Kiterjedt");
 define("LAN_ADVANCED", "Haladó");
+define("LAN_TEST", "Tesztelés");
 define("LAN_FOLDER", "Könyvtár");
 define("LAN_PERSONALIZE_ICONS", "Ikonok személyreszabása");
 define("LAN_PERSONALIZE_MENUS", "Menük személyreszabása");
 define("LAN_LATEST_COMMENTS", "Új hozzászólások");
 define("LAN_PERSONALIZE", "Személyreszabás");
-//define("LAN_SELECT_COLUMNS_TO_DISPLAY", "Oszlopok kiválasztása");
-//define("LAN_DISPLAY_COLUMNS", "Megjelenő Oszlopok");
 define("LAN_SETTINGS_NOT_SAVED_NO_CHANGES_MADE", "A beállítás nincs mentve, mivel nem történt változás!");
 define("LAN_DASHBOARD_LAYOUT", "Műszerfal Megjelenés");
-//define("LAN_AFTER_SUBMIT", "Küldés után:");
 define("LAN_UNAVAILABLE", "Nem elérhető");
 define("LAN_NO_LABEL_PROVIDED", "A címke nem lett megadva!");
 define("LAN_NOT_FOUND", "Nem található!");
-//define("LAN_QUICK_VIEW", "Gyors Nézet");
-//define("LAN_GO_TO_USER_PROFILE", "Ugrás a felhasználó profiljára");
-//define("LAN_MULTI_LANGUAGE_FIELD", "Több nyelvű mező");
-//define("LAN_GO_TO_LIST", "ugrás a listához");
-//define("LAN_CREATE_ANOTHER", "másik létrehozása");
-//define("LAN_EDIT_CURRENT", "jelenlegi szerkesztése");
 define("LAN_SUBJECT", "Tárgy");
 define("LAN_ITEM", "Elem");
 define("LAN_LOCK", "Lezár");

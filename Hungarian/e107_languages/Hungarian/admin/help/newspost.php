@@ -1,13 +1,15 @@
 <?php
 /*
-+---------------------------------------------------------------+
++--------------------------------------------------------------------------+
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
 |        Last Modified: 2016/04/22 13:08:21
 |
 |        $Author: Yesszus $
-+---------------------------------------------------------------+
+|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|
++--------------------------------------------------------------------------+
 */
 
 if (!defined('e107_INIT')) { exit; }
@@ -50,3 +52,4 @@ Ha megadsz egy kezdési és/vagy befejezési dátumot, akkor a cikk csak a két 
 	$text = 'Az összes hír listája. Szerkesztéséhez vagy törléséhez kattintson az egyik ikonra az \'Opciók\' oszlopban. Az elem megtekintéséhez, kattintson az ID azonosítóra.';
 }
 $ns -> tablerender($caption, $text);
+?>

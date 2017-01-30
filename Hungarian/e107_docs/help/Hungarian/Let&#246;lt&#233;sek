@@ -1,0 +1,6 @@
+
+Q>	Mi az a letöltés szülő?
+A>	Az opció használatával a letöltéseket különböző kategóriákba csoportosíthatja.
+
+Q>	I want to add a download but the file doesn't appear in the list - why?
+A>	Only files in the e107_files/downloads folder appear in the dropdown list. Copy the file into this folder and it will appear. The same applies to images; they must be in the e107_files/downloadimages folder.

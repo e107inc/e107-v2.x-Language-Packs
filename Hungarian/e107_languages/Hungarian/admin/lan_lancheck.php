@@ -7,6 +7,8 @@
 |        Last Modified: 2016/04/09 16:16:09
 |
 |        $Author: Yesszus $
+|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|
 +---------------------------------------------------------------+
 */
 define("LAN_CHECK_2", "Ellenőrzés indítása");

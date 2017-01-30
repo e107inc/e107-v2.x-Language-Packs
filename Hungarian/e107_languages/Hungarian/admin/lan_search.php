@@ -1,8 +1,16 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++--------------------------------------------------------------------------+
+|        e107 website content management system Hungarian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/22 13:08:21
+|
+|        $Author: Yesszus $
+|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|
++--------------------------------------------------------------------------+
+*/
 
 define("SEALAN_1", "Keresés beállítása");
 define("SEALAN_3", "Keresési sorrend módszere:");
@@ -40,3 +48,4 @@ define("SEALAN_46", "Karakterek száma a keresési eredmény összegzésben");
 define("SEALAN_47", "Eredmény, csak teljes szavak:");
 define("SEALAN_48", "Ezen beállítás alkalmazása csak akkor lehetséges, ha a keresés rendezés módszere PHP. Ha oldalad képírás-szerű nyelvet tartalmaz, pl.: Kínai és Japán, akkor ezt ki kell kapcsolnod.");
 define("SEALAN_49", "Ha oldalad képírás-szerű nyelvet tartalmaz, pl.: Kínai és Japán, akkor a PHP rendezési módszert kell alkalmaznod.");
+?>

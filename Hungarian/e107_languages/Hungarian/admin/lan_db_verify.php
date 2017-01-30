@@ -7,6 +7,8 @@
 |        Last Modified: 2016/05/17 21:28:48
 |
 |        $Author: Yesszus $
+|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|
 +---------------------------------------------------------------+
 */
 

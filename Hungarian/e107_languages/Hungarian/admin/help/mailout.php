@@ -1,13 +1,15 @@
 <?php
 /*
-+---------------------------------------------------------------+
++--------------------------------------------------------------------------+
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
 |        Last Modified: 2016/04/22 13:08:21
 |
 |        $Author: Yesszus $
-+---------------------------------------------------------------+
+|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|
++--------------------------------------------------------------------------+
 */
 
 if (!defined('e107_INIT')) { exit; }
@@ -40,11 +42,10 @@ $action = e107::getParser()->toDB(varset($_GET['mode'],'makemail'));
 	case 'savedmail' :
 	case 'makemail' :
 	case 'main' :
-	  $text = 'Create an email, give it a meaningful title, and select the list of recipients. You can save everything as a template for later, or send immediately.<br />';
-	  $text .= 'Email addresses may be contributed by plugins (such as newsletter), and duplicates are removed when the mail is sent<br />';
+	  $text = 'Ezen az oldalon az opcióknál beállíthatóak és teszt e-mail küldésével ellenőrizhetőek a webhely levelezési funkciói.<br />';
+	  $text .= 'Lehetőség van kör e-mail küldésére az összes tagnak, vagy a megadott feltételek alapján csak a kiválasztott tagoknak.<br />';
 	  $text .= 'Any attachment is selected from the list of valid downloads.<br />';
-	  $text .= 'Mail may be sent as plain text (most universal, and least at risk of being classed as spam), or as HTML (in which case a plain text alternative is automatically generated). The theme style
-				may optionally be added to the email. Alternatively a predefined template can be selected.';
+	  $text .= 'Mail may be sent as plain text (most universal, and least at risk of being classed as spam), or as HTML (in which case a plain text alternative is automatically generated). The theme style may optionally be added to the email. Alternatively a predefined template can be selected.';
 	  break;
 	case 'recipients' :
 		$text = 'Shows all recipients or potential recipients of an email, together with current status';
@@ -80,3 +81,4 @@ $action = e107::getParser()->toDB(varset($_GET['mode'],'makemail'));
   }
 
 $ns->tablerender('E-mail Súgó', $text);
+?>

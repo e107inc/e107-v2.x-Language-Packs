@@ -7,6 +7,8 @@
 |        Last Modified: 2016/02/23 11:48:14
 |
 |        $Author: Yesszus $
+|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|
 +---------------------------------------------------------------+
 */
 define("LAN_EURL_NAME", "URL kezelő");
@@ -63,6 +65,7 @@ define("LAN_EURL_REWRITE_DESCR", "Keresőmotor- és felhasználóbarát URL-ek."
 define("LAN_EURL_CORE_NEWS", "Hírek");
 define("LAN_EURL_NEWS_REWRITEF_LABEL", "Teljes felhasználóbarát URL-ek (no performance and most friendly)");
 define("LAN_EURL_NEWS_REWRITEF_DESCR", "");
+define("LAN_EURL_SEARCH_REWRITE_DESCR", "");
 define("LAN_EURL_NEWS_REWRITE_LABEL", "Felhasználóbarát URL-ek ID nélkül (no performance, more friendly)");
 define("LAN_EURL_NEWS_REWRITE_DESCR", "Manuális link elemzés és összerakás.");
 define("LAN_EURL_NEWS_REWRITEX_LABEL", "Felhasználóbarát URL-ek ID-vel (performance wise)");
@@ -79,7 +82,6 @@ define("LAN_EURL_CORE_SEARCH", "Keresés");
 define("LAN_EURL_SEARCH_DEFAULT_LABEL", "Alapértelmezett Kereső URL");
 define("LAN_EURL_SEARCH_DEFAULT_DESCR", "Hagyományos URL.");
 define("LAN_EURL_SEARCH_REWRITE_LABEL", "Felhasználóbarát URL");
-define("LAN_EURL_SEARCH_REWRITE_DESCR", "");
 define("LAN_EURL_CORE_SYSTEM", "Rendszer");
 define("LAN_EURL_SYSTEM_DEFAULT_LABEL", "Alapértelmezett Rendszer URL-ek");
 define("LAN_EURL_SYSTEM_DEFAULT_DESCR", "URL-ek az Oldal nem található, Hozzáférés letiltva, stb. oldalakhoz");
@@ -88,6 +90,7 @@ define("LAN_EURL_SYSTEM_REWRITE_DESCR", "URL-ek az Oldal nem található, Hozzá
 define("LAN_EURL_CORE_INDEX", "Kezdőlap");
 define("LAN_EURL_CORE_INDEX_INFO", "A kezdőlap nem rendelkezhet álnévvel.");
 define("LAN_EURL_REBUILD", "Újraépítés");
-
+define("LAN_EURL_REGULAR_EXPRESSION", "Reguláris kifejezés");
+define("LAN_EURL_KEY", "Kulcs");
 
 ?>

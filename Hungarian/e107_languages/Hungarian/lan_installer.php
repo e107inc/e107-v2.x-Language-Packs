@@ -1,14 +1,17 @@
 <?php
 /*
-+---------------------------------------------------------------+
++--------------------------------------------------------------------------+
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/02/22 13:26:40
+|        Last Modified: 2017/01/15 11:15:43
 |
 |        $Author: Yesszus $
-+---------------------------------------------------------------+
+|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|
++--------------------------------------------------------------------------+
 */
+
 define("LANINS_001", "Az e107 telepítése");
 define("LANINS_002", "Telepítés");
 define("LANINS_003", "1. lépés");
@@ -124,6 +127,5 @@ nevezze át az e107.htaccess fájlt erre: .htaccess");
 define("LANINS_144", "FONTOS: Kérjük, másolja ki és illessze be az [b]e107.htaccess[/b] tartalmát a [b].htaccess[/b] fájlba.
 Kérjük, vigyázzon, nehogy felülírja a meglévő adatokat a fájlban.");
 define("LANINS_145", "Az e107 v2.x használatához szükséges a telepített PHP [x] . Kérjük, vegye fel a kapcsolatot az ön tárhely szolgáltatójával vagy olvassa el [y] információkat mielőtt folytatná.");
-
 
 ?>

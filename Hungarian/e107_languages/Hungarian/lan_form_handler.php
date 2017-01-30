@@ -1,13 +1,15 @@
 <?php
 /*
-+---------------------------------------------------------------+
++--------------------------------------------------------------------------+
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/01/07 19:51:43
+|        Last Modified: 2017/01/15 11:15:43
 |
 |        $Author: Yesszus $
-+---------------------------------------------------------------+
+|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|
++--------------------------------------------------------------------------+
 */
 
 define("LAN_EFORM_001", "Klikk az avatar képre a megváltoztatáshoz"); 
@@ -15,7 +17,7 @@ define("LAN_EFORM_002", "Avatar kiválasztása");
 define("LAN_EFORM_003", "Vagy"); 
 define("LAN_EFORM_004", "Válassz az oldalon tárolt avatarok közül"); 
 define("LAN_EFORM_005", "Nincs Elérhető Avatar!"); 
-define("LAN_EFORM_006", "Admin Értesítés: Az [x] mappa üres!<br>Töltsön fel néhány avatar képet a mappába, ahol a felhasználók avatart tudnak választani.");
+define("LAN_EFORM_006", "Admin Értesítés[br]Az [b][x][/b] mappa üres![br]Töltsön fel néhány avatar képet a mappába, ahol a felhasználók avatart tudnak választani.");
 define("LAN_EFORM_007", "Média Kezelő");
 define("LAN_EFORM_008", "Oszlopok kiválasztása");
 define("LAN_EFORM_009", "Megjelenő Oszlopok");

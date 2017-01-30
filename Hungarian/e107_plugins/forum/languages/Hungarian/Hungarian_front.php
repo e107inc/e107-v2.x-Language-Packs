@@ -9,7 +9,7 @@
 |        $Author: Yesszus $
 +---------------------------------------------------------------+
 */
-define("e_PAGETITLE", "Fórum");
+define("e_PAGETITLE", "Fórum"); 
 define("LAN_FORUM_0002", "Témák");
 define("LAN_FORUM_0003", "Válaszok");
 define("LAN_FORUM_0004", "Utolsó bejegyzés");
@@ -264,5 +264,7 @@ define("LAN_FORUM_8024", "A témát nem lehet megnyitni");
 define("LAN_FORUM_8025", "A témát nem lehet kiemelni");
 define("LAN_FORUM_8026", "A téma kiemelést nem lehet visszavonni");
 define("LAN_FORUM_8027", "Nincs kiválasztva művelet!");
+define("LAN_FORUM_8028", "Vissza"); 
+define("LAN_FORUM_8029", "Az új topik sikeresen létrehozva!");
 
 ?>

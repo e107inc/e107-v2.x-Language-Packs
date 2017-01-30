@@ -1,8 +1,16 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------------------+
+|        e107 website content management system Hungarian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/01/21 12:23:21
+|
+|        $Author: Yesszus $
+|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|
++--------------------------------------------------------------------------+
+*/
 
 define("UCSLAN_3", "Csoport törölve.");
 define("UCSLAN_5", "Csoport frissítve.");
@@ -13,7 +21,7 @@ define("UCSLAN_9", "Nincs Ikon");
 define("UCSLAN_10", "Csoport törlése nem lehetséges - ez egy core csoport, vagy a definícióját használja egy másik csoport, mint szülő, vagy szerkeszd át a csoportot");
 define("UCSLAN_11", "Megerősítés");
 define("UCSLAN_12", "Csoport név");
-define("UCSLAN_13", "Csoport leírás");
+define("UCSLAN_13", "Csoport ismertetés");
 define("UCSLAN_14", "Csoport frissítése");
 define("UCSLAN_15", "Új csoport létrehozása");
 define("UCSLAN_18", "Csoport ürítése");
@@ -85,6 +93,7 @@ define("UCSLAN_87", "Nemrég csatlakozott felhasználók");
 define("UCSLAN_88", "Azonosított keresőrobotok");
 define("UCSLAN_89", "A kijelőlt összevont csoportok");
 define("UCSLAN_90", "A rendszer bizonyos csoportjait nem tudod módosítani!");
-define("UCSLAN_91", "");
+define("UCSLAN_91", "Csoport felépítés");
 
 define("UCSLAN_UPDATE", "Frissítés");
+?>

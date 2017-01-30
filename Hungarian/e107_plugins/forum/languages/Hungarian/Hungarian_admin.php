@@ -113,6 +113,7 @@ define("FORLAN_200", "Téma követés");
 define("FORLAN_201", "Engedélyezi a felhasználók számára a témák követését.");
 define("FORLAN_202", "Téma követés email értesítések");
 define("FORLAN_203", "Engedélyezze ezt az opciót a felhasználók számára, hogy email értesítést kapjanak, amikor valaki válaszol a követett témában.");
+
 define("FORLAN_204", "Felhasználó-Anon");
 define("FORLAN_205", "Beküldhetnek");
 define("FORLAN_206", "Témát létrehozhatnak");

@@ -7,6 +7,8 @@
 |        Last Modified: 2016/04/09 11:33:59
 |
 |        $Author: Yesszus $
+|        Web: https://github.com/yesszus/e107-v2.x-Language-Packs/releases
+|
 +---------------------------------------------------------------+
 */
 define("CUSLAN_9", "Szöveg");
