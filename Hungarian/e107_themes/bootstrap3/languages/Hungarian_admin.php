@@ -9,6 +9,7 @@
 |        $Author: Yesszus $
 +---------------------------------------------------------------+
 */
+
 define("LAN_THEMEPREF_00", "Logó");
 define("LAN_THEMEPREF_01", "Megjelenítés");
 define("LAN_THEMEPREF_02", "Regisztráció/Bejelentkezési Terület");
@@ -20,4 +21,8 @@ define("LAN_THEMEPREF_07", "balra");
 define("LAN_THEMEPREF_08", "jobbra");
 define("LAN_THEMEPREF_09", "felül");
 define("LAN_THEMEPREF_10", "alul");
+define("LAN_THEMEPREF_11", "");
+define("LAN_THEMEPREF_12", "Admin Főmenü");
+define("LAN_THEMEPREF_13", "Nelv megváltoztatása");
+
 ?>
