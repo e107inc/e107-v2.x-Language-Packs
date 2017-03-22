@@ -19,3 +19,4 @@ define("NLLAN_69", "Nem elérhető elküldött hírlevél.");
 define("NLLAN_70", "A kiválasztott hírlevél nem létezik");
 define("NLLAN_71", "Vissza");
 define("NLLAN_72", "Archivum megtekintése");
+define("NLLAN_73", "Email cím megadása");

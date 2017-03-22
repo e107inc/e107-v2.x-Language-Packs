@@ -52,6 +52,4 @@ define("MENLAN_57", "Menus par glisser-déplacer");
 define("MENLAN_58", "Le gestionnaire de menus vous permet de placer et d'organiser vos menus dans votre modèle de thème. Passez la souris sur les sous-zones pour modifier les éléments de menu existants.");
 define("MENLAN_59", "Zone [x]");
 define("MENLAN_60", "Ce thème utilise des éléments obsolètes. Toutes les variables [x] HEADER et [x] FOOTER doivent être supprimées de theme.php.");
-
-
 ?>

@@ -9,11 +9,10 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-
 define("LANA_FAQ_QUESTION", "Pregunta");
 define("LANA_FAQ_ANSWER", "Respuesta");
+define("LANA_FAQ_UNANSWERED", "Sin respuesta");
 define("LANA_FAQ_COMMENT", "Comentario");
-define("LANA_FAQ_UNAME", "Nombre de usuario");
 define("LANA_FAQ_ULOGINNAME", "Inicio de sesión de usuario");
 define("LANA_FAQ_TAGS", "Etiquetas");
 define("LANA_FAQ_TAGS_HELP", "Lista de etiquetas separadas por comas");

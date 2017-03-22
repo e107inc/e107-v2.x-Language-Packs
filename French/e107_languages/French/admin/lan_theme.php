@@ -108,8 +108,7 @@ define("TPVLAN_85", "Connexion ...");
 define("TPVLAN_86", "Impossible de changer le thème du site.");
 define("TPVLAN_88", "Convertisseur");
 define("TPVLAN_89", "Appliquer les préférences du tableau de bord à tous les administrateurs");
+define("TPVLAN_90", "Impossible de se connecter. Veuillez vérifier le pare-feu et/ou la connexion internet.");
 define("TPVLAN_91", "Créer un nouveau thème basé sur");
 define("TPVLAN_92", "Nouveau dossier de thème");
-
-
 ?>

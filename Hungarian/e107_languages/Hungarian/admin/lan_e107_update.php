@@ -4,16 +4,16 @@
 |        e107 website content management system Hungarian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/03/23 14:26:36
+|        Last Modified: 2016/02/22 13:09:44
 |
-|        $Author: Lóna Lore $
+|        $Author: Yesszus $
 +---------------------------------------------------------------+
 */
 
 define("LAN_UPDATE_2", "Művelet");
 define("LAN_UPDATE_3", "Nem szükséges");
 define("LAN_UPDATE_4", "Frissítés erről [x] erre [y]");
-define("LAN_UPDATE_5", "Core adatbázis-struktúra frissítése");
+define("LAN_UPDATE_5", "A mag adatbázis struktúra frissítése");
 define("LAN_UPDATE_7", "Végrehajtva [x]");
 define("LAN_UPDATE_12", "Az egyik táblád duplikált bejegyzéseket tartalmaz.");
 define("LAN_UPDATE_13", "További/hiányzó core beállítások hozzáadása");
@@ -42,7 +42,7 @@ define("LAN_UPDATE_51", "Bővítmény tábla-definícióinak frissítése:");
 define("LAN_UPDATE_52", "Letöltés tábla frissítése");
 define("LAN_UPDATE_53", "A teltöltés tükör tábla frissítése");
 define("LAN_UPDATE_54", "Hiányzó tábla --TABLE-- - nem lehetséges index hozzáadása --INDEX--");
-define("LAN_UPDATE_55", "Leírás");
+define("LAN_UPDATE_55", "Ismertetés");
 define("LAN_UPDATE_56", "Rendszer frissítés");
 define("LAN_UPDATE_57", "Mielőtt folytatnád, manuálisan töröld a következő elavult mappákat a rendszerből:");
 define("LAN_UPDATE_CAPTION_PLUGIN", "Bővítmény-frissítések");

@@ -1,9 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/11/29 09:46:39
+|
+|        $Author: Norwayman $
++---------------------------------------------------------------+
+*/
 define("LAN_IMA_M_01", "Biblioteca de medios");
 define("LAN_IMA_M_02", "Media carga/importación");
 define("LAN_IMA_M_03", "Categorías de medios");
@@ -75,7 +80,7 @@ define("IMALAN_74", "Establecer esto tan bajo como sea posible antes de la pérd
 define("IMALAN_75", "Anchura de Avatar");
 define("IMALAN_76", "Imágenes de Avatar se le obliga a estas dimensiones (en píxeles)");
 define("IMALAN_77", "Altura de Avatar");
-define("IMALAN_78", "");
+define("IMALAN_78", "General");
 define("IMALAN_79", "Dimensiones tamaño de la imagen");
 define("IMALAN_80", "Activación de marca de agua");
 define("IMALAN_81", "Todas las imágenes con un ancho o altura superior a este valor le dará una marca de agua durante la redimensión.");
@@ -86,7 +91,7 @@ define("IMALAN_85", "Fuente de agua opcional. Cargar más fuentes .ttf en la car
 define("IMALAN_86", "Tamaño de la marca de agua");
 define("IMALAN_87", "Tamaño de la fuente en pts");
 define("IMALAN_88", "Posición de marca de agua");
-define("IMALAN_89", "");
+define("IMALAN_89", "Marca de agua");
 define("IMALAN_90", "Margen de la marca de agua");
 define("IMALAN_91", "La distancia que marca de agua aparecerá desde el borde de la imagen.");
 define("IMALAN_92", "Color de marca de agua");
@@ -107,7 +112,7 @@ define("IMALAN_106", "Deje en blanco para desactivar");
 define("IMALAN_107", "No genera camino de subir datos");
 define("IMALAN_108", "No podía mover el fichero de [x] [y]");
 define("IMALAN_109", "No se pudo obtener ruta");
-define("IMALAN_110", "");
+define("IMALAN_110", "Pista");
 define("IMALAN_111", "No podía detectar mime-type([x]). No se pudo cargar.");
 define("IMALAN_112", "No se pudo crear la carpeta ([x]).");
 define("IMALAN_113", "Exploración de nuevos medios (imágenes, vídeos, archivos) en la carpeta:");
@@ -125,3 +130,57 @@ define("IMALAN_125", "Eliminar los archivos seleccionados");
 define("IMALAN_126", "Por favor compruebe al menos un archivo.");
 define("IMALAN_127", "No se pudo obtener información de archivo de:");
 define("IMALAN_128", "Importación de medios de comunicación:");
+define("IMALAN_129", "Estás a punto de eliminar [x] registros y <strong> TODOS LOS ARCHIVOS CORRESPONDIENTES </strong>! Por favor confirme para continuar!");
+define("IMALAN_130", "Pagina anterior");
+define("IMALAN_131", "Siguiente página");
+define("IMALAN_132", "Etiquetas/Palabras claves");
+define("IMALAN_133", "Abajo a la derecha");
+define("IMALAN_134", "Abajo a la izquierda");
+define("IMALAN_135", "Parte superior a la derecha");
+define("IMALAN_136", "Parte superior a la izquierda");
+define("IMALAN_137", "Centrar");
+define("IMALAN_138", "Derecha");
+define("IMALAN_139", "Izquierda");
+define("IMALAN_140", "Parte superior");
+define("IMALAN_141", "Fondo");
+define("IMALAN_142", "Azulejo");
+define("IMALAN_143", "Imagen");
+define("IMALAN_144", "Archivo");
+define("IMALAN_145", "Desde tu computadora");
+define("IMALAN_146", "No hay compatibilidad con HTML5.");
+define("IMALAN_147", "Desde una ubicación remota");
+define("IMALAN_148", "Imagen / URL del archivo");
+define("IMALAN_149", "Iniciar la subida");
+define("IMALAN_150", "Subir un archivo");
+define("IMALAN_151", "Elige de la biblioteca");
+define("IMALAN_152", "Apariencia");
+define("IMALAN_153", "Imagen en uso");
+define("IMALAN_154", "No esta en uso");
+define("IMALAN_155", "Carpeta de preselección de Avatar");
+define("IMALAN_156", "Eliminar todas las imágenes no utilizadas");
+define("IMALAN_157", "Flujo de texto");
+define("IMALAN_158", "Margen izquierda");
+define("IMALAN_159", "Margen derecho");
+define("IMALAN_160", "Margen superior");
+define("IMALAN_161", "Margen inferior");
+define("IMALAN_162", "Visualización de [x] - [y] de [z] imágenes.");
+define("IMALAN_163", "Video");
+define("IMALAN_164", "Iconos eliminados de Media-Manager");
+define("IMALAN_165", "No hay imágenes");
+define("IMALAN_166", "Subir imágenes o archivo");
+define("IMALAN_167", "Ningún archivo");
+define("IMALAN_168", "Haga clic en el avatar para cambiarlo");
+define("IMALAN_169", "No hay avatares disponibles");
+define("IMALAN_170", "Elige este avatar");
+define("IMALAN_171", "Aviso a administrador-sólo: La carpeta");
+define("IMALAN_172", "esta vacio. Cargue algunas imágenes predeterminadas de avatares en esta carpeta para que los usuarios puedan elegir avatares.");
+define("IMALAN_173", "No se encontró ningún propietario de medios.");
+define("IMALAN_174", "La búsqueda de YouTube requiere una clave api de YouTube v3. [br] Esta clave no se requiere a menos que desee realizar una búsqueda de palabra clave, lista de reproducción o canal. [br] La introducción de una URL de video de Youtube directamente en el cuadro anterior seguirá funcionando sin Tener una clave api. [br] [x]");
+define("IMALAN_175", "Buscar en Youtube. Pega cualquier URL de YouTube aquí para un video/lista de reproducción/canal específico");
+define("IMALAN_176", "Se ha producido un problema al cargar el archivo");
+define("IMALAN_177", "Haga clic aquí para obtener más información y para ingresar su clave de api");
+define("IMALAN_178", "Carpeta Avatars (seleccionable por el usuario)");
+define("IMALAN_179", "Carpeta Avatars (privado)");
+
+
+?>

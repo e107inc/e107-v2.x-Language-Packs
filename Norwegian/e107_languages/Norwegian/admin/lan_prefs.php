@@ -247,6 +247,11 @@ define("PRFLAN_263", "Bør være unik for denne hjemmesiden");
 define("PRFLAN_264", "Forsiden er login side (login.php)");
 define("PRFLAN_265", "Forsiden er splash side (membersonly.php)");
 define("PRFLAN_266", "Når logget ut, hvilken side skal brukeren dirigeres til?");
+define("PRFLAN_267", "Metode for utsendelse av e-post");
+define("PRFLAN_268", "Frontend Inline-redigering");
+define("PRFLAN_269", "Administratorer med denne brukerklassen (og de riktige administrator tillatelser) vil være i stand til å redigere html direkte via frontend-området.");
+define("PRFLAN_270", "Kontakt skjema filtrering");
+define("PRFLAN_271", "Ignorer skjeminnsendinger som inneholder disse ord eller setninger. Ett per linje.");
 
 
 ?>

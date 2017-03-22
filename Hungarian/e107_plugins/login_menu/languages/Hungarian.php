@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Hungarian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/12/21 09:19:14
+|
+|        $Author: Yesszus $
++---------------------------------------------------------------+
+*/
 
 define("LAN_LOGINMENU_1", "Felhasználónév: ");
 define("LAN_LOGINMENU_2", "Jelszó: ");
@@ -38,7 +44,7 @@ define("LAN_LOGINMENU_39", "Admin elhagyása");
 define("LAN_LOGINMENU_40", "Aktiváló Email Újraküldése");
 define("LAN_LOGINMENU_41", "Login Menü Beállítások");
 
-define("LAN_LOGINMENU_37", "Mutat");
+define("LAN_LOGINMENU_37", "Megjeleníti");
 define("LAN_LOGINMENU_38", "Login Menü - további linkek");
 
 define("LAN_LOGINMENU_42", "Login Menü - legutóbbi core értékek");
@@ -47,9 +53,10 @@ define("LAN_LOGINMENU_44", "hiányzó link cím");
 define("LAN_LOGINMENU_45", "link(ek) -");
 define("LAN_LOGINMENU_45a", "");
 define("LAN_LOGINMENU_45b", "plugin");
-define("LAN_LOGINMENU_46", "legutóbbi elemek -");
+define("LAN_LOGINMENU_46", "a legutóbbi elemeket -");
 define("LAN_LOGINMENU_47", "Login Menü - legutóbbi plugin értékek");
 define("LAN_LOGINMENU_48", "Menü beállítása");
 define("LAN_LOGINMENU_49", "Email: ");
 define("LAN_LOGINMENU_50", "Felhasználói név vagy Email: ");
 define("LAN_LOGINMENU_51", "Bejelentkezés");
+?>

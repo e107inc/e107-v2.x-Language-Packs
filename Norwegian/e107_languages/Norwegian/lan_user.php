@@ -9,7 +9,6 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-
 define("LAN_USER_01", "Visningsnavn");
 define("LAN_USER_02", "Påloggingsnavnet");
 define("LAN_USER_03", "Virkelige navn");
@@ -82,6 +81,13 @@ define("LAN_USER_83", "Skjul e-postadressen:");
 define("LAN_USER_84", "Dette vil hindre at e-postadressen din vises på nettstedet");
 define("LAN_USER_85", "Hvis du vil endre brukernavn, må du be en administrator");
 define("LAN_USER_86", "Maksimal avatar størrelse er - bredde - x - høyde - piksler");
+define("LAN_USER_87", "Logg inn for å rangere denne brukeren!");
+define("LAN_XUP_ERRM_01", "Påmelding feilet! Denne funksjonen er deaktivert.");
+define("LAN_XUP_ERRM_02", "Påmelding feilet! Feil leverandør.");
+define("LAN_XUP_ERRM_03", "Innlogging feilet! Feil leverandør.");
+define("LAN_XUP_ERRM_04", "Påmelding feilet! Bruker er allerede logget på.");
+define("LAN_XUP_ERRM_05", "Påmelding feilet! Brukeren finnes allerede. Vennligst bruk 'logg inn' i stedet.");
+define("LAN_XUP_ERRM_06", "Påmelding feilet! Får ikke tilgang til bruker e-post - registrering uten en e-post er umulig.");
 
 
 ?>

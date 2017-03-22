@@ -249,7 +249,7 @@ define("EPL_ADLAN_242", "Supprimer la préférence :");
 define("EPL_ADLAN_243", "Mettre à jour la préférence :");
 define("EPL_ADLAN_244", "Seulement 5 catégories de médias sont possibles durant l'installation.");
 define("EPL_ADLAN_245", "Ajout de la catégorie de médias : [x]");
-define("EPL_ADLAN_246", "Suppression de toutes les catégories de médias appartenant à : [x]");
+define("EPL_ADLAN_246", "Suppression de toutes les catégories de médias appartenant à : [x] ");
 define("EPL_ADLAN_249", "Ajout d'un champ étendu :");
 define("EPL_ADLAN_250", "Suppression du champ étendu :");
 define("EPL_ADLAN_251", "Champ étendu laissé en place");
@@ -264,6 +264,4 @@ define("LAN_INSTALL_SUCCESSFUL", "Installation réussie");
 define("LAN_INSTALL_FAIL", "Installation échouée");
 define("LAN_UNINSTALL_FAIL", "Impossible de désinstaller !");
 define("LAN_PLUGIN_IS_USED", "L'extension [x] est utilisée par :");
-
-
 ?>

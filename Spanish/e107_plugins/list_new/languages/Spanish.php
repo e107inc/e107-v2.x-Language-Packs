@@ -9,7 +9,6 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-
 define("LIST_MENU_1", "incorporaciones recientes");
 define("LIST_MENU_2", "por");
 define("LIST_MENU_3", "en");
@@ -59,6 +58,8 @@ define("LIST_FORUM_4", "respuestas:");
 define("LIST_FORUM_5", "Lastpost:");
 define("LIST_FORUM_6", "en:");
 define("LIST_LAN_1", "no hay artículos en");
+define("LIST_DOWNLOAD_1", "descargas");
+define("LIST_DOWNLOAD_2", "sin descargas");
 
 
 ?>

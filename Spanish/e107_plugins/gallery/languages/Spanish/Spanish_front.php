@@ -9,8 +9,8 @@
 |        $Author: Norwayman $
 +---------------------------------------------------------------+
 */
-
 define("LAN_GALLERY_FRONT_01", "Haga clic derecha > Guardar Enlace Como");
+define("LAN_GALLERY_FRONT_02", "Ampliar la imagen");
 
 
 ?>

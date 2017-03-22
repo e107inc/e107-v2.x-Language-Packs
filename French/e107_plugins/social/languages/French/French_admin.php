@@ -53,6 +53,4 @@ define("LAN_SOCIAL_ADMIN_39", "Fournisseurs");
 define("LAN_SOCIAL_ADMIN_40", "Mettre à jour le nom d'affichage de l'utilisateur");
 define("LAN_SOCIAL_ADMIN_41", "Mettre à jour l'avatar de l'utilisateur");
 define("LAN_SOCIAL_ADMIN_42", "Image personnalisée");
-
-
 ?>

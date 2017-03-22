@@ -9,7 +9,6 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-
 define("PAGE_NAME", "Registrering");
 define("LAN_EMAIL_01", "Kjære");
 define("LAN_EMAIL_04", "Behage oppbevare denne e-posten din egen informasjon.");
@@ -105,6 +104,13 @@ define("LAN_SIGNUP_109", "Er CaSe sensitive og kan ikke inneholde mellomrom.");
 define("LAN_SIGNUP_110", "Fullt navn");
 define("LAN_SIGNUP_111", "Angi en URL til bildet eller velge en eksisterende avatar.");
 define("LAN_SIGNUP_112", "Du er innlogget som Main Admin.");
+define("LAN_SIGNUP_113", "Abonnement (er)");
+define("LAN_SIGNUP_114", "Brukerregistrering er deaktivert.");
+define("LAN_SIGNUP_115", "Forhåndsvisning Aktivisering E-post");
+define("LAN_SIGNUP_116", "Forhåndsvisning Etter Skjema Innsendelse");
+define("LAN_SIGNUP_117", "Send en Test aktivering");
+define("LAN_SIGNUP_118", "Til [x]");
+define("LAN_SIGNUP_119", "Ikke send e-post");
 
 
 ?>

@@ -145,7 +145,7 @@ Si vous reconnaissez la légitimité de ces fichiers, il est probable que le typ
 Voici la liste des fichiers qui pourraient être potentiellement malveillants :");
 define("LAN_CREATE", "Créer");
 define("LAN_MANAGE", "Gérer");
-define("LAN_UPDATE", "Mettre à jour");
+define("LAN_UPDATE", "Mise à jour");
 define("LAN_UPDATES", "Mises à jour");
 define("LAN_INSTALLED", "Installé");
 define("LAN_LAST_UPDATED", "Dernière mise à jour");
@@ -370,6 +370,4 @@ define("LAN_SYSTEM_USER", "Utilisateur du système");
 define("LAN_ENGINE", "Moteur");
 define("LAN_SOURCE", "Source");
 define("LAN_ERROR_CONNECTION", "Impossible de se connecter pour les mises à jour. Veuillez vérifier le pare-feu et/ou la connexion Internet.");
-
-
 ?>

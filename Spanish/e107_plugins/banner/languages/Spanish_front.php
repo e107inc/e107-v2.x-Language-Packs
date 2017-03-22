@@ -9,8 +9,6 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-
-define("PAGE_NAME", "Bandera");
 define("BANNERLAN_16", "Nombre de usuario:");
 define("BANNERLAN_17", "Contraseña:");
 define("BANNERLAN_19", "Por favor ingrese su login de cliente y contraseña para continuar");
@@ -30,6 +28,7 @@ define("BANNERLAN_34", "Termina:");
 define("BANNERLAN_35", "Direcciones IP de clickthrough");
 define("BANNERLAN_36", "Activo:");
 define("BANNERLAN_37", "Comienza:");
+define("BANNERLAN_39", "No hay ninguna imagen asignada a esta bandera.");
 
 
 ?>
