@@ -262,6 +262,8 @@ define("LAN_FORUM_8024", "Échec d'ouverture du fil");
 define("LAN_FORUM_8025", "Échec de collage du fil");
 define("LAN_FORUM_8026", "Échec de décollage du fil");
 define("LAN_FORUM_8027", "Aucun action choisie");
+define("LAN_FORUM_8028", "Retour");
+define("LAN_FORUM_8029", "Nouveau sujet créé !");
 
 
 ?>

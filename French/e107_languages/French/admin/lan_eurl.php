@@ -88,6 +88,8 @@ define("LAN_EURL_SYSTEM_REWRITE_DESCR", "URL pour les pages telles que 'Non trou
 define("LAN_EURL_CORE_INDEX", "Page d'accueil");
 define("LAN_EURL_CORE_INDEX_INFO", "La page d'accueil ne peut pas avoir d'alias.");
 define("LAN_EURL_REBUILD", "Reconstruire");
+define("LAN_EURL_REGULAR_EXPRESSION", "Expression régulière");
+define("LAN_EURL_KEY", "Clé");
 
 
 ?>

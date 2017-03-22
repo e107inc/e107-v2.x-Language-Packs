@@ -8,7 +8,7 @@ define("ADSTAT_L1", "Cette extension enregistrera toutes les visites de votre si
 define("ADSTAT_L2", "L'enregistreur de statistiques a été installé avec succès. Pour l'activer, allez à l'écran de configuration et cliquez sur Activer.<br />
 <b>Vous devez définir les autorisations du dossier e107_plugins/journal/logs à 777 (chmod 777)</b>");
 define("ADSTAT_L3", "Enregistrement de statistiques");
-define("ADSTAT_L4", "Activer l'enregistrement des statistique");
+define("ADSTAT_L4", "Activer l'enregistrement des statistiques");
 define("ADSTAT_L5", "Types de statistique");
 define("ADSTAT_L6", "Navigateurs");
 define("ADSTAT_L7", "Systèmes d'exploitation");

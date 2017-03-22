@@ -9,7 +9,6 @@
 |        $Author: Olivier Troccaz $
 +---------------------------------------------------------------+
 */
-
 define("RL_LAN_002", "Logs circulaires");
 define("RL_LAN_005", "Configurer les logs circulaires");
 define("RL_LAN_008", "Logs circulaires actifs :");
@@ -36,7 +35,7 @@ define("RL_LAN_033", "Plus d'informations");
 define("RL_LAN_044", "Évènements à afficher par page");
 define("RL_LAN_045", "Supprimer les événements du journal administration plus vieux que");
 define("RL_LAN_046", "jours");
-define("RL_LAN_047", "Confirmez la suppression des évènements du journal administration antérieurs à&nbsp;");
+define("RL_LAN_047", "Confirmez la suppression des évènements du journal administration antérieurs à :");
 define("RL_LAN_049", "Supprimer les anciennes entrées");
 define("RL_LAN_050", "Erreur de paramètre - rien n'a été supprimé");
 define("RL_LAN_052", "Journal administration");
@@ -67,6 +66,10 @@ define("RL_LAN_081", "Rebonds de messagerie");
 define("RL_LAN_082", "Utilisateurs exclus");
 define("RL_LAN_083", "Réinitialisations des rebonds de messagerie");
 define("RL_LAN_084", "Comptes temporaires");
+define("RL_LAN_085", "[x] enregistrement(s) correctement supprimé(s)");
+define("RL_LAN_086", "[x] enregistrement(s) non trouvé(s) et non supprimé(s)");
+define("RL_LAN_087", "Détails");
+define("RL_LAN_088", "Filtrer les résultats ci-dessous");
 define("RL_LAN_090", "Télécharger ID");
 define("RL_LAN_091", "Horaires détaillés");
 define("RL_LAN_092", "Tranche horaire");
@@ -97,6 +100,15 @@ define("RL_LAN_123", "Piste de vérification des groupes d'utilisateurs");
 define("RL_LAN_124", "Piste de vérification des actions d'utilisateurs");
 define("RL_LAN_125", "Maintenance des logs système");
 define("RL_LAN_126", "Au total, [x] entrées correspondent à la condition de recherche");
+define("RL_LAN_127", "Durant la dernière heure");
+define("RL_LAN_128", "Durant les dernières 24 heures");
+define("RL_LAN_129", "La semaine dernière");
+define("RL_LAN_130", "Le mois dernier");
+define("RL_LAN_131", "L'an dernier");
+define("RL_LAN_132", "Informatif");
+define("RL_LAN_133", "Avis");
+define("RL_LAN_134", "Attention");
+define("RL_LAN_135", "Fatal");
 
 
 ?>

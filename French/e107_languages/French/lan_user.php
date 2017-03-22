@@ -81,6 +81,7 @@ define("LAN_USER_83", "Masquer l'adresse mail ? :");
 define("LAN_USER_84", "Cela empêchera l'affichage de votre adresse mail sur le site");
 define("LAN_USER_85", "Si vous souhaitez modifier votre nom d'utilisateur, vous devez le demander à un administrateur du site");
 define("LAN_USER_86", "La taille maximale de l'avatar est de --WIDTH-- x --HEIGHT-- pixels");
+define("LAN_USER_87", "Connectez-vous pour donner votre avis !");
 define("LAN_XUP_ERRM_01", "L'inscription a échoué ! Cette fonctionnalité est désactivée");
 define("LAN_XUP_ERRM_02", "L'inscription a échoué ! Mauvais fournisseur.");
 define("LAN_XUP_ERRM_03", "La connexion a échoué ! Mauvais fournisseur.");

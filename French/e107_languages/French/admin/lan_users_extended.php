@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system French Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/01/23 10:17:21
+|
+|        $Author: Olivier Troccaz $
++---------------------------------------------------------------+
+*/
 
 define("EXTLAN_1", "Nom");
 define("EXTLAN_2", "Aperçu");
@@ -12,7 +18,7 @@ define("EXTLAN_5", "Il y a lieu");
 define("EXTLAN_6", "Accès en lecture");
 define("EXTLAN_7", "Accès en écriture");
 define("EXTLAN_8", "Action");
-define("EXTLAN_9", "Champs d'utilisateur étendus ");
+define("EXTLAN_9", "Champs d'utilisateur étendus");
 define("EXTLAN_10", "Nom du champ");
 define("EXTLAN_11", "C'est le nom du champ tel qu'il est stocké dans la table, il doit être unique de tout autre et ne doit pas être utilisé dans la table principale des utilisateurs");
 define("EXTLAN_12", "Texte du champ");
@@ -84,6 +90,12 @@ define("EXTLAN_77", "Catégorie non supprimée - les champs de cette catégorie 
 define("EXTLAN_78", "Impossible de trouver le fichier --FILE-- nécessaire pour créer la table de données");
 define("EXTLAN_79", "Étiquette");
 define("EXTLAN_80", "Erreur de validation - abandon.");
+define("EXTLAN_81", "Ajouter un champ personnalisé");
+define("EXTLAN_82", "Valeurs");
+define("EXTLAN_83", "Espace réservé");
+define("EXTLAN_84", "Conseil de l'aide");
+define("EXTLAN_86", "Colonne étendue utilisateur supprimée de la table");
+define("EXTLAN_87", "Trier les valeurs");
 define("EXTLAN_HELP_1", "<b><i>Paramètres :</i></b><br/>taille - taille du champ<br/>longueur maximale - longueur maximale du champ<br/><br/>classe - classe css du champ<br/>style - style css de la chaîne<br/><br/>regex - code de validation regex<br>erreur regex - texte d'erreur de la validation");
 define("EXTLAN_HELP_2", "Entrez le texte des options dans la boîte 'Valeurs' - une boîte par option. Ajoutez de nouvelles boîtes si nécessaire");
 define("EXTLAN_HELP_3", "Entrez le texte des options dans la boîte 'Valeurs' - une boîte par option. Ajoutez de nouvelles boîtes si nécessaire");
@@ -93,3 +105,6 @@ define("EXTLAN_HELP_6", "Autoriser l'utilisateur à entrer une valeur numérique
 define("EXTLAN_HELP_7", "Exiger de l'utilisateur d'entrer une date");
 define("EXTLAN_HELP_8", "Permettre à l'utilisateur de choisir parmi les langues installées");
 define("EXTLAN_HELP_9", "Spécifier une liste prédéfinie. Le champ valeur sélectionne le type de liste - à l'heure actuelle seul 'fuseaux horaires' est une entrée valide");
+
+
+?>

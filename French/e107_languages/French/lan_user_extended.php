@@ -9,7 +9,6 @@
 |        $Author: Olivier Troccaz $
 +---------------------------------------------------------------+
 */
-
 define("UE_LAN_1", "Boîte de texte");
 define("UE_LAN_2", "Boutons radio");
 define("UE_LAN_3", "Menu déroulant");
@@ -19,6 +18,7 @@ define("UE_LAN_6", "Nombre entier");
 define("UE_LAN_8", "Langue");
 define("UE_LAN_9", "Liste prédéfinie");
 define("UE_LAN_10", "Cases à cocher");
+define("UE_LAN_13", "Pays");
 define("UE_LAN_21", "Nom");
 define("UE_LAN_22", "Type");
 define("UE_LAN_23", "Utilisation");

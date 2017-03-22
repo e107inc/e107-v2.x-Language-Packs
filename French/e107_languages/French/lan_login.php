@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system French Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/03/22 09:43:37
+|
+|        $Author: Olivier Troccaz $
++---------------------------------------------------------------+
+*/
 
 define("LAN_LOGIN_1", "Nom d'utilisateur");
 define("LAN_LOGIN_2", "Mot de passe utilisateur");
@@ -35,3 +41,10 @@ define("LAN_LOGIN_28", "Mail");
 define("LAN_LOGIN_29", "Nom d'utilisateur ou mail");
 define("LAN_LOGIN_30", "Erreur d'ajout du nouvel utilisateur alt_auth dans la base de données");
 define("LAN_LOGIN_31", "Vos informations d'identification ne peuvent pas être ajoutées au système");
+define("LAN_LOGIN_32", "Vous voyez ce message car vous êtes actuellement connecté en tant qu'administrateur principal.");
+define("LAN_LOGIN_33", "[Retour à la page d'accueil]");
+define("LAN_LOGIN_34", "L'inscription et/ou la connexion utilisateur est actuellement désactivée.");
+define("LAN_LOGIN_35", "[Activer la]");
+
+
+?>

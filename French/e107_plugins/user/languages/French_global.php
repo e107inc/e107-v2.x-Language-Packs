@@ -4,13 +4,14 @@
 |        e107 website content management system French Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/04/20 17:19:25
+|        Last Modified: 2017/01/30 11:34:18
 |
 |        $Author: Olivier Troccaz $
 +---------------------------------------------------------------+
 */
-define("LAN_GALLERY_FRONT_01", "Clic-droit > Enregistrer le lien comme");
-define("LAN_GALLERY_FRONT_02", "Développer l'image");
+
+define("LAN_PLUGIN_USER_NAME", "Utilisateur");
+define("LAN_PLUGIN_USER_DESC", "Menus de thème et de langue utilisateur");
 
 
 ?>

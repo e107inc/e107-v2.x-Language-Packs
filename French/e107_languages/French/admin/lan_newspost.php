@@ -141,6 +141,10 @@ define("LAN_NEWS_104", "Déclencher une notification par mail lorsque vous soume
 define("LAN_NEWS_105", "Notification par mail déclenchée !");
 define("LAN_NEWS_106", "La visibilité des éléments d'actualités doit inclure 'tout le monde' pour que les notifications par mail fonctionnent.");
 define("LAN_NEWS_107", "Vérification de l'état de ping");
+define("LAN_NEWS_108", "L'URL SEF est différente du titre de votre article d'actualité.");
+define("LAN_NEWS_109", "Déclencher une notification par mail lorsque vous soumettez ce formulaire.");
+define("LAN_NEWS_110", "Délai d'attente du cache des actualités");
+define("LAN_NEWS_111", "Temps en minutes. Ne s'applique que lorsque le cache système est activé.");
 
 
 ?>

@@ -9,7 +9,6 @@
 |        $Author: Olivier Troccaz $
 +---------------------------------------------------------------+
 */
-
 define("LAN_IMA_M_01", "Bibliothèque multimédia");
 define("LAN_IMA_M_02", "Téléchargement/importation de médias");
 define("LAN_IMA_M_03", "Catégories de médias");
@@ -148,9 +147,9 @@ define("IMALAN_141", "Bas");
 define("IMALAN_142", "Tuile");
 define("IMALAN_143", "Image");
 define("IMALAN_144", "Fichier");
-define("IMALAN_145", "<h4>À partir de votre ordinateur</h4>");
+define("IMALAN_145", "À partir de votre ordinateur");
 define("IMALAN_146", "Pas de support HTML5.");
-define("IMALAN_147", "<h4>À partir d'un site distant</h4>");
+define("IMALAN_147", "À partir d'un site distant");
 define("IMALAN_148", "URL de l'image/du fichier");
 define("IMALAN_149", "Démarrer le téléchargement");
 define("IMALAN_150", "Télécharger un fichier");
@@ -167,7 +166,7 @@ define("IMALAN_160", "Marge haute");
 define("IMALAN_161", "Marge basse");
 define("IMALAN_162", "Afficher [x] - [y] de [z] images.");
 define("IMALAN_163", "Vidéo");
-define("IMALAN_164", "");
+define("IMALAN_164", "Icônes supprimées du gestionnaire de médias");
 define("IMALAN_165", "Aucune image");
 define("IMALAN_166", "Télécharger des images ou fichiers");
 define("IMALAN_167", "Choisir un fichier");
@@ -177,6 +176,12 @@ define("IMALAN_170", "Choisir cet avatar");
 define("IMALAN_171", "Avis administrateur seulement : ce dossier");
 define("IMALAN_172", "est vide. Ajouter des images d'avatars par défaut dans ce dossier pour permettre aux utilisateurs de choisir un avatar à partir de cet emplacement.");
 define("IMALAN_173", "Aucun propriétaire de média trouvé.");
+define("IMALAN_174", "La recherche YouTube nécessite une clé (gratuite) de l'API v3 de YouTube.[br]Cette clé n'est pas nécessaire sauf si vous souhaitez effectuer une recherche par mot-clé, liste de lecteur ou chaîne.[br]Renseigner directement une URL de vidéo YouTube dans la zone ci-dessus fonctionnera toujours même sans posséder une clé API.[br][x]");
+define("IMALAN_175", "Recherche YouTube. Copiez ici n'importe quelle URL YouTube pour une vidéo/liste de lecture/chaîne spécifique");
+define("IMALAN_176", "Un problème est survenu lors de l'enregistrement du fichier");
+define("IMALAN_177", "Cliquez ici pour plus d'information et pour saisir votre clé API.");
+define("IMALAN_178", "Dossier des avatars (accessible aux utilisateurs)");
+define("IMALAN_179", "Dossier des avatars (privé)");
 
 
 ?>

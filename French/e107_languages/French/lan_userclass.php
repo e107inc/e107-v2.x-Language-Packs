@@ -17,3 +17,4 @@ define("UC_LAN_9", "Nouveaux utilisateurs");
 define("UC_LAN_10", "Robots de recherche");
 define("UC_LAN_INVERT", "Excepté --CLASS--");
 define("UC_LAN_INVERTLABEL", "Tout le monde sauf ...");
+?>
