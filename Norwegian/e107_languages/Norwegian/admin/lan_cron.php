@@ -9,7 +9,6 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-
 define("LAN_CRON_M_02", "Oppdater");
 define("LAN_CRON_2", "Funksjonen");
 define("LAN_CRON_3", "Kategorien");
@@ -63,8 +62,14 @@ define("LAN_CRON_51", "Time(r):");
 define("LAN_CRON_52", "Dag:");
 define("LAN_CRON_53", "Måned:");
 define("LAN_CRON_54", "Ukedag(er):");
+define("LAN_CRON_60", "Gå til cPanel");
+define("LAN_CRON_61", "Generer nytt cron passord");
+define("LAN_CRON_62", "Utfører konfigurerings funksjon [b] [x] [/b]");
+define("LAN_CRON_63", "konfigurerings funksjon [b] [x] [/b] IKKE funnet.");
+define("LAN_CRON_64", "En administrator kan automatisere oppgaver med E107 Planlegge oppgaver. [br] I Behandle Tab, kan du redigere, slette og kjøre oppgaver. [br] Når du redigerer en oppgave kan du angi minutter, timer, dager, måneder eller dag i uken du vil at oppgaven skal kjøres. Bruk * for å kjøre for hver periode. Bruk Aktiv eiendom til Aktivert Oppgave [br] Merk:.. Du rådes til ikke å slette standard jobbene [br]");
 define("LAN_CRON_BACKUP", "Sikkerhetskopiering");
 define("LAN_CRON_LOGGING", "Registrering");
+define("LAN_CRON_RUNNING", "Kjører");
 
 
 ?>

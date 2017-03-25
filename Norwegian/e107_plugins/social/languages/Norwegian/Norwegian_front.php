@@ -20,6 +20,9 @@ define("LAN_SOCIAL_200", "Kan ikke vise strøm. Twitter URL er ikke definert i i
 define("LAN_SOCIAL_201", "Tweets av");
 define("LAN_SOCIAL_202", "Post til Twitter");
 define("LAN_SOCIAL_203", "Skriv inn tweeten her.");
+define("LAN_SOCIAL_204", "Del");
+define("LAN_SOCIAL_205", "Kan ikke gjengi kommentarer. Mangler Facebook AppID.");
+define("LAN_SOCIAL_WARNING", "Facebook kommentarer krever at du har en Facebook App ID. Se den "sosiale login-området i admin-innstillinger for å legge til en.");
 
 
 ?>

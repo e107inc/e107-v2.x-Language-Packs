@@ -111,6 +111,7 @@ define("LAN_SIGNUP_116", "Forhåndsvisning Etter Skjema Innsendelse");
 define("LAN_SIGNUP_117", "Send en Test aktivering");
 define("LAN_SIGNUP_118", "Til [x]");
 define("LAN_SIGNUP_119", "Ikke send e-post");
+define("LAN_SIGNUP_120", "ELLER");
 
 
 ?>

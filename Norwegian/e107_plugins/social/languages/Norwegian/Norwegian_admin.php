@@ -49,6 +49,10 @@ define("LAN_SOCIAL_ADMIN_35", "Lys");
 define("LAN_SOCIAL_ADMIN_36", "Mørk");
 define("LAN_SOCIAL_ADMIN_37", "Åpne Grafiske Meta");
 define("LAN_SOCIAL_ADMIN_38", "Spekter");
+define("LAN_SOCIAL_ADMIN_39", "Leverandører");
+define("LAN_SOCIAL_ADMIN_40", "Oppdater Bruker visningsnavn");
+define("LAN_SOCIAL_ADMIN_41", "Oppdater Bruker Avatar");
+define("LAN_SOCIAL_ADMIN_42", "Tilpasset bilde");
 
 
 ?>
