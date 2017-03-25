@@ -49,7 +49,6 @@ define("LAN_MAILOUT_38", "Cancelar");
 define("LAN_MAILOUT_39", "Un correo electrónico a");
 define("LAN_MAILOUT_40", "Necesita cambiar el nombre de <b>e107.htaccess</b> a <b>.htaccess</b> en");
 define("LAN_MAILOUT_41", "antes de enviar correo desde esta página.");
-define("LAN_MAILOUT_42", "ADVERTENCIA");
 define("LAN_MAILOUT_43", "Nombre de usuario");
 define("LAN_MAILOUT_44", "Inicio de sesión de usuario");
 define("LAN_MAILOUT_45", "Correo electrónico del usuario");
@@ -91,7 +90,6 @@ define("LAN_MAILOUT_92", "SSL");
 define("LAN_MAILOUT_93", "TLS");
 define("LAN_MAILOUT_94", "(Usar SSL en gmail/googlemail)");
 define("LAN_MAILOUT_95", "Utilizar VERP por correo a granel");
-define("LAN_MAILOUT_96", "ninguno");
 define("LAN_MAILOUT_97", "Resultados Mailer");
 define("LAN_MAILOUT_98", "Entradas huérfanas");
 define("LAN_MAILOUT_99", "Confirmar envío de reintento");
@@ -253,6 +251,14 @@ define("LAN_SEND", "Enviar");
 define("LAN_HOLD", "Mantenga");
 define("LAN_MAILOUT_260", "Tipo de usuario");
 define("LAN_MAILOUT_261", "Puerta SMTP");
+define("LAN_MAILOUT_262", "Previsualización de plantillas");
+define("LAN_MAILOUT_263", "Total de beneficiarios");
+define("LAN_MAILOUT_264", "Insertar medios");
+define("LAN_MAILOUT_265", "Pendiente");
+define("LAN_MAILOUT_266", "Activo máximo");
+define("LAN_MAILOUT_267", "Generar claves públicas/privadas");
+define("LAN_MAILOUT_268", "Modo de desarrollador solamente");
+define("LAN_MAILOUT_269", "Envíar después");
 
 
 ?>

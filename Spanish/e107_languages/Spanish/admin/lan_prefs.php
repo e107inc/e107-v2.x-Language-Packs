@@ -252,6 +252,10 @@ define("PRFLAN_268", "Frontend Inline-Edición");
 define("PRFLAN_269", "Administradores con esta clase de usuario (y los permisos de administración apropiadas) serán capaces de editar el código HTML directamente a través del área del frontend interfaz.");
 define("PRFLAN_270", "Filtros para Formulario de contacto");
 define("PRFLAN_271", "No haga caso de los envíos de formularios que contengan esas palabras o frases. Una por línea.");
+define("PRFLAN_272", "Vida útil de la sesión");
+define("PRFLAN_273", "Tiempo de vida en segundos. 0 = hasta que el navegador esté cerrado.");
+define("PRFLAN_274", "Formulario de contacto sólo será visible para este grupo de clase de usuario.");
+define("PRFLAN_275", "Ver esta página usando https (SSL) para modificar esta opción");
 
 
 ?>

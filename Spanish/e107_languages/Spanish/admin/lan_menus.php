@@ -49,6 +49,9 @@ define("MENLAN_54", "Diseño del tema");
 define("MENLAN_55", "Diseño del menú");
 define("MENLAN_56", "Páginas personalizadas");
 define("MENLAN_57", "Arrastrar y soltar menús");
+define("MENLAN_58", "Menu-Manager le permite colocar y organizar sus menús dentro de su plantilla de tema. Pase el cursor sobre las subáreas para modificar los elementos de menú existentes.");
+define("MENLAN_59", "Area [x]");
+define("MENLAN_60", "Este tema utiliza elementos obsoletos. Todas las variables [x]HEADER y [x]FOOTER deben eliminarse de theme.php.");
 
 
 ?>
