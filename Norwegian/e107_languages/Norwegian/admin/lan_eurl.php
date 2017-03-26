@@ -88,6 +88,8 @@ define("LAN_EURL_SYSTEM_REWRITE_DESCR", "Nettadresser for sider som ikke finnes,
 define("LAN_EURL_CORE_INDEX", "Forsiden");
 define("LAN_EURL_CORE_INDEX_INFO", "Foran siden kan ikke ha et alias.");
 define("LAN_EURL_REBUILD", "Gjenoppbygg");
+define("LAN_EURL_REGULAR_EXPRESSION", "Vanlige uttrykk");
+define("LAN_EURL_KEY", "Nøkkel");
 
 
 ?>

@@ -9,11 +9,10 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-
 define("LANA_FAQ_QUESTION", "Spørsmål");
 define("LANA_FAQ_ANSWER", "Svar");
+define("LANA_FAQ_UNANSWERED", "Ubesvart");
 define("LANA_FAQ_COMMENT", "Kommentar");
-define("LANA_FAQ_UNAME", "Brukernavn");
 define("LANA_FAQ_ULOGINNAME", "Brukerpålogging");
 define("LANA_FAQ_TAGS", "Ettiketter");
 define("LANA_FAQ_TAGS_HELP", "Kommadelt kode liste");

@@ -262,6 +262,8 @@ define("LAN_FORUM_8024", "Kunne ikke åpne tråden");
 define("LAN_FORUM_8025", "Kunne ikke feste tråden");
 define("LAN_FORUM_8026", "Kunne ikke fjerne festingen på tråden");
 define("LAN_FORUM_8027", "Ingen handling valgt");
+define("LAN_FORUM_8028", "Tilbake");
+define("LAN_FORUM_8029", "Nytt emne er opprettet!");
 
 
 ?>

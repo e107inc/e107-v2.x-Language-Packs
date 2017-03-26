@@ -18,6 +18,7 @@ define("UE_LAN_6", "Heltall");
 define("UE_LAN_8", "Språk");
 define("UE_LAN_9", "Forhåndsdefinert liste");
 define("UE_LAN_10", "Avmerkingsbokser");
+define("UE_LAN_13", "Land");
 define("UE_LAN_21", "navn");
 define("UE_LAN_22", "Type");
 define("UE_LAN_23", "Bruk");

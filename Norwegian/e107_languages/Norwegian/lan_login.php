@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/03/22 13:49:16
+|
+|        $Author: Norwayman $
++---------------------------------------------------------------+
+*/
 
 define("LAN_LOGIN_1", "Brukernavn");
 define("LAN_LOGIN_2", "Brukerpassordet");
@@ -35,3 +41,10 @@ define("LAN_LOGIN_28", "E-post");
 define("LAN_LOGIN_29", "Brukernavn eller emailadresse");
 define("LAN_LOGIN_30", "Feil under tillegging nye alt_auth til DB");
 define("LAN_LOGIN_31", "Påloggingsinformasjonen kan ikke legges til systemet");
+define("LAN_LOGIN_32", "Du ser denne meldingen fordi du er logget inn som hoved Admin.");
+define("LAN_LOGIN_33", "[Gå tilbake til hjemmeside]");
+define("LAN_LOGIN_34", "Bruker registrering og/eller innlogging er deaktivert.");
+define("LAN_LOGIN_35", "[Aktiver det]");
+
+
+?>

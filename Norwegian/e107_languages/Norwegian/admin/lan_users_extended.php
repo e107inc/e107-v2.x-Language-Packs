@@ -1,10 +1,16 @@
 <?php
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/02/01 16:19:25
+|
+|        $Author: Norwayman $
++---------------------------------------------------------------+
+*/
 
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("EXTLAN_1", "navn");
+define("EXTLAN_1", "Navn");
 define("EXTLAN_2", "Forhåndsvisning");
 define("EXTLAN_3", "Verdier");
 define("EXTLAN_4", "Nødv");
@@ -84,6 +90,12 @@ define("EXTLAN_77", "Kategori ikke slettet - må slette felt i kategori først:"
 define("EXTLAN_78", "Finner ikke filen--Arkiv--for å opprette tabellen");
 define("EXTLAN_79", "Etikett");
 define("EXTLAN_80", "Godkjenningen feil - avbrutt.");
+define("EXTLAN_81", "Legg  til et egendefinert felt");
+define("EXTLAN_82", "Verdier");
+define("EXTLAN_83", "Plassholder");
+define("EXTLAN_84", "Hjelp Tips");
+define("EXTLAN_86", "Bruker Utvidet kolonne slettes fra tabellen");
+define("EXTLAN_87", "Sorter verdier");
 define("EXTLAN_HELP_1", "<b><i>Parametere:</i></b><br>størrelse - feltet<br>MaxLength - Maksimal feltlengde<br><br>klasse - css klassen feltet<br>stil - css strengsammenligning<br><br>RegEx - regex valideringskoden<br>regexfail - valideringen mislykkes tekst");
 define("EXTLAN_HELP_2", "Angi tekst for alternativer i 'Verdier' for - en boks per alternativ. Legge til nye bokser etter behov");
 define("EXTLAN_HELP_3", "Angi tekst for alternativer i 'Verdier' for - en boks per alternativ. Legge til nye bokser etter behov");
@@ -93,3 +105,6 @@ define("EXTLAN_HELP_6", "Tillat brukeren å angi en numerisk verdi");
 define("EXTLAN_HELP_7", "Kreve brukeren å angi dato");
 define("EXTLAN_HELP_8", "Lar brukeren velge fra installerte språk");
 define("EXTLAN_HELP_9", "Angi en forhåndsdefinert liste. Verdifeltet velger typen liste - i dag bare 'tidssoner' er en gyldig oppføring");
+
+
+?>

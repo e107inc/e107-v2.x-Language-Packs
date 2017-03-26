@@ -4,13 +4,14 @@
 |        e107 website content management system Norwegian Language File
 |        Released under the terms and conditions of the
 |        GNU General Public License (http://gnu.org).
-|        Last Modified: 2016/04/06 17:26:05
+|        Last Modified: 2017/02/01 16:20:41
 |
 |        $Author: Norwayman $
 +---------------------------------------------------------------+
 */
-define("LAN_GALLERY_FRONT_01", "Høyre-klikk > Lagre Link Som");
-define("LAN_GALLERY_FRONT_02", "Utvid bildet");
+
+define("LAN_PLUGIN_USER_NAME", "Bruker");
+define("LAN_PLUGIN_USER_DESC", "Bruker Tema og Språk Menyer");
 
 
 ?>

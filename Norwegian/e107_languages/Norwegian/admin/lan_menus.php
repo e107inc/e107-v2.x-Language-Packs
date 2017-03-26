@@ -9,7 +9,6 @@
 |        $Author: Norwayman $
 +---------------------------------------------------------------+
 */
-
 define("MENLAN_7", "Konfigurere synlighet alternativer for");
 define("MENLAN_10", "Ny meny installert");
 define("MENLAN_11", "Menyen fjernet");
@@ -50,6 +49,9 @@ define("MENLAN_54", "Tema oppsett");
 define("MENLAN_55", "Meny oppsett");
 define("MENLAN_56", "Tilpassede sider");
 define("MENLAN_57", "Dra-og-slipp-menyer");
+define("MENLAN_58", "Meny-Manager lar deg plassere og ordne menyer innenfor temaet malen. Hold markøren over delområdene å endre eksisterende menyelementer.");
+define("MENLAN_59", "Område [x]");
+define("MENLAN_60", "Dette temaet bruker utdaterte elementer. Alle [x]HEADER og [x]BUNNTEKST variabler bør fjernes fra theme.php.");
 
 
 ?>
