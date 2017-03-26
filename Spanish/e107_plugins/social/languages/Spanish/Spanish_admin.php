@@ -49,10 +49,6 @@ define("LAN_SOCIAL_ADMIN_35", "Ligero");
 define("LAN_SOCIAL_ADMIN_36", "Oscuro");
 define("LAN_SOCIAL_ADMIN_37", "Abrir Graph Meta");
 define("LAN_SOCIAL_ADMIN_38", "Alcance");
-define("LAN_SOCIAL_ADMIN_39", "Proveedores");
-define("LAN_SOCIAL_ADMIN_40", "Actualizar nombre de usuario");
-define("LAN_SOCIAL_ADMIN_41", "Actualizar Avatar de usuario");
-define("LAN_SOCIAL_ADMIN_42", "Imagen personalizada");
 
 
 ?>

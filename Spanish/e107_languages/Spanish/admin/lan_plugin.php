@@ -252,7 +252,6 @@ define("EPL_ADLAN_249", "Agregando campo extendido:");
 define("EPL_ADLAN_250", "Quitando campo extendido:");
 define("EPL_ADLAN_251", "Campo extendido en el lugar:");
 define("EPL_ADLAN_252", "Permisos:");
-define("EPL_ADLAN_253", "Terminado");
 define("LAN_RELEASED", "Liberado");
 define("LAN_REPAIR_PLUGIN_SETTINGS", "Reparar los ajustes del complemento");
 define("LAN_SYNC_WITH_GIT_REPO", "Sincronizar con Git Repo");

@@ -111,7 +111,6 @@ define("LAN_SIGNUP_116", "Vista previa después de enviar el formulario");
 define("LAN_SIGNUP_117", "Enviar una prueba de activación");
 define("LAN_SIGNUP_118", "A [x]");
 define("LAN_SIGNUP_119", "No envíe correo electrónico");
-define("LAN_SIGNUP_120", "O");
 
 
 ?>

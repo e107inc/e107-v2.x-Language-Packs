@@ -142,9 +142,6 @@ define("LAN_NEWS_105", "Notificación de correo electrónico activada!");
 define("LAN_NEWS_106", "La visibilidad del elemento noticioso debe incluir "todo el mundo" para que las notificaciones por correo electrónico funcionen.");
 define("LAN_NEWS_107", "Comprobación del estado de ping");
 define("LAN_NEWS_108", "La URL de SEF es diferente al título de su artículo de noticias.");
-define("LAN_NEWS_109", "Inicie una notificación por correo electrónico cuando envíe este formulario.");
-define("LAN_NEWS_110", "Tiempo de espera de caché de noticias");
-define("LAN_NEWS_111", "Tiempo en minutos. Sólo se aplica cuando la caché del sistema está habilitada.");
 
 
 ?>

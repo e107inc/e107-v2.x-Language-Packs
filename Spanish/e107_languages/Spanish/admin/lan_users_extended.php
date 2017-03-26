@@ -1,14 +1,8 @@
 <?php
-/*
-+---------------------------------------------------------------+
-|        e107 website content management system Spanish Language File
-|        Released under the terms and conditions of the
-|        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/02/01 16:08:42
-|
-|        $Author: Norwayman $
-+---------------------------------------------------------------+
-*/
+
+// Bing-Translated Language file 
+// Generated for e107 v2.x by the Multi-Language Plugin
+// https://github.com/e107inc/multilan
 
 define("EXTLAN_1", "Nombre");
 define("EXTLAN_2", "Vista previa");
@@ -90,12 +84,6 @@ define("EXTLAN_77", "Categoría no eliminan - en primer lugar debe eliminar camp
 define("EXTLAN_78", "No encuentra archivo--archivo--necesaria para crear la tabla de datos");
 define("EXTLAN_79", "Etiqueta");
 define("EXTLAN_80", "Error de validación - abortado.");
-define("EXTLAN_81", "Agregar campo personalizado");
-define("EXTLAN_82", "Valores");
-define("EXTLAN_83", "Marcador de posición");
-define("EXTLAN_84", "Sugerencia de ayuda");
-define("EXTLAN_86", "Columna extendida del usuario eliminada de la tabla");
-define("EXTLAN_87", "Ordenar valores");
 define("EXTLAN_HELP_1", "<b><i>Parámetros:</i></b><br>-tamaño del campo<br>MaxLength - longitud máxima del campo<br><br>clase - css del campo<br>estilo - css estilo cadena<br><br>regex - código de validación regex<br>regexfail - texto de error de validación");
 define("EXTLAN_HELP_2", "Introduzca el texto para las opciones en el cuadro de 'Valores' - una caja de opción. Añadir nuevos cuadros como sea necesario");
 define("EXTLAN_HELP_3", "Introduzca el texto para las opciones en el cuadro de 'Valores' - una caja de opción. Añadir nuevos cuadros como sea necesario");
@@ -105,6 +93,3 @@ define("EXTLAN_HELP_6", "Permitir que el usuario introduzca un valor numérico")
 define("EXTLAN_HELP_7", "Usuario a ingresar una fecha");
 define("EXTLAN_HELP_8", "Usuario seleccionar entre idiomas instalados");
 define("EXTLAN_HELP_9", "Especificar una lista predefinida. El campo valor selecciona el tipo de lista - en la actualidad sólo 'zonas horarias' es una entrada válida");
-
-
-?>

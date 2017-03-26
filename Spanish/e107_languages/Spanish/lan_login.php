@@ -1,14 +1,8 @@
 <?php
-/*
-+---------------------------------------------------------------+
-|        e107 website content management system Spanish Language File
-|        Released under the terms and conditions of the
-|        GNU General Public License (http://gnu.org).
-|        Last Modified: 2017/03/22 13:38:30
-|
-|        $Author: Norwayman $
-+---------------------------------------------------------------+
-*/
+
+// Bing-Translated Language file 
+// Generated for e107 v2.x by the Multi-Language Plugin
+// https://github.com/e107inc/multilan
 
 define("LAN_LOGIN_1", "Nombre de usuario");
 define("LAN_LOGIN_2", "Contraseña de usuario");
@@ -41,10 +35,3 @@ define("LAN_LOGIN_28", "Correo electrónico");
 define("LAN_LOGIN_29", "Nombre de usuario o correo electrónico");
 define("LAN_LOGIN_30", "Error al agregar nuevo usuario alt_auth a DB");
 define("LAN_LOGIN_31", "No se pudieran agregar sus credenciales en el sistema");
-define("LAN_LOGIN_32", "Estás viendo este mensaje porque has iniciado sesión como administrador principal.");
-define("LAN_LOGIN_33", "[Vuelve a la página inicial]");
-define("LAN_LOGIN_34", "El registro de usuario y/o el inicio de sesión están actualmente deshabilitados.");
-define("LAN_LOGIN_35", "[Permitirle]");
-
-
-?>
