@@ -1,11 +1,19 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Hungarian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/10/15 18:38:21
+|
+|        $Author: Yesszus $
++---------------------------------------------------------------+
+*/
 
 define("NT_LAN_1", "Értesítés");
 define("NT_LAN_2", "Email értesítés bekapcsolása");
+define("NT_LAN_3", "Email cím =>");
+define("NT_LAN_4", "Tesztelés");
 
 define("NU_LAN_1", "Esemény");
 define("NU_LAN_2", "Ha valaki regisztrált az oldalra");

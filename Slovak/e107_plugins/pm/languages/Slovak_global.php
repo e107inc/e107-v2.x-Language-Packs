@@ -13,6 +13,17 @@ define("LAN_PLUGIN_PM_NAME", "Súkromné správy (SS)");
 define("LAN_PLUGIN_PM_DESCRIPTION", "Tento plugin plne rozširuje systém Súkromných správ.");
 define("LAN_PLUGIN_PM_URL_DEFAULT_LABEL", "predvolený");
 define("LAN_PLUGIN_PM_URL_DEFAULT_DESCR", "predvolený");
+define("LAN_PLUGIN_PM_INBOX", "Inbox");
+define("LAN_PLUGIN_PM_OUTBOX", "Outbox");
+define("LAN_PLUGIN_PM_NEW", "Odoslať novú správu");
+define("LAN_PLUGIN_PM_TO", "Komu");
+define("LAN_PLUGIN_PM_FROM", "Od");
+define("LAN_PLUGIN_PM_SUB", "Predmet");
+define("LAN_PLUGIN_PM_MESS", "Správa");
+define("LAN_PLUGIN_PM_READ", "Prečítané");
+define("LAN_PLUGIN_PM_DEL", "Vymazať SS");
+define("LAN_PLUGIN_PM_ATTACHMENT", "Príloha");
+define("LAN_PLUGIN_PM_SIZE", "Veľkosť");
 
 
 ?>

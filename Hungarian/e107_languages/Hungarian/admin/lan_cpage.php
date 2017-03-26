@@ -1,11 +1,16 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("CUSLAN_9", 	"Szöveg");
-define("CUSLAN_11", "Meta leírás");
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Hungarian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/04/09 11:33:59
+|
+|        $Author: Yesszus $
++---------------------------------------------------------------+
+*/
+define("CUSLAN_9", "Szöveg");
+define("CUSLAN_11", "Meta ismertetés");
 define("CUSLAN_12", "Menü/oldal létrehozása");
 define("CUSLAN_29", "Oldal lista, ha nincs oldal kiválasztva");
 define("CUSLAN_30", "Cookie lejárati ideje (másodpercben)");
@@ -16,7 +21,6 @@ define("CUSLAN_50", "Könyv/fejezet lista");
 define("CUSLAN_51", "Könyv/fejezet hozzáadása");
 define("CUSLAN_52", "Könyv");
 define("CUSLAN_53", "Könyv vagy fejezet cím");
-
 define("CUSLAN_55", "Szerkesztheti");
 define("CUSLAN_56", "Szülő");
 define("CUSLAN_57", "Válassz keresőbarát URL-t ehhez a bejegyzéshez.");
@@ -40,4 +44,8 @@ define("CUSLAN_74", "Menü frissítve");
 define("CUSLAN_75", "Hiányzó Menü-id észlelése:");
 define("CUSLAN_76", "Menü a következő útvonallal #");
 define("CUSLAN_77", "törölve");
-define("CUSLAN_78", "Nem lehet törölni a menüt ezzel az útvonallal ");
+define("CUSLAN_78", "Nem lehet törölni a menüt ezzel az útvonallal");
+define("CUSLAN_79", "Adja meg az oldal vagy menü címét.");
+
+
+?>

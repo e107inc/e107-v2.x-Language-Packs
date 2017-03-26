@@ -1,41 +1,42 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("BNRLAN_00", "Sans bannières encore créés.");
-define("BNRLAN_01", "Bannière introuvable.");
-define("BNRLAN_7", "Ses stats");
-define("BNRLAN_8", "N/A");
-define("BNRLAN_9", "Mises en chantier");
-define("BNRLAN_10", "Se termine");
-define("BNRLAN_11", "Campagne de");
-define("BNRLAN_12", "Client Login");
-define("BNRLAN_13", "Mot de passe client");
-define("BNRLAN_14", "Image de bannière");
-define("BNRLAN_15", "Cliquez sur URL");
+/*
++---------------------------------------------------------------+
+|        e107 website content management system French Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/01 18:45:09
+|
+|        $Author: Olivier Troccaz $
++---------------------------------------------------------------+
+*/
+define("BNRLAN_00", "Aucune bannière créée actuellement.");
+define("BNRLAN_01", "ID bannière introuvable.");
+define("BNRLAN_11", "Campagne");
+define("BNRLAN_12", "Identifiant client");
+define("BNRLAN_15", "Cliquez sur l'URL");
 define("BNRLAN_16", "Nombre d'impressions acheté");
-define("BNRLAN_17", "Date de début");
-define("BNRLAN_18", "Date de fin");
-define("BNRLAN_25", "Ajouter un nouveau ou choisir campagne existante");
-define("BNRLAN_28", "Ajouter un nouveau ou choisissez client existant");
-define("BNRLAN_29", "Entrez de nouveau client");
-define("BNRLAN_30", "Nouveau Client");
-define("BNRLAN_31", "Aucune limite lorsque laissée en blanc.");
+define("BNRLAN_25", "Ajouter une nouvelle ou choisir une campagne existante");
+define("BNRLAN_28", "Ajouter un nouveau ou choisir un client existant");
+define("BNRLAN_29", "Entrez le nouveau client");
+define("BNRLAN_31", "Aucune limite lorsque laissé vide.");
 define("BNRLAN_32", "Choisissez l'image de la bannière");
 define("BNRLAN_33", "Code");
 define("BNRLAN_35", "Menu de la bannière");
-define("BNRLAN_36", "Bannière Menu Configuration");
-define("BNRLAN_37", "Légende");
 define("BNRLAN_38", "Annonce");
-define("BNRLAN_39", "Campagnes de montrer dans le menu");
-define("BNRLAN_40", "Pas encore des campagnes.");
+define("BNRLAN_39", "Campagnes à montrer dans le menu");
+define("BNRLAN_40", "Aucune campagne actuellement.");
 define("BNRLAN_41", "Nombre de bannières à afficher");
-define("BNRLAN_42", "Il n'est utilisé que lorsque plusieurs campagnes sont sélectionnés.");
-define("BNRLAN_43", "Comment montrer les campagnes ?");
-define("BNRLAN_44", "Choisissez le type de rendu...");
-define("BNRLAN_45", "Une seule campagne, rendue dans un seul menu");
-define("BNRLAN_46", "Toutes les campagnes restitués dans un menu unique");
-define("BNRLAN_47", "Toutes les campagnes de rendu dans les menus distincts");
-define("BNRLAN_48", "Toutes les campagnes (aucun rendu de boîte)");
+define("BNRLAN_42", "Ceci n'est utilisé que lorsque plusieurs campagnes sont sélectionnées.");
+define("BNRLAN_43", "Comment afficher les campagnes ?");
+define("BNRLAN_44", "Choisissez le type de rendu ...");
+define("BNRLAN_45", "Une seule campagne restituée dans un seul menu");
+define("BNRLAN_46", "Toutes les campagnes sélectionnées restituées dans un menu unique");
+define("BNRLAN_47", "Toutes les campagnes sélectionnées restituées dans des menus distincts");
+define("BNRLAN_48", "Toutes les campagnes sélectionnées (aucune boîte de restitution)");
+define("BNRLAN_50", "Local");
+define("BNRLAN_51", "Distant");
+define("BNRLAN_HELP_01", "Aide de la bannière");
+define("BNRLAN_HELP_02", "Utilisez cette extension pour gérer la publicité sur votre site web. <br /> <br /> Lors de la création d'une nouvelle bannière, vous pouvez créer un nom d'utilisateur et un mot de passe pour votre client pour qu'il puisse se connecter et suivre l'avancement de la campagne. <br /> <br /> Vous pouvez activer le menu bannière à l'aide du gestionnaire de menus et effectuer d'autres configurations à partir de là.");
+
+
+?>

@@ -6,7 +6,7 @@
 |     $URL:$
 |     $Revision:$
 |     $Date:$
-|     $Author: Erje, Yvalni, Tgtje $
+|     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
 */
 
@@ -35,7 +35,7 @@ define("LAN_IMA_O_006", "[img] bbcode");
 
 // Work in progress (Moc)
 
-define("IMALAN_1",  "Afbeeldings weergave inschakelen");
+define("IMALAN_1",  "Afbeeldingsweergave inschakelen");
 define("IMALAN_2",  "Dit schakelt de weergave van afbeeldingen in over de gehele site (reacties, chatbox enz.) welke zijn geplaatst met gebruik van de [img] bbcode");
 define("IMALAN_3",  "Verschalingsmethode");
 define("IMALAN_4",  "Methode die wordt gebruikt om afbeeldingen te verschalen, of GD1/2 library, of ImageMagick");
@@ -45,9 +45,9 @@ define("IMALAN_7",  "Grafische instellingen");
 define("IMALAN_8",  "Bijwerken grafische instellingen");
 define("IMALAN_9",  "Grafische instellingen bijgewerkt");
 define("IMALAN_10", "Gebruikersklasse voor bekijken");
-define("IMALAN_11", "Beperk gebruikers welke afbeeldingen kunnen bekijken (wanneer afbeeldings weergave is ingeschakeld)");
-define("IMALAN_12", "Afbeeldings weergave uitgeschakeld");
-define("IMALAN_13", "Wat te doen met afbeeldingen als  weergeven van afbeeldingen  is uitgeschakeld");
+define("IMALAN_11", "Beperk tot welke gebruikers afbeeldingen kunnen bekijken (wanneer afbeeldingsweergave is ingeschakeld)");
+define("IMALAN_12", "Afbeeldingsweergave uitgeschakeld");
+define("IMALAN_13", "Wat te doen met afbeeldingen als  weergeven van afbeeldingen is uitgeschakeld");
 define("IMALAN_14", "Toon URL van\naar de afbeelding");
 define("IMALAN_15", "Toon niets");
 define("IMALAN_18", "Geuploade afbeeldingen");
@@ -93,7 +93,7 @@ define("IMALAN_65", "Niks gevonden");
 define("IMALAN_66", "Bestandsnaam");
 define("IMALAN_68", "Sluit");
 define("IMALAN_69", "Map");
-define("IMALAN_70", "Non-systeemmap wordt gevonden!");
+define("IMALAN_70", "Niet-systeemmap wordt gevonden!");
 define("IMALAN_73", "Thumbnail kwaliteit");
 define("IMALAN_74", "Stel zo laag mogelijk in voordat kwaliteitsverlies duidelijk is. Max. 100");
 define("IMALAN_75", "Avatar Breedte");
@@ -145,10 +145,55 @@ define("IMALAN_120", "Dimensies");
 define("IMALAN_121", "Voorvertoning");
 define("IMALAN_122", "[x] kon niet worden hernoemd. Controleer bestandspermissies.");
 define("IMALAN_123", "Importeer naar Categorie:");
-define("IMALAN_124", "Importeer geslecteerde bestanden");
-define("IMALAN_125", "Verwijder geselcteerde bestanden");
+define("IMALAN_124", "Importeer geselecteerde bestanden");
+define("IMALAN_125", "Verwijder geselecteerde bestanden");
 define("IMALAN_126", "Controleer aub. minimaal 1 bestand.");
 define("IMALAN_127", "Kon geen bestandsinformatie krijgen van:");
 define("IMALAN_128", "Importeren van Media:");
+define('IMALAN_129', "Je bent bezig tit verwijderen van [x] records en <strong>ALLE BIJBEHORENDE BESTANDEN</strong>! Bevestig aub voordat je doorgaat!");
+define('IMALAN_130', "Voorgaande pagina");
+define('IMALAN_131', "Volgende pagina");
+define('IMALAN_132', "Tags/Kernwoorden");
+define('IMALAN_133', "Beneden rechts");
+define('IMALAN_134', "Beneden links");
+define('IMALAN_135', "Boven rechts");
+define('IMALAN_136', "Boven links");
+define('IMALAN_137', "Gecentreerd");
+define('IMALAN_138', "Rechts");
+define('IMALAN_139', "Links");
+define('IMALAN_140', "Boven");
+define('IMALAN_141', "Beneden");
+define('IMALAN_142', "Tegel");
+define('IMALAN_143', "Afbeelding");
+define('IMALAN_144', "Bestand");
+define('IMALAN_145', "<h4>Vanaf jouw computer</h4>");
+define('IMALAN_146', "Geen HTML5 ondersteuningt.");
+define('IMALAN_147', "<h4>Vanaf een externe locatie</h4>");
+define('IMALAN_148', "Afbeeldings/Bestands URL");
+define('IMALAN_149', "Start Uploaden");
+define('IMALAN_150', "Upload een bestand");
+define('IMALAN_151', "Kies uit de bibliotheek");
+define('IMALAN_152', "Uiterlijk");
+define('IMALAN_153', "Afbeelding in gebruik");
+define('IMALAN_154', "Niet in gebruik");
+define('IMALAN_155', "Avatar voor-selectie map");
+define('IMALAN_156', "Verwijder alle ongebruikte afbeeldingen");
+define('IMALAN_157', "Tekst doorloop");
+define('IMALAN_158', "Margin (kantlijn)-Links");
+define('IMALAN_159', "Margin (kantlijn)-Rechts");
+define('IMALAN_160', "Margin (kantlijn)-Boven");
+define('IMALAN_161', "Margin (kantlijn)-Beneden");
+define('IMALAN_162', "Weergevend [x] - [y] van [z] afbeeldingen.");
+define('IMALAN_163', "Video"); 
+define('IMALAN_164', ""); // Unused
+define('IMALAN_165', "Geen afbeeldingen");
+define('IMALAN_166', "Upload afbeeldingen of bestanden");
+define('IMALAN_167', "Kies bestand");
+define('IMALAN_168', "Klik op de avatar om hem te wijzigen");
+define('IMALAN_169', "Geen Avatars beschikbaar");
+define('IMALAN_170', "Kies deze avatar");
+define('IMALAN_171', "Alleen-beheer opmerking: De map");
+define('IMALAN_172', "is leeg. Upload enekel standaard avatar afbeeldingen naar deze map zodat gebruikers hieruit kunnen kiezen.");
+define('IMALAN_173', "Geen media eigenaar gevonden.");
 
 ?>

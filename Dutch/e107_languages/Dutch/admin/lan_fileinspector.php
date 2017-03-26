@@ -6,33 +6,48 @@
 |     $URL:$
 |     $Revision:$
 |     $Date:$
-|     $Author: Erje, Yvalni, Tgtje $
+|     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
 */
 
 
 define("FC_LAN_1",  "Bestandeninspecteur");
-define("FC_LAN_2",  "Scan opties");
+//define("FC_LAN_2",  "Scan opties");
 define("FC_LAN_3",  "Tonen");
-define("FC_LAN_4",  "Alle bestanden");
+//define("FC_LAN_4",  "Alle bestanden");
 define("FC_LAN_5",  "Core bestanden");
 define("FC_LAN_6",  "Core bestanden (integriteit onjuist)");
 define("FC_LAN_7",  "Niet-Core bestanden");
 define("FC_LAN_8",  "Check integriteit van Core bestanden");
-define("FC_LAN_9",  "Aan");
-define("FC_LAN_10", "Uit");
+//define("FC_LAN_9",  "Aan");
+//define("FC_LAN_10", "Uit");
 define("FC_LAN_11", "Nu scannen");
-define("FC_LAN_12", "Geen");
+//define("FC_LAN_12", "Geen");
 define("FC_LAN_13", "Ontbrekende Core bestanden");
 define("FC_LAN_14", "Toon resultaat als");
 define("FC_LAN_15", "Boomoverzicht");
-define("FC_LAN_16", "Lijst");
+//define("FC_LAN_16", "Lijst");
 define("FC_LAN_17", "String Matching");
 define("FC_LAN_18", "Reguliere expressie");
 define("FC_LAN_19", "Toon regelnummers");
 define("FC_LAN_20", "Toon overeenkomende regels");
 define("FC_LAN_21", "Oude Core bestanden");
-define("FC_LAN_22", "Overeenkomende tekst markeren");
+//define("FC_LAN_22", "Overeenkomende tekst markeren");
+define("FC_LAN_23", "Sluit taalbestanden uit");
+define("FC_LAN_24", "Core Map (Integriteit In orde)");
+define("FC_LAN_25", "Core Map (Integriteit Niet juist)");
+define("FC_LAN_26", "Core Map (Missend)");
+define("FC_LAN_27", "Core Map (Oud)");
+define("FC_LAN_28", "Niet-core Map");
+define("FC_LAN_29", "Core Bestand (Integriteit In orde)");
+define("FC_LAN_30", "Core Bestand (Niet gecontroleerd)");
+define("FC_LAN_31", "Core Bestand (Integriteit Niet juist)");
+define("FC_LAN_32", "Core Bestand (Missend)");
+define("FC_LAN_33", "Core Bestand (Oud)");
+define("FC_LAN_34", "Core Bestand (Onberekenbaar)");
+define("FC_LAN_35", "Bekend veiligheids probleem");
+define("FC_LAN_36", "Niet-core bestand");
+define("FC_LAN_37", "Bestands Sleutel");
 
 define("FR_LAN_1",  "Scannen");
 define("FR_LAN_2",  "Scan resultaten");
@@ -68,9 +83,10 @@ define("FR_LAN_26", "Waarschuwing! Bekend beveiligingsrisico gevonden!");
 define("FR_LAN_27", "Er staan bestanden op je server waarvan te misbruiken kwetsbaarheden bekend zijn. Die moeten zo snel mogelijk worden verwijderd.");
 define("FR_LAN_28", "Bekende onveilige bestanden");
 
-define("FR_LAN_29", "Totaal bestanden overeenkomend");
-define("FR_LAN_30", "Totaal regels overeenkomend");
-define("FR_LAN_31", "Volledig ontbrekende plugin map");
+//define("FR_LAN_29", "Totaal bestanden overeenkomend");
+//define("FR_LAN_30", "Totaal regels overeenkomend");
+//define("FR_LAN_31", "Volledig ontbrekende plugin map");
+define("FR_LAN_32", "Je dient eerst een scan uit te voeren!");
 
 define("FS_LAN_1", "Maak Momentopname");
 define("FS_LAN_2", "Absoluut pad naar de hoofdmap om een image te maken van");

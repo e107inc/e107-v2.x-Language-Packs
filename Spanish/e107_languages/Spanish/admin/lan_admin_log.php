@@ -1,9 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/15 13:52:11
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 define("RL_LAN_002", "Registro del balanceo");
 define("RL_LAN_005", "Configurar/Ver registros del sistema");
 define("RL_LAN_008", "Registro del balanceo es activo:");
@@ -23,7 +28,7 @@ define("RL_LAN_025", "Título del evento");
 define("RL_LAN_026", "Clase de las acciones de usuario ha iniciado sesión");
 define("RL_LAN_028", "Actualización de filtros");
 define("RL_LAN_029", "Filtro de tipo de evento");
-define("RL_LAN_030", "Admin Log");
+define("RL_LAN_030", "Registro de administrador");
 define("RL_LAN_031", "Acciones para iniciar la sesión");
 define("RL_LAN_032", "PRI");
 define("RL_LAN_033", "Para obtener más información");
@@ -33,7 +38,7 @@ define("RL_LAN_046", "días");
 define("RL_LAN_047", "Confirmar eliminar admin eventos mayores de");
 define("RL_LAN_049", "Eliminar las entradas más antiguas");
 define("RL_LAN_050", "Error de parámetro - nada eliminado");
-define("RL_LAN_052", "Admin log");
+define("RL_LAN_052", "Registro de administrador");
 define("RL_LAN_053", "Log de auditoría de usuario");
 define("RL_LAN_054", "Nada a eliminar, o error de base de datos");
 define("RL_LAN_057", "-eventos más de--edad--eliminan (entradas--NUM--)");
@@ -50,7 +55,7 @@ define("RL_LAN_068", "D/L ID");
 define("RL_LAN_069", "Descargar nombre");
 define("RL_LAN_071", "Registro de usuario (ignora el ajuste de la clase anterior)");
 define("RL_LAN_072", "Reconocimiento de correo electrónico de registro (ignora el ajuste de la clase anterior)");
-define("RL_LAN_073", "Login/Logout");
+define("RL_LAN_073", "Conexión/Desconexión");
 define("RL_LAN_075", "Nombre para mostrar el cambio");
 define("RL_LAN_076", "Cambiar contraseña");
 define("RL_LAN_077", "Dirección de correo electrónico de cambio");
@@ -61,12 +66,15 @@ define("RL_LAN_081", "Rebotes de correo");
 define("RL_LAN_082", "Prohibiciones de usuario");
 define("RL_LAN_083", "Reajustes de rebote de correo");
 define("RL_LAN_084", "Cuentas temporales");
+define("RL_LAN_085", "[X] registros eliminados correctamente!");
+define("RL_LAN_086", "[X] registros no encontrados y no eliminados!");
+define("RL_LAN_087", "Detalles");
 define("RL_LAN_090", "Descargar ID");
 define("RL_LAN_091", "Horarios detallados");
 define("RL_LAN_092", "Período de tiempo");
 define("RL_LAN_093", "(minutos)");
 define("RL_LAN_094", "Análisis de control de tiempo detallados");
-define("RL_LAN_096", "Diff (s)");
+define("RL_LAN_096", "Differencia (s)");
 define("RL_LAN_098", "Fuente");
 define("RL_LAN_100", "CID");
 define("RL_LAN_101", "PID");
@@ -76,14 +84,14 @@ define("RL_LAN_106", "Tipo");
 define("RL_LAN_107", "Comentario");
 define("RL_LAN_108", "BK");
 define("RL_LAN_109", "LK");
-define("RL_LAN_110", "Del");
+define("RL_LAN_110", "Eliminar");
 define("RL_LAN_111", "Eliminar elementos activados");
 define("RL_LAN_112", "Comentarios--número--eliminados");
 define("RL_LAN_113", "Error al eliminar Comentarios.");
 define("RL_LAN_114", "Restablecer los filtros");
 define("RL_LAN_115", "Usuarios Admin");
 define("RL_LAN_116", "Ubicación");
-define("RL_LAN_117", "PgCnt");
+define("RL_LAN_117", "Número de páginas");
 define("RL_LAN_118", "Bandera");
 define("RL_LAN_120", "Usuarios on-line");
 define("RL_LAN_122", "Configuración de Logs del sistema");
@@ -91,3 +99,10 @@ define("RL_LAN_123", "Clase de rastro de auditoría de usuario");
 define("RL_LAN_124", "Acciones del usuario audit trail");
 define("RL_LAN_125", "Mantenimiento del sistema de registros");
 define("RL_LAN_126", "Entradas total [x] condición de búsqueda de coincidencia");
+define("RL_LAN_132", "Informativo");
+define("RL_LAN_133", "Anuncio");
+define("RL_LAN_134", "Advertencia");
+define("RL_LAN_135", "Fatal");
+
+
+?>

@@ -1,9 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system French Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/10/19 13:37:07
+|
+|        $Author: Olivier Troccaz $
++---------------------------------------------------------------+
+*/
 define("LAN_IMA_M_01", "Bibliothèque multimédia");
 define("LAN_IMA_M_02", "Téléchargement/importation de médias");
 define("LAN_IMA_M_03", "Catégories de médias");
@@ -75,7 +80,7 @@ define("IMALAN_74", "Définir aussi faible que possible avant que la perte de qu
 define("IMALAN_75", "Largeur de l'avatar");
 define("IMALAN_76", "Les images d'avatar seront limitées à ces dimensions (en pixels)");
 define("IMALAN_77", "Hauteur de l'avatar");
-define("IMALAN_78", "");
+define("IMALAN_78", "Général");
 define("IMALAN_79", "Dimensions de l'image redimensionnée");
 define("IMALAN_80", "Activation du filigrane");
 define("IMALAN_81", "Toutes les images dont la largeur ou la hauteur sera supérieure à cette valeur seront marquées d'un filigrane lors du redimensionnement.");
@@ -86,7 +91,7 @@ define("IMALAN_85", "Police optionnelle du filigrane. Téléchargez plus de poli
 define("IMALAN_86", "Taille du filigrane");
 define("IMALAN_87", "Taille de la police en points");
 define("IMALAN_88", "Position du filigrane");
-define("IMALAN_89", "");
+define("IMALAN_89", "Filigrane");
 define("IMALAN_90", "Marge du filigrane");
 define("IMALAN_91", "La distance à partir du bord de l'image où le filigrane apparaitra.");
 define("IMALAN_92", "Couleur du filigrane");
@@ -107,7 +112,7 @@ define("IMALAN_106", "Laissez vide pour désactiver");
 define("IMALAN_107", "Impossible de générer le chemin à partir des données téléchargées");
 define("IMALAN_108", "Impossible de déplacer le fichier de [x] vers [y]");
 define("IMALAN_109", "Impossible de récupérer le chemin d'accès");
-define("IMALAN_110", "");
+define("IMALAN_110", "Chemin");
 define("IMALAN_111", "Impossibl de détecter le type MIME ([x]). Échec du téléchargement.");
 define("IMALAN_112", "Impossible de créer le dossier ([x]).");
 define("IMALAN_113", "Recherche de nouveau média (images, vidéos, fichiers) dans le dossier :");
@@ -125,3 +130,58 @@ define("IMALAN_125", "Supprimer les fichiers sélectionnés");
 define("IMALAN_126", "Veuillez sélectionner au moins un fichier.");
 define("IMALAN_127", "Impossible d'obtenir les informations du ficher de :");
 define("IMALAN_128", "Importation de médias :");
+define("IMALAN_129", "Vous êtes sur le point de supprimer [x] enregistrements et <strong>TOUS LES FICHIERS CORRESPONDANTS</strong> !
+Veuillez confirmer pour continuer !");
+define("IMALAN_130", "Page précédente");
+define("IMALAN_131", "Page suivante");
+define("IMALAN_132", "Tags/Mots-clés");
+define("IMALAN_133", "En bas à droite");
+define("IMALAN_134", "En bas à gauche");
+define("IMALAN_135", "En haut à droite");
+define("IMALAN_136", "En haut à gauche");
+define("IMALAN_137", "Centre");
+define("IMALAN_138", "Droite");
+define("IMALAN_139", "Gauche");
+define("IMALAN_140", "Haut");
+define("IMALAN_141", "Bas");
+define("IMALAN_142", "Tuile");
+define("IMALAN_143", "Image");
+define("IMALAN_144", "Fichier");
+define("IMALAN_145", "À partir de votre ordinateur");
+define("IMALAN_146", "Pas de support HTML5.");
+define("IMALAN_147", "À partir d'un site distant");
+define("IMALAN_148", "URL de l'image/du fichier");
+define("IMALAN_149", "Démarrer le téléchargement");
+define("IMALAN_150", "Télécharger un fichier");
+define("IMALAN_151", "Choisir à partir de la librairie");
+define("IMALAN_152", "Apparence");
+define("IMALAN_153", "Image en cours d'utilisation");
+define("IMALAN_154", "Pas utilisé");
+define("IMALAN_155", "Dossier de pré-sélection des avatars");
+define("IMALAN_156", "Supprimer toutes les images non utilisées");
+define("IMALAN_157", "Flux de texte");
+define("IMALAN_158", "Marge gauche");
+define("IMALAN_159", "Marge droite");
+define("IMALAN_160", "Marge haute");
+define("IMALAN_161", "Marge basse");
+define("IMALAN_162", "Afficher [x] - [y] de [z] images.");
+define("IMALAN_163", "Vidéo");
+define("IMALAN_164", "Icônes supprimées du gestionnaire de médias");
+define("IMALAN_165", "Aucune image");
+define("IMALAN_166", "Télécharger des images ou fichiers");
+define("IMALAN_167", "Choisir un fichier");
+define("IMALAN_168", "Cliquez sur l'avatar pour le changer");
+define("IMALAN_169", "Aucun avatar disponible");
+define("IMALAN_170", "Choisir cet avatar");
+define("IMALAN_171", "Avis administrateur seulement : ce dossier");
+define("IMALAN_172", "est vide. Ajouter des images d'avatars par défaut dans ce dossier pour permettre aux utilisateurs de choisir un avatar à partir de cet emplacement.");
+define("IMALAN_173", "Aucun propriétaire de média trouvé.");
+define("IMALAN_174", "La recherche YouTube nécessite une clé (gratuite) de l'API v3 de YouTube.[br]Cette clé n'est pas nécessaire sauf si vous souhaitez effectuer une recherche par mot-clé, liste de lecteur ou chaîne.[br]Renseigner directement une URL de vidéo YouTube dans la zone ci-dessus fonctionnera toujours même sans posséder une clé API.[br][x]");
+define("IMALAN_175", "Recherche YouTube. Copiez ici n'importe quelle URL YouTube pour une vidéo/liste de lecture/chaîne spécifique");
+define("IMALAN_176", "Un problème est survenu lors de l'enregistrement du fichier");
+define("IMALAN_177", "Cliquez ici pour plus d'information et pour saisir votre clé API.");
+define("IMALAN_178", "Dossier des avatars (accessible aux utilisateurs)");
+define("IMALAN_179", "Dossier des avatars (privé)");
+
+
+?>

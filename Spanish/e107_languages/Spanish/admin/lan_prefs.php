@@ -1,9 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/15 19:22:48
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 define("PRFLAN_1", "Información del sitio");
 define("PRFLAN_2", "Nombre del sitio");
 define("PRFLAN_3", "URL del sitio");
@@ -233,3 +238,22 @@ define("PRFLAN_254", "Información de contacto y correo electrónico");
 define("PRFLAN_255", "Carga de archivos");
 define("PRFLAN_256", "Opciones avanzadas");
 define("PRFLAN_257", "Framework de JavaScript");
+define("PRFLAN_258", "Visibilidad de Formulario de contacto");
+define("PRFLAN_259", "Registro de inicio de sesión");
+define("PRFLAN_260", "Sólo inicio de sesión");
+define("PRFLAN_261", "Las opciones de campos");
+define("PRFLAN_262", "Contraseña en Correo de Confirmación");
+define("PRFLAN_263", "Esto debe ser exclusivo de este sitio web");
+define("PRFLAN_264", "Página Principal es la página de inicio de sesión (login.php)");
+define("PRFLAN_265", "Página Principal es splash page (membersonly.php)");
+define("PRFLAN_266", "Si estás fuera sesión, a que página deberia el usuario estar dirigido?");
+define("PRFLAN_267", "Método de envío por correo electrónico");
+define("PRFLAN_268", "Frontend Inline-Edición");
+define("PRFLAN_269", "Administradores con esta clase de usuario (y los permisos de administración apropiadas) serán capaces de editar el código HTML directamente a través del área del frontend interfaz.");
+define("PRFLAN_270", "Filtros para Formulario de contacto");
+define("PRFLAN_271", "No haga caso de los envíos de formularios que contengan esas palabras o frases. Una por línea.");
+define("PRFLAN_272", "Vida útil de la sesión");
+define("PRFLAN_273", "Tiempo de vida en segundos. 0 = hasta que el navegador esté cerrado.");
+
+
+?>

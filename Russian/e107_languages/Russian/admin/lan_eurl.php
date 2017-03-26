@@ -1,9 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Russian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/08/14 18:13:49
+|
+|        $Author: admin $
++---------------------------------------------------------------+
+*/
 define("LAN_EURL_NAME", "Управление URL-адресов сайта");
 define("LAN_EURL_NAME_CONFIG", "Профили");
 define("LAN_EURL_NAME_ALIASES", "Псевдонимы");
@@ -23,6 +28,8 @@ define("LAN_EURL_FORM_HELP_ALIAS_0", "Значение по умолчанию �
 define("LAN_EURL_FORM_HELP_ALIAS_1", "Псевдоним в");
 define("LAN_EURL_FORM_HELP_EXAMPLE", "Базовый URL-адрес");
 define("LAN_EURL_ERR_ALIAS_MODULE", "Псевдоним «%1\$s» не могут быть сохранены - есть система URL профиль с тем же именем. Пожалуйста, выберите другое значение псевдонима для системы URL профиля «%2\$s»");
+define("LAN_EURL_SURL_UPD", "  SEF URLs были обновлены");
+define("LAN_EURL_SURL_NUPD", "  SEF URLs НЕБЫЛИ обновлены");
 define("LAN_EURL_SETTINGS_PATHINFO", "Удаление файла из URL-адреса");
 define("LAN_EURL_SETTINGS_MAINMODULE", "Связать корневое пространство имен");
 define("LAN_EURL_SETTINGS_MAINMODULE_HELP", "Выберите, какие области сайта будет связан с URL базы сайта. Пример: Когда новости Ваш корень пространства имен http://yoursite.com/News-Item-Title будет связан с новостями (пункт Просмотр страницы будет решена)");
@@ -46,7 +53,7 @@ define("LAN_EURL_MENU_CONFIG", "URL-адрес профили");
 define("LAN_EURL_MENU_ALIASES", "Псевдонимы");
 define("LAN_EURL_MENU_SETTINGS", "Параметры");
 define("LAN_EURL_MENU_HELP", "Справка");
-define("LAN_EURL_MENU_REDIRECTS", "Перенаправляет");
+define("LAN_EURL_MENU_PROFILES", "Профили");
 define("LAN_EURL_UC", "Стадии строительства");
 define("LAN_EURL_CORE_MAIN", "Сайта корневое пространство имен - псевдонимов не в пользе.");
 define("LAN_EURL_FRIENDLY", "Дружественные");
@@ -80,3 +87,7 @@ define("LAN_EURL_SYSTEM_REWRITE_LABEL", "Системы дружественны
 define("LAN_EURL_SYSTEM_REWRITE_DESCR", "URL-адреса для страниц как не найден, отказано в доступе, и т.д.");
 define("LAN_EURL_CORE_INDEX", "Главная страница");
 define("LAN_EURL_CORE_INDEX_INFO", "Передние страницы не может иметь псевдоним.");
+define("LAN_EURL_REBUILD", "Перестроить");
+
+
+?>

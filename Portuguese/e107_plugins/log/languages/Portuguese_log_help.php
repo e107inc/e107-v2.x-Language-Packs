@@ -16,3 +16,4 @@ define("LAN_STAT_HELP_05", "<b>Habilitar o log de estatísticas</b><br>Nenhum re
 Se são coletadas estatísticas mensais, você pode definir-se apenas o mês atual, ou mês atual e mês anterior, são exibidas<br><br>
 <b>Repor estatísticas</b><br>Limpa os dados selecionados de todos os tempos (até o final de ontem) para zero. Excluir today\ 'dados, exclua os arquivos de log*.php no diretório plugin log/logs<br><br>");
 define("LAN_STAT_HELP_06", "");
+?>

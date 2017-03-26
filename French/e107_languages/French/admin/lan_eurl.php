@@ -1,10 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system French Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/01 15:22:26
+|
+|        $Author: Olivier Troccaz $
++---------------------------------------------------------------+
+*/
 define("LAN_EURL_NAME", "Gérer les URL du site");
 define("LAN_EURL_NAME_CONFIG", "Profils");
 define("LAN_EURL_NAME_ALIASES", "Alias");
@@ -24,6 +28,8 @@ define("LAN_EURL_FORM_HELP_ALIAS_0", "La valeur par défaut est");
 define("LAN_EURL_FORM_HELP_ALIAS_1", "Alias lorsque dans");
 define("LAN_EURL_FORM_HELP_EXAMPLE", "URL de base");
 define("LAN_EURL_ERR_ALIAS_MODULE", "Impossible d'enregistrer les alias '%1\$s' - il y a un profil URL système portant le même nom. Veuillez choisir une autre valeur d'alias pour profil URL du système '%2\$s'");
+define("LAN_EURL_SURL_UPD", "  URL SEF ont été mises à jour.");
+define("LAN_EURL_SURL_NUPD", "  URL SEF n'ont pas été mises à jour.");
 define("LAN_EURL_SETTINGS_PATHINFO", "Supprimer le nom du fichier de l'URL");
 define("LAN_EURL_SETTINGS_MAINMODULE", "Espace de noms racine associé");
 define("LAN_EURL_SETTINGS_MAINMODULE_HELP", "Choisissez quelle zone de site sera connectée avec l'URL de base de votre site. Exemple : quand Articles est votre espace de nom racine http://votresite.fr/Articles-Elément-Titre sera associé avec les articles (la page de l'élément à voir sera résolue)");
@@ -47,7 +53,7 @@ define("LAN_EURL_MENU_CONFIG", "Profils d'URL");
 define("LAN_EURL_MENU_ALIASES", "Alias");
 define("LAN_EURL_MENU_SETTINGS", "Paramètres");
 define("LAN_EURL_MENU_HELP", "Aide");
-define("LAN_EURL_MENU_REDIRECTS", "Redirections");
+define("LAN_EURL_MENU_PROFILES", "Profils");
 define("LAN_EURL_UC", "En construction");
 define("LAN_EURL_CORE_MAIN", "Espace de nom racine du site - alias non utilisé");
 define("LAN_EURL_FRIENDLY", "Convivial");
@@ -81,3 +87,7 @@ define("LAN_EURL_SYSTEM_REWRITE_LABEL", "URL système conviailes");
 define("LAN_EURL_SYSTEM_REWRITE_DESCR", "URL pour les pages telles que 'Non trouvé', 'Accès refusé', etc.");
 define("LAN_EURL_CORE_INDEX", "Page d'accueil");
 define("LAN_EURL_CORE_INDEX_INFO", "La page d'accueil ne peut pas avoir d'alias.");
+define("LAN_EURL_REBUILD", "Reconstruire");
+
+
+?>

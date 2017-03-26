@@ -1,9 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/24 18:24:49
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 define("EPL_ADLAN_0", "Instalar");
 define("EPL_ADLAN_1", "Desinstalar");
 define("EPL_ADLAN_2", "¿Está seguro que desea desinstalar este plugin?");
@@ -102,13 +107,11 @@ define("EPL_ADLAN_100", "Haga clic aquí para instalar algunos");
 define("EPL_ADLAN_101", "No hay plugins instalados - [x].");
 define("EPL_ADLAN_102", "Este asistente construir un área de administración para tu plugin y generar un archivo plugin.xml de meta. Antes de empezar:");
 define("EPL_ADLAN_103", "Crear una nueva carpeta permisos de escritura en el directorio [x], por ejemplo. [b] myplugin [/ b]");
-define("EPL_ADLAN_104", "Si tu plugin utilizará tablas sql, crear un nuevo archivo en esta carpeta y el nombre el mismo que el directorio, pero con [b]_sql.php[/b] como un sufijo por ejemplo. [b]myplugin_sql.php[/b]");
-define("EPL_ADLAN_105", "Crear la tabla en phpMyAdmin y pegue un volcado sql del mismo en su archivo y guardar. (véase [i]e107_plugins/_blank/_blank_sql.php[/i] para un ejemplo)");
+define("EPL_ADLAN_105", "Crear la tabla utilizando phpMyAdmin en la misma base de datos como e107 y con el mismo prefijo de la tabla. Por ejemplo [b]e107_miplugin[/b]");
 define("EPL_ADLAN_106", "Seleccione la carpeta del plugin para comenzar.");
 define("EPL_ADLAN_107", "Construir un archivo de área de administración y xml para:");
 define("EPL_ADLAN_108", "Comprobar archivos de idioma:");
 define("EPL_ADLAN_109", "Información básica.");
-define("EPL_ADLAN_111", "Generar");
 define("EPL_ADLAN_112", "Revise todos los campos y modificar si es necesario.");
 define("EPL_ADLAN_113", "Revisar todas las fichas antes de pulsar en 'Generate'.");
 define("EPL_ADLAN_114", "Plugin generador");
@@ -171,9 +174,9 @@ define("EPL_ADLAN_170", "Filtro");
 define("EPL_ADLAN_171", "En línea");
 define("EPL_ADLAN_172", "Validar");
 define("EPL_ADLAN_173", "Pantalla");
-define("EPL_ADLAN_174", "HelpTip");
-define("EPL_ADLAN_175", "ReadParms");
-define("EPL_ADLAN_176", "WriteParms");
+define("EPL_ADLAN_174", "Punta de Ayuda");
+define("EPL_ADLAN_175", "Parámetros para Leer");
+define("EPL_ADLAN_176", "Parámetros para Escribir");
 define("EPL_ADLAN_177", "Se requiere para llenar el campo");
 define("EPL_ADLAN_178", "Aparece por defecto");
 define("EPL_ADLAN_179", "Cuadro de texto");
@@ -226,6 +229,38 @@ define("EPL_ADLAN_226", "Archivo de idioma plugin Check");
 define("EPL_ADLAN_227", "Exploración de cambios");
 define("EPL_ADLAN_228", "Carpetas de plugin se escanean cada minutos [x] para los cambios. Haga clic en el botón de abajo para explorar ahora.");
 define("EPL_ADLAN_229", "Actualización");
+define("EPL_ADLAN_230", "Descarga e instalación:");
+define("EPL_ADLAN_231", "Quitar iconos de Media-Manager");
+define("EPL_ADLAN_232", "Crear archivos");
+define("TPVLAN_81", "Descargando ...");
+define("TPVLAN_82", "¡Descarga completa!");
+define("EPL_ADLAN_233", "Agregarndo enlace:");
+define("EPL_ADLAN_234", "Eliminando enlaceo:");
+define("EPL_ADLAN_235", "Descarga automática no es posible.");
+define("EPL_ADLAN_236", "Descargar manualmente");
+define("EPL_ADLAN_237", "Descargar");
+define("EPL_ADLAN_238", "¡Instalación completa!");
+define("EPL_ADLAN_239", "Agregando tabla:");
+define("EPL_ADLAN_240", "Quitando tabla:");
+define("EPL_ADLAN_241", "Agregando preferencias:");
+define("EPL_ADLAN_242", "Quitando preferencias:");
+define("EPL_ADLAN_243", "Actualizando preferencias:");
+define("EPL_ADLAN_244", "Sólo se permiten 5 categorías de medios durante la instalación.");
+define("EPL_ADLAN_245", "Agregando categoría de medios: [x]");
+define("EPL_ADLAN_246", "Eliminando todas las categorías de medios propiedad de: [x]");
+define("EPL_ADLAN_249", "Agregando campo extendido:");
+define("EPL_ADLAN_250", "Quitando campo extendido:");
+define("EPL_ADLAN_251", "Campo extendido en el lugar:");
+define("EPL_ADLAN_252", "Permisos:");
+define("LAN_RELEASED", "Liberado");
+define("LAN_REPAIR_PLUGIN_SETTINGS", "Reparar los ajustes del complemento");
+define("LAN_SYNC_WITH_GIT_REPO", "Sincronizar con Git Repo");
+define("LAN_ADDONS", "Complementos");
 define("LAN_UPGRADE_SUCCESSFUL", "Actualización exitosa");
 define("LAN_INSTALL_SUCCESSFUL", "Instalación exitosa");
 define("LAN_INSTALL_FAIL", "Error de instalación");
+define("LAN_UNINSTALL_FAIL", "No se puede desinstalar!");
+define("LAN_PLUGIN_IS_USED", "[X] Plugin es utilizado por:");
+
+
+?>

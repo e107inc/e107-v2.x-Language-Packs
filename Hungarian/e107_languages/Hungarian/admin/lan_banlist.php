@@ -1,19 +1,25 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Hungarian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/23 11:42:47
+|
+|        $Author: Yesszus $
++---------------------------------------------------------------+
+*/
 
 define("BANLAN_2", "Nincs kitiltás.");
-define("BANLAN_3", "Érvényben lévõ kitiltások");
+define("BANLAN_3", "Érvényben lévő kitiltások");
 define("BANLAN_5", "Add meg az IP címet, az e-mail címet vagy a host-ot");
 define("BANLAN_7", "Indoklás");
 define("BANLAN_8", "Felhasználó kitiltása");
 define("BANLAN_9", "Felhasználók kitiltása Email, IP vagy kiszolgálócím alapján");
 define("BANLAN_10", "IP / E-mail cím / Indok");
 define("BANLAN_11", "Automatikus-Kitiltás: Több, mint 10 hibás bejelentkezési kisérlet");
-define("BANLAN_12", "Megjegyzés: A DNS megváltoztatása jelenleg letiltva, a host alapján történõ kitiltáshoz engedélyezni kell. Az IP és email alapján történõ kitiltás még normálisan mûkõdik.");
-define("BANLAN_13", "Megjegyzés: Egy felhasználó kitiltásához a felhasználónév alapján, lépj a felhasználók admin felületre: ");
+define("BANLAN_12", "Megjegyzés: A DNS megváltoztatása jelenleg letiltva, a host alapján történő kitiltáshoz engedélyezni kell. Az IP és email alapján történő kitiltás még normálisan működik.");
+define("BANLAN_13", "Megjegyzés: Egy felhasználó kitiltásához a felhasználónév alapján, lépj a felhasználók admin felületre:");
 define("BANLAN_14", "Kitiltás lista");
 define("BANLAN_15", "Üzenetek/Kitiltási időszakok");
 define("BANLAN_16", "Kitiltás");
@@ -25,11 +31,13 @@ define("BANLAN_22", "Ismeretlen");
 define("BANLAN_23", "nap");
 define("BANLAN_24", "óra");
 define("BANLAN_25", "Hozzáadás");
-define("BANLAN_26", "Jelenleg ");
+define("BANLAN_26", "Jelenleg");
 define("BANLAN_27", "Érvénytelen karakterek az IP címben stripped - most:");
 define("BANLAN_28", "Kitiltás típusa");
 define("BANLAN_29", "Üzenet megjelenítése a kitiltott tagnak");
 define("BANLAN_30", "Kitiltás időtartama");
+define("BANLAN_31", "(Használjon egy üres üzenetet, ha azt szeretné, hogy a felhasználó egy üres képernyőt kapjon)");
+define("BANLAN_32", "Határozatlan");
 define("BANLAN_34", "Lejárt");
 define("BANLAN_35", "Importálás/Exportálás");
 define("BANLAN_36", "Exportálás típusa");
@@ -45,9 +53,9 @@ define("BANLAN_45", "Importálás");
 define("BANLAN_46", "Fájlok importálása:");
 define("BANLAN_47", "Fájl feltöltés hiba");
 define("BANLAN_48", "Törölt --NUM-- lejárt kitiltások");
-define("BANLAN_49", "CSV importálás: kiegyenlítetlen idázetek a sorban ");
-define("BANLAN_50", "CSV importálás: Írási hiba a kitiltás bejegyzésekor a sorban ");
-define("BANLAN_51", "CSV importálás: Sikeres, --NUM-- sor importálva a fájlból ");
+define("BANLAN_49", "CSV importálás: kiegyenlítetlen idázetek a sorban");
+define("BANLAN_50", "CSV importálás: Írási hiba a kitiltás bejegyzésekor a sorban");
+define("BANLAN_51", "CSV importálás: Sikeres, --NUM-- sor importálva a fájlból");
 define("BANLAN_52", "Fehérlista");
 define("BANLAN_53", "Hozzáadás");
 define("BANLAN_54", "Nincs bejegyzés a fehérlistában");
@@ -89,7 +97,6 @@ define("BANLAN_90", "Hiba a napló fájl törlése folyamatában");
 define("BANLAN_91", "Kitiltás napló dátum/idő formátum");
 define("BANLAN_92", "További strftime funkció információk a php.net oldalon");
 define("BANLAN_93", "");
-
 define("BANLAN_100", "Ismeretlen");
 define("BANLAN_101", "Manuális");
 define("BANLAN_102", "Kitiltás");
@@ -100,7 +107,6 @@ define("BANLAN_106", "Felhasználó");
 define("BANLAN_107", "Ismeretlen");
 define("BANLAN_108", "Ismeretlen");
 define("BANLAN_109", "Lejárt");
-
 define("BANLAN_110", "A kitiltás még az e107 frissítése előtt keletkezett");
 define("BANLAN_111", "Admin bejegyzés");
 define("BANLAN_112", "Túl gyorsan próbáltad frissíteni az oldalt");
@@ -111,10 +117,11 @@ define("BANLAN_116", "Felhasználó hozzáférésének IP címe kitiltva");
 define("BANLAN_117", "Tartalék ok");
 define("BANLAN_118", "Tartalék ok");
 define("BANLAN_119", "Importálási hiba - korábban importált kitiltások");
-
 define("BANLAN_120", "Fehérlista bejegyzés");
 define("BANLAN_121", "Feketelista bejegyzés");
 define("BANLAN_122", "Feketelista");
-define("BANLAN_123", "Hozzáadást");
-define("BANLAN_124", "Lejáratok");
+define("BANLAN_123", "Hozzáadás");
+define("BANLAN_124", "Lejár");
 define("BANLAN_125", "Az én IP címem használata");
+
+?>

@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system French Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/10/24 10:56:20
+|
+|        $Author: Olivier Troccaz $
++---------------------------------------------------------------+
+*/
 
 define("UPLLAN_1", "Téléchargement supprimé de la liste.");
 define("UPLLAN_2", "Paramètres enregistrés dans la base de données");
@@ -27,8 +33,8 @@ define("UPLLAN_38", "Sélectionnez cette option pour autoriser uniquement certai
 define("UPLLAN_41", "Veuillez noter - les téléchargements de fichiers sont désactivés de votre php.ini, il ne sera pas possible de télécharger des fichiers jusqu'à ce que vous activiez cette option.");
 define("UPLLAN_45", "Êtes-vous sûr de vouloir supprimer le fichier suivant...");
 define("UPLAN_COPYTODLM", "copier dans le gestionnaire de téléchargement");
-define("UPLAN_IS", "est ");
-define("UPLAN_ARE", "sont ");
+define("UPLAN_IS", "est");
+define("UPLAN_ARE", "sont");
 define("UPLAN_COPYTODLS", "Copier vers Téléchargements");
 define("UPLLAN_51", "Liste des téléchargements");
 define("UPLLAN_52", "Cette page vous permet de créer un fichier pour gérer les autorisations de téléchargement de fichier. Le fichier est enregistré comme --SOURCE-- et doit être copié vers --DEST-- avant de prendre effet.");
@@ -44,5 +50,8 @@ define("UPLLAN_63", "Enregistrement déplacé vers les téléchargements. [x]");
 define("UPLLAN_64", "Gérer le téléchargement");
 define("UPLLAN_66", "Erreur de chemin de téléchargement");
 define("UPLLAN_68", "Erreur SQL :");
-define("UPLLAN_69", "");
-define("UPLLAN_70", "");
+define("UPLLAN_69", "Importé");
+define("UPLLAN_70", "Envoyé à [x]");
+
+
+?>

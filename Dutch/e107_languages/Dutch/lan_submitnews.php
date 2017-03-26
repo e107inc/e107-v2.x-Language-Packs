@@ -6,7 +6,7 @@
 |     $URL:$
 |     $Revision:$
 |     $Date:$
-|     $Author: Erje, Yvalni, Tgtje $
+|     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
 */
 
@@ -31,5 +31,10 @@ define("SUBNEWSLAN_5", "Afbeelding");
 define("SUBNEWSLAN_6", "(jpg, gif of png)");
 define("SUBNEWSLAN_7", "Je moet je naam en e-mailadres intypen");
 define("SUBNEWSLAN_8", "Fout tijdens het uploaden van de afbeelding(en)");
+define("SUBNEWSLAN_9", "Kernwoordens");
+define("SUBNEWSLAN_10", "Samenvatting");
+define("SUBNEWSLAN_11", "Meta Beschrijving");
+define("SUBNEWSLAN_12", "Gebruikt door Facebook enz.");
+define("SUBNEWSLAN_13", "Media URLs");
 
 ?>

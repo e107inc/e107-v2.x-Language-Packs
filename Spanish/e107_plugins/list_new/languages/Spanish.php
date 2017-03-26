@@ -1,9 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/24 18:41:54
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 define("LIST_MENU_1", "incorporaciones recientes");
 define("LIST_MENU_2", "por");
 define("LIST_MENU_3", "en");
@@ -30,7 +35,7 @@ define("LIST_COMMENT_2", "no hay comentarios");
 define("LIST_COMMENT_3", "Noticias");
 define("LIST_COMMENT_4", "Preguntas más frecuentes");
 define("LIST_COMMENT_5", "encuesta");
-define("LIST_COMMENT_6", "docs");
+define("LIST_COMMENT_6", "documentos");
 define("LIST_COMMENT_7", "Informe");
 define("LIST_COMMENT_8", "contenido");
 define("LIST_COMMENT_9", "");
@@ -40,8 +45,8 @@ define("LIST_MEMBER_2", "no hay miembros");
 define("LIST_CONTENT_1", "contenido");
 define("LIST_CONTENT_2", "no hay contenido en");
 define("LIST_CONTENT_3", "ninguna categoría contenida válida");
-define("LIST_CHATBOX_1", "chatbox");
-define("LIST_CHATBOX_2", "no hay mensajes de chatbox");
+define("LIST_CHATBOX_1", "Ventana de Chat");
+define("LIST_CHATBOX_2", "no hay mensajes de la Ventana de Chat");
 define("LIST_CALENDAR_1", "calendario");
 define("LIST_CALENDAR_2", "no hay eventos de calendario");
 define("LIST_LINKS_1", "enlaces");
@@ -53,3 +58,8 @@ define("LIST_FORUM_4", "respuestas:");
 define("LIST_FORUM_5", "Lastpost:");
 define("LIST_FORUM_6", "en:");
 define("LIST_LAN_1", "no hay artículos en");
+define("LIST_DOWNLOAD_1", "descargas");
+define("LIST_DOWNLOAD_2", "sin descargas");
+
+
+?>

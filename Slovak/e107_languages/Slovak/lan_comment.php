@@ -52,15 +52,17 @@ define("COMLAN_328", "Komentáre sú zamknuté");
 define("COMLAN_329", "Neautorizované");
 define("COMLAN_330", "IP:");
 define("COMLAN_331", "Komentár ešte nebol schválený");
-define("COMLAN_332", "");
-define("COMLAN_333", "");
-define("COMLAN_334", "");
-define("COMLAN_335", "");
-define("COMLAN_336", "");
-define("COMLAN_337", "");
-define("COMLAN_400", "");
+define("COMLAN_332", "Couldn't delete comment");
+define("COMLAN_333", "Comment approved");
+define("COMLAN_334", "Couldn't approve comment");
+define("COMLAN_335", "Approved");
+define("COMLAN_336", "Please write something first.");
+define("COMLAN_337", "Updated successfully.");
+define("COMLAN_400", "approved");
 define("COMLAN_401", "blokované");
-define("COMLAN_402", "");
+define("COMLAN_402", "pending");
+define("COMLAN_403", "Leave a message...");
+define("COMLAN_404", "Approve");
 define("COMLAN_TYPE_1", "Články");
 define("COMLAN_TYPE_2", "Stiahnutia");
 define("COMLAN_TYPE_3", "FAQ");
@@ -70,6 +72,8 @@ define("COMLAN_TYPE_6", "Sledovanie bugov");
 define("COMLAN_TYPE_7", "Nápadov");
 define("COMLAN_TYPE_8", "užívateľský profil");
 define("COMLAN_TYPE_PAGE", "Článok");
+define("COMLAN_500", "Please [sign in] to leave a comment.");
+define("COMLAN_501", "If you are not yet registered, you may [click here to register].");
 
 
 ?>

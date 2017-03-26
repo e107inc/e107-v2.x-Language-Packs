@@ -1,13 +1,19 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system French Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/08 09:31:19
+|
+|        $Author: Olivier Troccaz $
++---------------------------------------------------------------+
+*/
 
 define("CACLAN_1", "Statut du cache système");
 define("CACLAN_2", "Mettre à jour le statut de cache");
 define("CACLAN_3", "Gestion du cache");
-define("CACLAN_5", "Cache de contenu vide");
+define("CACLAN_5", "Vider le cache de contenu");
 define("CACLAN_6", "Cache vidé");
 define("CACLAN_10", "Le répertoire de cache n'est pas accessible en écriture. Veuillez-vous assurer que les autorisations du répertoire sont bien réglées (CHMOD 0777)");
 define("CACLAN_11", "Cache de contenu");
@@ -26,3 +32,9 @@ define("CACLAN_24", "Vider le cache de la structure de la base de données");
 define("CACLAN_25", "Vider le cache des miniature");
 define("CACLAN_26", "Vider tous les caches");
 define("CACLAN_27", "Vider le cache du navigateur");
+define("CACLAN_28", "Cache JS/CSS");
+define("CACLAN_29", "Consolider et mettre en cache les fichiers JavaScript et les feuilles de style CSS. ");
+define("CACLAN_30", "Vider le cache JS/CSS");
+
+
+?>

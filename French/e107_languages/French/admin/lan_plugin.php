@@ -11,7 +11,6 @@
 |        $Author: admin $
 +---------------------------------------------------------------+
 */
-
 define("EPL_ADLAN_0", "Installer");
 define("EPL_ADLAN_1", "Désinstaller");
 define("EPL_ADLAN_2", "Êtes-vous certain de vouloir désinstaller cette extension ?");
@@ -63,7 +62,7 @@ define("EPL_ADLAN_49", "Tables non supprimées durant la procédure de désinsta
 define("EPL_WEBSITE", "Site Web");
 define("EPL_NOINSTALL", "Aucune installation requise, juste n'activer affichée à l'écran des menus. Pour désinstaller, supprimer la");
 define("EPL_DIRECTORY", "Annuaire.");
-define("EPL_NOINSTALL_1", "Aucune installation requise, il suffit juste de l'activer à partir de vos écrans de menus. Pour désinstaller, supprimez le ");
+define("EPL_NOINSTALL_1", "Aucune installation requise, il suffit juste de l'activer à partir de vos écrans de menus. Pour désinstaller, supprimez le");
 define("EPL_UPGRADE", "Mise à niveau");
 define("EPL_ADLAN_50", "Commentaires supprimés avec succès");
 define("EPL_ADLAN_53", "Répertoire non accessible en écriture");
@@ -92,7 +91,7 @@ define("EPL_ADLAN_82", "Icône");
 define("EPL_ADLAN_83", "Notes");
 define("EPL_ADLAN_84", "Installation sélectionnée");
 define("EPL_ADLAN_85", "Désinstallation sélectionné");
-define("EPL_ADLAN_86", "Tous les fichiers ont été supprimés de ");
+define("EPL_ADLAN_86", "Tous les fichiers ont été supprimés de");
 define("EPL_ADLAN_87", "Suppression du fichier en erreur");
 define("EPL_ADLAN_88", "Faite pour la v2");
 define("EPL_ADLAN_89", "Recherche en ligne");
@@ -110,13 +109,11 @@ define("EPL_ADLAN_100", "cliquez ici pour installer certains");
 define("EPL_ADLAN_101", "Aucune extension installée - [x].");
 define("EPL_ADLAN_102", "Cet assistant va construire une zone d'administration pour votre extension et générer un fichier de métadonnées plugin.xml. Avant de commencer :");
 define("EPL_ADLAN_103", "Créez un nouveau dossier accessible en écriture dans le répertoire [x], par exemple [b][myplugin[/b]");
-define("EPL_ADLAN_104", "Si votre extension utilisera des tables sql, créez un nouveau fichier dans ce dossier et nommez-le comme le répertoire, mais avec [b]_sql.php[/b] comme sufixe, par exemple [b]myplugin_sql.php[/b]");
-define("EPL_ADLAN_105", "Créez votre table dans phpMyAdmin et collez une sauvegarde dump sql de celle-ci dans votre fichier et enregistrez-le. (voir [i]e107_plugins/_blank/_blank_sql.php[/i] pour exemple)");
+define("EPL_ADLAN_105", "Créez votre table dans phpMyAdmin dans la même base de données qu'e107 et avec le même préfixe de table, par exemple [b]e107_monextension[/b]");
 define("EPL_ADLAN_106", "Sélectionnez le dossier de votre extension pour commencer.");
 define("EPL_ADLAN_107", "Créer une zone d'administration et un fichier xml pour :");
 define("EPL_ADLAN_108", "Vérifiez les fichiers de langue :");
 define("EPL_ADLAN_109", "Informations de base");
-define("EPL_ADLAN_111", "Générer");
 define("EPL_ADLAN_112", "Vérifiez tous les champs et modifiez-les si nécessaire.");
 define("EPL_ADLAN_113", "Vérifiez TOUS les onglets avant de cliquer sur 'Générer'.");
 define("EPL_ADLAN_114", "Générateur d'extension");
@@ -234,9 +231,38 @@ define("EPL_ADLAN_226", "Vérification du fichier langue de l'extension");
 define("EPL_ADLAN_227", "Rechercher des modifications");
 define("EPL_ADLAN_228", "Les dossiers d'extension sont analysés toutes les [x] minutes pour vérifier les changements. Cliquez sur le bouton ci-dessous pour analyser maintenant.");
 define("EPL_ADLAN_229", "Actualisation");
+define("EPL_ADLAN_230", "Téléchargement et installation :");
+define("EPL_ADLAN_231", "Supprimer les icônes du gestionnaire de médias");
+define("EPL_ADLAN_232", "Créer des fichiers");
+define("TPVLAN_81", "Téléchargement ...");
+define("TPVLAN_82", "Téléchargement terminé !");
+define("EPL_ADLAN_233", "Ajout d'un lien :");
+define("EPL_ADLAN_234", "Suppression du lien :");
+define("EPL_ADLAN_235", "Le téléchargement automatique n'est pas possible.");
+define("EPL_ADLAN_236", "Veuillez télécharger manuellement");
+define("EPL_ADLAN_237", "Télécharger");
+define("EPL_ADLAN_238", "Installation terminée !");
+define("EPL_ADLAN_239", "Ajouter la table :");
+define("EPL_ADLAN_240", "Supprimer la table :");
+define("EPL_ADLAN_241", "Ajouter la préférence :");
+define("EPL_ADLAN_242", "Supprimer la préférence :");
+define("EPL_ADLAN_243", "Mettre à jour la préférence :");
+define("EPL_ADLAN_244", "Seulement 5 catégories de médias sont possibles durant l'installation.");
+define("EPL_ADLAN_245", "Ajout de la catégorie de médias : [x]");
+define("EPL_ADLAN_246", "Suppression de toutes les catégories de médias appartenant à : [x] ");
+define("EPL_ADLAN_249", "Ajout d'un champ étendu :");
+define("EPL_ADLAN_250", "Suppression du champ étendu :");
+define("EPL_ADLAN_251", "Champ étendu laissé en place");
+define("EPL_ADLAN_252", "Permissions :");
+define("LAN_RELEASED", "Publié");
+define("LAN_REPAIR_PLUGIN_SETTINGS", "Réparer les paramètres de l'extension");
+define("LAN_SYNC_WITH_GIT_REPO", "Synchroniser avec le dépôt Git");
+define("LAN_ADDONS", "Accessoires");
 define("LAN_UPGRADE_SUCCESSFUL", "Mise à jour réussie");
 define("LAN_INSTALL_SUCCESSFUL", "Installation réussie");
 define("LAN_INSTALL_FAIL", "Installation échouée");
+define("LAN_UNINSTALL_FAIL", "Impossible de désinstaller !");
+define("LAN_PLUGIN_IS_USED", "L'extension [x] est utilisée par :");
 
 
 ?>

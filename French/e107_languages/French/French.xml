@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<e107Language name="French" compatibility="2.0.0" date="2015-08-31" >
-<author name ="admin" email="admin@localhost.com" url="http://localhost:8080/e107_2.0/" />
+<e107Language name="French" compatibility="2.1.4" date="2017-01-18" >
+<author name ="Olivier Troccaz" email="olivier.troccaz@univ-rennes1.fr" url="https://ecobio.univ-rennes1.fr/" />
 </e107Language>

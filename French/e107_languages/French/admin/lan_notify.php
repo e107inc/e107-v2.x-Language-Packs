@@ -12,7 +12,7 @@ define("NU_LAN_3", "Vérification d'un compte utilisateur");
 define("NU_LAN_4", "Connexion d'un utilisateur");
 define("NU_LAN_5", "Déconnexion d'un utilisateur");
 define("NS_LAN_1", "Événements de sécurité");
-define("NS_LAN_2", "IP bannie pour cause de flood");
+define("NS_LAN_2", "IP exclue pour cause de flood");
 define("NN_LAN_1", "Événements d'articles");
 define("NN_LAN_2", "Article soumis par un utilisateur");
 define("NN_LAN_3", "Article posté par un administrateur");

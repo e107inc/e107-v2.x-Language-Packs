@@ -1,10 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2015/11/08 15:26:39
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 setlocale(LC_ALL,  'es_ES.UTF-8', 'es_ES.utf8', 'es.utf8', 'es');
 define("CORE_LC", "es");
 define("CORE_LC2", "es");
@@ -38,16 +42,18 @@ define("LAN_EDIT", "Editar");
 define("LAN_DELETE", "Eliminar");
 define("LAN_DEFAULT", "Por defecto");
 define("LAN_MORE", "Más...");
+define("LAN_LESS", "..Menos");
 define("LAN_READ_MORE", "Leer más...");
 define("LAN_GOPAGE", "Ir a la página");
 define("LAN_GOTOPAGEX", "Ir a página [x]");
-define("LAN_GO", "Go");
+define("LAN_GO", "Ir");
 define("LAN_SUBMIT", "Enviar");
 define("LAN_NONE", "Ninguno");
 define("LAN_WARNING", "¡ ADVERTENCIA!");
 define("LAN_ERROR", "Error");
 define("LAN_ANONYMOUS", "Anónimo");
 define("LAN_EMAIL_SUBS", "-correo electronico-");
+define("LAN_ACTIVE", "Activo");
 define("LAN_YES", "Sí");
 define("LAN_NO", "No");
 define("LAN_OK", "Vale");
@@ -59,6 +65,7 @@ define("LAN_ENTER_CODE", "Ingrese código de");
 define("LAN_INVALID_CODE", "Código incorrecto entrado.");
 define("LAN_SEARCH", "Búsqueda de");
 define("LAN_VIEW", "Ver");
+define("LAN_CLICK_TO_VIEW", "Haga clic para ver");
 define("LAN_SORT", "Tipo");
 define("LAN_ORDER_BY", "Orden por la");
 define("LAN_ASCENDING", "Ascendente");
@@ -70,8 +77,10 @@ define("LAN_DESCRIPTION", "Descripción");
 define("LAN_CANCEL", "Cancelar");
 define("LAN_DATE", "Fecha");
 define("LAN_DATE_POSTED", "Fecha de Publicada");
+define("LAN_POSTED_BY", "Publicado por");
 define("LAN_JSCONFIRM", "¿Estás seguro?");
 define("LAN_IP", "Dirección IP");
+define("LAN_IP_ADDRESS", "Dirección IP");
 define("LAN_AUTHOR", "Autor");
 define("LAN_CATEGORY", "Categoría");
 define("LAN_GUEST", "Huésped");
@@ -81,15 +90,19 @@ define("LAN_LOGIN", "Inicio de sesión");
 define("LAN_LOGOUT", "Cierre de sesión");
 define("LAN_SETTINGS", "Configuración");
 define("LAN_PASSWORD", "Contraseña");
+define("LAN_INCORRECT_PASSWORD", "Contraseña incorrecta");
 define("LAN_TYPE", "Tipo");
 define("LAN_SCREENSHOT", "Captura de pantalla");
 define("LAN_FILE", "Archivo");
+define("LAN_YOUTUBE_VIDEO", "Video YouTube");
+define("LAN_YOUTUBE_PLAYLIST", "Lista de reproducción de YouTube");
 define("LAN_FILETYPES", "Tipos de archivo");
 define("LAN_FILE_NOT_FOUND", "Archivo no encontrado");
 define("LAN_FILES", "Archivos");
 define("LAN_SIZE", "Tamaño");
 define("LAN_VERSION", "Versión");
 define("LAN_DOWNLOAD", "Descargar");
+define("LAN_WEBSITE", "Sitio web");
 define("LAN_COMMENTS", "Comentarios");
 define("LAN_LOCATION", "Ubicación");
 define("LAN_NO_RECORDS_FOUND", "Registros no encontrados");
@@ -97,9 +110,22 @@ define("LAN_RATING", "Valorar");
 define("LAN_IMAGE", "Imagen");
 define("LAN_ABOUT", "Acerca de");
 define("LAN_TITLE", "Título");
+define("LAN_MESSAGE", "Mensaje");
 define("LAN_USER", "Usuario");
 define("LAN_EMAIL", "Dirección de correo electrónico");
 define("LAN_WROTE", "escribió");
 define("LAN_RE_ORDER", "Cambiar el orden");
+define("LAN_RELATED", "Relacionada");
+define("LAN_CLOSE", "Cerrar");
+define("LAN_EXPAND", "Expandir");
 define("LAN_ENTER_USRNAME_EMAIL", "Por favor ingrese su nombre de usuario o correo electrónico");
 define("LAN_PWD_REQUIRED", "Se requiere contraseña");
+define("LAN_SHOW", "Mostrar");
+define("LAN_GENERATE", "Generar");
+define("LAN_SUMMARY", "Resumen");
+define("LAN_REQUIRED_BLANK", "Los campos necesario (s) era dejado en blanco.");
+define("LAN_PLEASEWAIT", "Espera, por favor.");
+define("LAN_CHOOSE_FILE", "Escoge un archivo");
+
+
+?>

@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/24 18:36:41
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("LAN_DL_OPTIONS", "Opciones");
 define("LAN_DL_DOWNLOAD_OPT_GENERAL", "General");
@@ -64,7 +70,7 @@ define("DOWLAN_109", "cada");
 define("DOWLAN_110", "días");
 define("DOWLAN_111", "KB");
 define("DOWLAN_112", "Límites");
-define("DOWLAN_113", "Userclass");
+define("DOWLAN_113", "Clase de Usuario");
 define("DOWLAN_114", "Añadir nuevo límite");
 define("DOWLAN_115", "Actualización de límites");
 define("DOWLAN_122", "Inactivo");
@@ -141,3 +147,6 @@ define("DOWLAN_HELP_7", "Ayuda para el espejo");
 define("DOWLAN_HELP_8", "Ayuda para cargar lista");
 define("DOWLAN_HELP_9", "Ayuda para subir tipos");
 define("DOWLAN_HELP_10", "Ayuda para las opciones de carga");
+
+
+?>

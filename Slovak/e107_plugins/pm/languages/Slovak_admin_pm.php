@@ -9,12 +9,12 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("ADLAN_PM_1", "");
+define("ADLAN_PM_1", "To activate please go to your menus screen and select the private_msg into one of your menu areas. <br /><br />If you need to convert messages from a previous version, please go to the main config page for this plugin and select the 'convert' link.");
 define("ADLAN_PM_3", "Nastavenia SS neboli nájdené, použité prednastavené hodnoty");
 define("ADLAN_PM_4", "Možnosti boli aktualizované");
 define("ADLAN_PM_5", "Obmedzenie pre vybranú triedu užívateľa už existuje");
 define("ADLAN_PM_6", "Obmedzenie bolo úspešne pridané");
-define("ADLAN_PM_7", "");
+define("ADLAN_PM_7", "Limit not added/updated - unknown error");
 define("ADLAN_PM_8", "Status obmedzenia bol aktualizovaný");
 define("ADLAN_PM_9", " - Obmedzenie bolo úspešne odstránené");
 define("ADLAN_PM_10", " - Obmedzenie nebolo odstránené - neznáma chyba");
@@ -38,7 +38,7 @@ define("ADLAN_PM_27", "Umožniť zasielanie príloh");
 define("ADLAN_PM_28", "Maximálna veľkosť príloh");
 define("ADLAN_PM_29", "Umožniť zasielanie všetkým členom");
 define("ADLAN_PM_30", "Umožniť zasielanie viacerým príjemcom");
-define("ADLAN_PM_31", "");
+define("ADLAN_PM_31", "Userclass allowed to send to userclass");
 define("ADLAN_PM_33", "Neaktívne (bez limitov)");
 define("ADLAN_PM_34", "Súhrny SS");
 define("ADLAN_PM_35", "Rozmery schránky SS");
@@ -53,27 +53,27 @@ define("ADLAN_PM_45", "Obmedzenie SS od:");
 define("ADLAN_PM_54", "Hlavné nastavenia");
 define("ADLAN_PM_55", "Obmedzenia");
 define("ADLAN_PM_59", "Údržba");
-define("ADLAN_PM_60", "");
-define("ADLAN_PM_62", "");
-define("ADLAN_PM_63", "");
-define("ADLAN_PM_64", "");
-define("ADLAN_PM_65", "");
-define("ADLAN_PM_66", "");
-define("ADLAN_PM_67", "");
-define("ADLAN_PM_68", "");
-define("ADLAN_PM_69", "");
-define("ADLAN_PM_70", "");
-define("ADLAN_PM_71", "");
-define("ADLAN_PM_72", "");
-define("ADLAN_PM_73", "");
-define("ADLAN_PM_74", "");
-define("ADLAN_PM_75", "");
-define("ADLAN_PM_77", "");
-define("ADLAN_PM_78", "");
-define("ADLAN_PM_79", "");
-define("ADLAN_PM_80", "");
-define("ADLAN_PM_81", "");
-define("ADLAN_PM_82", "");
+define("ADLAN_PM_60", "PM Maintenance");
+define("ADLAN_PM_62", "These options remove transactions concerned with deleted users from the PM database tables");
+define("ADLAN_PM_63", "Správy odoslané");
+define("ADLAN_PM_64", "Správy prijaté");
+define("ADLAN_PM_65", "User blocks");
+define("ADLAN_PM_66", "No maintenance tasks specified");
+define("ADLAN_PM_67", "PM DB maintenance started");
+define("ADLAN_PM_68", "--COUNT-- blocks to deleted users removed");
+define("ADLAN_PM_69", "--COUNT-- blocks from deleted users removed");
+define("ADLAN_PM_70", "Database error --NUM--: --TEXT-- removing user blocks");
+define("ADLAN_PM_71", "Time-expired messages");
+define("ADLAN_PM_72", "No PM timeouts set");
+define("ADLAN_PM_73", "--COUNT-- time-expired PMs deleted");
+define("ADLAN_PM_74", "emoved --COUNT-- messages sent by deleted users");
+define("ADLAN_PM_75", "Removed --COUNT-- messages received by deleted users");
+define("ADLAN_PM_77", "(Empty all fields and Update to delete a limit)");
+define("ADLAN_PM_78", "Check attachments");
+define("ADLAN_PM_79", "--ORPHANS-- unused attachments deleted. --MISSING-- missing attachments noted");
+define("ADLAN_PM_80", "Preference formats updated");
+define("ADLAN_PM_81", "Maximum number of PMs to send immediately");
+define("ADLAN_PM_82", "If sending more than this, they are added to a queue and sent out using the cron task");
 
 
 ?>

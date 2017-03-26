@@ -1,9 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/24 17:33:14
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 define("LAN_USER_01", "Nombre para mostrar");
 define("LAN_USER_02", "Nombre de usuario");
 define("LAN_USER_03", "Nombre real");
@@ -19,10 +24,10 @@ define("LAN_USER_15", "Última visita");
 define("LAN_USER_16", "Visita actual");
 define("LAN_USER_18", "Dirección IP");
 define("LAN_USER_19", "Prohibición de");
-define("LAN_USER_20", "Prefs");
+define("LAN_USER_20", "Preferencias");
 define("LAN_USER_21", "Visitas");
-define("LAN_USER_22", "Admin");
-define("LAN_USER_23", "Perms");
+define("LAN_USER_22", "Administrador");
+define("LAN_USER_23", "Permisos");
 define("LAN_USER_24", "Cambio de contraseña");
 define("LAN_USER_31", "Administrador del sitio principal");
 define("LAN_USER_32", "Administrador del sitio");
@@ -37,7 +42,7 @@ define("LAN_USER_40", "miembro anterior");
 define("LAN_USER_41", "próximo miembro");
 define("LAN_USER_42", "no hay foto");
 define("LAN_USER_43", "borrar foto");
-define("LAN_USER_44", "Miscellaneous");
+define("LAN_USER_44", "Diverso");
 define("LAN_USER_45", "DESC");
 define("LAN_USER_46", "ASC");
 define("LAN_USER_49", "No hay información para que el usuario ya no está registrados en");
@@ -60,7 +65,6 @@ define("LAN_USER_66", "Visitas al sitio desde el registro");
 define("LAN_USER_67", "Mensajes de chat");
 define("LAN_USER_68", "Comentarios publicados");
 define("LAN_USER_69", "Mensajes de foro");
-define("LAN_USER_70", "Mostrar");
 define("LAN_USER_71", "Firma:");
 define("LAN_USER_72", "Avatar:");
 define("LAN_USER_73", "selección de listas de correo del contenido");
@@ -68,8 +72,8 @@ define("LAN_USER_74", "Título personalizado");
 define("LAN_USER_75", "Tu--algo--es necesario");
 define("LAN_USER_76", "Suscrito a");
 define("LAN_USER_77", "Su contraseña debe ser al menos--cuenta--caracteres de largo.");
-define("LAN_USER_78", "Min.");
-define("LAN_USER_79", "chars.");
+define("LAN_USER_78", "Minimo");
+define("LAN_USER_79", "characteres");
 define("LAN_USER_80", "el nombre aparece en el sitio");
 define("LAN_USER_81", "Nombre de usuario:");
 define("LAN_USER_82", "el nombre que utilizas para iniciar sesión en el sitio");
@@ -77,3 +81,13 @@ define("LAN_USER_83", "Ocultar dirección de correo electrónico?:");
 define("LAN_USER_84", "Esto evitará que tu dirección de correo electrónico se muestra en el sitio");
 define("LAN_USER_85", "Si desea cambiar su nombre de usuario, usted debe pedir a un administrador del sitio");
 define("LAN_USER_86", "Tamaño máximo del avatar es--anchura--x--altura--pixeles");
+define("LAN_USER_87", "Inicie sesión para calificar este usuario!");
+define("LAN_XUP_ERRM_01", "¡Registro fallido! Esta función está desactivada.");
+define("LAN_XUP_ERRM_02", "¡Registro fallido! Mal proveedor.");
+define("LAN_XUP_ERRM_03", "¡Error de inicio de sesion! Mal proveedor.");
+define("LAN_XUP_ERRM_04", "¡Registro fallido! El usuario ya ha iniciado sesión.");
+define("LAN_XUP_ERRM_05", "¡Registro fallido! El usuario ya existe. Por favor, utilice 'login' en su lugar.");
+define("LAN_XUP_ERRM_06", "¡Registro fallido! No se puede acceder al correo electrónico del usuario - registro sin un correo electrónico es imposible.");
+
+
+?>

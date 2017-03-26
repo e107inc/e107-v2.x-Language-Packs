@@ -1,9 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/03/19 23:08:51
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 define("LAN_PM", "Privat melding");
 define("LAN_PM_1", "Sende Private meldinger");
 define("LAN_PM_2", "Til");
@@ -28,8 +33,6 @@ define("LAN_PM_21", "Legge denne vil overstige høyeste utboksen størrelse, PM 
 define("LAN_PM_22", "Filopplasting mislyktes");
 define("LAN_PM_23", "Du har ikke lov til å sende vedlegg");
 define("LAN_PM_24", "Slette PM");
-define("LAN_PM_25", "Innboksen");
-define("LAN_PM_26", "Utboksen");
 define("LAN_PM_27", "Ulest");
 define("LAN_PM_28", "I/T");
 define("LAN_PM_29", "Melding sendt");
@@ -60,7 +63,7 @@ define("LAN_PM_54", "Tilbud opprinnelige");
 define("LAN_PM_55", "Send svar");
 define("LAN_PM_56", "Du er ikke tillatt å svare på denne meldingen");
 define("LAN_PM_57", "Melding ikke funnet");
-define("LAN_PM_58", "Re:");
+define("LAN_PM_58", "Angående:");
 define("LAN_PM_59", "Gå til siden:");
 define("LAN_PM_60", "Du har ikke tillatelse til å vise denne meldingen");
 define("LAN_PM_61", "Ingen emne");
@@ -85,3 +88,10 @@ define("LAN_PM_107", "Den Private meldingen du sendte til {UNAME} ble lest");
 define("LAN_PM_108", "Melding sendt på:");
 define("LAN_PM_109", "Nye melding(er)");
 define("LAN_PM_111", "Les");
+define("LAN_PM_112", "Bruker(e)");
+define("LAN_PM_113", "Les melding");
+define("LAN_PM_114", "Du har ikke tilgang til å sende til denne brukeren.");
+define("LAN_PM_115", "Bruker ikke funnet");
+
+
+?>

@@ -1,17 +1,23 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/24 17:35:04
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("LANHELP_1", "Negro");
 define("LANHELP_2", "Azul");
 define("LANHELP_3", "Marrón");
-define("LANHELP_4", "Cyan");
+define("LANHELP_4", "Cian");
 define("LANHELP_5", "Azul oscuro");
 define("LANHELP_6", "Rojo oscuro");
 define("LANHELP_7", "Verde");
-define("LANHELP_8", "Indigo");
+define("LANHELP_8", "Índigo");
 define("LANHELP_9", "Oliva");
 define("LANHELP_10", "Naranja");
 define("LANHELP_11", "Rojo");
@@ -58,3 +64,6 @@ define("LANHELP_51", "Desactivar nuevas líneas de HTML para el texto adjunto: [
 define("LANHELP_52", "Nueva línea (HTML): [br]");
 define("LANHELP_53", "Justificar alinear: \n [justificar] este texto será justificado [/ justificar]");
 define("LANHELP_54", "Bloque HTML (etiqueta div): [bloque] contenido [/block]");
+
+
+?>

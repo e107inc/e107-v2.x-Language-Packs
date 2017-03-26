@@ -1,13 +1,19 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/24 17:52:42
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("PAGE_NAME", "Subir");
 define("LAN_UL_001", "Dirección de correo electrónico no válida");
 define("LAN_UL_002", "Usted no tiene los permisos correctos para subir archivos a este servidor.");
-define("LAN_UL_020", "Error");
+define("LAN_UL_020", "Errores");
 define("LAN_UL_021", "Subir la falta");
 define("LAN_UL_022", "Puede variar según el tipo de archivo");
 define("LAN_UL_023", "Tipo");
@@ -42,3 +48,6 @@ define("LAN_418", "Tamaño del archivo máximo absoluto:");
 define("DOWLAN_11", "Categoría");
 define("LAN_419", "Tipos de archivo permitidos");
 define("LAN_420", "los campos son obligatorios");
+
+
+?>

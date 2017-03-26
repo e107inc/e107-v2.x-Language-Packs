@@ -6,7 +6,7 @@
 |     $URL:$
 |     $Revision:$
 |     $Date:$
-|     $Author: Erje, Yvalni, Tgtje $
+|     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
 */
 
@@ -51,7 +51,7 @@ define("LAN_USET_35", "Voer het volledige adres naar (bijv: http:// waar/is/de/a
 define("LAN_USET_36", "Druk op de knop om de beschikbare avatars te zien");	
 define("LAN_USET_37", "Opslaan");								
 define("LAN_USET_38", "Kies avatar");							
-define("LAN_USET_39", "Gebruikersgegevens opslaan");					
+define("LAN_USET_39", "Bijwerken gebruikersgegevens");					
 define("LAN_USET_40", "De 2 wachtwoorden zijn niet identiek");		
 define("LAN_USET_41", "Instellingen bijgewerkt en opgeslagen in de database.");	
 define("LAN_USET_42", "Code niet correct");

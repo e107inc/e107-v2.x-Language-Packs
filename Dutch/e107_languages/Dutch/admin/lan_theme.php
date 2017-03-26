@@ -6,7 +6,7 @@
 |     $URL:$
 |     $Revision:$
 |     $Date:$
-|     $Author: Erje, Yvalni, Tgtje $
+|     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
 */
 
@@ -15,7 +15,7 @@ define("TPVLAN_2",  "Theme demo");
 define("TPVLAN_3",  "Site theme ingesteld op");
 define("TPVLAN_4",  "Auteur");
 define("TPVLAN_5",  "Website");
-define("TPVLAN_6",  "Release datum");
+define("TPVLAN_6",  "Datum uitgebracht");
 define("TPVLAN_7",  "Informatie");
 define("TPVLAN_8",  "Opties");
 define("TPVLAN_9",  "Bekijk theme");
@@ -77,12 +77,12 @@ define("TPVLAN_58", "Dit theme gebruikt reeds voor-geinstalleerde voorbeelds-inh
 define("TPVLAN_59", "(Opletten!) Bedenk echter wel dat de voorbeelds-inhoud je huidige eigen inhoud zal [b]overschrijven[/b] met het volgende");
 define("TPVLAN_60", "[x] invoerrecord(s) in jouw [y] tabel");
 define("TPVLAN_61", "Wens je de huidige inhoud te [b]vervangen[/b] met de voorbeelds-inhoud van het door het theme aangeleverd materiaal?");
-define("TPVLAN_62", "Vind Themes");
+define("TPVLAN_62", "Vind Thema&#39;s");
 define("TPVLAN_63", "Converteer");
 
 define("TPVLAN_64", "Deze hulpmodus zal een theme.xml meta bestand aanmaken voor jouw theme.");
 define("TPVLAN_65", "Voordat je begint : ");
-define("TPVLAN_66", "Overtuig je er van dat je theme's directorie beschrijfbaar is");
+define("TPVLAN_66", "Overtuig je er van dat je theme&#39;s directorie beschrijfbaar is");
 define("TPVLAN_67", "Selecteer je theme map om te beginnen.");
 define("TPVLAN_68", "Selecteer je theme map");
 define("TPVLAN_69", "Beschikbaar voor Download");

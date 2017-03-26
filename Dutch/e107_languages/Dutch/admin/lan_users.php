@@ -6,7 +6,7 @@
 |     $URL:$
 |     $Revision:$
 |     $Date:$
-|     $Author: Erje, Yvalni, Tgtje $
+|     $Author: Yvalni, Tgtje $
 +----------------------------------------------------------------------------+
 */
 
@@ -210,7 +210,7 @@ define("USRLAN_225", "Fout, E-mail niet verzonden naar:");
 define("USRLAN_226", "Je autorisaties zijn niet goed genoeg voor deze actie.");
 define("USRLAN_227", "Onbekende fout. Actie niet uitgevoerd.");
 define("USRLAN_228", "Je staat op het punt om Gebruiker #[b][x][/b] : [b][y][/b] ([z]) tot [b]beheerder[/b] te maken.");
-define("USRLAN_229", "Stel de permissies in en klik [b]Update[/b] om door te gaan of [b]Terug[/b] om af te breken.");
+define("USRLAN_229", "Stel de permissies in en klik [b]Bijwerken[/b] om door te gaan of [b]Terug[/b] om af te breken.");
 define("USRLAN_230", "Update beheerder [x] ([y])");
 define("USRLAN_231", "Onvoldoende rechten, operatie afgebroken.");
 define("USRLAN_232", "Missende activatie sleutel.");
@@ -229,7 +229,7 @@ define("USRLAN_242", "Verplicht Activatie, Berichtgeving (wachtwoord en activati
 define("USRLAN_243", "Stel Permissies in");
 define("USRLAN_244", "Beveiligings Inbreuk (onvoldoende rechten) - Administrator --ADMIN_UID-- (--ADMIN_NAME--, --ADMIN_EMAIL--) probeerde beheer status te verwijderen van --UID-- (--NAME--, --EMAIL--)");
 define("USRLAN_245", "Beveiligings Inbreuk (onvoldoende rechten) - Administrator --ADMIN_UID-- (--ADMIN_NAME--, --ADMIN_EMAIL--) probeerde --UID-- (--NAME--, --EMAIL--) tot systeem beheerder te maken");
-define("USRLAN_246", "Us");   // ??
+define("USRLAN_246", "(Niet noodzakelijk)");   // ??
 define("USRLAN_247", "Us");    // ??
 define("USRLAN_248", "Us");   // ??
 define("USRLAN_249", "Us");   // ??

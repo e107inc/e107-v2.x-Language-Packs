@@ -9,8 +9,8 @@
 |        $Author: Jimako $
 +---------------------------------------------------------------+
 */
-define("UDALAN_1", "");
-define("UDALAN_2", "");
+define("UDALAN_1", "Chyba - zapakujte odoslanie.");
+define("UDALAN_2", "Nastavenie administrácie aktualizované");
 define("UDALAN_3", "Nastavenie aktualizované pre");
 define("UDALAN_4", "Meno");
 define("UDALAN_6", "Heslo znovu");

@@ -1,9 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/02/24 18:26:53
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 define("USRLAN_1", "Opciones de guardado.");
 define("USRLAN_3", "ahora aparece un administrador - establecer permisos por favor van a la");
 define("USRLAN_4", "Página del administrador de");
@@ -20,7 +25,7 @@ define("USRLAN_16", "Confirmar borrar");
 define("USRLAN_17", "Confirmar borrar usuario");
 define("USRLAN_30", "Prohibición de");
 define("USRLAN_32", "Activar");
-define("USRLAN_33", "Unban");
+define("USRLAN_33", "Elimina la prohibición");
 define("USRLAN_34", "Eliminar estado de admin");
 define("USRLAN_35", "Hacer admin");
 define("USRLAN_36", "Set de clase");
@@ -119,7 +124,7 @@ define("USRLAN_169", "Total--cuenta--bounced emails borrados");
 define("USRLAN_170", "Nombre de usuario al azar");
 define("USRLAN_171", "Contraseña aleatoria");
 define("USRLAN_172", "Cuenta de usuario ha sido creada con los siguientes:");
-define("USRLAN_175", "");
+define("USRLAN_175", "Sesión");
 define("USRLAN_179", "Usuario baneado:");
 define("USRLAN_180", "Dirección IP de {IP} aparece en la lista blanca; IP no prohibido.");
 define("USRLAN_181", "Escoge la opción de estado del usuario y envío de correo electrónico de confirmación al usuario");
@@ -136,7 +141,7 @@ define("USRLAN_191", "Administrador puede imponer restricciones durante este per
 define("USRLAN_192", "");
 define("USRLAN_193", "Nada cambia - no guarda");
 define("USRLAN_194", "Firma puede ser modificado por");
-define("USRLAN_195", "");
+define("USRLAN_195", "Ultima publicación");
 define("USRLAN_197", "Fuente");
 define("USRLAN_198", "Nombre del campo");
 define("USRLAN_199", "Operación");
@@ -159,8 +164,15 @@ define("LAN_MAINADMIN", "Admin principal");
 define("LAN_NOTVERIFIED", "No verificado");
 define("LAN_BANNED", "Prohibido");
 define("LAN_BOUNCED", "Reboto");
+define("LAN_UI_1_HOUR", "1 hora");
+define("LAN_UI_3_HOURS", "3 horas");
+define("LAN_UI_6_HOURS", "6 horas");
+define("LAN_UI_12_HOURS", "12 horas");
+define("LAN_UI_24_HOURS", "24 horas");
+define("LAN_UI_48_HOURS", "48 horas");
+define("LAN_UI_3_DAYS", "3 dias");
 define("USRLAN_220", "Userclasses todos");
-define("USRLAN_221", "Edit admin perms");
+define("USRLAN_221", "Editar permisos de administrador");
 define("USRLAN_222", "Estás a punto de borrar [x] ([y]) con el ID #[z]. ¿Estás seguro?");
 define("USRLAN_223", "Usuario no encontrado.");
 define("USRLAN_224", "Correo electrónico enviado a:");
@@ -190,24 +202,31 @@ define("USRLAN_247", "Nos");
 define("USRLAN_248", "Nos");
 define("USRLAN_249", "Nos");
 define("USRLAN_250", "Nos");
+define("USRLAN_251", "Dejar en blanco para no cambiar");
+define("USRLAN_252", "Reenviar el correo electrónico de activación de la cuenta a los usuarios inactivos.");
+define("USRLAN_253", "Mayor que");
+define("USRLAN_254", "Restablecer todas las contraseñas");
+define("USRLAN_255", "Notificar al Usuario");
+define("USRLAN_256", "Querido");
 define("UCSLAN_1", "Envío de correo electrónico de notificación a");
 define("UCSLAN_2", "Privilegios actualizados");
-define("UCSLAN_3", "Estimado");
 define("UCSLAN_4", "Sus privilegios han sido actualizados en el");
 define("UCSLAN_5", "Ahora tienes acceso a las siguientes áreas");
 define("UCSLAN_6", "Clase de sistema para usuario");
 define("UCSLAN_7", "Clases de conjunto");
-define("UCSLAN_8", "Notificar al usuario");
 define("UCSLAN_9", "Clases de actualización.");
 define("UCSLAN_10", "Saludos,");
 define("UCSLAN_11", "Pertenencia de clase de usuario ID--UID--a--las clases--");
 define("UCSLAN_12", "Sólo privilegios de miembros");
 define("USFLAN_1", "Incapaz de encontrar el cartel dirección IP - ninguna información está disponible.");
 define("USFLAN_3", "Mensajes enviados desde la dirección IP");
-define("USFLAN_4", "Host");
+define("USFLAN_4", "Anfitrión");
 define("USFLAN_5", "Haga clic aquí para transferir la dirección IP en la página admin ban");
 define("USFLAN_6", "ID de usuario");
 define("USFLAN_7", "Información de usuario");
 define("USRLAN_AS_1", "Inicio de sesión como [x]");
 define("USRLAN_AS_2", "Cierre de sesión de [cuenta x]");
 define("USRLAN_AS_3", "Ya está logueado como otra cuenta de usuario. Por favor salir primero.");
+
+
+?>

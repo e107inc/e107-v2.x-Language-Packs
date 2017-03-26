@@ -9,11 +9,10 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-
 define("COMLAN_0", "[blokkert av admin]");
 define("COMLAN_1", "Oppheve");
 define("COMLAN_2", "Blokk");
-define("COMLAN_4", "Info");
+define("COMLAN_4", "Informasjon");
 define("COMLAN_5", "Kommentarer...");
 define("COMLAN_6", "Du må være pålogget lage kommentarer på dette nettstedet - Logg på, eller hvis du ikke er registrert Klikk");
 define("COMLAN_7", "Viktigste områdeadministratoren");
@@ -24,14 +23,14 @@ define("COMLAN_11", "Kunne ikke angi din kommentar til database - Skriv utelate 
 define("COMLAN_12", "Bruker");
 define("COMLAN_16", "Brukernavn:");
 define("COMLAN_100", "Nyheter");
-define("COMLAN_101", "Poll");
+define("COMLAN_101", "Spørreundersøkelse");
 define("COMLAN_102", "Svarer på:");
 define("COMLAN_103", "Artikkel");
 define("COMLAN_104", "Gjennomgang");
 define("COMLAN_105", "Innhold");
 define("COMLAN_106", "Last ned");
 define("COMLAN_145", "Registrert:");
-define("COMLAN_194", "Guest");
+define("COMLAN_194", "Gjest");
 define("COMLAN_195", "Registrert medlem");
 define("COMLAN_310", "Kan ikke godta innlegg som dette brukernavnet er registrert - hvis det er brukernavnet Logg bokføre.");
 define("COMLAN_312", "Dupliserte post - ikke kan godta.");
@@ -47,7 +46,7 @@ define("COMLAN_321", "her");
 define("COMLAN_322", "kvittere");
 define("COMLAN_323", "Feil!");
 define("COMLAN_324", "Emne");
-define("COMLAN_325", "Re:");
+define("COMLAN_325", "Angående:");
 define("COMLAN_326", "Svar på denne");
 define("COMLAN_328", "Kommentarer er låst");
 define("COMLAN_329", "Uautorisert");
@@ -73,6 +72,8 @@ define("COMLAN_TYPE_6", "bugtrack");
 define("COMLAN_TYPE_7", "ideer");
 define("COMLAN_TYPE_8", "USERPROFILE");
 define("COMLAN_TYPE_PAGE", "Innhold");
+define("COMLAN_500", "Vennligst [logg inn] for å legge igjen en kommentar.");
+define("COMLAN_501", "Hvis du ennå ikke er registrert, kan du [Trykk her for å registrere].");
 
 
 ?>

@@ -1,31 +1,44 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Spanish Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/11/28 14:32:54
+|
+|        $Author: Norwayman $
++---------------------------------------------------------------+
+*/
 
 define("FC_LAN_1", "Inspector de archivo");
-define("FC_LAN_2", "Opciones de análisis");
-define("FC_LAN_3", "Mostrar");
-define("FC_LAN_4", "Todos");
 define("FC_LAN_5", "Archivos de la base");
 define("FC_LAN_6", "Error de integridad sólo");
 define("FC_LAN_7", "Archivos de la base no");
 define("FC_LAN_8", "Comprobar integridad de base de archivos");
-define("FC_LAN_9", "En");
-define("FC_LAN_10", "Apagado");
 define("FC_LAN_11", "Analizar ahora");
-define("FC_LAN_12", "Ninguno");
 define("FC_LAN_13", "Faltan archivos de núcleo");
 define("FC_LAN_14", "Mostrar los resultados como");
 define("FC_LAN_15", "Árbol de directorios");
-define("FC_LAN_16", "Lista");
 define("FC_LAN_17", "Coincidencia de cadena");
 define("FC_LAN_18", "Expresión regular");
 define("FC_LAN_19", "Mostrar números de línea");
 define("FC_LAN_20", "Muestra las líneas coincidentes");
 define("FC_LAN_21", "Antiguos archivos de la base");
-define("FC_LAN_22", "Resaltar texto coincidente");
+define("FC_LAN_23", "Excluir archivos de idioma");
+define("FC_LAN_24", "Carpeta de núcleo (Integrity Pass)");
+define("FC_LAN_25", "Carpeta de núcleo (fallo de integridad)");
+define("FC_LAN_26", "Carpeta de núcleo (ausente)");
+define("FC_LAN_27", "Carpeta de núcleo (antigua)");
+define("FC_LAN_28", "Carpeta no núcleo");
+define("FC_LAN_29", "Archivo núcleo (Integrity Pass)");
+define("FC_LAN_30", "Archivo núcleo (sin marcar)");
+define("FC_LAN_31", "Archivo núcleo (fallo de integridad)");
+define("FC_LAN_32", "Archivo núcleo (ausente)");
+define("FC_LAN_33", "Archivo núcleo (viejo)");
+define("FC_LAN_34", "Archivo núcleo (Incalculable)");
+define("FC_LAN_35", "Problema de seguridad conocido");
+define("FC_LAN_36", "Archivo no núcleo");
+define("FC_LAN_37", "Clave del archivo");
 define("FR_LAN_1", "La exploración");
 define("FR_LAN_2", "Análisis de resultados");
 define("FR_LAN_3", "Resumen");
@@ -54,9 +67,7 @@ define("FR_LAN_25", "Integridad de incalculable");
 define("FR_LAN_26", "¡ ADVERTENCIA! Conocida inseguridad detectada!");
 define("FR_LAN_27", "Hay archivos en el servidor que se saben que son explotables y deben eliminarse inmediatamente.");
 define("FR_LAN_28", "Archivos conocidos inseguros");
-define("FR_LAN_29", "Total archivos emparejados");
-define("FR_LAN_30", "Totales líneas emparejadas");
-define("FR_LAN_31", "Falta la carpeta completa");
+define("FR_LAN_32", "¡Primero debe ejecutar una exploración!");
 define("FS_LAN_1", "Crear instantánea");
 define("FS_LAN_2", "Ruta de acceso absoluta del directorio raíz para crear imagen de");
 define("FS_LAN_3", "Crear instantáneas de plugin: (tu plugin se anunciará cuando existe un archivo de escritura e_inspect.php en su directorio de raíz de plugins).");
@@ -69,3 +80,6 @@ define("FS_LAN_9", "Instantánea");
 define("FS_LAN_10", "Snapshot creado");
 define("FS_LAN_11", "La instantánea se ha creado correctamente.");
 define("FS_LAN_12", "Volver a principal página");
+
+
+?>

@@ -8,3 +8,4 @@ define("LAN_PLUGIN_LOG_NAME", "Estatísticas do site");
 define("LAN_PLUGIN_LOG_DESCRIPTION", "Este plugin irá registrar todas as visitas ao seu site e construir telas detalhadas de estatística com base em informações recolhidas.");
 define("LAN_PLUGIN_LOG_CONFIGURE", "Configurar o log de estatísticas");
 define("LAN_PLUGIN_LOG_LINK", "Visitas");
+?>

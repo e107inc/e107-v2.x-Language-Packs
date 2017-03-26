@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/03/01 19:18:25
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
 
 define("LAN_CRON_M_02", "Oppdater");
 define("LAN_CRON_2", "Funksjonen");
@@ -11,7 +17,7 @@ define("LAN_CRON_4", "Siste-run");
 define("LAN_CRON_01_1", "Test epost");
 define("LAN_CRON_01_2", "Send en test til [eml].");
 define("LAN_CRON_01_3", "Anbefalt for å teste planleggingssystemet.");
-define("LAN_CRON_02_1", "Mail Queue");
+define("LAN_CRON_02_1", "E-post kø");
 define("LAN_CRON_02_2", "Prosessen post kø.");
 define("LAN_CRON_03_1", "E transittstopp av");
 define("LAN_CRON_03_2", "Sjekk for retur-postmeldinger.");
@@ -56,6 +62,9 @@ define("LAN_CRON_50", "Minutt(er):");
 define("LAN_CRON_51", "Time(r):");
 define("LAN_CRON_52", "Dag:");
 define("LAN_CRON_53", "Måned:");
-define("LAN_CRON_54", "Weekday(s):");
+define("LAN_CRON_54", "Ukedag(er):");
 define("LAN_CRON_BACKUP", "Sikkerhetskopiering");
-define("LAN_CRON_LOGGING", "Logging");
+define("LAN_CRON_LOGGING", "Registrering");
+
+
+?>

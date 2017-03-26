@@ -1,10 +1,15 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("EPL_ADLAN_0", "Installere");
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2016/03/01 19:26:10
+|
+|        $Author: Administrador $
++---------------------------------------------------------------+
+*/
+define("EPL_ADLAN_0", "Installer");
 define("EPL_ADLAN_1", "Avinstaller");
 define("EPL_ADLAN_2", "Er du sikker på at du vil avinstallere denne plugin?");
 define("EPL_ADLAN_3", "Bekreft avinstallering");
@@ -14,12 +19,12 @@ define("EPL_ADLAN_6", "... Klikk her for å starte installere prosedyre");
 define("EPL_ADLAN_7", "Databasetabeller oppgradert.");
 define("EPL_ADLAN_8", "Innstillingene opprettet.");
 define("EPL_ADLAN_9", "SQL-kommandoer mislyktes. Kontroller at alle oppgradere endringer er ok.");
-define("EPL_ADLAN_10", "navn");
+define("EPL_ADLAN_10", "Navn");
 define("EPL_ADLAN_11", "Versjon");
 define("EPL_ADLAN_13", "Kompatibel");
 define("EPL_ADLAN_14", "Beskrivelse");
-define("EPL_ADLAN_15", "Lese Viktig-filen for mer informasjon");
-define("EPL_ADLAN_16", "Plugin-informasjonen");
+define("EPL_ADLAN_15", "Les README-filen for mer informasjon");
+define("EPL_ADLAN_16", "Plugin-informasjon");
 define("EPL_ADLAN_17", "Mer informasjon...");
 define("EPL_ADLAN_18", "Kan ikke opprette tabell(er) for denne plugin.");
 define("EPL_ADLAN_19", "Databasetabeller som er opprettet.");
@@ -102,16 +107,14 @@ define("EPL_ADLAN_100", "Klikk her for å installere noen");
 define("EPL_ADLAN_101", "Ingen plugins installert - [x].");
 define("EPL_ADLAN_102", "Denne veiviseren vil bygge en admin område for plugg og generere en plugin.xml meta-fil. Før du begynner:");
 define("EPL_ADLAN_103", "Opprett en ny skrivbar mappe i mappen [x] f.eks. [b] myplugin [/ b]");
-define("EPL_ADLAN_104", "Hvis din plugin vil bruke sql-tabeller, oppretter en ny fil i denne mappen og gi den samme som katalogen men med [b]_sql.php[/b] som en sufix f.eks. [b]myplugin_sql.php[/b]");
-define("EPL_ADLAN_105", "Opprett tabellen i phpMyAdmin og lime inn en sql-dump av det inn i filen og lagre. (se [i]e107_plugins/_blank/_blank_sql.php[/i] for eksempel)");
+define("EPL_ADLAN_105", "Lag tabellen din med phpMyAdmin i samme database som e107, og med det samme tabell-prefikset. For eksempel [b]e107_minplugin[/b]");
 define("EPL_ADLAN_106", "Velg plugin brosjyre å begynne.");
 define("EPL_ADLAN_107", "Bygge en admin-området og xml-fil for:");
 define("EPL_ADLAN_108", "Sjekk språkfiler:");
 define("EPL_ADLAN_109", "Grunnleggende Info.");
-define("EPL_ADLAN_111", "Generere");
 define("EPL_ADLAN_112", "Se gjennom alle felt og endre om nødvendig.");
 define("EPL_ADLAN_113", "Se gjennom alle kategoriene før du klikker på 'Generer'.");
-define("EPL_ADLAN_114", "Plugin Builder");
+define("EPL_ADLAN_114", "Programtillegg Bygger");
 define("EPL_ADLAN_115", "Trinn 2");
 define("EPL_ADLAN_116", "Tekstboks");
 define("EPL_ADLAN_117", "Tekstboks (nummer)");
@@ -171,9 +174,9 @@ define("EPL_ADLAN_170", "Filter");
 define("EPL_ADLAN_171", "Innebygd");
 define("EPL_ADLAN_172", "Validere");
 define("EPL_ADLAN_173", "Skjerm");
-define("EPL_ADLAN_174", "HelpTip");
-define("EPL_ADLAN_175", "ReadParms");
-define("EPL_ADLAN_176", "WriteParms");
+define("EPL_ADLAN_174", "Hjelpe Tips");
+define("EPL_ADLAN_175", "Lese parametre");
+define("EPL_ADLAN_176", "Skrive parametre");
 define("EPL_ADLAN_177", "Feltet er obligatorisk fylles");
 define("EPL_ADLAN_178", "Som standard vises");
 define("EPL_ADLAN_179", "Tekstboks");
@@ -226,6 +229,38 @@ define("EPL_ADLAN_226", "Plugin språk-fil");
 define("EPL_ADLAN_227", "Søk etter endringer");
 define("EPL_ADLAN_228", "Plugin mapper skannet [x] minutter for endringer. Klikk knappen nedenfor for å søke nå.");
 define("EPL_ADLAN_229", "Oppdater");
+define("EPL_ADLAN_230", "Nedlasting og innstallering:");
+define("EPL_ADLAN_231", "Fjern ikoner fra Media-Manager");
+define("EPL_ADLAN_232", "Lag filer");
+define("TPVLAN_81", "Nedlasting...");
+define("TPVLAN_82", "Nedlasting ferdig!");
+define("EPL_ADLAN_233", "Legger til link:");
+define("EPL_ADLAN_234", "Fjerner link:");
+define("EPL_ADLAN_235", "Automatisk nedlasting er ikke mulig.");
+define("EPL_ADLAN_236", "Vennligst last ned manuelt");
+define("EPL_ADLAN_237", "Last ned");
+define("EPL_ADLAN_238", "Installering ferdig!");
+define("EPL_ADLAN_239", "Legger til tabell:");
+define("EPL_ADLAN_240", "Fjerner tabell:");
+define("EPL_ADLAN_241", "Legger til innstilling:");
+define("EPL_ADLAN_242", "Fjerner innstilling:");
+define("EPL_ADLAN_243", "Oppdaterer innstilling:");
+define("EPL_ADLAN_244", "Bare 5 media kategorier er tillatt under innstallering.");
+define("EPL_ADLAN_245", "Legger til media kategori: [x]");
+define("EPL_ADLAN_246", "Sletter alle media kategorier eid av: [x]");
+define("EPL_ADLAN_249", "Legger til utvidet felt:");
+define("EPL_ADLAN_250", "Fjerner utvidet felt:");
+define("EPL_ADLAN_251", "Utvidet felt igjen på plass:");
+define("EPL_ADLAN_252", "Tillatelser:");
+define("LAN_RELEASED", "Utgitt");
+define("LAN_REPAIR_PLUGIN_SETTINGS", "Reparer plugin innstillinger");
+define("LAN_SYNC_WITH_GIT_REPO", "Synkroniser med Git Repo");
+define("LAN_ADDONS", "Tillegg");
 define("LAN_UPGRADE_SUCCESSFUL", "Oppgradering vellykket");
 define("LAN_INSTALL_SUCCESSFUL", "Installasjon vellykket");
 define("LAN_INSTALL_FAIL", "Instalation mislyktes");
+define("LAN_UNINSTALL_FAIL", "Kan ikke avinstallere!");
+define("LAN_PLUGIN_IS_USED", "[X] programtillegget brukes av:");
+
+
+?>

@@ -9,7 +9,6 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-
 define("NWSLAN_4", "Nyheter - eksisterende nyheter");
 define("NWSLAN_6", "Kategori");
 define("NWSLAN_10", "Ingen nyhetskategorier");
@@ -68,7 +67,7 @@ define("NWSLAN_90", "Nyheter-valgpanelet");
 define("NWSLAN_100", "Aktiver bildet du laster opp på sende nyhetsside");
 define("NWSLAN_101", "Automatisk nedskalering av innsendte bildet");
 define("NWSLAN_102", "bredde i piksler eller la stå tomt for å deaktivere.");
-define("NWSLAN_103", "re-post");
+define("NWSLAN_103", "postér igjen");
 define("NWSLAN_104", "ved");
 define("NWSLAN_105", "Avmerkingsboksen for å oppdatere datostempel av nyhetselementet til gjeldende klokkeslett");
 define("NWSLAN_106", "Sende-nyheter kanskje åpnes av:");
@@ -87,14 +86,13 @@ define("NWSLAN_123", "Postet");
 define("NWSLAN_127", "Standardmalen");
 define("NWSLAN_128", "Angi en streng i nyheter sidene URL. Dette vil bare fungere riktig .htaccess lov og <a href='%s'>eURL config</a><br>Løst URL basert på gjeldende verdi:");
 define("LAN_NEWS_23", "Velg et bilde eller en video for dette nyhetselementet");
-define("LAN_NEWS_27", "Sammendrag");
 define("LAN_NEWS_28", "Klissete");
 define("LAN_NEWS_29", "Velg hvis nyhetsartikkel vil være klebrig");
 define("LAN_NEWS_30", "Hvis valgt, vises nyhetsartikkel over alle andre");
 define("LAN_NEWS_32", "Datostempel");
 define("LAN_NEWS_33", "Angi Datostempelet for varen nyheter");
-define("LAN_NEWS_34", "Trackback");
-define("LAN_NEWS_35", "Legge til trackback URL");
+define("LAN_NEWS_34", "Tilbakespor");
+define("LAN_NEWS_35", "Legge til tilbakesporings URL");
 define("LAN_NEWS_37", "En URL-adresse per linje)");
 define("LAN_NEWS_49", "Render-type");
 define("LAN_NEWS_51", "Endring av nyhetsartikkel forfatteren kan gjøres:");
@@ -121,7 +119,7 @@ define("LAN_NEWS_71", "Standardområde - tittel/Sammendrag");
 define("LAN_NEWS_72", "Side - Othernews");
 define("LAN_NEWS_73", "Sidestolpe - Othernews 2");
 define("LAN_NEWS_74", "Karusellen");
-define("LAN_NEWS_75", "Featurebox");
+define("LAN_NEWS_75", "Featureboks");
 define("LAN_NEWS_87", "f.eks. blogsearch.google.com/ping/RPC2");
 define("LAN_NEWS_88", "Bestemmer hvordan standard nyheter-siden skal vises.");
 define("LAN_NEWS_89", "Varsle disse tjenestene når du opprette/oppdatere nyheter.");
@@ -131,6 +129,18 @@ define("LAN_NEWS_92", "f.eks. News.php?all eller news.php?cat.1 eller news.php?t
 define("LAN_NEWS_93", "Listevisning innhold");
 define("LAN_NEWS_94", "Elementer som er tilordnet disse malene vises i listen.");
 define("LAN_NEWS_95", "En annen nyhet bruker SEF URL: [x]");
+define("LAN_NEWS_96", "Godkjenn");
+define("LAN_NEWS_97", "Nyhets Rute Meny");
+define("LAN_NEWS_98", "Ping Services");
+define("LAN_NEWS_99", "Bare aksepter bilder større enn");
+define("LAN_NEWS_100", "Enhver størrelse");
+define("LAN_NEWS_101", "Send inn nyheter");
+define("LAN_NEWS_102", "Åpne i ny fane");
+define("LAN_NEWS_103", "E-postvarsling");
+define("LAN_NEWS_104", "Utløs en e-post når du sender inn dette skjemaet.");
+define("LAN_NEWS_105", "E-postvarsling utløst!");
+define("LAN_NEWS_106", "Nyhet synlighet må inkludere "alle" for at e-postmeldinger skal fungere.");
+define("LAN_NEWS_107", "Kontrollerer for Ping Status");
 
 
 ?>
