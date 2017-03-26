@@ -58,7 +58,7 @@ define("LAN_GALLERY_ADMIN_41", "Standaard Breedte");
 define("LAN_GALLERY_ADMIN_42", "Standaard Hoogte");
 define("LAN_GALLERY_ADMIN_43", "Deelteken voor teller label");
 define("LAN_GALLERY_ADMIN_44", "Het deelteken voor galerij teller 1 'van' 2");
-define("LAN_GALLERY_ADMIN_45", "Theme");
+define("LAN_GALLERY_ADMIN_45", "Thema");
 define("LAN_GALLERY_ADMIN_46", "Horizontale opvulling");
 define("LAN_GALLERY_ADMIN_47", "De opvulling aan weerszijde van de afbeelding.");
 define("LAN_GALLERY_ADMIN_48", "Verberg flash");

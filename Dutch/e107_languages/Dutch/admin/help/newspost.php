@@ -31,12 +31,12 @@ Als je de start en/of einddatum invoert, wordt het bericht alleen tussen deze da
 ";
 	break;
   case 'cat' :
-	$text = "Je kunt de nieuws items in verschillende categoriën indelen, en bezoekers toestaan alleen die items in die categoriën te tonen, <br /><br />Upload je nieuws icoon-afbeelding of in ".e_THEME."-jouwtheme-/images/ of themes/shared/newsicons/.";
+	$text = "Je kunt de nieuws items in verschillende categoriën indelen, en bezoekers toestaan alleen die items in die categoriën te tonen, <br /><br />Upload je nieuws icoon-afbeelding of in ".e_THEME."-jouwthema-/images/ of themes/shared/newsicons/.";
     break;
   case 'pref' :
     $text = "Instellen verschillende nieuws gerelateerde opties<br /><br />
 	<b>Nieuws Categorie Kolommen</b><br />
-	Theme ondersteuning is noodzakelijk om selecteerbaar te zijn.<br /><br />
+	Thema ondersteuning is noodzakelijk om selecteerbaar te zijn.<br /><br />
 	<b>Nieuws berichten te tonen per pagina</b><br />
 	Voor de hoofdpagina van nieuws; toont items in niet uitgebreid formaat.<br /><br />
 	<b>Nieuws berichten te tonen in archief</b><br />

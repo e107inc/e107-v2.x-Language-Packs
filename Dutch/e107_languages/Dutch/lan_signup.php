@@ -29,7 +29,7 @@ define("LAN_SIGNUP_13", "Je kunt nu inloggen in het Inlogmenu of vanaf [hier].")
 define("LAN_SIGNUP_14", "hier");
 define("LAN_SIGNUP_15", "Neem contact op met de beheerder");
 define("LAN_SIGNUP_16", "als je hulp nodig hebt.");
-define("LAN_SIGNUP_17", "Verklaar hier dat je dertien (13) jaar of ouder bent.");
+define("LAN_SIGNUP_17", "Bevestig hier dat je dertien (13) jaar of ouder bent."); //Verklaar hier dat je dertien (13) jaar of ouder bent.
 define("LAN_SIGNUP_18", "Je aanmelding is ontvangen en je account is aangemaakt met de volgende inloginformatie:");
 define("LAN_SIGNUP_21", "Je account is nu nog niet geactiveerd. Om het te activeren moet je de volgende link volgen:");
 define("LAN_SIGNUP_22", "klik hier");
@@ -112,6 +112,13 @@ define("LAN_SIGNUP_110", "Je volledige naam");
 define("LAN_SIGNUP_111", "Geef de URL naar de afbeelding of kies een bestaande avatar.");
 define("LAN_SIGNUP_112", "Je bent nu ingelogd als Hoofdbeheerder.");
 define("LAN_SIGNUP_113", "Abonnement(-en)");
+define("LAN_SIGNUP_114", "Het aanmaken van een account is niet mogelijk.");
+define("LAN_SIGNUP_115", "Bekijk activatie e-mail");
+define("LAN_SIGNUP_116", "Bekijk melding na het ingeven van registratie");
+define("LAN_SIGNUP_117", "Verstuur een test activatie e-mail");
+define("LAN_SIGNUP_118", "Naar [x]");
+define("LAN_SIGNUP_119", "Verstuur geen mail");
+define("LAN_SIGNUP_120", "OF");
 
 /*
 define("LAN_7", "Gebruikersnaam: ");

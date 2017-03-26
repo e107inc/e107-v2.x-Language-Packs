@@ -21,6 +21,8 @@ define("LAN_SOCIAL_200", "Feed weergave niet mogelijk. Twitter URL is niet gedef
 define("LAN_SOCIAL_201", "Tweets door");
 define("LAN_SOCIAL_202", "Plaats naar Twitter");
 define("LAN_SOCIAL_203", "Type je tweet hier.");
-
+define("LAN_SOCIAL_204",  "Deel");
+define("LAN_SOCIAL_205",  "Niet mogelijk om reacties te laten zien, Facebook appID. is niet ingevoerd");
+define("LAN_SOCIAL_WARNING", "Facebook reacties kunnen niet getoond worden zonder facebook App ID. Bekijk de 'social login' hulptekst in beheerdersvoorkeuren om er 1 toe te voegen.");
 
 ?>

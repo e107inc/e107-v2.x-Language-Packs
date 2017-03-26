@@ -150,9 +150,9 @@ define("USRLAN_168", "Opnieuw verzonden --COUNT-- validatie e-mails");
 define("USRLAN_169", "Totaal --COUNT-- gekaatste e-mails verwijderd");
 define("USRLAN_170", "Willekeurige gebruikersnaam");
 define("USRLAN_171", "Willekeurig wachtwoord");
-define("USRLAN_172", "Gebruikers    account werd aangemaakt met het volgende:");
+define("USRLAN_172", "Gebruikers account werd aangemaakt met het volgende:");
 
-define("USRLAN_175", "");
+define("USRLAN_175", "Sessie");
 
 define("USRLAN_179", "Gebruiker geband: ");
 define("USRLAN_180", "IP adres {IP} bestaat op de wiite lijst; IP niet geblokkeerd.");
@@ -171,7 +171,7 @@ define("USRLAN_191", "Beheerder kan beperkingen opleggen voor sommige functies/g
 define("USRLAN_192", ""); // was "days" use value in lan_date.php instead. 
 define("USRLAN_193", "Niets verandert - niet opgeslagen");
 define("USRLAN_194", "Onderschrift kan worden gewijzigd door");
-define("USRLAN_195", "");
+define("USRLAN_195", "Laatste wijziging");
 
 define("USRLAN_197", "Bron");
 define("USRLAN_198", "Veld Naam");
@@ -192,13 +192,20 @@ define("USRLAN_212", "Gebruikers Rang");
 define("USRLAN_214", "Voeg nieuwe rang toe");
 
 define("USRLAN_216", "--select image--");
-define("USRLAN_219", "Ouder als 30 dagen");
+define("USRLAN_219", "Ouder dan 30 dagen");
 
 define("LAN_MAINADMIN","Hoofd beheerder");
 define("LAN_NOTVERIFIED","Niet geverifiëerd");
 define("LAN_BANNED","Geblokkeerd");
 define("LAN_BOUNCED","Gekaatst");
 
+define("LAN_UI_1_HOUR", "1 uur");
+define("LAN_UI_3_HOURS", "3 uren");
+define("LAN_UI_6_HOURS", "6 uren");
+define("LAN_UI_12_HOURS", "12 uren");
+define("LAN_UI_24_HOURS", "24 uren");
+define("LAN_UI_48_HOURS", "48 uren");
+define("LAN_UI_3_DAYS", "3 dagen");
 
 define("USRLAN_220", "Alle Gebruikersklassen");
 define("USRLAN_221", "Bewerk beheer permissies");
@@ -234,6 +241,12 @@ define("USRLAN_247", "Us");    // ??
 define("USRLAN_248", "Us");   // ??
 define("USRLAN_249", "Us");   // ??
 define("USRLAN_250", "Us");   // ??
+define("USRLAN_251", "Niets invullen om niets te veranderen");
+define("USRLAN_252", "Verstuur wederom de account activativatie e-mail naar niet geactiveerde gebruikers.");
+define("USRLAN_253", "Ouder dan");
+define("USRLAN_254", "Reset alle wachtwoorden");
+define("USRLAN_255", "Waarschuw gebruiker");
+define("USRLAN_256", "Beste");
 
 // These need review - there are duplicates above - they come from admin/lan_userclass.php.
 define("UCSLAN_1", "Verzenden van berichtgevings email naar");

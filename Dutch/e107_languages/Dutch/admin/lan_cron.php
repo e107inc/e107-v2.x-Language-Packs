@@ -95,8 +95,18 @@ define("LAN_CRON_52", "Dag(en):");
 define("LAN_CRON_53", "Maand(en):");
 define("LAN_CRON_54", "Weekdag(en):");
 
+define("LAN_CRON_60", "Ga naar cPanel");
+define("LAN_CRON_61", "Maak nieuw cron wachtwoord");
+define("LAN_CRON_62", "Uitvoeren configuratie functie [b][x][/b]");
+define("LAN_CRON_63", "Configuratie functie [b][x][/b] NIET gevonden.");
+define("LAN_CRON_64", "Een beheerder kan taken automatiseren met behulp van de e107 taak planner. [br]
+In de beheer tab kan je taken wijzigen, verwijderen uitvoeren. [br]
+Wanneer je een taak wijzigt kan je de minuten, uren, dagen en maanden of dag van de week instellen. Gebruik * om iedere periode te gebruiken. Gebruik de instelling Actief om de taak te activeren.[br]
+PS: ons advies is om de standaard taken niet te verwijderen.[br]
+");
+
 define("LAN_CRON_BACKUP", "Backup");
 define("LAN_CRON_LOGGING", "Loggen");
-define("LAN_CRON_RUNNING", "Lopend...")
+define("LAN_CRON_RUNNING", "Loopt..");
 
 ?>

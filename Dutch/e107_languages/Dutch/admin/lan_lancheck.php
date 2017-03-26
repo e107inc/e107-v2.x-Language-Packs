@@ -20,7 +20,7 @@ define("LAN_CHECK_5", "Zin/Regel ontbreekt!");
 define("LAN_CHECK_15", "Onjuiste tekens gevonden voor [x] of na [y]");
 define("LAN_CHECK_16", "Origineel bestand");
 define("LAN_CHECK_17", "Er is een schrijfprobleem opgetreden bij het opslaan van het bestand.");
-define("LAN_CHECK_18", "Taalbestanden in het standaardformaat zijn voor deze plugin/dit theme niet beschikbaar.");
+define("LAN_CHECK_18", "Taalbestanden in het standaardformaat zijn voor deze plugin/dit thema niet beschikbaar.");
 define("LAN_CHECK_19", "Non-UTF-8 tekens aangetroffen!"); 
 define("LAN_CHECK_20", "Aanmaken taalpakket");
 define("LAN_CHECK_21", "Verifiëer opnieuw");

@@ -153,4 +153,21 @@ define("LAN_NEWS_92", "vb. news.php?all of news.php?cat.1 of news.php?tag=xxx");
 define("LAN_NEWS_93", "Lijst-bekijk inhoud");
 define("LAN_NEWS_94", "Items toegewezen aan deze templates worden getoond in de lijst.");
 define("LAN_NEWS_95", " Deze SEF URL wordt al gebruikt door een ander bericht: [x]");
+define("LAN_NEWS_96", "Goedkeurem"); 
+define("LAN_NEWS_97", "Nieuws Grid Menu");
+define("LAN_NEWS_98", "Ping Services");
+define("LAN_NEWS_99", "Accepteer afbeeldingen alleen groter dan");
+define("LAN_NEWS_100", "iedere grootte");
+define("LAN_NEWS_101", "Plaats nieuws");
+define("LAN_NEWS_102", "Openen in nieuwe tab");
+define("LAN_NEWS_103", "E-mail waarschuwing");
+define("LAN_NEWS_104", "Stuur een e-mail waarschwuing wanner je dit nieuws plaatst.");
+define("LAN_NEWS_105", "E-mail waarschwuwing opgestart!");
+define("LAN_NEWS_106", "Het nieuws moet zichtbaar zijn voor de klasse 'Iedereen' om de waarschuwing te kunnen laten werken.");
+define("LAN_NEWS_107", "Ping Status controleren");
+//v2.1.4
+define("LAN_NEWS_108", "De SEF URL is anders dan de titel van je nieuwsbericht.");
+define("LAN_NEWS_109", "Activeer een e-mail mededeling wanneer je dit formulier opslaat.");
+define("LAN_NEWS_110", "Nieuws Cache Timeout");
+define("LAN_NEWS_111", "Tijd in minuten. Werkt alleen waneer systeem cache is ingeschakeld.");
 ?>

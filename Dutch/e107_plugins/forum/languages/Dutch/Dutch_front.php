@@ -243,13 +243,14 @@ define("LAN_FORUM_8005", "Je hebt nu tracken van dit onderwerp actief.");
 define("LAN_FORUM_8006", "Je gebruikt niet langer het tracken van dit onderwerp.");
 define("LAN_FORUM_8007", "Vastmaken"); //??
 define("LAN_FORUM_8008", "Losmaken");  //??
-define("LAN_FORUM_8009", "Vergrendelen"); 
+define("LAN_FORUM_8009", "Sluiten"); 
 define("LAN_FORUM_8010", "Ontgrendelen"); 
 define("LAN_FORUM_8011", "Status sleutels"); 
 define("LAN_FORUM_8012", "Zichtbaar voor"); 
 define("LAN_FORUM_8013", "Opties");
 // -------- Forum Post------------
 define("LAN_FORUM_8014", "Dit bericht, en elk onderliggend bericht zal worden verplaatst naar een nieuw discussie/onderwerp.");
+define("LAN_FORUM_8015", "Waarschuwing!");
 define("LAN_FORUM_8016", "(Huidig)");
 
 // -------- Forum Class------------
@@ -264,6 +265,8 @@ define("LAN_FORUM_8024", "Openen van discussie mislukt");
 define("LAN_FORUM_8025", "Vastmaken van discussie mislukt");
 define("LAN_FORUM_8026", "Losmaken van discussie mislukt");
 define("LAN_FORUM_8027", "Geen aktie geselecteerd"); 
+define("LAN_FORUM_8028", "Terug"); 
+define("LAN_FORUM_8029", "Nieuw onderwerp aangemaakt!");
 
 
 ?>

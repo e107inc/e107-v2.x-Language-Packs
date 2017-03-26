@@ -80,7 +80,7 @@ define("UPLLAN_65", "Bestand niet gevonden");
 define("UPLLAN_66", "Download pad fout");
 define("UPLLAN_67", "Anoniem");
 define("UPLLAN_68", "SQL Fout:");
-define("UPLLAN_69", "");
-define("UPLLAN_70", "");
+define("UPLLAN_69", "Geimporteerd");
+define("UPLLAN_70", "Verstuurd naar [x]");
 
 ?>

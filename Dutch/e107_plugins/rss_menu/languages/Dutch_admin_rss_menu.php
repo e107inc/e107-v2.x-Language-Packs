@@ -63,7 +63,7 @@ define("RSS_LAN_ADMIN_7",  "Begrenzing");
 define("RSS_LAN_ADMIN_8",  "Zichtbaarheid");
 define("RSS_LAN_ADMIN_10", "RSS feed aanmaken ingang");
 define("RSS_LAN_ADMIN_11", "RSS feed importeren feeds");
-define("RSS_LAN_ADMIN_12", "Onderwerp id");
+define("RSS_LAN_ADMIN_12", "Onderwerp ID");
 
 define("RSS_LAN_ADMIN_13", "Overig-nieuws onderwerpen in Nieuws Feed inbegrijpen?");
 define("RSS_LAN_ADMIN_14", "Activeren");

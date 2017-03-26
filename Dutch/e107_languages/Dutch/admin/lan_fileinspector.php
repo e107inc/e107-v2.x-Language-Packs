@@ -36,7 +36,7 @@ define("FC_LAN_21", "Oude Core bestanden");
 define("FC_LAN_23", "Sluit taalbestanden uit");
 define("FC_LAN_24", "Core Map (Integriteit In orde)");
 define("FC_LAN_25", "Core Map (Integriteit Niet juist)");
-define("FC_LAN_26", "Core Map (Missend)");
+define("FC_LAN_26", "Core Mapr (Missend)");
 define("FC_LAN_27", "Core Map (Oud)");
 define("FC_LAN_28", "Niet-core Map");
 define("FC_LAN_29", "Core Bestand (Integriteit In orde)");

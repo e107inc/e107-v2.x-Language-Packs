@@ -15,5 +15,5 @@ define("LAN_PLUGIN_SOCIAL_DESCR", "Voegt opties toe ter vervanging van de e107 c
 define("LAN_PLUGIN_SOCIAL_SIGNIN", "Log in met:");
 define("LAN_PLUGIN_SOCIAL_XUP_SIGNUP", " Meld je aan met je [x] lidmaatschap");  
 define("LAN_PLUGIN_SOCIAL_XUP_REG", "Registreer je met je [x] lidmaatschap");
-
+define("LAN_PLUGIN_SOCIAL_NAME", "Social plugin");
 ?>

@@ -78,7 +78,7 @@ define("DBLAN_67", "CHMOD instellingen");
 define("DBLAN_68", "Backup Database, Bestanden en Folders");
 define("DBLAN_69", "Backup Site");
 
-define("DBLAN_70", "Dit zal een database dump aanmaken en een ingepakte (zip) backup maken van alle niet-core plugins, je site theme, je media bestanden en systeem logs");
+define("DBLAN_70", "Dit zal een database dump aanmaken en een ingepakte (zip) backup maken van alle niet-core plugins, je site thema, je media bestanden en systeem logs");
 define("DBLAN_71", "Even wachten aub...");
 define("DBLAN_72", "Mappen en Bestands permissies werden geupdated");
 define("DBLAN_73", "Corrigeren Bestands en Directorie permissies");

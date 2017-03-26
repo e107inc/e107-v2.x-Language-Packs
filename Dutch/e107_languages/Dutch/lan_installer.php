@@ -93,7 +93,7 @@ define("LANINS_107", "Website Naam");
 define("LANINS_108", "bijv.´Mijn Blog´");
 define("LANINS_109", "Website Thema");
 define("LANINS_111", "Sluit Content/Configuratie in");
-define("LANINS_112", "Reproduceer op snelle wijze het uiterlijk van het theme voorbeeld of demo");
+define("LANINS_112", "Reproduceer op snelle wijze het uiterlijk van het thema voorbeeld of demo");
 define("LANINS_113", "Vul een website naam in");
 define("LANINS_114", "Selecteer een thema");
 define("LANINS_115", "Thema naam");

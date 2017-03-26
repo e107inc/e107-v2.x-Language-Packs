@@ -42,6 +42,7 @@ define("DOWLAN_24", "Bijwerken download");
 define("DOWLAN_25", "Plaats download");
 define("DOWLAN_27", "Download");
 define("DOWLAN_28", "Geen");
+define("DOWLAN_29", "Opgevraagd");
 define("DOWLAN_31", "Categorieën");
 define("DOWLAN_32", "Download opties");
 define("DOWLAN_33", "Weet je zeker dat je deze download wilt verwijderen?");

@@ -57,5 +57,10 @@ define("BNRLAN_45", "Een campagne in een enkel menu");
 define("BNRLAN_46", "Alle geselecteerde campagnes in een enkel menu"); 
 define("BNRLAN_47", "Alle geselecteerde campagnes in afzonderlijke menus"); 
 define("BNRLAN_48", "Alle geselecteerde campagnes (geen box rendering)");
-define("BNRLAN_49", "Tooltip");
+
+define("BNRLAN_50", "Lokaal");
+define("BNRLAN_51", "Op afstand");
+
+define("BNRLAN_HELP_01", "Banner Hulp");
+define("BNRLAN_HELP_02", "Gebruik deze plugin om advertenties op je website te beheren.<br /><br />Met het opmaken van een nieuwe banner kan je een gebruikersnaam en wachtwoord aanmaken voor je klant om in te loggen en de voortgang van de campagne te volgen.<br /><br />Je kan de banner activeren en weergeven via het menu beheer en via die pagina verder configureren.");
 ?>

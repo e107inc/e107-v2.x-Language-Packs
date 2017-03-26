@@ -101,7 +101,7 @@ define("FORLAN_174", "Gemeld door gebruiker");
 define("FORLAN_175", "Melding gedaan");
 define("FORLAN_177", "email berichtgeving AAN als standaard");
 define("FORLAN_178", "Vink dit aan om de email berichtgeving standaard op aan te zetten");
-define("FORLAN_179", "Door de forum naam te beginnen met een *, wordt dit een container voor uitsluitend subforums. Het forum theme moet dit wel ondersteunen.");
+define("FORLAN_179", "Door de forum naam te beginnen met een *, wordt dit een container voor uitsluitend subforums. Het forum thema moet dit wel ondersteunen.");
 define("FORLAN_182", "herbereken ook het aantal antwoorden binnen alle discussies in het geselecteerde forum");
 define("FORLAN_183", "(deze functie is niet toegestaan bij de keuze 'alle forums' vanwege het grote aantal queries dat hiervoor nodig is)");
 define("FORLAN_184", "Rechten aanmaken discussies");
@@ -113,6 +113,18 @@ define("FORLAN_200", "Tracking van onderwerp");
 define("FORLAN_201", "Schakel dit in om gebruikers het tracken van onderwerp toe te staan");
 define("FORLAN_202", "E-mail berichtgeving bij onderwerp tracking");
 define("FORLAN_203", "Schakel deze optie in om gebruikers toe te staan e-mail berichtgeving te ontvangen wanneer derden een reactie geven op een getrackd onderwerp.");
-
+define("FORLAN_204", "Anoniem");   //User-anon
+define("FORLAN_205", "Plaatsings permissie"); //Plaats toestemming
+define("FORLAN_206", "Nieuwe discussie klasse");
+define("FORLAN_207", "Forums en discussies");
+define("FORLAN_208", "Alleen Forums");
+define("FORLAN_209", "Onderwerp");
+define("FORLAN_210", "Kwestie");
+define("FORLAN_211", "Geplaatst door");
+define("FORLAN_212", "Bijlagen");
+define("FORLAN_213", "Plaats");
+define("FORLAN_214", "Laat leeg voor auto-generatie middels de bovenstaande titel.");  //Laat leeg om damen te stellen middels de titel.
+define("FORLAN_215", "Niet geinstalleerd!");
+define("FORLAN_216", "(Nieuw Hoofdforum/ouder)"); //New Parent
 
 ?>

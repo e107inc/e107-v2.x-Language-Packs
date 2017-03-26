@@ -180,7 +180,7 @@ define("PRFLAN_198", "Wanneer uitgeschakeld, dient gebruiker expliciet in te log
 define("PRFLAN_154a", "Wanneer 'Beheerders goedkeuring' is geselecteerd, is het aanbevolen dat je email notificatie [hier] gebruikt bij registratie .");
 define("PRFLAN_196a", "Log directory:");
 define("PRFLAN_199", "Toon Beheer Sub-koppelingen");
-define("PRFLAN_200", "Indien ingeschakeld, Beheer slide down navigatie menu (indien ondersteund door huidig theme) zal benodigde sublinks aanmaken (bijv. Nieuws - Aanmaken nieuws item).");
+define("PRFLAN_200", "Indien ingeschakeld, Beheer slide down navigatie menu (indien ondersteund door huidig thema) zal benodigde sublinks aanmaken (bijv. Nieuws - Aanmaken nieuws item).");
 define("PRFLAN_201", "Gebruikersnaam en wachtwoord");
 define("PRFLAN_202", "e-mail en wachtwoord");
 define("PRFLAN_203", "Gebruikersnaam/e-mail en wachtwoord");
@@ -206,10 +206,10 @@ define("PRFLAN_222", "Toon de CAPTCHA op beheer login pagina.");
 define("PRFLAN_223", "Volledig geautomatiseerde Publieke Turing test om computers en mensen uit elkaar te houden");
 define("PRFLAN_224", "Leden registratie systeem");
 define("PRFLAN_225", "Dit dient een vierkante afbeelding te zijn van minimaal 144px in breedte en hoogte.Andere zoals bijv. Facebook gebruiken dit ook.");
-define("PRFLAN_226", "Gebruikt door sommige themes als de top header afbeelding op enkele pagina's.");
-define("PRFLAN_227", "Gebruikt door sommige themes. Plaats 'SITETAG' in jouw theme om deze waarde te kunnen gebruiken.");
-define("PRFLAN_228", "Gebruikt door sommige themes. Plaats 'SITEDESCRIPTION' in jouw theme om deze waarde te kunnen gebruiken.");
-define("PRFLAN_229", "Gebruikt door sommige themes. Plaats 'SITEDISCLAIMER' in jouw theme om deze waarde te kunnen gebruiken.");
+define("PRFLAN_226", "Gebruikt door sommige themas als de top header afbeelding op enkele pagina's.");
+define("PRFLAN_227", "Gebruikt door sommige themas. Plaats 'SITETAG' in jouw thema om deze waarde te kunnen gebruiken.");
+define("PRFLAN_228", "Gebruikt door sommige themas. Plaats 'SITEDESCRIPTION' in jouw thema om deze waarde te kunnen gebruiken.");
+define("PRFLAN_229", "Gebruikt door sommige themas. Plaats 'SITEDISCLAIMER' in jouw thema om deze waarde te kunnen gebruiken.");
 define("PRFLAN_230", "Datum/Tijd Invoer-veld formaat");
 define("PRFLAN_231", "Maximum mislukte logins voordat blokkade intreedt:");
 define("PRFLAN_232", "Mislukte logins vanaf het zelfde IP adres worden na 'dit aantal' pogingen geblokkeerd.");
@@ -250,6 +250,11 @@ define("PRFLAN_266", "Wanneer men uitlogt, naar welke pagina moet de gebruiker w
 define("PRFLAN_267", "E-mail methode");
 define("PRFLAN_268", "Direct wijzigen tekst website mogelijk voor:");
 define("PRFLAN_269", "Beheerders in deze gebruikersklasse (en de daarbij behorende beheerders rechten) kunnen html direct vanuit het front deel bewerken.");
+define("PRFLAN_270", "Contact Formulier Filtering");
+define("PRFLAN_271", "Negeer ingaves die deze woorden of zinnen bevatten.<br /> 1 per regel.");
 
-
+define("PRFLAN_272", "Sessie levensduur");
+define("PRFLAN_273", "Sessie levensduur in seconden. 0 = totdat de browser is gesloten. ");
+define("PRFLAN_274", "Het contactformulier zal alleen zichtbaar zijn voor leden met deze  gebruikersklasse groep.");
+define("PRFLAN_275", "Bekijk deze pagina middels https (SSL) om te veranderen");
 ?>

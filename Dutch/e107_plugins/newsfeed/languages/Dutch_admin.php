@@ -29,24 +29,20 @@ define("NFLAN_26", "Bijwerk interval");
 define("NFLAN_37", "korte beschrijving van de feed, voer &apos;default&apos; in om de in de feed opgegeven beschrijving te gebruiken");
 define("NFLAN_41", "Nog geen newsfeeds opgegeven");
 
-define("NFLAN_42", "<b>&raquo;</b> <u>Feed Naam:</u>
-	De naam van de feed is geheel vrij op te geven.
-	<br /><br />
-	<b>&raquo;</b> <u>URL naar RSS feed:</u>
-	Het adres van de RSS feed
-	<br /><br />
-	<b>&raquo;</b> <u>Pad naar afbeelding:</u>
+define("NFLAN_42", "[h=4]Newsfeed titel[/h]
+	Geef een naam aan de newsfeed.
+	[h=4]URL naar RSS Feed[/h]
+	Het (URL) adres van de RSS newsfeed.
+	[h=4]Pad naar afbeelding[/h]
 	Als de feed een afbeelding heeft gedefinieerd, voer je &apos;default&apos; in om die te gebruiken. Om een eigen afbeelding te gebruiken, voer je het volledige pad in, of niets om geen afbeelding te tonen.
-	<br /><br />
-	<b>&raquo;</b> <u>Beschrijving:</u>
-	Voer een korte beschrijving van de feed in, of &apos;default&apos; om de in de feed gedefinieerde beschrijving te tonen (als die er is).
-	<br /><br />
-	<b>&raquo;</b> <u>Bijwerk interval in seconden:</u>
-	Het aantal seconden dat moet verstrijken voordat de feed wordt bijgewerkt, bijv. 1800: 30 minuten, 3600: één uur.
-	<br /><br />
-	<b>&raquo;</b> <u>Activering:</u>
-	waar je de feed wilt tonen, om menu feeds te zien moet je het newsfeeds menu configureren op de <a href=&apos;".e_ADMIN."menus.php&apos;>menu&apos;s pagina</a>.
-	<br /><br />Voor een overzicht van beschikbare feeds, zie <a href=&apos;http://www.syndic8.com/&apos; rel=&apos;external&apos;>syndic8.com</a> of <a href=&apos;http://feedfinder.feedster.com/index.php&apos; rel=&apos;external&apos;>feedster.com</a>.");
+	[h=4]Omschrijving[/h]
+	Voer een korte omschrijving van de feed in, of &apos;default&apos; om de in de feed gedefinieerde beschrijving te tonen (als die er is).
+	[h=4]Bijwerk interval[/h]
+	Het aantal seconden dat moet verstrijken voordat de feed wordt bijgewerkt, bijv. 1800: 30 minuten, 3600: één uur, 86400 = 1 dag.
+	[h=4]Activeren[/h]
+	Newsfeeds kunnen worden weergegeven in alleen een menu of op de newsfeed pagina of beide. Geef op waar de feed moet worden weergegeven. Om newsfeeds in e107 menus te laten zien moet je het [b]newsfeedmenu[b/] configureren in het Newsfeeds Menu in de [link=".e_ADMIN."menus.php]Menu Manager[/link].
+	[h=4]Tip[/h]
+	Er zijn veel feed overzichten op het web te vinden, probeer [link=https://www.dmoz.org/Computers/Internet/On_the_Web/Syndication_and_Feeds/RSS/Directories/ external]dmoz[/link] of [link=http://www.feedster.com/ external]feedster.com[/link]");
 	
 define("NFLAN_43", "Newsfeed help");
 define("NFLAN_44", "klikken om te bekijken");

@@ -78,6 +78,8 @@ define("ADLAN_PM_84", "Maximum lengte bericht");
 define("ADLAN_PM_85", "0 = ongelimiteerd");
 define("ADLAN_PM_86", "VIP Klasse");
 define("ADLAN_PM_87", "Gebruikers in deze klasse kunnen alleen berichten ontvangen van anderen in deze klasse. Heft de voorgaande voorkeur op.");
+define("ADLAN_PM_88", "Gebruiker mag berichten versturen naar");
+define("ADLAN_PM_89", "(iedere gebruiker met dezelfde klasse instelling)");
 define("ADLAN_PM_90", "Vul een ontvanger in in het 'Aan' veld aub.");
 define("ADLAN_PM_91", "Test");
 define("ADLAN_PM_92", "Test Email Verzonden!");
