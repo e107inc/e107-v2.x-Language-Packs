@@ -9,7 +9,6 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-
 define("LAN_DL_OPTIONS", "Opciones");
 define("LAN_DL_DOWNLOAD_OPT_GENERAL", "General");
 define("LAN_DL_DOWNLOAD_OPT_BROKEN", "Presentación de informes");
@@ -43,6 +42,7 @@ define("DOWLAN_24", "Actualización de");
 define("DOWLAN_25", "Enviar descarga");
 define("DOWLAN_27", "Descargar");
 define("DOWLAN_28", "Ninguno");
+define("DOWLAN_29", "Pedido");
 define("DOWLAN_31", "Categorías");
 define("DOWLAN_32", "Descargas");
 define("DOWLAN_33", "¿Está seguro que desea eliminar esta descarga?");
