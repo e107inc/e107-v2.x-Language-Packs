@@ -38,6 +38,7 @@ define("EMESSLAN_TITLE_ERROR", "Error");
 define("EMESSLAN_TITLE_SUCCESS", "Éxito");
 define("EMESSLAN_TITLE_WARNING", "ADVERTENCIA");
 define("EMESSLAN_TITLE_DEBUG", "Sistema de depuración");
+define("LAN_NO_PERMISSIONS", "No tienes permiso para ver esta página.");
 define("LAN_EDIT", "Editar");
 define("LAN_DELETE", "Eliminar");
 define("LAN_DEFAULT", "Por defecto");

@@ -20,6 +20,9 @@ define("LAN_SOCIAL_200", "No se puede mostrar la alimentación. Twitter URL no s
 define("LAN_SOCIAL_201", "Tweets por");
 define("LAN_SOCIAL_202", "Publicar en Twitter");
 define("LAN_SOCIAL_203", "Escriba su tweet aquí.");
+define("LAN_SOCIAL_204", "Compartir");
+define("LAN_SOCIAL_205", "No se pueden hacer comentarios. Falta el appID de Facebook.");
+define("LAN_SOCIAL_WARNING", "Los comentarios de Facebook requieren que tengas una ID de aplicación de Facebook. Consulte el área de 'inicio de sesión social' en admin-preferences para agregar uno.");
 
 
 ?>

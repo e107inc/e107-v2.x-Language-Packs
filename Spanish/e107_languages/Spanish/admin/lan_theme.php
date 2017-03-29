@@ -99,16 +99,17 @@ define("TPVLAN_CONV_12", "Una descripción completa del tema (Debe ser escrito e
 define("TPVLAN_CONV_13", "¿Qué categoría de tema es esto?");
 define("TPVLAN_CONV_14", "Habilite esta hoja de estilo como una opción seleccionable en el Theme Manager.");
 define("TPVLAN_CONV_15", "Dar esta hoja de estilo un nombre");
+define("TPVLAN_CONV_16", "URL a una demostración en vivo de este tema.");
 define("TPVLAN_81", "Descargando ...");
 define("TPVLAN_82", "¡Descarga completa!");
 define("TPVLAN_83", "Descarga automática no es posible!");
 define("TPVLAN_84", "[Descargar manualmente]");
 define("TPVLAN_85", "Conectando ...");
 define("TPVLAN_86", "No se pudo cambiar el tema del sitio.");
-define("TPVLAN_87", "Renderizado Configuración del tema");
 define("TPVLAN_88", "Convertidor");
 define("TPVLAN_89", "Aplicar las preferencias del panel de control a todos los administradores");
-define("TPVLAN_90", "No puede conectarse. Compruebe el firewall y / o la conexión a Internet.");
+define("TPVLAN_91", "Crear un nuevo tema basado en");
+define("TPVLAN_92", "Nueva carpeta de temas");
 
 
 ?>
