@@ -268,6 +268,8 @@ define ("EPL_ADLAN_231", "Verwijder iconen uit de Media-Manager");
 define ("EPL_ADLAN_232", "Maak bestanden");
 define ("TPVLAN_81", "Ophalen...");
 define ("TPVLAN_82", "Ophalen afgerond!");
+define ("EPL_ADLAN_233", "Link toevoegen:"); 
+define ("EPL_ADLAN_234", "Link verwijderen:"); 
 define ("EPL_ADLAN_235", "Automatisch ophalen niet mogelijk.");
 define ("EPL_ADLAN_236", "Handmatig ophalen aub.");
 define ("EPL_ADLAN_237", "Download");
@@ -277,7 +279,17 @@ define ("EPL_ADLAN_240","Tabel verwijderen:");
 define ("EPL_ADLAN_241","Voeg instelling toe:"); 
 define ("EPL_ADLAN_242","Verwijder instelling:");
 define ("EPL_ADLAN_243","Instelling bijwerken:");
-define ("EPL_ADLAN_244","Tijdens installatie zijn er maar 3 Media Categorieen toegestaan. 1 voor afbeeldingen en 1 voor bestanden.");  
+define ("EPL_ADLAN_244","Tijdens installatie zijn er maar 5 Media Categorieen toegestaan.");  
+
+define ("EPL_ADLAN_245","Media categorie toevoegen: [x]");  
+define ("EPL_ADLAN_246","Verwijder alle media Categorieen van: [x]"); 
+
+define ("EPL_ADLAN_249","Gebruikersveld toevoegen: ");  
+define ("EPL_ADLAN_250","Gebruikersveld verwijderen: ");  
+define ("EPL_ADLAN_251","Gebruikersveld left in place: ");  
+define ("EPL_ADLAN_252","Authorisatie: ");  
+
+define("EPL_ADLAN_253", "Compleet");
 
 define ("LAN_RELEASED", "Uitgebracht");
 define ("LAN_REPAIR_PLUGIN_SETTINGS", "Repareer plugin instellingen");

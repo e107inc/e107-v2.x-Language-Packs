@@ -29,7 +29,7 @@ define("LAN_SOCIAL_ADMIN_15", "Facebook Commentaren");
 define("LAN_SOCIAL_ADMIN_16", "Facebook Menu");
 define("LAN_SOCIAL_ADMIN_17", "Twitter Menu");
 define("LAN_SOCIAL_ADMIN_18", "Limiet");
-define("LAN_SOCIAL_ADMIN_19", "Theme");
+define("LAN_SOCIAL_ADMIN_19", "Thema");
 define("LAN_SOCIAL_ADMIN_20", "Actie");
 define("LAN_SOCIAL_ADMIN_21", "Tekst tijdens laden");
 define("LAN_SOCIAL_ADMIN_22", "Breedte");
@@ -48,4 +48,9 @@ define("LAN_SOCIAL_ADMIN_34", "Aantal te tonen tweets.");
 define("LAN_SOCIAL_ADMIN_35", "Licht");
 define("LAN_SOCIAL_ADMIN_36", "Donker");
 define("LAN_SOCIAL_ADMIN_37", "Open Graph Meta");
+define("LAN_SOCIAL_ADMIN_38", "Strekking");
+define("LAN_SOCIAL_ADMIN_39", "Providers");
+define("LAN_SOCIAL_ADMIN_40", "Bijwerken gebruikersnaam");
+define("LAN_SOCIAL_ADMIN_41", "Bijwerken gebruikers Avatar");
+define("LAN_SOCIAL_ADMIN_42", "Aangepaste afbeelding");
 ?>

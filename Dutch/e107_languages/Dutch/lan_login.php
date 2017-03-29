@@ -41,5 +41,9 @@ define("LAN_LOGIN_28", "E-mail");
 define("LAN_LOGIN_29", "Gebruikersnaam of E-mail");
 define("LAN_LOGIN_30", "Fout, Toevoegen nieuwe alt_auth gebruiker in database niet gelukt");
 define("LAN_LOGIN_31", "Je gegevens konden niet opgeslagen worden in dit systeem");
+define("LAN_LOGIN_32", "Je ziet deze mededeling omdat je bent ingelogd als (hoofd)beheerder.");
+define("LAN_LOGIN_33", "[Terug naar startpagina]"); // the [ ] brackets are replaced with a button link
+define("LAN_LOGIN_34", "Ledenregistratie of login is momenteel niet beschikbaar.");
+define("LAN_LOGIN_35", "[Ga naar instellingen]"); // the [ ] brackets are replaced with a button link
 
 ?>

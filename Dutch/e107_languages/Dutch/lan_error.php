@@ -12,6 +12,7 @@
 
 
 define("PAGE_NAME", "Fout Pagina"); 
+define("LAN_ERROR_TITLE", "Foutje!");
 define("LAN_ERROR_1", "Fout 401 - Authenticatie mislukt");
 define("LAN_ERROR_2", "De opgevraagde URL vereist een juiste gebruikersnaam en wachtwoord. Je gaf een onjuiste gebruikersnaam/wachtwoord op, of je browser ondersteunt deze functie niet.");
 define("LAN_ERROR_3", "Informeer de beheerder van de verwijzende pagina als je denkt dat deze foutmelding onterecht is.");
@@ -20,7 +21,7 @@ define("LAN_ERROR_5", "Je hebt geen toestemming om de opgevraagde URL of link op
 define("LAN_ERROR_6", "Informeer de beheerder van de verwijzende pagina als je denkt dat deze foutmelding onterecht is.");
 define("LAN_ERROR_7", "Error 404 - Document niet gevonden");
 define("LAN_ERROR_9", "Informeer de beheerder van de verwijzende pagina als je denkt dat deze foutmelding onterecht is.");
-define("LAN_ERROR_10", "Fout 500 - Verminkte Header");
+define("LAN_ERROR_10", "Fout 500 - Interne server fout");  //Fout 500 - Verminkte Header
 define("LAN_ERROR_11", "De server constateerde een interne fout of onjuiste instelling en kan je verzoek niet uitvoeren");
 define("LAN_ERROR_12", "Informeer de beheerder van de verwijzende pagina als je denkt dat deze foutmelding onterecht is.");
 define("LAN_ERROR_13", "Fout - Onbekend");

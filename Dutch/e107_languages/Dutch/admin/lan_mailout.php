@@ -136,7 +136,7 @@ define("LAN_MAILOUT_123", "POP3 met TLS");
 define("LAN_MAILOUT_124", "IMAP");
 define("LAN_MAILOUT_125", "Alleen Tekst");
 define("LAN_MAILOUT_126", "Tekst en HTML");
-define("LAN_MAILOUT_127", "Inclusief theme");
+define("LAN_MAILOUT_127", "Inclusief thema");
 define("LAN_MAILOUT_128", "Verzend Fout");
 define("LAN_MAILOUT_129", "Vervaldatum");
 define("LAN_MAILOUT_130", "Aanmaakdatum");
@@ -280,6 +280,14 @@ define("LAN_SEND", "Verstuur");
 define("LAN_HOLD", "Houd vast");
 define("LAN_MAILOUT_260", "Leden-Type");
 define("LAN_MAILOUT_261", "SMTP Poort");
+define("LAN_MAILOUT_262", "Template Bekijken");
+define("LAN_MAILOUT_263", "Totaal Ontvangers");
+define("LAN_MAILOUT_264", "Embed Media");
+define("LAN_MAILOUT_265", "In behandeling");
+define("LAN_MAILOUT_266", "Max Actief");
+define("LAN_MAILOUT_267", "Genereer Public/Private sleutels");
+define("LAN_MAILOUT_268", "Alleen Developer Modus");
+define("LAN_MAILOUT_269", "Verstuur later");
 
 
 ?>

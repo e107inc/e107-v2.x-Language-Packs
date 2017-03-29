@@ -43,5 +43,6 @@ define("LAN_NEWS_463", "Er zijn geen nieuwsberichten in de opgegeven categorie -
 //define("LAN_NEWS_99", "Reacties");
 define("LAN_NEWS_100", "Op");
 define("LAN_NEWS_307", "Aantal berichten in deze categorie: ");
+define("LAN_NEWS_308", "Zoek je misschien voor een van onderstaande nieuws items ?");
 
 ?>

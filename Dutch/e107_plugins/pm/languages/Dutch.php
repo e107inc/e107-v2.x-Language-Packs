@@ -63,7 +63,7 @@ define("LAN_PM_54", "Aanhalen origineel");
 define("LAN_PM_55", "Zend antwoord");
 define("LAN_PM_56", "Je mag niet antwoorden op dit bericht");
 define("LAN_PM_57", "Bericht niet gevonden");
-define("LAN_PM_58", "Re:");
+define("LAN_PM_58", "Re: ");
 define("LAN_PM_59", "Ga naar pagina:");
 define("LAN_PM_60", "Je hebt niet de permissies om dit bericht te bekijken");
 define("LAN_PM_61", "Geen onderwerp");

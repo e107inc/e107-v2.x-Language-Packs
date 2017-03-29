@@ -96,6 +96,13 @@ define("EXTLAN_78", "Kan de file  --FILE-- niet vinden welke nodig is om de data
 
 define("EXTLAN_79", "Label");
 define("EXTLAN_80", "Validatie fout - gestopt.");
+define("EXTLAN_81", "Voeg extra veld toe");  
+define("EXTLAN_82", "Waarden"); 
+define("EXTLAN_83", "Voorbeeldtekst"); 
+define("EXTLAN_84", "Help Tip"); 
+ 
+define("EXTLAN_86", "User Extended Column deleted from table"); 
+define("EXTLAN_87", "Sort values"); 
 
 //textbox
 define("EXTLAN_HELP_1", "<b><i>Parameters:</i></b><br />size - lengte van het veld<br />maxlength - max lengte van veld<br /><br />class - CSS klasse van veld<br />style - CSS style tekst<br /><br />regex - regex validatie code<br />regexfail - validatie foutboodschap ");

@@ -42,7 +42,7 @@ $action = e107::getParser()->toDB(varset($_GET['mode'],'makemail'));
 	  $text = "Maak een email aan, geef het een betekenisvolle titel, en selecteer de lijst van ontvangers. Je kunt alles als een template bewaren, of onmiddelijk versturen.<br />";
 	  $text .= "Email adressen kunnen worden toegevoegd door plugins( zoals bv. nieuwsbrief), en dupllicaten worden verwijderd wanneer de mail wordt verzonden<br />";
 	  $text .= "Elke bijlage wordt geselecteerd vanuit de lijst van geldige downloads.<br />";
-	  $text .= "Mail mag worden verzonden als platte tekst (meest universeel, en kleinste kans op classificering als zijnde spam), of als HTML (in zulks geval wordt platte tekst als alternatief automatisch aangemaakt). De theme stijl
+	  $text .= "Mail mag worden verzonden als platte tekst (meest universeel, en kleinste kans op classificering als zijnde spam), of als HTML (in zulks geval wordt platte tekst als alternatief automatisch aangemaakt). De thema stijl
 				mag optioneel worden toegevoegd aan de e-mail. Alternatief kan een vooringesteld template worden gekozen.";
 	  break;
 	case 'recipients' :

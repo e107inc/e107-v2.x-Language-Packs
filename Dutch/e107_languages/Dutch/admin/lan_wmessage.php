@@ -21,4 +21,7 @@ define("WMLAN_07", "Vervang het standaard systeem door de {WMESSAGE} shortcode:"
 define("WMLAN_09", "Nog geen welkomstboodschap ingesteld");
 define("WMLAN_10", "Berichttitel");   
 
+define("WMLAN_11","Ingesloten bij Carousel");
+define("WMLAN_12","Welkomstbericht hulp");
+define("WMLAN_13","Deze pagina geeft d emogelijkheid om een welkomstbericht in te stellen dat verschijnt bovenaan je startpagina voor zolang deze si geactiveerd. Je kunt verschillende berichten aanmaken voor gasten, geregistreerde leden (wanner deze inloggen) beheerders of welke klasse dan ook.");
 ?>

@@ -170,11 +170,11 @@ define("LAN_AL_SLINKS_07", "Sitelink verzonden");
 define("LAN_AL_SLINKS_08", "Sitelink bijgewerkt");
 
 
-// Theme manager routines
+// thema manager routines
 //-----------------------
-define("LAN_AL_THEME_00", "Onbekend theme-gerelateerd bericht");
-define("LAN_AL_THEME_01", "Site theme bijgewerkt");
-define("LAN_AL_THEME_02", "Beheerders theme bijgewerkt");
+define("LAN_AL_THEME_00", "Onbekend thema-gerelateerd bericht");
+define("LAN_AL_THEME_01", "Site thema bijgewerkt");
+define("LAN_AL_THEME_02", "Beheerders thema bijgewerkt");
 define("LAN_AL_THEME_03", "Afbeeldings preload/site CSS bijgewerkt");
 define("LAN_AL_THEME_04", "Beheerders style/CSS bijgewerkt");
 define("LAN_AL_THEME_05", "");

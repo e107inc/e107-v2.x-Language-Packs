@@ -28,4 +28,9 @@ define("LANCONTACT_13", "Geef een onderwerp op.");
 define("LANCONTACT_14", "Stuur bericht aan:");
 define("LANCONTACT_15", "Onjuiste code ingevoerd");
 define("LANCONTACT_16", "Je dient te zijn [geregistreerd] en zijn ingelogd om dit te kunnen gebruiken"); //[register]
+define("LANCONTACT_17", "Geef hier je naam in.");
+define("LANCONTACT_18", "Geef je e-mailadres in.");
+define("LANCONTACT_19", "Geef het onderwerp voor je mail in.");
+define("LANCONTACT_20", "Geef hier je bericht in.");
+
 ?>

@@ -71,6 +71,10 @@ define("RL_LAN_081", "Mail kaatsing");
 define("RL_LAN_082", "Gebruiker blokkades");
 define("RL_LAN_083", "Mail kaatsing resets"); 
 define("RL_LAN_084", "Tijdelijke accounts");
+define("RL_LAN_085", "[x] regel(s) met succes verwijderd!");  
+define("RL_LAN_086", "[x] regel(s)s niet gevonden en dus niet verwijderd!");
+define("RL_LAN_087", "Details");
+define("RL_LAN_088", "Filter de resultaten hieronder"); 
 // Intentional gap
 define("RL_LAN_090", "Download ID");     
 define("RL_LAN_091", "Gedetailleerde timings");
@@ -105,5 +109,14 @@ define("RL_LAN_123", "Gebruikers audit 'spoor' klasse");
 define("RL_LAN_124", "Gebruikers audit 'spoor'  acties");
 define("RL_LAN_125", "Systeem Logs Onderhoud");
 define("RL_LAN_126", "Totaal [x] ingaves stemmen overeen met zoek conditie");
+define("RL_LAN_127", "Afgelopen uur"); 
+define("RL_LAN_128", "Afgelopen 24 uur");
+define("RL_LAN_129", "Afgelopen week");
+define("RL_LAN_130", "Afgelopen maand");
+define("RL_LAN_131", "Afgelopen jaar");
+define("RL_LAN_132", "Informatief");
+define("RL_LAN_133", "Opmerking");
+define("RL_LAN_134", "Waarschuwing");
+define("RL_LAN_135", "Fataal");
 
 ?>

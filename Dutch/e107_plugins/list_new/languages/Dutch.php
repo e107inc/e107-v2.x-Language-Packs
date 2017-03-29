@@ -72,5 +72,7 @@ define("LIST_FORUM_5",      "laatste:");
 define("LIST_FORUM_6",      "op:");
 
 define("LIST_LAN_1", "geen items in");
+define("LIST_DOWNLOAD_1", "downloads");
+define("LIST_DOWNLOAD_2", "geen downloads");
 
 ?>

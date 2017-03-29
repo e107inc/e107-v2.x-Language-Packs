@@ -90,8 +90,9 @@ define("UCSLAN_87", "Recentelijk toegetreden gebruikers");
 define("UCSLAN_88", "Geidentificeerde zoek bots");
 define("UCSLAN_89", "Aangevinkte klassen zijn leden van de groep");
 define("UCSLAN_90", "Je kunt bepaalde systeem gebruikersklassen niet bewerken!");
-define("UCSLAN_91", "");
-define("UCSLAN_UPDATE", "Bijwerken");
+define("UCSLAN_91", "Klasse struktuur");
+
+// define("UCSLAN_UPDATE", "Bijwerken");//NOT USED ... LAN_UPDATE
 
 
 ?>
