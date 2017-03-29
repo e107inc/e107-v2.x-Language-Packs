@@ -9,7 +9,6 @@
 |        $Author: Norwayman $
 +---------------------------------------------------------------+
 */
-
 define("LANG_LAN_00", "[x] kunne ikke opprettes (allerede finnes).");
 define("LANG_LAN_01", "[x] ble slettet (dersom eksisterende) og opprettet.");
 define("LANG_LAN_02", "[x] kunne ikke slettes.");
@@ -61,8 +60,9 @@ define("LANG_LAN_141", "Velg Script");
 define("LANG_LAN_142", "Automatisk gjenkjenning");
 define("LANG_LAN_143", "Spesifikk LAN-fil:");
 define("LANG_LAN_144", "Må reaktiveres");
+define("LANG_LAN_148", "Normal modus");
 define("LANG_LAN_149", "Verdi");
-define("LANG_LAN_150", "[b] Søk HELE kjernen før du kommenterer ut NOEN LAN fra alle språkfiler. [/b]");
+define("LANG_LAN_150", "[b]Søk HELE kjernen før du kommenterer ut NOEN LAN fra alle språkfiler.[/b]");
 
 
 ?>

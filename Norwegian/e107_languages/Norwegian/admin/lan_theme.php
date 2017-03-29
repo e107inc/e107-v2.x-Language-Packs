@@ -99,16 +99,17 @@ define("TPVLAN_CONV_12", "En fullstendig beksirvelse av temaet (Må skrives på 
 define("TPVLAN_CONV_13", "Hvilken kategori av temaer er dette?");
 define("TPVLAN_CONV_14", "Aktiver dette stilarket som et valgalternativ i Theme Manager.");
 define("TPVLAN_CONV_15", "Gi denne stilen et navn");
+define("TPVLAN_CONV_16", "URL til en live-demo av dette temaet.");
 define("TPVLAN_81", "Laster ned ...");
 define("TPVLAN_82", "Nedlasting komplett!");
 define("TPVLAN_83", "Automatisert nedlastingen ikke mulig!");
 define("TPVLAN_84", "[Vennligst Last ned manuelt]");
 define("TPVLAN_85", "Kobler til...");
 define("TPVLAN_86", "Kunne ikke endre nettsted tema.");
-define("TPVLAN_87", "Konfigurasjon for rendring av tema");
 define("TPVLAN_88", "Konverter");
 define("TPVLAN_89", "Påfør dashbord preferanser til alle administratorer");
-define("TPVLAN_90", "Kan ikke koble til. Vennligst sjekk brannmur og / eller internettforbindelse .");
+define("TPVLAN_91", "Opprett et nytt tema basert på");
+define("TPVLAN_92", "Ny Tema Folder");
 
 
 ?>

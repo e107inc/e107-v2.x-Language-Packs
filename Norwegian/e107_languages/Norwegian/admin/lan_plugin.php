@@ -252,6 +252,7 @@ define("EPL_ADLAN_249", "Legger til utvidet felt:");
 define("EPL_ADLAN_250", "Fjerner utvidet felt:");
 define("EPL_ADLAN_251", "Utvidet felt igjen på plass:");
 define("EPL_ADLAN_252", "Tillatelser:");
+define("EPL_ADLAN_253", "Fullført");
 define("LAN_RELEASED", "Utgitt");
 define("LAN_REPAIR_PLUGIN_SETTINGS", "Reparer plugin innstillinger");
 define("LAN_SYNC_WITH_GIT_REPO", "Synkroniser med Git Repo");

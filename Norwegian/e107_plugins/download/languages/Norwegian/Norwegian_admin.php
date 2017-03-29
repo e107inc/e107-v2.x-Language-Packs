@@ -9,7 +9,6 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-
 define("LAN_DL_OPTIONS", "Alternativer");
 define("LAN_DL_DOWNLOAD_OPT_GENERAL", "Generelt");
 define("LAN_DL_DOWNLOAD_OPT_BROKEN", "Rapportering");
@@ -43,6 +42,7 @@ define("DOWLAN_24", "Oppdatere Dataoverføre");
 define("DOWLAN_25", "Send inn nedlasting");
 define("DOWLAN_27", "Last ned");
 define("DOWLAN_28", "Ingen");
+define("DOWLAN_29", "Forespurt");
 define("DOWLAN_31", "Kategorier");
 define("DOWLAN_32", "Nedlastinger");
 define("DOWLAN_33", "Er du sikker på at du vil slette denne nedlastingen?");

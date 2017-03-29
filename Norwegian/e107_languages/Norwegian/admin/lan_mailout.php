@@ -49,7 +49,6 @@ define("LAN_MAILOUT_38", "Avbryt");
 define("LAN_MAILOUT_39", "E-post");
 define("LAN_MAILOUT_40", "Du må endre <b>e107.htaccess</b> til <b>.htaccess</b>");
 define("LAN_MAILOUT_41", "før du sender e-post fra denne siden.");
-define("LAN_MAILOUT_42", "Advarsel");
 define("LAN_MAILOUT_43", "Brukernavn");
 define("LAN_MAILOUT_44", "Brukerpålogging");
 define("LAN_MAILOUT_45", "Bruker Email");
@@ -91,7 +90,6 @@ define("LAN_MAILOUT_92", "SSL");
 define("LAN_MAILOUT_93", "TLS");
 define("LAN_MAILOUT_94", "(Bruk SSL for gmail/googlemail)");
 define("LAN_MAILOUT_95", "Bruk VERP for masseutsendelse");
-define("LAN_MAILOUT_96", "ingen");
 define("LAN_MAILOUT_97", "Mailer resultater");
 define("LAN_MAILOUT_98", "Foreldreløse oppføringer");
 define("LAN_MAILOUT_99", "Bekrefte Prøv utsendelse");
@@ -253,6 +251,14 @@ define("LAN_SEND", "Sende");
 define("LAN_HOLD", "Hold");
 define("LAN_MAILOUT_260", "Bruker-Type");
 define("LAN_MAILOUT_261", "SMTP Port");
+define("LAN_MAILOUT_262", "Forhåndsvisning av mal");
+define("LAN_MAILOUT_263", "Totalt Mottakere");
+define("LAN_MAILOUT_264", "Bygg inn media");
+define("LAN_MAILOUT_265", "Ventende");
+define("LAN_MAILOUT_266", "Maks. aktive");
+define("LAN_MAILOUT_267", "Generer offentlig/privat nøkler");
+define("LAN_MAILOUT_268", "Kun utvikler modus");
+define("LAN_MAILOUT_269", "Send senere");
 
 
 ?>
