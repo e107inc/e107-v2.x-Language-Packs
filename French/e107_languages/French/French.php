@@ -9,7 +9,7 @@
 |        $Author: Olivier Troccaz $
 +---------------------------------------------------------------+
 */
-setlocale(LC_ALL,  'fr_FR.UTF-8', 'fr_FR.utf8', 'fr.utf8', 'fr');
+setlocale(LC_ALL,  'fr_FR.UTF-8', 'fr.UTF-8', 'fr_FR.UTF8', 'fr.UTF8', 'fr');
 define("CORE_LC", "fr");
 define("CORE_LC2", "fr");
 define("CORE_LAN1", "Erreur : le thème est manquant.\\n\\nChangez les thèmes utilisés dans vos préférences (zone administration) ou téléchargez les fichiers pour le thème actuel sur le serveur.");
@@ -38,6 +38,7 @@ define("EMESSLAN_TITLE_ERROR", "Erreur");
 define("EMESSLAN_TITLE_SUCCESS", "Succès");
 define("EMESSLAN_TITLE_WARNING", "Attention");
 define("EMESSLAN_TITLE_DEBUG", "Débogage système");
+define("LAN_NO_PERMISSIONS", "Vous n'êtes pas autorisé à afficher cette page.");
 define("LAN_EDIT", "Modifier");
 define("LAN_DELETE", "Supprimer");
 define("LAN_DEFAULT", "Par défaut");

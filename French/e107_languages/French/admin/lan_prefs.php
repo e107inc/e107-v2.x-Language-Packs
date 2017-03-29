@@ -254,6 +254,6 @@ define("PRFLAN_270", "Filtrage du formulaire de contact");
 define("PRFLAN_271", "Ignorer les soumissions de formulaire contenant ces mots ou phrases. Un par ligne.");
 define("PRFLAN_272", "Durée de la session");
 define("PRFLAN_273", "Durée de la session en secondes. 0 = jusqu'à ce que le navigateur soit fermé.");
-
-
+define("PRFLAN_274", "Le formulaire de contact ne sera visible que pour ce groupe d'utilisateurs.");
+define("PRFLAN_275", "Afficher cette page avec https (SSL) pour modifier cette option");
 ?>

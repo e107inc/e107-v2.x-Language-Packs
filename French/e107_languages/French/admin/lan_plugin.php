@@ -254,6 +254,7 @@ define("EPL_ADLAN_249", "Ajout d'un champ étendu :");
 define("EPL_ADLAN_250", "Suppression du champ étendu :");
 define("EPL_ADLAN_251", "Champ étendu laissé en place");
 define("EPL_ADLAN_252", "Permissions :");
+define("EPL_ADLAN_253", "Terminé");
 define("LAN_RELEASED", "Publié");
 define("LAN_REPAIR_PLUGIN_SETTINGS", "Réparer les paramètres de l'extension");
 define("LAN_SYNC_WITH_GIT_REPO", "Synchroniser avec le dépôt Git");
@@ -263,6 +264,4 @@ define("LAN_INSTALL_SUCCESSFUL", "Installation réussie");
 define("LAN_INSTALL_FAIL", "Installation échouée");
 define("LAN_UNINSTALL_FAIL", "Impossible de désinstaller !");
 define("LAN_PLUGIN_IS_USED", "L'extension [x] est utilisée par :");
-
-
 ?>

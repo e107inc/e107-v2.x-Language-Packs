@@ -1,10 +1,15 @@
 <?php
+/*
++---------------------------------------------------------------+
+|        e107 website content management system French Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/03/20 11:11:38
+|
+|        $Author: Olivier Troccaz $
++---------------------------------------------------------------+
+*/
 
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
-define("LCLAN_15", "Nom du lien");
 define("LCLAN_19", "Type d'ouverture du lien");
 define("LCLAN_20", "S'ouvre dans la même fenêtre");
 define("LCLAN_23", "S'ouvre dans une nouvelle fenêtre");
@@ -13,7 +18,6 @@ define("LCLAN_78", "Afficher la description comme info-bulle");
 define("LCLAN_79", "Afficher la description lorsque la souris survole le lien");
 define("LCLAN_80", "Activer les sous-menus extensibles");
 define("LCLAN_81", "Les sous-menus s'afficheront uniquement après avoir cliqué sur le lien parent. (Le lien parent est désactivé)");
-define("LCLAN_104", "Sous-lien de");
 define("LCLAN_105", "Fonction");
 define("LCLAN_106", "Détenu par");
 define("LCLAN_107", "Permettre de substituer l'URL avec l'URL SEF créée dynamiquement");
@@ -28,3 +32,7 @@ define("LINKLAN_6", "Créer des sous-liens depuis");
 define("LINKLAN_7", "Créer des sous-liens sous quel lien ?");
 define("LINKLAN_8", "Catégories d'articles");
 define("LINKLAN_9", "Catégories de téléchargements");
+define("LINKLAN_10", "Raccourcis de thème");
+
+
+?>

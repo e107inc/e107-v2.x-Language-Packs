@@ -17,25 +17,17 @@ define("LAN_LIBRARY_MANAGER_05", "La version \"[x]\" installée pour la librairi
 define("LAN_LIBRARY_MANAGER_06", "La variante \"[x]\" de la librairie \"[y]\" est introuvable.");
 define("LAN_LIBRARY_MANAGER_07", "dépendance manquante");
 define("LAN_LIBRARY_MANAGER_08", "dépendance incompatible");
-define("LAN_LIBRARY_MANAGER_09", "introuvable");
 define("LAN_LIBRARY_MANAGER_10", "non détecté");
 define("LAN_LIBRARY_MANAGER_11", "non supporté");
-define("LAN_LIBRARY_MANAGER_12", "Liste");
 define("LAN_LIBRARY_MANAGER_13", "Librairie");
-define("LAN_LIBRARY_MANAGER_14", "Version");
-define("LAN_LIBRARY_MANAGER_15", "Page d'accueil");
-define("LAN_LIBRARY_MANAGER_16", "Télécharger");
-define("LAN_LIBRARY_MANAGER_17", "Installé");
-define("LAN_LIBRARY_MANAGER_18", "État");
-define("LAN_LIBRARY_MANAGER_19", "Message");
-define("LAN_LIBRARY_MANAGER_20", "lien");
 define("LAN_LIBRARY_MANAGER_21", "Fournisseur");
-define("LAN_LIBRARY_MANAGER_22", "extension");
-define("LAN_LIBRARY_MANAGER_23", "thème");
-define("LAN_LIBRARY_MANAGER_24", "noyau");
 define("LAN_LIBRARY_MANAGER_25", "Librairies tierces");
-define("LAN_LIBRARY_MANAGER_26", "Aucune librairie trouvée");
 define("LAN_LIBRARY_MANAGER_27", "Nom de la machine : [x]");
+define("LAN_LIBRARY_MANAGER_28", "Chemin de la librairie : [x]");
+define("LAN_LIBRARY_MANAGER_29", "Chemin de la librairie");
+define("LAN_LIBRARY_MANAGER_30", "Paramètres du réseau de diffusion de contenu");
+define("LAN_LIBRARY_MANAGER_31", "Utiliser un réseau de diffusion de contenu pour les librairies du noyau");
+define("LAN_LIBRARY_MANAGER_32", "Fournisseur du réseau de diffusion de contenu");
 
 
 ?>

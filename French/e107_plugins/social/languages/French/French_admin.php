@@ -49,6 +49,8 @@ define("LAN_SOCIAL_ADMIN_35", "Clair");
 define("LAN_SOCIAL_ADMIN_36", "Sombre");
 define("LAN_SOCIAL_ADMIN_37", "Balise meta Open Graph");
 define("LAN_SOCIAL_ADMIN_38", "Portée");
-
-
+define("LAN_SOCIAL_ADMIN_39", "Fournisseurs");
+define("LAN_SOCIAL_ADMIN_40", "Mettre à jour le nom d'affichage de l'utilisateur");
+define("LAN_SOCIAL_ADMIN_41", "Mettre à jour l'avatar de l'utilisateur");
+define("LAN_SOCIAL_ADMIN_42", "Image personnalisée");
 ?>
