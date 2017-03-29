@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<e107Language name="German" compatibility="2.0.0" date="2015-09-05" >
-<author name ="admin" email="admin@localhost.com" url="http://localhost:8080/e107_2.0/" />
+<e107Language name="German" compatibility="2.1.4" date="2017-02-01" >
+<author name ="M0V3" email="jan-hendrik@ude.rocks" url="http://ude.rocks/" />
 </e107Language>
